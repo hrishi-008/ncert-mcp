@@ -1,0 +1,314 @@
+{
+ "chapter_id": "7-math-07",
+ "model": "backend=claude-cli model=sonnet",
+ "pages": [
+  {
+   "page": "146",
+   "plain_words": 146,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "147",
+   "plain_words": 143,
+   "missing": 4,
+   "missing_ratio": 0.028,
+   "sample": [
+    "tale",
+    "three",
+    "intersecting",
+    "lines"
+   ]
+  },
+  {
+   "page": "148",
+   "plain_words": 67,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "149",
+   "plain_words": 87,
+   "missing": 4,
+   "missing_ratio": 0.046,
+   "sample": [
+    "tale",
+    "three",
+    "intersecting",
+    "lines"
+   ]
+  },
+  {
+   "page": "150",
+   "plain_words": 166,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "151",
+   "plain_words": 220,
+   "missing": 3,
+   "missing_ratio": 0.014,
+   "sample": [
+    "tale",
+    "intersecting",
+    "lines"
+   ]
+  },
+  {
+   "page": "152",
+   "plain_words": 99,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "153",
+   "plain_words": 247,
+   "missing": 4,
+   "missing_ratio": 0.016,
+   "sample": [
+    "tale",
+    "three",
+    "intersecting",
+    "lines"
+   ]
+  },
+  {
+   "page": "154",
+   "plain_words": 250,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "155",
+   "plain_words": 180,
+   "missing": 3,
+   "missing_ratio": 0.017,
+   "sample": [
+    "tale",
+    "three",
+    "intersecting"
+   ]
+  },
+  {
+   "page": "156",
+   "plain_words": 123,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "157",
+   "plain_words": 145,
+   "missing": 4,
+   "missing_ratio": 0.028,
+   "sample": [
+    "tale",
+    "three",
+    "intersecting",
+    "lines"
+   ]
+  },
+  {
+   "page": "158",
+   "plain_words": 42,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "159",
+   "plain_words": 193,
+   "missing": 4,
+   "missing_ratio": 0.021,
+   "sample": [
+    "tale",
+    "three",
+    "intersecting",
+    "lines"
+   ]
+  },
+  {
+   "page": "160",
+   "plain_words": 131,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "161",
+   "plain_words": 120,
+   "missing": 2,
+   "missing_ratio": 0.017,
+   "sample": [
+    "tale",
+    "lines"
+   ]
+  },
+  {
+   "page": "162",
+   "plain_words": 160,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "163",
+   "plain_words": 174,
+   "missing": 4,
+   "missing_ratio": 0.023,
+   "sample": [
+    "tale",
+    "three",
+    "intersecting",
+    "lines"
+   ]
+  },
+  {
+   "page": "164",
+   "plain_words": 227,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "165",
+   "plain_words": 136,
+   "missing": 4,
+   "missing_ratio": 0.029,
+   "sample": [
+    "tale",
+    "three",
+    "intersecting",
+    "lines"
+   ]
+  },
+  {
+   "page": "166",
+   "plain_words": 144,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "167",
+   "plain_words": 180,
+   "missing": 4,
+   "missing_ratio": 0.022,
+   "sample": [
+    "tale",
+    "three",
+    "intersecting",
+    "lines"
+   ]
+  },
+  {
+   "page": "168",
+   "plain_words": 131,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "169",
+   "plain_words": 100,
+   "missing": 4,
+   "missing_ratio": 0.04,
+   "sample": [
+    "tale",
+    "three",
+    "intersecting",
+    "lines"
+   ]
+  },
+  {
+   "page": "170",
+   "plain_words": 174,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "171",
+   "plain_words": 186,
+   "missing": 4,
+   "missing_ratio": 0.022,
+   "sample": [
+    "tale",
+    "three",
+    "intersecting",
+    "lines"
+   ]
+  },
+  {
+   "page": "172",
+   "plain_words": 74,
+   "missing": 5,
+   "missing_ratio": 0.068,
+   "sample": [
+    "from",
+    "answers",
+    "chapter",
+    "questions",
+    "book"
+   ]
+  },
+  {
+   "page": "answers 1",
+   "plain_words": 78,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 2",
+   "plain_words": 151,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 3",
+   "plain_words": 77,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 4",
+   "plain_words": 118,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 5",
+   "plain_words": 148,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 6",
+   "plain_words": 71,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 7",
+   "plain_words": 48,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  }
+ ],
+ "flagged_pages": [
+  "172"
+ ]
+}
