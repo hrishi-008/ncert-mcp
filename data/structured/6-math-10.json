@@ -6,548 +6,705 @@
  "part": 1,
  "chapter_no": 10,
  "title": "The Other Side of Zero",
- "summary": "- There are numbers that are less than zero. They are written with a ‘–’ sign in front of them (e.g., – 2), and are called negative numbers. They lie to the left of zero on the number line. - The numbers ..., – 4, – 3, – 2, – 1, 0, 1, 2, 3, 4, ... are called integers. The numbers 1, 2, 3, 4, ... are called positive integers and the numbers …, – 4, – 3, – 2, – 1 are called negative integers. Zero (0) is neither positive nor negative. - Every given number has another number associated to it which when added to the given number gives zero. This is called the additive inverse of the number. For example, the additive inverse of 7 is – 7 and the additive inverse of – 543 is 543. - Addition can be interpreted as Starting Position + Movement = Target Position. - Addition can also be interpreted as the combination of movements or increases/decreases: Movement 1 + Movement 2 = Total Movement. - Subtraction can be interpreted as Target Position – Starting Position = Movement. Ganita Prakash | Grade 6 - In general, we can add two numbers by following Brahmagupta’s Rules for Addition: a. If both numbers are positive, add the numbers and the result is a positive number (e.g., 2 + 3 = 5). b. If both numbers are negative, add the numbers (without the signs), and then place a minus sign to obtain the result (– 2 + (– 3) = – 5). c. If one number is positive and the other is negative, subtract the smaller number (without the sign) from the greater number (without the sign), and place the sign of the greater number to obtain the result (e.g., – 5 + 3 = – 2). d. A number plus its additive inverse is zero (e.g., 2 + (– 2) = 0). e. A number plus zero gives back the same number (e.g., – 2 + 0 = – 2). - We can subtract two integers by converting the problem into an addition problem and then following the rules of addition. Subtraction of an integer is the same as the addition of its additive inverse. - Integers can be compared: … – 3 < – 2 < – 1 < 0 < +1 < +2 < +3 < ... Smaller numbers are to the left of larger numbers on the number line. - We can give meaning to positive and negative numbers by interpreting them as credits and debits. We can also interpret positive numbers as distances above a reference point like the ground level. Similarly, negative numbers can be interpreted as distances below the ground level. When measuring temperatures in degrees Celsius, positive temperatures are those above the freezing point of water, and negative temperatures are those below the freezing point of water. The Other Side of Zero Integers: Snakes and Ladders Rules - This is a two player game. Each player has 1 pawn. Both players start at 0. Players can reach either – 50 or + 50 to win but need not decide or fix this before or during play. - Each player rolls two dice at a time. One dice has numbers from + 1 to + 6 and the other dice has numbers from – 1 to – 6. - After each roll of the two dice, the player can add or subtract them in any order and then move the steps that indicate the result. A positive result means moving towards + 50 and a negative result means moving towards – 50.",
+ "summary": "This chapter extends the number ray to a full number line by introducing negative numbers and integers. Using Bela's Building of Fun (a lift with + and - buttons) and a mine, it shows addition as Starting Position + Movement = Target Position, and subtraction as Target - Starting = Movement. Inverses (additive inverses) add to zero, and subtracting a number equals adding its inverse. Integers are compared and added on the number line and an unmarked number line. The token model uses positive and negative tokens with zero pairs for addition and subtraction. Uses of integers in banking, heights above/below sea level and temperature are shown. The chapter ends with explorations and the history of negative numbers, including Brahmagupta's rules (628 CE).",
  "sections": [
   {
    "section_id": "6-math-10-s01",
-   "heading": "Chapter 10: The Other Side of Zero",
-   "text": "# Chapter 10: The Other Side of Zero\n\n<!-- page 242 -->\n\n## THE OTHER SIDE OF ZERO 10\n\n#### Integers\n\n**More and more numbers!** Recall that the very first numbers we learned about in the study of mathematics were the counting numbers 1, 2, 3, 4, …\n\nThen we learned that there are even more numbers! For example, there is the number 0 (zero), representing nothing, which comes before\n1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to 9, allowing us to write numbers however large or however small using just these 10 digits.\n\nWe then learned about more numbers that exist between the numbers 0, 1, 2, 3, 4, … , such as 1 2, 3 2, and 13\n6. These are called fractions.\n\nBut are there still more numbers? Well, 0 is an additional number that we didn’t know about earlier, and it comes before 1 and is less than 1. Are there perhaps more numbers that come before 0 and are less than 0?\n\nPhrased another way, we have seen the number line:\n\n0 1 2 3 4 5 6 7 8 9 10\n\nHowever, this is actually only a number ‘ray’, in the language we learned earlier in geometry; this ray starts at 0 and goes forever to the right. Do there exist numbers to the left of 0, so that this number ray can be completed to a true number line?\n\nThat is what we will investigate in this chapter!\n\n<!-- page 243 -->\n\n> The Other Side of Zero\n\nCan there be a number less than 0? Can you think of any ways to have less than 0 of something?",
+   "heading": "Introduction: More and More Numbers!",
+   "text": "# Chapter 10: The Other Side of Zero\n\n<!-- page 242 -->\n\n# 10 THE OTHER SIDE OF ZERO\n\n[Figure: Four triangular stacks of circular tokens along the top of the chapter opening. Each token is either green with a \"+\" sign or orange with a \"−\" sign. Stack 1: top row one \"−\", bottom row two \"+\". Stack 2: top \"+\", middle row two \"−\", bottom row three \"+\". Stack 3: top \"−\", then three \"+\" in the next row... (rows from top: one \"−\"; two \"+\"; three \"−\"; four \"+\"). Stack 4: rows from top: one \"+\"; two \"−\"; three \"+\"; four \"−\"; five \"+\".]\n\n[Figure: QR code, labelled \"0674CH10\"]\n\n### ▶ Integers\n\n**More and More Numbers!**\n\nRecall that the very first numbers we learned about in the study of mathematics were the counting numbers $1, 2, 3, 4, \\ldots$\n\nThen we learned that there are even more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to 9, allowing us to write numbers however large or however small using just these 10 digits.\n\nWe then learned about more numbers that exist between the numbers $0, 1, 2, 3, 4, \\ldots$, such as $\\frac{1}{2}$, $\\frac{3}{2}$, and $\\frac{13}{6}$. These are called *fractions*.\n\nBut are there still more numbers? Well, 0 is an additional number that we didn't know about earlier, and it comes before 1 and is less than 1. Are there perhaps more numbers that come before 0 and are less than 0?\n\nPhrased another way, we have seen the number line:\n\n[Figure: A number line with an arrow at the right end, marked with ticks and labels 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.]\n\nHowever, this is actually only a number '*ray*', in the language we learned earlier in geometry; this ray starts at 0 and goes forever to the right. Do there exist numbers to the left of 0, so that this number ray can be completed to a true number line?\n\nThat is what we will investigate in this chapter!\n\n<!-- page 243 -->\n\nCan there be a number less than 0? Can you think of any ways to have less than 0 of something?",
    "page_start": 242,
    "page_end": 243
   },
   {
    "section_id": "6-math-10-s02",
-   "heading": "10.1 Bela’s Building of Fun",
-   "text": "#### 10.1 Bela’s Building of Fun\n\nChildren flock to Bela’s ice cream factory to see and taste her tasty ice cream. To make it even more fun for them, Bela purchased a multi-storied building and filled it with attractions. She named it Bela’s Building of Fun.\n\nBut this was no ordinary building!\n\nObserve that some of the floors in the ‘Building of Fun’ are below the ground. What are the shops that you find on these floors? What is there on the ground floor?\n\nA lift is used to go up and down between the floors. It has two buttons: ‘+’ to go up and ‘–’ to go down. Can you spot the lift?\n\nTo go to the Art Centre from the ‘Welcome Hall’, you must press the ‘+’ button twice.\n\nWe say that the button press is + + or + 2.\n\nTo go down two floors, you must press the ‘–’ button twice, which we write as – – or – 2.\n\nSo if you press + 1 (i.e., if you press the ‘+’ button once), then you will go up one floor and if you press – 1 (i.e., if you press the ‘–’ button once), then you will go down 1 floor.\n\nLift button presses and numbers: +++ is written as +3\n– – – – is written as – 4\n\nWhat do you press to go four floors up? What do you press to go three floors down?\n\n<!-- page 244 -->\n\nGanita Prakash | Grade 6\n\n#### Numbering the floors in the building of fun\n\nEntry to the ‘Building of Fun’ is at the ground floor level and is called the ‘Welcome Hall’. Starting from the ground floor, you can reach the Food Court by pressing + 1 and can reach the Art Centre by pressing + 2. So, we can say that the Food Court is on Floor + 1 and that the Art Centre is on Floor + 2.\n\nStarting from the ground floor, you must press – 1 to reach the Toy Store. So, the Toy Store is on Floor – 1 similarly starting from the ground floor, you must press – 2 to reach the Video Games shop. So, the Video Games shop is on Floor – 2.\n\nThe ground floor is called Floor 0. Can you see why?\n\nNumber all the floors in the Building of Fun.\n\nDid you notice that + 3 is the floor number of the Book Store, but it is also the number of floors you move when you press + 3? Similarly, – 3 is the floor number but it is also the number of floors you go down when you press – 3, i.e., when you press – – – .\n\nA number with a ‘+’ sign in front is called a **positive number**. A number with a ‘–’ sign in front is called a **negative number**.\n\nIn the ‘Building of Fun’, the floors are numbered using the ground floor, Floor 0, as a reference or starting point. The floors above the ground floor are numbered with positive numbers. To get to them from the ground floor, one must press the ‘+’ button some number of times. The floors below the ground are numbered with negative numbers. To get to them from the ground floor, one must press the ‘–’ button some number of times.\n\nZero is neither a positive nor a negative number. We do not put a ‘+’ or ‘–’ sign in front of it.\n\n<!-- page 245 -->\n\nThe Other Side of Zero\n\n#### Addition to keep track of movement\n\nStart from the Food Court and press + 2 in the lift. Where will you reach? ____________\n\nWe can describe this using an expression:\n\nStarting Floor + Movement = Target Floor.\n\nThe starting floor is + 1 (Food Court) and the number of button presses is + 2. Therefore, you reach the target floor (+ 1) + (+ 2) = + 3 (Book Store).\n\n##### Figure it Out\n\n1. \u0007You start from Floor + 2 and press – 3 in the lift. Where will you reach? Write an expression for this movement.\n\n2. Evaluate these expressions (you may think of them as Starting Floor + Movement by referring to the Building of Fun). a. (+ 1) + (+ 4) = _______ b. (+ 4) + (+ 1) = _______ c. (+ 4) + (– 3) = _______ d. (– 1) + (+ 2) = _______ e. (– 1) + (+ 1) = _______ f. 0 + (+ 2) = _________ g. 0 + (– 2) = _________\n\n3. \u0007Starting from different floors, find the movements required to reach Floor – 5. For example, if I start at Floor + 2, I must press – 7 to reach Floor – 5. The expression is (+ 2) + (– 7) = – 5. \u0007Find more such starting positions and the movements needed to reach Floor – 5 and write the expressions.\n\n#### Combining button presses is also addition\n\nGurmit was in the Toy Store and wanted to go down two floors. But by mistake he pressed the ‘+’ button two times. He realised his mistake and quickly pressed the ‘–’ button three times. How many floors below or above the Toy Store will Gurmit reach?\n\nGurmit will go one floor down. We can show the movement resulting from combining button presses as an expression: (+2)+(–3) = –1.\n\n<!-- page 246 -->\n\nGanita Prakash | Grade 6\n\n##### \u0007Figure it out\n\nEvaluate these expressions by thinking of them as the resulting movement of combining button presses:\n\na. (+ 1) + (+ 4) = _____________ b. (+ 4) + (+ 1) = _____________ c. (+ 4) + (– 3) + (– 2) = _______ d. (– 1) + (+ 2) + (– 3) = _______\n\n#### Back to zero!\n\nOn the ground floor, Basant is in a great hurry and by mistake he presses +3. What can he do to cancel it and stay on the ground floor? He can cancel it by pressing\n– 3. That is, (+3) + (– 3) = 0.\n\nWe call – 3 the inverse of +3. Similarly, the inverse of\n– 3 is +3.\n\nIf Basant now presses +4 and then presses – 4 in the lift, where will he reach?\n\nHere is another way to think of the concept of inverse. If you are at Floor +4 and you press its inverse\n– 4, then you are back to zero, the ground floor! If you are at Floor – 2 and press its inverse +2, then you go to (– 2) + (+2) = 0, again the ground floor!\n\n\u0007Write the inverses of these numbers:\n\n+4, –4, –3, 0, +2, –1.\n\n\u0007Connect the inverses by drawing lines.\n\n+5 | –7 | –8 | +9\n\n–9 | +8 | –5 | +7\n\n#### Comparing numbers using floors\n\nWho is on the lowest floor?\n\n1. Jay is in the Art Centre. So, he is on Floor +2.\n2. Asin is in the Sports Centre. So, she is on Floor ___.\n3. Binnu is in the Cinema Centre. So, she is on Floor ____.\n4. Aman is in the Toys Store. So, he is on Floor ____.\n\n<!-- page 247 -->\n\nThe Other Side of Zero\n\nFloor +3 is lower than Floor +4. So, we write +3 < +4. We also write +4 > +3.\n\nShould we write –3 < – 4 or – 4 < – 3?\n\n> H\n\nFloor – 4 is lower than Floor – 3. So, – 4 < – 3. It is also correct to write – 3 > –4\n\n##### \u0007Figure it Out\n\n1. Compare the following numbers using the Building of Fun and fill in the boxes with < or >.\n\n> G\n\na. – 2 +5 b. – 5 + 4 c. – 5\n– 3\n\nd. + 6\n– 6 e. 0\n– 4 f. 0 + 4\n\n> F\n\nNotice that all negative number floors are below Floor 0. So, all negative numbers are less than 0. All the positive number floors are above Floor 0. So, all positive numbers are greater than 0.\n\n> +1 E\n\n> 0\n\n> D\n\n> –1\n\n2. Imagine the Building of Fun with more floors. Compare the numbers and fill in the boxes with < or >:\n\na. – 10\n– 12 b. + 17\n– 10\n\nc. 0\n– 20 d. + 9\n– 9\n\n> C\n\ne. – 25\n– 7 f. + 15\n– 17\n\n3. If Floor A = – 12, Floor D = – 1 and Floor E = + 1 in the building shown on the right as a line, find the numbers of Floors B, C, F, G, and H.\n\n> B\n\n4. Mark the following floors of the building shown on the right. a. – 7 b. – 4 c. + 3 d. – 10\n\n> A\n\n> –12\n\n**Subtraction to find which button to press** In earlier classes, we understood the meaning of subtraction as ‘take away’. For example, there are 10 books on the shelf. I take away 4 books. How many are left on the shelf?\n\nWe can express the answer using subtraction: 10 – 4 = 6 or ‘Ten take away four is six.’\n\n<!-- page 248 -->\n\nGanita Prakash | Grade 6\n\nYou may also be familiar with another meaning of subtraction which is related to comparison or making quantities equal. For example, consider this situation: I have `10 with me and my sister has `6.\n\nNow, I can ask the question: ʻHow much more money should my sister get in order to have the same amount as me?ʼ\n\nWe can write this in two ways: 6 + ? = 10 Or 10 – 6 = ?\n\nHere, we see the connection between ‘finding the missing number to be added’ and subtraction.\n\nFor subtraction of positive and negative numbers, we will use this meaning of subtraction as ‘making equal’ or ‘finding the missing number to be added’.\n\n\u0007Evaluate 15 – 5, 100 – 10 and 74 – 34 from this perspective.\n\n##### Teacher’s Note\n\nIn general, when there are two unequal quantities, subtraction can indicate the change needed to make the quantities equal. Subtraction shows how much the starting quantity should change in order to become the target quantity. In the context of different floor levels, what is the change required to reach the Target Floor from the Starting Floor? Notice that the change needed may be positive (for an increase) or negative (for a decrease).\n\nYour starting floor is the Art Centre and your target floor is the Sports Centre. What should be your button press?\n\nYou need to go three floors up, so you should press + 3. We can write this as an expression using subtraction:\n\n**Target Floor – Starting Floor = Movement needed.** In the above example, the starting floor is + 2 (Art Centre) and the target floor is + 5. The button press to get to + 5 from + 2 is + 3. Therefore,\n\n(+ 5) – (+ 2) = + 3\n\n<!-- page 249 -->\n\n> The Other Side of Zero\n\nExplanation Recall the connection between addition and subtraction. For 3 + ? = 5, we can find the missing number using subtraction: 5 – 3 = 2. That is, subtraction is the same as finding the missing number to be added.\n\nWe know that —\n\n##### Starting Floor + Movement needed = Target Floor\n\nIf the movement needed is to be found, then,\n\n##### Starting Floor + ? = Target Floor\n\nSo,\n\n##### Target Floor – Starting Floor = ? = Movement needed\n\nMore examples:\n\na. If the Target Floor is – 1 and Starting Floor is – 2, what button\n\nshould you press? You need to go one floor up, so, you should press + 1. Expression: (– 1) – (– 2) = (+1)\n\nb. If the Target Floor is – 1 and Starting floor is +3, what button\n\nshould you press? You need to go four floors down, so, you should press – 4. Expression: (– 1) – (+ 3) = (– 4)\n\nc. If the Target Floor is +2 and Starting Floor is – 2, what button\n\nshould you press? You need to go four floors up, so, you should press +4. Expression: (+ 2) – (– 2) = (+ 4)\n\n##### \u0007Figure it Out\n\n\u0007Complete these expressions. You may think of them as finding the movement needed to reach the Target Floor from the Starting Floor.\n\na. (+ 1) – (+ 4) = _______ b. (0) – (+ 2) = _________ c. (+ 4) – (+ 1) = _______ d. (0) – (– 2) = _________ e. (+ 4) – (– 3) = _______ f. (– 4) – (– 3) = ________ g. (– 1) – (+ 2) = _______ h. (– 2) – (– 2) = ________ i. (– 1) – (+1) = _______ j. (+ 3) – (– 3) = ________\n\n<!-- page 250 -->\n\nGanita Prakash | Grade 6\n\n#### Adding and subtracting larger numbers\n\nThe picture shows a mine, a place where minerals are extracted by digging into the rock. The truck is at the ground level, but the minerals are present both above and below the ground level. There is a fast moving lift which moves up and down in a mineshaft carrying people and ore.\n\nSome of the levels are marked in the picture. The ground level is marked 0. Levels above the ground are marked by positive numbers and levels below the ground are marked by negative numbers. The number indicates how many metres above or below the ground level it is.\n\nIn the mine, just like in the Building of Fun:\n\n##### Starting Level + Movement = Target Level\n\nFor example, (+ 40) + (+ 60) = + 100 (– 90) + (– 55) = – 145\n\n##### Target Level – Starting Level = Movement needed\n\nFor example, (+ 40) – (– 50) = + 90 (– 90) – (+ 40) = – 130\n\nHow many negative numbers are there?\n\nBela’s Building of Fun had only six floors above and five floors below. That is numbers – 5 to +6. In the mine above, we have numbers from\n– 200 to +180. But we can imagine larger buildings or mineshafts. Just as positive numbers + 1, + 2, + 3, ... keep going up without an end, similarly, negative numbers – 1, – 2, – 3, ... keep going down. Positive and negative numbers, with zero, are called **integers**. They go both ways from 0: … – 4, – 3, – 2, – 1, 0, 1, 2, 3, 4, …\n\n<!-- page 251 -->\n\n> The Other Side of Zero\n\n##### \u0007Figure it Out\n\n> +1000\n\nComplete these expressions.\n\n> +900\n\na. (+ 40) + ______ = + 200 b. (+ 40) + _______ = – 200 c. (– 50) + ______ = + 200 d. (– 50) + _______ = – 200 e. (– 200) – (– 40) = _______ f. (+ 200) – (+ 40) = _______ g. (– 200) – (+ 40) = _______\n\n> +800\n\n> +700\n\nCheck your answers by thinking about the movement in the mineshaft.\n\n> +600\n\n#### Adding, subtracting, and comparing any numbers\n\n> +500\n\nTo add and subtract even larger integers, we can imagine even larger lifts! In fact, we can imagine a lift that can extend forever upwards and forever downwards, starting from Level 0. There does not even have to be any building or mine around — just an ‘infinite lift’!\n\n> +400\n\n> +300\n\n> +200\n\nWe can use this imagination to add and subtract any integers we like.\n\n> +100\n\nFor example, suppose we want to carry out the subtraction + 2000\n– (– 200). We can imagine a lift with 2000 levels above the ground and 200 below the ground. Recall that,\n\n> 0\n\n> – 100\n\n##### Target Level – Starting Level = Movement needed\n\n> – 200\n\nTo go from the Starting Floor – 200 to the Target Floor + 2000, we must press + 2200 (+ 200 to get to zero, and then + 2000 more after that to get to + 2200). Therefore, (+ 2000) – (– 200) = + 2200.\n\n> – 300\n\n> – 400\n\nNotice that (+ 2000) + (+ 200) is also + 2200.\n\n> – 500\n\nTry evaluating the following expressions by similarly drawing or imagining a suitable lift:\n\n> – 600\n\n> – 700\n\na. – 125 + (– 30) b. + 105 – (– 55) c. + 105 + (+ 55) d. + 80 – (– 150) e. + 80 + (+ 150) f. – 99 – (– 200) g. – 99 + (+ 200) h. + 1500 – (– 1500)\n\n> – 800\n\n> – 900\n\n> – 1000\n\n<!-- page 252 -->\n\nGanita Prakash | Grade 6\n\nIn the above example, we saw that + 2000 – (– 200) = + 2000 + (+ 200) = + 2200. In other words, subtracting a negative number is the same as adding the corresponding positive number. That is, we can replace subtraction of a negative number by addition of a positive number!\n\nIn the other exercises that you did above, did you notice that subtracting a negative number was the same as adding the corresponding positive number?\n\nMath\n\nTalk\n\nTake a look at the ‘infinite lift’ above. Does it remind you of a number line? In what ways?\n\n#### Back to the number line\n\nThe ‘infinite lift’ we saw above looked very much like a number line, didn’t it? In fact, if we rotate it by 90°, it basically becomes a number line. It also tells us how to complete the number ray to a number line, answering the question that we had asked at the beginning of the chapter. To the left of 0 are the negative numbers – 1, – 2, – 3, …\n\nUsually we drop the ‘+’ sign on positive numbers and simply write them as 1, 2, 3, …\n\n– 10– 9\n– 8\n– 7\n– 6\n– 5\n– 4\n– 3\n– 2\n– 1 0 1 2 3 4 5 6 7 8 9 10\n\nInstead of traveling along the number line using a lift, we can simply imagine walking on it. To the right is the positive (forward) direction, and to the left is the negative (backward) direction.\n\nSmaller numbers are now to the left of bigger numbers and bigger numbers are to the right of smaller numbers. So, 2 < 5;\n– 3 < 2; and – 5 < – 3.\n\nIf, from 5 you wish to go over to 9, how far must you travel along the number line?\n\n1 2 3 4 5 6 7 8 9 10 0\n\n<!-- page 253 -->\n\nThe Other Side of Zero\n\nYou must travel 4 steps. That is why 5 + 4 = 9.\n\n##### (Remember: Starting Number + Movement = Target Number)\n\nThe corresponding subtraction statement is 9 – 5 = 4.\n\n##### (Remember: \u0007Target Number – Starting Number = Movement\n\n##### needed)\n\nNow, from 9, if you wish to go to 3, how much must you travel along the number line?\n\n0 1 2 3 4 5 6 7 8 9 10\n\nYou must move 6 steps backward, i.e., you must move –6. Hence, we write 9 + (–6) = 3.\n\n##### (Remember again : \u0007Starting Number + Movement = Target\n\n##### Number)\n\nThe corresponding subtraction statement is 3–9=–6.\n\n##### (Remember again: \u0007Target Number – Starting Number = Movement\n\n##### needed)\n\nNow, from 3, if you wish to go to –2, how far must you travel?\n\n– 10– 9\n– 8\n– 7\n– 6\n– 5\n– 4\n– 3\n– 2\n– 1 0 1 2 3 4 5 6 7 8 9 10\n\nYou must travel –5 steps, i.e., 5 steps backward. Thus, 3+(–5)=–2. The corresponding subtraction statement is: –2 –3=–5.\n\n##### Figure it Out\n\n– 10– 9\n– 8\n– 7\n– 6\n– 5\n– 4\n– 3\n– 2\n– 1 0 1 2 3 4 5 6 7 8 9 10\n\n1. Mark 3 positive numbers and 3 negative numbers on the number line above.\n2. Write down the above 3 marked negative numbers in the following boxes:\n\n<!-- page 254 -->\n\nGanita Prakash | Grade 6\n\n3. Is 2 > – 3? Why? Is – 2 < 3? Why?\n4. What are a. – 5 + 0 b. 7 + (– 7) c. – 10 + 20 d. 10 – 20 e. 7 – (– 7) f. – 8 – (– 10)?\n\n#### Using the unmarked number line to add and subtract\n\nJust as you can do additions, subtractions and comparisons with small numbers using the number line above, you can also do them with large numbers by imagining an ‘infinite number line’ or drawing an ‘unmarked number line’ as follows:\n\n0\n\nThis line shows only the position of zero. Other numbers are not marked. It can be convenient to use this unmarked number line to add and subtract integers. You can show, or simply imagine, the scale of the number line and the positions of numbers on it.\n\nFor example, this unmarked number line (UNL) shows the addition problem: 85 + (– 60) = ?\n\n– 60\n\n0 | +85 +25\n\nWe then can visualise that 85 + (– 60) = 25\n\nThe following UNL shows a subtraction problem which can also be written as a missing addend problem: (– 100) – (+ 250) = ? or 250 + ? = – 100.\n\n?\n\n+ 250\n– 100 0\n\nWe can then visualise that ? = –350 in this problem.\n\nIn this way, you can carry out addition and subtraction problems, with positive and negative numbers, on paper or in your head using an unmarked number line.\n\n<!-- page 255 -->\n\nThe Other Side of Zero\n\nUse unmarked number lines to evaluate these expressions:\n\na. – 125 + (– 30) = _______ b. + 105 – (– 55) = _______ c. + 80 – (– 150) = _______ d. – 99 – (– 200) = _______ | – 5\n\n– 3 0 2\n\n#### Converting subtraction to addition and addition to subtraction\n\n##### Recall that Target Floor – Starting Floor = Movement needed\n\n##### or\n\n##### Target Floor = Starting Floor + Movement needed\n\nIf we start at 2 and wish to go to – 3, what is the movement needed?\n\n**First method:** Looking at the number line, we see we need to move – 5 (i.e., 5 in the backward direction). Therefore, – 3– 2 = – 5. The movement needed is –5.\n\n**Second method:** Break the journey from 2 to –3 into two parts.\n\na. From 2 to 0, the movement is 0 – 2 = – 2. b. From 0 to –3, the movement is – 3 – 0 = – 3. The total movement is the sum of the two movements: – 3 + (– 2) = – 5.\n\nLook at the two coloured expressions. There is no subtraction in the second one!\n\nIn this way, we can always convert subtraction to addition. **The number that is being subtracted can be replaced by its inverse and then added instead.**\n\n**Similarly, a number that is being added can be replaced by its inverse and then subtracted.** In this way, we can also always convert addition to subtraction.\n\n##### Examples:\n\na. (+ 7) – (+ 5) = (+ 7) + (– 5) b. (– 3) – (+ 8) = (– 3) + (– 8) c. (+ 8) – (– 2) = (+ 8) + (+ 2) d. (+ 6) – (– 9) = (+ 6) + (+ 9)\n\n<!-- page 256 -->\n\nGanita Prakash | Grade 6",
+   "heading": "10.1 Bela's Building of Fun",
+   "text": "## 10.1 Bela's Building of Fun\n\nChildren flock to Bela's ice cream factory to see and taste her tasty ice cream. To make it even more fun for them, Bela purchased a multi-storied building and filled it with attractions. She named it *Bela's Building of Fun*.\n\n> [Figure: Cartoon of Bela, wearing a cap with the letter \"B\", holding an ice cream cone, surrounded by smiling ice cream scoops.]\n\nBut this was no ordinary building!\n\nObserve that some of the floors in the 'Building of Fun' are below the ground. What are the shops that you find on these floors? What is there on the ground floor?\n\nA lift is used to go up and down between the floors. It has two buttons: '+' to go up and '–' to go down. Can you spot the lift?\n\nTo go to the Art Centre from the 'Welcome Hall', you must press the '+' button twice.\n\nWe say that the button press is + + or +2.\n\nTo go down two floors, you must press the '–' button twice, which we write as – – or –2.\n\nSo if you press +1 (i.e., if you press the '+' button once), then you will go up one floor and if you press –1 (i.e., if you press the '–' button once), then you will go down 1 floor.\n\n> [Figure: Cutaway illustration of \"Bela's Building of Fun!\", a multi-storied building with a lift on its right side. Floors above the ground, from top to bottom: Space, Sports, Ice Cream, Books, Art Centre, Food Court, Welcome Hall (at ground level). Floors below the ground, from top to bottom: Toys, Video Games, Cinema, Ghost House, Dinosaur.]\n\n> Lift button presses and numbers:\n> +++ is written as +3\n> – – – – is written as – 4\n\nWhat do you press to go four floors up? What do you press to go three floors down?\n\n<!-- page 244 -->",
    "page_start": 243,
-   "page_end": 256
+   "page_end": 244
   },
   {
    "section_id": "6-math-10-s03",
-   "heading": "10.2 The Token Model",
-   "text": "#### 10.2 The Token Model\n\n#### Using tokens for addition\n\nIn Bela’s Building of Fun, the lift attendant is bored. To entertain himself, he keeps a box containing lots of positive (green) and negative (red) tokens. Each time he presses the ‘+’ button, he takes a positive token from the box and puts it in his pocket. Similarly, each time he presses the ‘–’ button, he takes a negative token and puts it in his pocket.\n\nHe starts on the ground floor (Floor 0) with an empty pocket. After one hour, he checks his pocket and finds 5 positive and 3 negative tokens. On which floor is he now?\n\nHe must have pressed ‘+’ five times and ‘–’ 3 times and (+ 5)+(– 3)= + 2. So, he is at Floor + 2 now.\n\nHere is another way to do the calculation.\n\nA positive token and a negative token cancel each other, because the value of this pair of tokens together is zero. These two tokens in his pocket meant that he pressed ‘+’ once and ‘–’ once, respectively, and these cancel each other. We say that a positive and a negative token make a ʻzero pairʼ. When you remove all the zero pairs, you are left with two positive tokens, so (+5) + (–3) = +2.\n\nWe can perform any such addition using tokens!\n\n**Example:** Add + 5 and – 8.\n\n<!-- page 257 -->\n\nThe Other Side of Zero\n\nFrom the picture, we see that we can remove five zero pairs, and we are then left with – 3. Therefore (+ 5) + (– 8) = – 3.\n\n##### Figure it Out\n\n1. Complete the additions using tokens. a. (+ 6) + (+ 4) b. (– 3) + (– 2) c. (+ 5) + (– 7) d. (– 2) + (+ 6)\n2. \u0007Cancel the zero pairs in the following two sets of tokens. On what floor is the lift attendant in each case? What is the corresponding addition statement in each case?\n\na. b.\n\n#### Using tokens for subtraction\n\nWe have seen how to perform addition of integers with positive tokens and negative tokens. We can also perform subtraction using tokens!\n\n**Example:** Let us subtract: (+5) – (+4).\n\nThis is easy to do. From 5 positives take away 4 positives to see the result. | (+ 5) – (+ 4) = + 1\n\n**Example:** Let us subtract: (–7) – (–5).\n\nIs (– 7) – (– 5) the same as (– 7) + (+ 5)? | (–7) – (–5) = –2\n\n**Example:** Let us subtract: (+ 5) – (+ 6).\n\nPut down 5 positives. But there are not enough tokens to take out 6 positives!\n\n<!-- page 258 -->\n\nGanita Prakash | Grade 6\n\nTo get around this issue, we can put out an extra zero pair (a positive and a negative), knowing that this does not change the value of the set of tokens.\n\nNow, we can take out 6 positives! See what is left:\n\nWe conclude that (+5) – (+6) = – 1.\n\n##### Figure it Out\n\n\u00071. Evaluate the following differences using tokens. Check that you get the same result as with other methods you now know: a. (+ 10) – (+ 7) b. (– 8) – (– 4) c. (– 9) – (– 4)\n\nd. (+ 9) – (+ 12) e. (– 5) – (– 7) f. (– 2) – (– 6)\n2. Complete the subtractions: a. (– 5) – (– 7) b. (+ 10) – (+ 13) c. (– 7) – (– 9) d. (+ 3) – (+ 8) e. (– 2) – (– 7) f. (+ 3) – (+ 15)\n\n**Example:** + 4 – (– 6). Start with 4 positives. We have to take out 6 negatives from these. But there are not enough negatives.\n\nThis is not a problem. We add some zero pairs as this does not change the value of the set of tokens.\n\nBut how many zero pairs? We have to take away 6 negatives so we put down 6 zero pairs:\n\nNow we can take away 6 negatives:\n\nTherefore, + 4 – (– 6) = + 10.\n\n<!-- page 259 -->\n\nThe Other Side of Zero\n\n##### Figure it Out\n\n1. Try to subtract: – 3 – (+ 5). \u0007How many zero pairs will you have to put in? What is the result?\n2. Evaluate the following using tokens. a. (– 3) – (+ 10) b. (+ 8) – (– 7) c. (– 5) – (+ 9) d. (– 9) – (+ 10) e. (+ 6) – (– 4) f. (– 2) – (+ 7)",
-   "page_start": 256,
-   "page_end": 259
+   "heading": "Numbering the floors in the building of fun",
+   "text": "### Numbering the floors in the building of fun\n\nEntry to the 'Building of Fun' is at the ground floor level and is called the 'Welcome Hall'. Starting from the ground floor, you can reach the Food Court by pressing $+1$ and can reach the Art Centre by pressing $+2$. So, we can say that the Food Court is on Floor $+1$ and that the Art Centre is on Floor $+2$.\n\nStarting from the ground floor, you must press $-1$ to reach the Toy Store. So, the Toy Store is on Floor $-1$ similarly starting from the ground floor, you must press $-2$ to reach the Video Games shop. So, the Video Games shop is on Floor $-2$.\n\nThe ground floor is called Floor 0. Can you see why?\n\nNumber all the floors in the Building of Fun.\n\nDid you notice that $+3$ is the floor number of the Book Store, but it is also the number of floors you move when you press $+3$? Similarly, $-3$ is the floor number but it is also the number of floors you go down when you press $-3$, i.e., when you press – – – .\n\n> [Figure: A tall building labelled \"Bela's Building of Fun!\" with floors from top to bottom: Space, Sports, Ice Cream, Books, Art Centre, Food Court, Welcome Hall (ground floor, with a thick line beneath it), Toys, Video Games, Cinema, Ghost House, Dinosaur]\n\nA number with a '+' sign in front is called a **positive number**. A number with a '–' sign in front is called a **negative number**.\n\nIn the 'Building of Fun', the floors are numbered using the ground floor, Floor 0, as a reference or starting point. The floors above the ground floor are numbered with positive numbers. To get to them from the ground floor, one must press the '+' button some number of times. The floors below the ground are numbered with negative numbers. To get to them from the ground floor, one must press the '–' button some number of times.\n\nZero is neither a positive nor a negative number. We do not put a '+' or '–' sign in front of it.\n\n<!-- page 245 -->",
+   "page_start": 244,
+   "page_end": 245
   },
   {
    "section_id": "6-math-10-s04",
-   "heading": "10.3 Integers in Other Places",
-   "text": "#### 10.3 Integers in Other Places\n\n#### Credits and debits\n\nSuppose you open a bank account at your local bank with the `100 that you had been saving over the last month. Your bank balance therefore, starts at `100.\n\nThen you make `60 at your job the next day and you deposit it in your account. This is shown in your bank passbook as a ‘credit’.\n\nYour new bank balance is _______.\n\n\u0007The next day you pay your electric bill of `30 using your bank account. This is shown in your bank passbook as a ‘debit’.\n\nYour bank balance is now ______.\n\n\u0007The next day you make a major purchase for your business of `150. Again this is shown as a debit.\n\nWhat is your bank balance now? ______\n\nIs this possible?\n\nYes, some banks do allow your account balance to become negative, temporarily! Some banks also charge you an additional amount if your balance becomes negative, in the form of ‘interest’ or a ‘fee’.\n\nYour strategic large purchase the previous day allows you to make, `200 at your business the next day.\n\n<!-- page 260 -->\n\nGanita Prakash | Grade 6\n\nWhat is your balance now? ______\n\nYou can think of ‘credits’ as positive numbers and ‘debits’ as negative numbers. The total of all your credits (positive numbers) and debits (negative numbers) is your total bank account balance. This can be positive or negative!\n\nIn general, it is better to try to keep a positive balance in your bank account!\n\n##### Figure it Out\n\n1. Suppose you start with `0 in your bank account, and then you have credits of `30, `40, and `50, and debits of `40, `50, and `60. What is your bank account balance now?\n2. Suppose you start with `0 in your bank account, and then you have debits of `1, 2, 4, 8, 16, 32, 64, and 128, and then a single credit of `256. What is your bank account balance now? 3. Why is it generally better to try and maintain a positive balance in your bank account? What are circumstances under which it may be worthwhile to temporarily have a negative balance?\n\nAs you can see, positive and negative numbers along with zero are extremely useful in the world of banking and accounting.\n\n#### Geographical cross sections\n\nWe measure the height of geographical features like mountains, plateaus, and deserts from ‘sea level’. The height at sea level is 0m. Heights above sea level are represented using positive numbers and heights below sea level are represented using negative numbers.\n\n<!-- page 261 -->\n\nThe Other Side of Zero\n\n##### Figure it Out\n\n1. Looking at the geographical cross section, fill in the respective heights:\n\na. b. c. d.\n\ne. f. g.\n\nHeight (m) A\n\n1500 | E\n\n1000\n\n500 | C\n\nG Sea level\n\n0\n\n-500 | F\n\nB\n\n-1000\n\n-1500 | D\n\n##### Teacher’s Note\n\nAsk what a geographical cross section is by showing the figure in this page. It is like imagining a vertical slice taken out at some location on the Earth. This is what would be seen from a side view. Discuss the notion of ‘sea level’ for measuring heights and depths in geography.\n\n2. Which is the highest point in this geographical cross section? Which is the lowest point? 3. Can you write the points A, B, …, G in a sequence of decreasing order of heights? Can you write the points in a sequence of increasing order of heights?\n4. What is the highest point above sea level on Earth? What is its height? 5. What is the lowest point with respect to sea level on land or on the ocean floor? What is its height? (This height should be negative).\n\n<!-- page 262 -->\n\nGanita Prakash | Grade 6\n\n#### Temperature\n\nDuring summer time you would have heard in the news that there is a ‘heat wave’. What do you think will be the temperature during the summer when you feel very hot? In the winter we have cooler or colder temperatures.\n\nWhat has been the maximum temperature during the summer and the minimum temperature during the winter last year in your area? Find out.\n\nWhen we measure temperature, we use Celsius as the unit of measure (°C). The thermometers below are showing 40°C and 15°C temperatures.\n\n##### Figure it Out\n\n1. \u0007Do you know that there are some places in India where temperatures can go below 0°C? Find out the places in India where temperatures sometimes go below 0°C. What is common among these places? Why does it become colder there and not in other places?\n2. Leh in Ladakh gets very cold during the winter. The following is a table of temperature readings taken during different times of the day and night in Leh on a day in November. Match the temperature with the appropriate time of the day and night.\n\n> ˚C 100\n\n> ˚C 100\n\n> 20 30 40 50 60 70 80 90\n\n> 20 30 40 50 60 70 80 90\n\n> Math\n\n> Talk\n\n> 10\n\n> 10\n\n> 0\n\n> 0\n\n> –10 –20\n\n> –10 –20\n\n##### Temperature Time\n\n14°C 02:00 a.m.\n\n8°C 11:00 p.m.\n\n–2°C 02:00 p.m.\n\n–4°C 11:00 a.m.\n\n<!-- page 263 -->\n\nThe Other Side of Zero\n\n##### Teacher’s Note\n\nTalk about thermometers and how they are used to measure temperature. Bring a laboratory thermometer to the class and measure the temperature of hot water and cold water. Point out to children that there are markings in the thermometer that are below 0°C. Have a discussion on what 0°C indicates, namely, the freezing point of water.",
-   "page_start": 259,
-   "page_end": 263
+   "heading": "Addition to keep track of movement",
+   "text": "### Addition to keep track of movement\n\nStart from the Food Court and press $+2$ in the lift. Where will you reach? ____________\n\nWe can describe this using an expression:\n\n**Starting Floor + Movement = Target Floor.**\n\nThe starting floor is $+1$ (Food Court) and the number of button presses is $+2$. Therefore, you reach the target floor **$(+1) + (+2) = +3$** (Book Store).\n\n### Figure it Out\n\n1. You start from Floor $+2$ and press $-3$ in the lift. Where will you reach? Write an expression for this movement.\n\n2. Evaluate these expressions (you may think of them as Starting Floor + Movement by referring to the Building of Fun).\n\n   a. $(+1) + (+4) = $ _______\n\n   b. $(+4) + (+1) = $ _______\n\n   c. $(+4) + (-3) = $ _______\n\n   d. $(-1) + (+2) = $ _______\n\n   e. $(-1) + (+1) = $ _______\n\n   f. $0 + (+2) = $ _________\n\n   g. $0 + (-2) = $ _________\n\n3. Starting from different floors, find the movements required to reach Floor $-5$. For example, if I start at Floor $+2$, I must press $-7$ to reach Floor $-5$. The expression is $(+2) + (-7) = -5$.\n\n   Find more such starting positions and the movements needed to reach Floor $-5$ and write the expressions.\n\n### Combining button presses is also addition\n\nGurmit was in the Toy Store and wanted to go down two floors. But by mistake he pressed the '+' button two times. He realised his mistake and quickly pressed the '–' button three times. How many floors below or above the Toy Store will Gurmit reach?\n\nGurmit will go one floor down. We can show the movement resulting from combining button presses as an expression: $(+2) + (-3) = -1$.\n\n<!-- page 246 -->\n\n### Figure it out\n\nEvaluate these expressions by thinking of them as the resulting movement of combining button presses:\n\na. $(+1)+(+4) = $ ____________\n\nb. $(+4)+(+1) = $ ____________\n\nc. $(+4)+(-3)+(-2) = $ ________\n\nd. $(-1)+(+2)+(-3)\\ = $ ________",
+   "page_start": 245,
+   "page_end": 246
   },
   {
    "section_id": "6-math-10-s05",
-   "heading": "10.4 Explorations with Integers",
-   "text": "#### 10.4 Explorations with Integers\n\n#### A hollow integer grid\n\n| 4 | – 1 | – 3 |\n| --- | --- | --- |\n| – 3 |  | 1 |\n| – 1 | – 1 | 2 |\n\n| 5 | – 3 | – 5 |\n| --- | --- | --- |\n| 0 |  | – 5 |\n| – 8 | – 2 | 7 |\n\nThere is something special about the numbers in these two grids. Let us explore what that is.\n\nTop row: Bottom row: Left column: Right column: | 4 + (– 1) + (– 3) = 0 (– 1) + (– 1) +2 = 0 4 + (– 3) + (– 1) = 0 (– 3) + 1 + 2 = 0 | 5 + (– 3) + (– 5) = ____ (– 8) + (– 2) + 7 = ____ 5 + 0 + (– 8) = ____ (– 5) + (– 5) + 7 = ____\n\nIn each grid, the numbers in each of the two rows (the top row and the bottom row) and the numbers in each of the two columns (the leftmost column and the rightmost column) add up to give the same number. We shall call this sum as the ‘border sum’. The border sum of the first grid is ‘0’.\n\n##### Figure it Out\n\n1. Do the calculations for the second grid above and find the border sum.\n\n<!-- page 264 -->\n\nGanita Prakash | Grade 6\n\n2. Complete the grids to make the required border sum:\n\n| – 10 |  |  |\n| --- | --- | --- |\n|  |  | – 5 |\n|  |  |  |\n| 9 |  |  |\n\n| 6 | 8 |  |\n| --- | --- | --- |\n|  |  | – 5 |\n|  |  |  |\n|  | – 2 |  |\n\n7\n\n– 5\n\nBorder sum is +4 Border sum is – 2 Border sum is – 4\n\n3. For the last grid above, find more than one way of filling the numbers to get border sum – 4.\n4. Which other grids can be filled in multiple ways? What could be the reason?\n5. \u0007Make a border integer square puzzle and challenge your classmates.\n\n**An amazing grid of numbers!** Below is a grid having some numbers. Follow the steps as shown until no number is left.\n\n| 3 | 4 | 0 | 9 |\n| --- | --- | --- | --- |\n| – 2 | – 1 | – 5 | 4 |\n| 1 | 2 | – 2 | 7 |\n| – 7 | – 6 | – 10 | – 1 |\n\nCircle any number\n\nStrike out the row and column of the\n\nchosen number\n\nCircle any unstruck number\n\nWhen there are no more unstruck numbers, STOP. Add the circled numbers.\n\nIn the example below, the circled numbers are – 1, 9, – 7, – 2. If you add them, you get – 1.\n\n| 3 | 4 |  | 0 | 9 |\n| --- | --- | --- | --- | --- |\n|  |  |  |  |  |\n| – 2 | – | 1 | – 5 | 4 |\n| 1 | 2 |  | – 2 | 7 |\n| – 7 | – | 6 | – 10 | – 1 |\n|  |  |  |  |  |\n\n|  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 3 | 4 |  | 0 |  | 9 |\n|  |  |  |  |  |  |\n| – 2 | – | 1 | – 5 |  | 4 |\n| 1 | 2 |  | – 2 |  | 7 |\n| – 7 | – | 6 | – 10 | – | 1 |\n|  |  |  |  |  |  |\n\n|  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  | 3 | 4 |  | 0 | 9 |  |\n|  |  |  |  |  |  |  |\n| – | 2 | – | 1 | – 5 | 4 |  |\n|  | 1 | 2 |  | – 2 | 7 |  |\n|  |  |  |  |  |  |  |\n| – | 7 | – | 6 | – 10 | – | 1 |\n|  |  |  |  |  |  |  |\n\n3 4 0 9\n\n– 2\n– 1\n– 5 4\n\n1 2\n– 2 7\n\n– 7\n– 6\n– 10\n– 1\n\n<!-- page 265 -->\n\nThe Other Side of Zero\n\n##### \u0007Figure it Out\n\n1. Try afresh, choose different numbers this time. What sum did you get? Was it different from the first time? Try a few more times!\n2. \u0007Play the same game with the grids below. What answer did you get?\n\n| 7 | 10 | 13 | 16 |\n| --- | --- | --- | --- |\n| – 2 | 1 | 4 | 7 |\n| – 11 | – 8 | – 5 | – 2 |\n| – 20 | – 7 | – 14 | – 11 |\n\n| – 11 | – 10 | – 9 | – 8 |\n| --- | --- | --- | --- |\n| – 7 | – 6 | – 5 | – 4 |\n| – 3 | – 2 | – 1 | 0 |\n| 1 | 2 | 3 | 4 |\n\n3. What could be so special about these grids? Is the magic in the numbers or the way they are arranged or both? Can you make more such grids?\n\nTry This\n\n##### \u0007Figure it Out\n\n1. \u0007Write all the integers between the given pairs, in increasing order. a. 0 and – 7 b. – 4 and 4 c. – 8 and – 15 d. – 30 and – 23\n2. \u0007 Give three numbers such that their sum is – 8.\n3. \u0007 There are two dice whose faces have these numbers: – 1, 2, – 3, 4, – 5, 6. The smallest possible sum upon rolling these dice is – 10 = (– 5) + (– 5) and the largest possible sum is 12 = (6) + (6). Some numbers between (– 10) and (+ 12) are not possible to get by adding numbers on these two dice. Find those numbers.\n4. \u0007Solve these:\n\n| 8 – 13 | (– 8) – (13) | (– 13) – (– 8) | (– 13) + (– 8) |\n| --- | --- | --- | --- |\n| 8 + (– 13) | (– 8) – (– 13) | (13) – 8 | 13 – (– 8) |\n\n5. \u0007 \u0007Find the years below. a. From the present year, which year was it 150 years ago? ________ b. From the present year, which year was it 2200 years ago? _______ Hint: Recall that there was no year 0.\n\n<!-- page 266 -->\n\nGanita Prakash | Grade 6\n\nc. What will be the year 320 years after 680 BCE? ________ 6. Complete the following sequences: a. (– 40), (– 34), (– 28), (– 22), _____, ______, ______ b. 3, 4, 2, 5, 1, 6, 0, 7, _____, _____, _____ c. _____, ______, 12, 6, 1, (– 3), (– 6), _____, ______, ______ 7. \u0007Here are six integer cards: (+ 1), (+ 7), (+ 18), (– 5), (– 2), (– 9). You can pick any of these and make an expression using addition(s) and subtraction(s). Here is an expression: (+ 18) + (+ 1) – (+ 7) – (– 2) which gives a value (+ 14). Now, pick cards and make an expression such that its value is closer to (– 30).\n8. \u0007The sum of two positive integers is always positive but a (positive integer) – (positive integer) can be positive or negative. What about a. (positive) – (negative) b. (positive) + (negative) c. (negative) + (negative) d. (negative) – (negative) e. (negative) – (positive) f. (negative) + (positive) 9. \u0007This string has a total of 100 tokens arranged in a particular pattern. What is the value of the string?",
-   "page_start": 263,
-   "page_end": 266
+   "heading": "Back to zero!",
+   "text": "### Back to zero!\n\n> [Figure: Bela's Building of Fun, a tall building with floors labelled from top to bottom: Space, Sports, IceCream, Books, Art Centre, Food Court, Welcome Hall, then a thick line (ground level), then Toys, Video Games, Cinema, Ghost House, Dinosaur.]\n\nOn the ground floor, Basant is in a great hurry and by mistake he presses +3. What can he do to cancel it and stay on the ground floor? He can cancel it by pressing –3. That is, (+3) + (–3) = 0.\n\nWe call –3 the inverse of +3. Similarly, the inverse of –3 is +3.\n\nIf Basant now presses +4 and then presses –4 in the lift, where will he reach?\n\nHere is another way to think of the concept of inverse. If you are at Floor +4 and you press its inverse –4, then you are back to zero, the ground floor! If you are at Floor –2 and press its inverse +2, then you go to (–2) + (+2) = 0, again the ground floor!\n\n### Figure it out\n\nWrite the inverses of these numbers:\n\n+4, –4, –3, 0, +2, –1.\n\n### Figure it out\n\nConnect the inverses by drawing lines.\n\n[Figure: Two rows of circled numbers. Top row: +5, –7, –8, +9. Bottom row: –9, +8, –5, +7. A line is already drawn from –7 in the top row to +7 in the bottom row.]",
+   "page_start": 246,
+   "page_end": 246
   },
   {
    "section_id": "6-math-10-s06",
+   "heading": "Comparing numbers using floors",
+   "text": "### Comparing numbers using floors\n\n### Figure it out\n\nWho is on the lowest floor?\n\n1. Jay is in the Art Centre. So, he is on Floor +2.\n2. Asin is in the Sports Centre. So, she is on Floor ___.\n3. Binnu is in the Cinema Centre. So, she is on Floor ____.\n4. Aman is in the Toys Store. So, he is on Floor ____.\n\n<!-- page 247 -->\n\nFloor +3 is lower than Floor +4. So, we write +3 < +4. We also write +4 > +3.\n\nShould we write –3 < –4 or –4 < –3?\n\nFloor –4 is lower than Floor –3. So, –4 < –3. It is also correct to write –3 > –4\n\n> [Figure: A vertical number line drawn as a building with arrows at both ends, with tick marks for floors labelled from bottom to top: A (–12), B, C, D (–1), 0, E (+1), F, G, H. The labels –12, –1, 0 and +1 are printed on the right side of the line; the letters A, B, C, D, E, F, G, H are printed on the left.]\n\n### Figure it Out\n\n1. Compare the following numbers using the Building of Fun and fill in the boxes with < or >.\n\n   a. –2 [ ] +5  \n   b. –5 [ ] +4  \n   c. –5 [ ] –3  \n   d. +6 [ ] –6  \n   e. 0 [ ] –4  \n   f. 0 [ ] +4\n\n   > Notice that all negative number floors are below Floor 0. So, all negative numbers are less than 0. All the positive number floors are above Floor 0. So, all positive numbers are greater than 0.\n\n2. Imagine the Building of Fun with more floors. Compare the numbers and fill in the boxes with < or >:\n\n   a. –10 [ ] –12  \n   b. +17 [ ] –10  \n   c. 0 [ ] –20  \n   d. +9 [ ] –9  \n   e. –25 [ ] –7  \n   f. +15 [ ] –17\n\n3. If Floor A = –12, Floor D = –1 and Floor E = +1 in the building shown on the right as a line, find the numbers of Floors B, C, F, G, and H.\n\n4. Mark the following floors of the building shown on the right.\n\n   a. –7  \n   b. – 4  \n   c. +3  \n   d. – 10",
+   "page_start": 246,
+   "page_end": 247
+  },
+  {
+   "section_id": "6-math-10-s07",
+   "heading": "Subtraction to find which button to press",
+   "text": "## Subtraction to find which button to press\n\nIn earlier classes, we understood the meaning of subtraction as 'take away'. For example, there are 10 books on the shelf. I take away 4 books. How many are left on the shelf?\n\nWe can express the answer using subtraction: 10 – 4 = 6 or 'Ten take away four is six.'\n\n<!-- page 248 -->\n\nYou may also be familiar with another meaning of subtraction which is related to comparison or making quantities equal. For example, consider this situation: I have ₹10 with me and my sister has ₹6.\n\nNow, I can ask the question: 'How much more money should my sister get in order to have the same amount as me?'\n\nWe can write this in two ways: $6 + ? = 10$ Or $10 - 6 = ?$\n\nHere, we see the connection between 'finding the missing number to be added' and subtraction.\n\nFor subtraction of positive and negative numbers, we will use this meaning of subtraction as 'making equal' or 'finding the missing number to be added'.\n\n[Figure: small sun-like spiral icon marking an exercise] Evaluate $15 - 5$, $100 - 10$ and $74 - 34$ from this perspective.\n\n### Teacher's Note\n\nIn general, when there are two unequal quantities, subtraction can indicate the change needed to make the quantities equal. Subtraction shows how much the starting quantity should change in order to become the target quantity. In the context of different floor levels, what is the change required to reach the Target Floor from the Starting Floor? Notice that the change needed may be positive (for an increase) or negative (for a decrease).\n\nYour starting floor is the Art Centre and your target floor is the Sports Centre. What should be your button press?\n\nYou need to go three floors up, so you should press $+3$. We can write this as an expression using subtraction:\n\n**Target Floor – Starting Floor = Movement needed.**\n\nIn the above example, the starting floor is $+2$ (Art Centre) and the target floor is $+5$. The button press to get to $+5$ from $+2$ is $+3$. Therefore,\n\n$$(+5) - (+2) = +3$$\n\n<!-- page 249 -->\n\n*Explanation*\n\nRecall the connection between addition and subtraction. For $3 + ? = 5$, we can find the missing number using subtraction: $5 - 3 = 2$. That is, subtraction is the same as finding the missing number to be added.\n\nWe know that—\n\n**Starting Floor + Movement needed = Target Floor**\n\nIf the movement needed is to be found, then,\n\n**Starting Floor + ? = Target Floor**\n\nSo,\n\n**Target Floor – Starting Floor = ? = Movement needed**\n\n*More examples:*\n\na. If the Target Floor is $-1$ and Starting Floor is $-2$, what button should you press?\nYou need to go one floor up, so, you should press $+1$.\nExpression: **$(-1) - (-2) = (+1)$**\n\nb. If the Target Floor is $-1$ and Starting floor is $+3$, what button should you press?\nYou need to go four floors down, so, you should press $-4$.\nExpression: **$(-1) - (+3) = (-4)$**\n\nc. If the Target Floor is $+2$ and Starting Floor is $-2$, what button should you press?\nYou need to go four floors up, so, you should press $+4$.\nExpression: **$(+2) - (-2) = (+4)$**\n\n### Figure it Out\n\nComplete these expressions. You may think of them as finding the movement needed to reach the Target Floor from the Starting Floor.\n\na. $(+1) - (+4) = $ _______\n\nb. $(0) - (+2) = $ _________\n\nc. $(+4) - (+1) = $ _______\n\nd. $(0) - (-2) = $ _________\n\ne. $(+4) - (-3) = $ _______\n\nf. $(-4) - (-3) = $ _______\n\ng. $(-1) - (+2) = $ _______\n\nh. $(-2) - (-2) = $ _______\n\ni. $(-1) - (+1) = $ _______\n\nj. $(+3) - (-3) = $ _______\n\n<!-- page 250 -->",
+   "page_start": 247,
+   "page_end": 250
+  },
+  {
+   "section_id": "6-math-10-s08",
+   "heading": "Adding and subtracting larger numbers",
+   "text": "## Adding and subtracting larger numbers\n\nThe picture shows a mine, a place where minerals are extracted by digging into the rock. The truck is at the ground level, but the minerals are present both above and below the ground level. There is a fast moving lift which moves up and down in a mineshaft carrying people and ore.\n\nSome of the levels are marked in the picture. The ground level is marked 0. Levels above the ground are marked by positive numbers and levels below the ground are marked by negative numbers. The number indicates how many metres above or below the ground level it is.\n\n> [Figure: Cross-section of a mine with a vertical mineshaft and a lift, a truck at ground level on the left. Levels marked on the left: +180 m, +125 m, +40 m, 0 m, –80 m; levels marked on the right: +180 m, +100 m, 0 m, –50 m, –125 m, –175 m. Labels printed: +180 m, +125 m, +100 m, +40 m, 0 m, –50 m, –80 m, –125 m, –175 m.]\n\nIn the mine, just like in the Building of Fun:\n\n**Starting Level + Movement = Target Level**\n\nFor example,\n\n$(+40) + (+60) = +100$  $(-90) + (-55) = -145$\n\n**Target Level – Starting Level = Movement needed**\n\nFor example,\n\n$(+40) - (-50) = +90$  $(-90) - (+40) = -130$\n\n### How many negative numbers are there?\n\nBela's Building of Fun had only six floors above and five floors below. That is numbers $-5$ to $+6$. In the mine above, we have numbers from $-200$ to $+180$. But we can imagine larger buildings or mineshafts. Just as positive numbers $+1, +2, +3, \\ldots$ keep going up without an end, similarly, negative numbers $-1, -2, -3, \\ldots$ keep going down. Positive and negative numbers, with zero, are called **integers**. They go both ways from 0: $\\ldots -4, -3, -2, -1, 0, 1, 2, 3, 4, \\ldots$\n\n<!-- page 251 -->\n\n> [Figure: A vertical number line with arrows at both ends, running down the left margin, labelled +1000, +900, +800, +700, +600, +500, +400, +300, +200, +100, 0, −100, −200, −300, −400, −500, −600, −700, −800, −900, −1000.]\n\n### Figure it Out\n\nComplete these expressions.\n\na. $(+40) + \\_\\_\\_\\_\\_\\_ = +200$\n\nb. $(+40) + \\_\\_\\_\\_\\_\\_\\_ = -200$\n\nc. $(-50) + \\_\\_\\_\\_\\_\\_ = +200$\n\nd. $(-50) + \\_\\_\\_\\_\\_\\_\\_ = -200$\n\ne. $(-200) - (-40) = \\_\\_\\_\\_\\_\\_\\_$\n\nf. $(+200) - (+40) = \\_\\_\\_\\_\\_\\_\\_$\n\ng. $(-200) - (+40) = \\_\\_\\_\\_\\_\\_\\_$\n\nCheck your answers by thinking about the movement in the mineshaft.",
+   "page_start": 250,
+   "page_end": 251
+  },
+  {
+   "section_id": "6-math-10-s09",
+   "heading": "Adding, subtracting, and comparing any numbers",
+   "text": "## Adding, subtracting, and comparing any numbers\n\nTo add and subtract even larger integers, we can imagine even larger lifts! In fact, we can imagine a lift that can extend forever upwards and forever downwards, starting from Level 0. There does not even have to be any building or mine around — just an 'infinite lift'!\n\nWe can use this imagination to add and subtract any integers we like.\n\nFor example, suppose we want to carry out the subtraction $+2000 - (-200)$. We can imagine a lift with 2000 levels above the ground and 200 below the ground. Recall that,\n\n**Target Level – Starting Level = Movement needed**\n\nTo go from the Starting Floor $-200$ to the Target Floor $+2000$, we must press $+2200$ ($+200$ to get to zero, and then $+2000$ more after that to get to $+2200$). Therefore, $(+2000) - (-200) = +2200$.\n\nNotice that $(+2000) + (+200)$ is also $+2200$.\n\n### Try This\n\nTry evaluating the following expressions by similarly drawing or imagining a suitable lift:\n\na. $-125 + (-30)$\n\nb. $+105 - (-55)$\n\nc. $+105 + (+55)$\n\nd. $+80 - (-150)$\n\ne. $+80 + (+150)$\n\nf. $-99 - (-200)$\n\ng. $-99 + (+200)$\n\nh. $+1500 - (-1500)$\n\n<!-- page 252 -->\n\nIn the above example, we saw that $+2000 - (-200) = +2000 + (+200) = +2200$. In other words, subtracting a negative number is the same as adding the corresponding positive number. That is, we can replace subtraction of a negative number by addition of a positive number!\n\n### Math Talk\n\nIn the other exercises that you did above, did you notice that subtracting a negative number was the same as adding the corresponding positive number?\n\nTake a look at the 'infinite lift' above. Does it remind you of a number line? In what ways?",
+   "page_start": 251,
+   "page_end": 252
+  },
+  {
+   "section_id": "6-math-10-s10",
+   "heading": "Back to the number line",
+   "text": "### Back to the number line\n\nThe 'infinite lift' we saw above looked very much like a number line, didn't it? In fact, if we rotate it by $90°$, it basically becomes a number line. It also tells us how to complete the number *ray* to a number line, answering the question that we had asked at the beginning of the chapter. To the left of 0 are the negative numbers $-1, -2, -3, \\ldots$\n\nUsually we drop the '+' sign on positive numbers and simply write them as $1, 2, 3, \\ldots$\n\n[Figure: A number line with arrowheads at both ends, marked from $-10$ to $10$: $-10, -9, -8, -7, -6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10$.]\n\nInstead of traveling along the number line using a lift, we can simply imagine walking on it. To the right is the positive (forward) direction, and to the left is the negative (backward) direction.\n\nSmaller numbers are now to the left of bigger numbers and bigger numbers are to the right of smaller numbers. So, $2 < 5$; $-3 < 2$; and $-5 < -3$.\n\nIf, from 5 you wish to go over to 9, how far must you travel along the number line?\n\n[Figure: A number line with an arrowhead on the right, marked $0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10$. Four arcs with arrows go from 5 to 6, 6 to 7, 7 to 8, and 8 to 9.]\n\n<!-- page 253 -->\n\nYou must travel 4 steps. That is why $5 + 4 = 9$.\n\n(Remember: **Starting Number + Movement = Target Number**)\n\nThe corresponding subtraction statement is $9 - 5 = 4$.\n\n(Remember: **Target Number – Starting Number = Movement needed**)\n\nNow, from 9, if you wish to go to 3, how much must you travel along the number line?\n\n[Figure: Number line from 0 to 10 with ticks labelled 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Six arcs with arrowheads pointing left run from 9 back to 8, 7, 6, 5, 4 and 3.]\n\nYou must move 6 steps backward, i.e., you must move $-6$. Hence, we write $9 + (-6) = 3$.\n\n(Remember again : **Starting Number + Movement = Target Number**)\n\nThe corresponding subtraction statement is $3 - 9 = -6$.\n\n(Remember again: **Target Number – Starting Number = Movement needed**)\n\nNow, from 3, if you wish to go to $-2$, how far must you travel?\n\n[Figure: Number line from $-10$ to $10$ with ticks labelled $-10, -9, -8, -7, -6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10$. Five arcs with arrowheads pointing left run from 3 back to $-2$.]\n\nYou must travel $-5$ steps, i.e., 5 steps backward. Thus, $3 + (-5) = -2$. The corresponding subtraction statement is: $-2 - 3 = -5$.\n\n### Figure it Out\n\n[Figure: Number line from $-10$ to $10$ with ticks labelled $-10, -9, -8, -7, -6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10$.]\n\n1. Mark 3 positive numbers and 3 negative numbers on the number line above.\n2. Write down the above 3 marked negative numbers in the following boxes: [Figure: three empty rounded boxes]\n\n<!-- page 254 -->\n\n3. Is $2 > -3$? Why? Is $-2 < 3$? Why?\n4. What are a. $-5 + 0$  b. $7 + (-7)$  c. $-10 + 20$  d. $10 - 20$  e. $7 - (-7)$  f. $-8 - (-10)$?",
+   "page_start": 252,
+   "page_end": 254
+  },
+  {
+   "section_id": "6-math-10-s11",
+   "heading": "Using the unmarked number line to add and subtract",
+   "text": "### Using the unmarked number line to add and subtract\n\nJust as you can do additions, subtractions and comparisons with small numbers using the number line above, you can also do them with large numbers by imagining an 'infinite number line' or drawing an 'unmarked number line' as follows:\n\n[Figure: A horizontal number line with arrowheads at both ends, with only the position of 0 marked by a tick and labelled \"0\".]\n\nThis line shows only the position of zero. Other numbers are not marked. It can be convenient to use this **u**nmarked **n**umber **l**ine to add and subtract integers. You can show, or simply imagine, the scale of the number line and the positions of numbers on it.\n\nFor example, this unmarked number line (UNL) shows the addition problem: $85 + (-60) = ?$\n\n[Figure: An unmarked number line with ticks at 0, +25 and +85. A curved arrow labelled \"−60\" goes from +85 to +25.]\n\nWe then can visualise that $85 + (-60) = 25$\n\nThe following UNL shows a subtraction problem which can also be written as a missing addend problem: $(-100) - (+250) = ?$ or $250 + ? = -100$.\n\n[Figure: An unmarked number line with ticks at −100, 0 and +250. A long curved arrow labelled with a boxed \"?\" goes from +250 to −100.]\n\nWe can then visualise that $? = -350$ in this problem.\n\nIn this way, you can carry out addition and subtraction problems, with positive and negative numbers, on paper or in your head using an unmarked number line.\n\n<!-- page 255 -->\n\nUse unmarked number lines to evaluate these expressions:\n\na. $-125 + (-30) = $ _______\n\nb. $+105 - (-55) = $ _______\n\nc. $+80 - (-150) = $ _______\n\nd. $-99 - (-200) = $ _______\n\n[Figure: A number line with an arrow labelled \"−5\" curving from 2 back to −3. Marked points: −3, 0, 2.]",
+   "page_start": 254,
+   "page_end": 255
+  },
+  {
+   "section_id": "6-math-10-s12",
+   "heading": "Converting subtraction to addition and addition to subtraction",
+   "text": "## Converting subtraction to addition and addition to subtraction\n\nRecall that **Target Floor – Starting Floor = Movement needed**\n\n**or**\n\n**Target Floor = Starting Floor + Movement needed**\n\nIf we start at 2 and wish to go to $-3$, what is the movement needed?\n\n**First method:** Looking at the number line, we see we need to move $-5$ (i.e., 5 in the backward direction). Therefore, $-3 - 2 = -5$. The movement needed is $-5$.\n\n**Second method:** Break the journey from 2 to $-3$ into two parts.\n\na. From 2 to 0, the movement is $0 - 2 = -2$.\n\nb. From 0 to $-3$, the movement is $-3 - 0 = -3$.\n\nThe total movement is the sum of the two movements: $-3 + (-2) = -5$.\n\nLook at the two coloured expressions. There is no subtraction in the second one!\n\nIn this way, we can always convert subtraction to addition. **The number that is being subtracted can be replaced by its inverse and then added instead.**\n\n**Similarly, a number that is being added can be replaced by its inverse and then subtracted.** In this way, we can also always convert addition to subtraction.\n\n**Examples:**\n\na. $(+7) - (+5) = (+7) + (-5)$\n\nb. $(-3) - (+8) = (-3) + (-8)$\n\nc. $(+8) - (-2) = (+8) + (+2)$\n\nd. $(+6) - (-9) = (+6) + (+9)$\n\n<!-- page 256 -->",
+   "page_start": 255,
+   "page_end": 256
+  },
+  {
+   "section_id": "6-math-10-s13",
+   "heading": "10.2 The Token Model",
+   "text": "## 10.2 The Token Model\n\n### Using tokens for addition\n\nIn Bela's Building of Fun, the lift attendant is bored. To entertain himself, he keeps a box containing lots of positive (green) and negative (red) tokens. Each time he presses the '+' button, he takes a positive token from the box and puts it in his pocket. Similarly, each time he presses the '–' button, he takes a negative token and puts it in his pocket.\n\nHe starts on the ground floor (Floor 0) with an empty pocket. After one hour, he checks his pocket and finds 5 positive and 3 negative tokens. On which floor is he now?\n\nHe must have pressed '+' five times and '–' 3 times and $(+5)+(-3) = +2$. So, he is at Floor $+2$ now.\n\nHere is another way to do the calculation.\n\n[Figure: Five green positive tokens in a top row and three red negative tokens in a bottom row; the first three positive tokens are each crossed out with the three negative tokens below them (three zero pairs), leaving two positive tokens uncancelled.]\n\nA positive token and a negative token cancel each other, because the value of this pair of tokens together is zero. These two tokens in his pocket meant that he pressed '+' once and '–' once, respectively, and these cancel each other. We say that a positive and a negative token make a 'zero pair'. When you remove all the zero pairs, you are left with two positive tokens, so $(+5) + (-3) = +2$.\n\nWe can perform any such addition using tokens!\n\n**Example:** Add $+5$ and $-8$.\n\n[Figure: Five green positive tokens in a top row and eight red negative tokens in a bottom row; the five positive tokens are each crossed out together with the first five negative tokens (five zero pairs), leaving three negative tokens uncancelled.]\n\n<!-- page 257 -->\n\nFrom the picture, we see that we can remove five zero pairs, and we are then left with $-3$. Therefore $(+5)+(-8)=-3$.\n\n### Figure it Out\n\n1. Complete the additions using tokens.\n   a. $(+6)+(+4)$\n   b. $(-3)+(-2)$\n   c. $(+5)+(-7)$\n   d. $(-2)+(+6)$\n2. Cancel the zero pairs in the following two sets of tokens. On what floor is the lift attendant in each case? What is the corresponding addition statement in each case?\n\n   [Figure: a. Three green positive tokens in the top row and five orange negative tokens in the bottom row.]\n\n   [Figure: b. Six green positive tokens in the top row and three orange negative tokens in the bottom row.]",
+   "page_start": 256,
+   "page_end": 257
+  },
+  {
+   "section_id": "6-math-10-s14",
+   "heading": "Using tokens for subtraction",
+   "text": "### Using tokens for subtraction\n\nWe have seen how to perform addition of integers with positive tokens and negative tokens. We can also perform subtraction using tokens!\n\n**Example:** Let us subtract: (+5) – (+4).\n\n> [Figure: Five green positive tokens, the first four crossed out, the last one not crossed out.]\n> $(+5)-(+4)=+1$\n\nThis is easy to do. From 5 positives take away 4 positives to see the result.\n\n**Example:** Let us subtract: (–7) – (–5).\n\n> [Figure: Seven orange negative tokens, the first five crossed out, the last two not crossed out.]\n> (–7) – (–5) = –2\n\nIs $(-7)-(-5)$ the same as $(-7)+(+5)$?\n\n**Example:** Let us subtract: $(+5)-(+6)$.\n\n> [Figure: Five green positive tokens.]\n\nPut down 5 positives.\nBut there are not enough tokens to take out 6 positives!\n\n<!-- page 258 -->\n\nTo get around this issue, we can put out an extra zero pair (a positive and a negative), knowing that this does not change the value of the set of tokens.\n\nNow, we can take out 6 positives! See what is left:\n\n> [Figure: Six green positive tokens, each struck through with a slash, with one orange negative token remaining below them]\n\nWe conclude that $(+5) - (+6) = -1$.\n\n### Figure it Out\n\n1. Evaluate the following differences using tokens. Check that you get the same result as with other methods you now know:\n   a. $(+10) - (+7)$\n   b. $(-8) - (-4)$\n   c. $(-9) - (-4)$\n   d. $(+9) - (+12)$\n   e. $(-5) - (-7)$\n   f. $(-2) - (-6)$\n\n2. Complete the subtractions:\n   a. $(-5) - (-7)$\n   b. $(+10) - (+13)$\n   c. $(-7) - (-9)$\n   d. $(+3) - (+8)$\n   e. $(-2) - (-7)$\n   f. $(+3) - (+15)$\n\n**Example:** $+4 - (-6)$.\n\nStart with 4 positives.\n\n> [Figure: Four green positive tokens]\n\nWe have to take out 6 negatives from these. But there are not enough negatives.\n\nThis is not a problem. We add some zero pairs as this does not change the value of the set of tokens.\n\nBut how many zero pairs? We have to take away 6 negatives so we put down 6 zero pairs:\n\n[Figure: Ten green positive tokens in a row, with six orange negative tokens in a row beneath, aligned to the right]\n\nNow we can take away 6 negatives:\n\n[Figure: Ten green positive tokens in a row, with six orange negative tokens beneath, each struck through with a slash]\n\nTherefore, $+4 - (-6) = +10$.\n\n<!-- page 259 -->\n\n### Figure it Out\n\n1. Try to subtract: $-3-(+5)$.\n   How many zero pairs will you have to put in? What is the result?\n2. Evaluate the following using tokens.\n   a. $(-3)-(+10)$\n   b. $(+8)-(-7)$\n   c. $(-5)-(+9)$\n   d. $(-9)-(+10)$\n   e. $(+6)-(-4)$\n   f. $(-2)-(+7)$",
+   "page_start": 257,
+   "page_end": 259
+  },
+  {
+   "section_id": "6-math-10-s15",
+   "heading": "10.3 Integers in Other Places",
+   "text": "## 10.3 Integers in Other Places\n\n### Credits and debits\n\nSuppose you open a bank account at your local bank with the ₹100 that you had been saving over the last month. Your bank balance therefore, starts at ₹100.\n\nThen you make ₹60 at your job the next day and you deposit it in your account. This is shown in your bank passbook as a 'credit'.\n\n### Think\n\nYour new bank balance is ______.\n\nThe next day you pay your electric bill of ₹30 using your bank account. This is shown in your bank passbook as a 'debit'.\n\nYour bank balance is now ______.\n\nThe next day you make a major purchase for your business of ₹150. Again this is shown as a debit.\n\nWhat is your bank balance now? ______\n\nIs this possible?\n\nYes, some banks do allow your account balance to become negative, temporarily! Some banks also charge you an additional amount if your balance becomes negative, in the form of 'interest' or a 'fee'.\n\nYour strategic large purchase the previous day allows you to make, ₹200 at your business the next day.\n\n<!-- page 260 -->\n\nWhat is your balance now? ______\n\nYou can think of 'credits' as positive numbers and 'debits' as negative numbers. The total of all your credits (positive numbers) and debits (negative numbers) is your total bank account balance. This can be positive or negative!\n\nIn general, it is better to try to keep a positive balance in your bank account!\n\n### Figure it Out\n\n1. Suppose you start with ₹0 in your bank account, and then you have credits of ₹30, ₹40, and ₹50, and debits of ₹40, ₹50, and ₹60. What is your bank account balance now?\n2. Suppose you start with ₹0 in your bank account, and then you have debits of ₹1, 2, 4, 8, 16, 32, 64, and 128, and then a single credit of ₹256. What is your bank account balance now?\n3. Why is it generally better to try and maintain a positive balance in your bank account? What are circumstances under which it may be worthwhile to temporarily have a negative balance?\n\nAs you can see, positive and negative numbers along with zero are extremely useful in the world of banking and accounting.",
+   "page_start": 259,
+   "page_end": 260
+  },
+  {
+   "section_id": "6-math-10-s16",
+   "heading": "Geographical cross sections",
+   "text": "### Geographical cross sections\n\nWe measure the height of geographical features like mountains, plateaus, and deserts from 'sea level'. The height at sea level is 0m. Heights above sea level are represented using positive numbers and heights below sea level are represented using negative numbers.\n\n<!-- page 261 -->\n\n### Figure it Out\n\n1. Looking at the geographical cross section, fill in the respective heights:\n\n   a. [box] b. [box] c. [box] d. [box]\n\n   e. [box] f. [box] g. [box]\n\n[Figure: Geographical cross section. Vertical axis labelled \"Height (m)\" with marks 1500, 1000, 500, 0 (labelled \"Sea level\"), -500, -1000, -1500. A shaded profile of terrain with marked points A (peak at about 1500), B (about -500), C (about 300, above sea level), D (about -1200), E (about 1200), F (about -200), G (about 100). Regions below sea level are shaded darker.]\n\n> ### Teacher's Note\n> Ask what a geographical cross section is by showing the figure in this page. It is like imagining a vertical slice taken out at some location on the Earth. This is what would be seen from a side view. Discuss the notion of 'sea level' for measuring heights and depths in geography.\n\n2. Which is the highest point in this geographical cross section? Which is the lowest point?\n3. Can you write the points A, B, …, G in a sequence of decreasing order of heights? Can you write the points in a sequence of increasing order of heights?\n4. What is the highest point above sea level on Earth? What is its height?\n5. What is the lowest point with respect to sea level on land or on the ocean floor? What is its height? (This height should be negative).\n\n<!-- page 262 -->",
+   "page_start": 260,
+   "page_end": 262
+  },
+  {
+   "section_id": "6-math-10-s17",
+   "heading": "Temperature",
+   "text": "### Temperature\n\nDuring summer time you would have heard in the news that there is a 'heat wave'. What do you think will be the temperature during the summer when you feel very hot? In the winter we have cooler or colder temperatures.\n\nWhat has been the maximum temperature during the summer and the minimum temperature during the winter last year in your area? Find out.\n\nWhen we measure temperature, we use Celsius as the unit of measure (°C). The thermometers below are showing 40°C and 15°C temperatures.\n\n[Figure: Two thermometers side by side with scales marked °C from −20 to 100 in steps of 10 (100, 90, 80, 70, 60, 50, 40, 30, 20, 10, 0, −10, −20; negative values in red). The first thermometer's red column rises to 40; the second thermometer's red column rises to about 15.]\n\n> [Figure: A box labelled \"Math Talk\" with speech-bubble icons.]\n\n### Figure it Out\n\n1. Do you know that there are some places in India where temperatures can go below 0°C? Find out the places in India where temperatures sometimes go below 0°C. What is common among these places? Why does it become colder there and not in other places?\n\n2. Leh in Ladakh gets very cold during the winter. The following is a table of temperature readings taken during different times of the day and night in Leh on a day in November. Match the temperature with the appropriate time of the day and night.\n\n| Temperature |\n|---|\n| 14°C |\n| 8°C |\n| −2°C |\n| −4°C |\n\n| Time |\n|---|\n| 02:00 a.m. |\n| 11:00 p.m. |\n| 02:00 p.m. |\n| 11:00 a.m. |\n\n<!-- page 263 -->\n\n### Teacher's Note\n\nTalk about thermometers and how they are used to measure temperature. Bring a laboratory thermometer to the class and measure the temperature of hot water and cold water. Point out to children that there are markings in the thermometer that are below 0°C. Have a discussion on what 0°C indicates, namely, the freezing point of water.",
+   "page_start": 262,
+   "page_end": 263
+  },
+  {
+   "section_id": "6-math-10-s18",
+   "heading": "10.4 Explorations with Integers",
+   "text": "## 10.4 Explorations with Integers\n\n### A hollow integer grid\n\n[Figure: Two 3×3 grids with the centre cell empty. First grid — top row: 4, −1, −3; middle row: −3, (empty), 1; bottom row: −1, −1, 2. Second grid — top row: 5, −3, −5; middle row: 0, (empty), −5; bottom row: −8, −2, 7.]\n\nThere is something special about the numbers in these two grids. Let us explore what that is.\n\n| | First grid | Second grid |\n|---|---|---|\n| Top row: | $4 + (-1) + (-3) = 0$ | $5 + (-3) + (-5) = \\_\\_\\_\\_$ |\n| Bottom row: | $(-1) + (-1) + 2 = 0$ | $(-8) + (-2) + 7 = \\_\\_\\_\\_$ |\n| Left column: | $4 + (-3) + (-1) = 0$ | $5 + 0 + (-8) = \\_\\_\\_\\_$ |\n| Right column: | $(-3) + 1 + 2 = 0$ | $(-5) + (-5) + 7 = \\_\\_\\_\\_$ |\n\nIn each grid, the numbers in each of the two rows (the top row and the bottom row) and the numbers in each of the two columns (the leftmost column and the rightmost column) add up to give the same number. We shall call this sum as the 'border sum'. The border sum of the first grid is '0'.\n\n### Figure it Out\n\n1. Do the calculations for the second grid above and find the border sum.\n\n<!-- page 264 -->\n\n2. Complete the grids to make the required border sum:\n\n[Figure: Three 3×3 grids with the centre cell empty (white) and the border cells shaded.\nGrid 1: top row: −10, blank, blank; middle row: blank, (centre), −5; bottom row: 9, blank, blank. Caption: *Border sum is +4*\nGrid 2: top row: 6, 8, blank; middle row: blank, (centre), −5; bottom row: blank, −2, blank. Caption: *Border sum is −2*\nGrid 3: top row: 7, blank, blank; middle row: blank, (centre), −5; bottom row: blank, blank, blank. Caption: *Border sum is −4*]\n\n3. For the last grid above, find more than one way of filling the numbers to get border sum −4.\n4. Which other grids can be filled in multiple ways? What could be the reason?\n5. Make a border integer square puzzle and challenge your classmates.",
+   "page_start": 263,
+   "page_end": 264
+  },
+  {
+   "section_id": "6-math-10-s19",
+   "heading": "An amazing grid of numbers!",
+   "text": "### An amazing grid of numbers!\n\nBelow is a grid having some numbers. Follow the steps as shown until no number is left.\n\n[Figure: A 4×4 grid of numbers:\n\n| 3 | 4 | 0 | 9 |\n|---|---|---|---|\n| −2 | −1 | −5 | 4 |\n| 1 | 2 | −2 | 7 |\n| −7 | −6 | −10 | −1 |\n]\n\n[Figure: Flowchart with three boxes: \"Circle any number\" → \"Strike out the row and column of the chosen number\" → \"Circle any unstruck number\", with an arrow from \"Circle any unstruck number\" looping back to \"Strike out the row and column of the chosen number\".]\n\nWhen there are no more unstruck numbers, STOP. Add the circled numbers.\n\nIn the example below, the circled numbers are −1, 9, −7, −2. If you add them, you get −1.\n\n[Figure: Four 4×4 grids showing the steps of the example, each with the numbers 3, 4, 0, 9 / −2, −1, −5, 4 / 1, 2, −2, 7 / −7, −6, −10, −1.\nGrid 1: −1 is circled, and its row and column are struck out.\nGrid 2: −1 and 9 are circled, and the rows and columns of both are struck out.\nGrid 3: −1, 9 and −7 are circled, and the rows and columns of all three are struck out.\nGrid 4: −1, 9, −7 and −2 are circled, and the rows and columns of all four are struck out.]\n\n<!-- page 265 -->\n\n### Figure it Out\n\n1. Try afresh, choose different numbers this time. What sum did you get? Was it different from the first time? Try a few more times!\n2. Play the same game with the grids below. What answer did you get?\n\n[Figure: Two 4×4 grids. The left grid (orange) has rows: 7, 10, 13, 16; −2, 1, 4, 7; −11, −8, −5, −2; −20, −7, −14, −11. The right grid (purple) has rows: −11, −10, −9, −8; −7, −6, −5, −4; −3, −2, −1, 0; 1, 2, 3, 4.]\n\n3. What could be so special about these grids? Is the magic in the numbers or the way they are arranged or both? Can you make more such grids?\n\n> [Figure: \"Try This\" badge with an orange zigzag arrow]",
+   "page_start": 264,
+   "page_end": 265
+  },
+  {
+   "section_id": "6-math-10-s20",
+   "heading": "Exercises (Figure it Out)",
+   "text": "### Figure it Out\n\n1. Write all the integers between the given pairs, in increasing order.\n   a. 0 and −7\n   b. −4 and 4\n   c. −8 and −15\n   d. −30 and −23\n2. Give three numbers such that their sum is −8.\n3. There are two dice whose faces have these numbers: −1, 2, −3, 4, −5, 6. The smallest possible sum upon rolling these dice is −10 = (−5) + (−5) and the largest possible sum is 12 = (6) + (6). Some numbers between (−10) and (+12) are not possible to get by adding numbers on these two dice. Find those numbers.\n4. Solve these:\n\n| $8-13$ | $(-8)-(13)$ | $(-13)-(-8)$ | $(-13)+(-8)$ |\n|---|---|---|---|\n| $8+(-13)$ | $(-8)-(-13)$ | $(13)-8$ | $13-(-8)$ |\n\n5. Find the years below.\n   a. From the present year, which year was it 150 years ago? ________\n   b. From the present year, which year was it 2200 years ago? ________\n\n   *Hint*: Recall that there was no year 0.\n\n<!-- page 266 -->\n\nc. What will be the year 320 years after 680 BCE? ________\n\n6. Complete the following sequences:\n   a. $(-40), (-34), (-28), (-22)$, _____, ______, ______\n   b. $3, 4, 2, 5, 1, 6, 0, 7$, _____, _____, _____\n   c. _____, ______, $12, 6, 1, (-3), (-6)$, _____, ______, ______\n\n7. Here are six integer cards: $(+1), (+7), (+18), (-5), (-2), (-9)$.\n   You can pick any of these and make an expression using addition(s) and subtraction(s).\n   Here is an expression: $(+18)+(+1)-(+7)-(-2)$ which gives a value $(+14)$. Now, pick cards and make an expression such that its value is closer to $(-30)$.\n\n8. The sum of two positive integers is always positive but a (positive integer) – (positive integer) can be positive or negative. What about\n   a. (positive) – (negative)\n   b. (positive) + (negative)\n   c. (negative) + (negative)\n   d. (negative) – (negative)\n   e. (negative) – (positive)\n   f. (negative) + (positive)\n\n9. This string has a total of 100 tokens arranged in a particular pattern. What is the value of the string?\n\n[Figure: A string of tokens in a repeating pattern: 3 green \"+\" tokens, 2 red \"−\" tokens, 3 green \"+\" tokens, 2 red \"−\" tokens, 3 green \"+\" tokens, 2 red \"−\" tokens, with the string continuing as a curly line at the right end.]",
+   "page_start": 265,
+   "page_end": 266
+  },
+  {
+   "section_id": "6-math-10-s21",
    "heading": "10.5 A Pinch of History",
-   "text": "#### 10.5 A Pinch of History\n\nLike general fractions, general integers (including zero and the negative numbers) were first conceived of and used in Asia, thousands of years ago, before they eventually spread across the world in more modern times.\n\nThe first known instances of the use of negative numbers occurred in the context of accounting. In one of China’s most important mathematical works, The Nine Chapters on Mathematical Art (Jiuzhang Suanshu)—which was completed by the first or second century CE—positive and negative numbers were represented using red and black rods, much like the way we represented them using green and red tokens!\n\n<!-- page 267 -->\n\nThe Other Side of Zero\n\nThere was a strong culture of accountancy also in India in ancient times. The concept of credit and debit was written about extensively by Kautilya in his Arthaśhāstra (c. 300 BCE), including the recognition that an account balance could be negative. The explicit use of negative numbers in the context of accounting is seen in a number of ancient Indian works, including in the Bakśhālī manuscript from around the year 300 CE, where a negative number was written using a special symbol placed after the number (rather than before the number as we do today).\n\nThe first general treatment of positive numbers, negative numbers, and zero — all on an equal footing as equally-valid numbers on which one can perform the basic operations of addition, subtraction, multiplication, and even division — was given by Brahmagupta in his Brāhma-sphuṭa-siddhānta in the year 628 CE. Brahmagupta gave clear and explicit rules for operations on all numbers — positive, negative, and zero — that essentially formed the modern way of understanding these numbers that we still use today!\n\nSome of Brahmagupta’s key rules for addition and subtraction of positive numbers, negative numbers and zero are given below:\n\n**Brahmagupta’s Rules for Addition (Brāhma-sphuṭa-siddhānta 18.30, 628 CE)** 1. The sum of two positives is positive (e.g., 2 + 3 = 5).\n\n2. The sum of two negatives is negative. To add two negatives, add the numbers (without the signs), and then place a minus sign to obtain the result (e.g., (– 2) + (– 3) = – 5). 3. To add a positive number and a negative number, subtract the smaller number (without the sign) from the greater number (without the sign), and place the sign of the greater number to obtain the result (e.g., – 5 + 3 = – 2, 2 + (– 3) = – 1 and – 3 + 5 = 2).\n4. The sum of a number and its inverse is zero (e.g., 2 + (– 2) = 0). 5. The sum of any number and zero is the same number (e.g., – 2 + 0 = – 2 and 0 + 0 = 0).\n\n<!-- page 268 -->\n\nGanita Prakash | Grade 6\n\n**Brahmagupta’s Rules for Subtraction (Brāhma-sphuṭa-siddhānta** 18.31-18.32) 1. If a smaller positive is subtracted from a larger positive, the result is positive (e.g., 3 – 2 = 1).\n2. If a larger positive is subtracted from a smaller positive, the result is negative (e.g., 2– 3 = – 1). 3. Subtracting a negative number is the same as adding the corresponding positive number (e.g., 2 – (– 3) = 2 + 3).\n4. Subtracting a number from itself gives zero (e.g., 2 – 2 = 0 and – 2 – (– 2) = 0). 5. Subtracting zero from a number gives the same number (e.g., – 2\n– 0 = – 2 and 0 – 0 = 0). Subtracting a number from zero gives the number’s inverse (e.g., 0 – (– 2) = 2).\n\nOnce you understand Brahmagupta’s rules, you can do addition and subtraction with any numbers whatsoever — positive, negative, and zero!\n\n##### \u0007Figure it Out\n\n1. Can you explain each of Brahmagupta’s rules in terms of Bela’s Building of Fun, or in terms of a number line?\n2. Give your own examples of each rule.\n\nBrahmagupta was the first to describe zero as a number on an equal footing with positive numbers as well as with negative numbers, and the first to give explicit rules for performing arithmetic operations on all such numbers, positive, negative, and zero—forming what is now called a ring. It would change the way the world does mathematics.\n\nHowever, it took many centuries for the rest of the world to adopt zero and negative numbers as numbers. These numbers were transmitted to, accepted by, and further studied by the Arab world by the 9th century, before making their way to Europe by the 13th century.\n\n<!-- page 269 -->\n\nThe Other Side of Zero\n\nSurprisingly, negative numbers were still not accepted by many European mathematicians even in the 18th century. Lazare Carnot, a French mathematician in the 18th century, called negative numbers ‘absurd’. But over time, zero as well as negative numbers proved to be indispensable in global mathematics and science, and are now considered to be critical numbers on an equal footing with and as important as positive numbers — just as Brahmagupta had recommended and explicitly described way back in the year 628 CE! This abstraction of arithmetic rules on all numbers paved the way for the modern development of algebra, which we will learn about in future classes.",
+   "text": "## 10.5 A Pinch of History\n\nLike general fractions, general integers (including zero and the negative numbers) were first conceived of and used in Asia, thousands of years ago, before they eventually spread across the world in more modern times.\n\nThe first known instances of the use of negative numbers occurred in the context of accounting. In one of China's most important mathematical works, *The Nine Chapters on Mathematical Art (Jiuzhang Suanshu)*—which was completed by the first or second century CE—positive and negative numbers were represented using red and black rods, much like the way we represented them using green and red tokens!\n\n<!-- page 267 -->\n\nThere was a strong culture of accountancy also in India in ancient times. The concept of credit and debit was written about extensively by Kautilya in his *Arthaśhāstra* (c. 300 BCE), including the recognition that an account balance could be negative. The explicit use of negative numbers in the context of accounting is seen in a number of ancient Indian works, including in the *Bakśhālī* manuscript from around the year 300 CE, where a negative number was written using a special symbol placed after the number (rather than before the number as we do today).\n\nThe first general treatment of positive numbers, negative numbers, and *zero*—all on an equal footing as equally-valid numbers on which one can perform the basic operations of addition, subtraction, multiplication, and even division—was given by Brahmagupta in his *Brāhma-sphuṭa-siddhānta* in the year 628 CE. Brahmagupta gave clear and explicit rules for operations on all numbers—positive, negative, and zero—that essentially formed the modern way of understanding these numbers that we still use today!\n\nSome of Brahmagupta's key rules for addition and subtraction of positive numbers, negative numbers and zero are given below:\n\n### Brahmagupta's Rules for Addition (Brāhma-sphuṭa-siddhānta 18.30, 628 CE)\n\n1. The sum of two positives is positive (e.g., $2 + 3 = 5$).\n2. The sum of two negatives is negative. To add two negatives, add the numbers (without the signs), and then place a minus sign to obtain the result (e.g., $(-2) + (-3) = -5$).\n3. To add a positive number and a negative number, subtract the smaller number (without the sign) from the greater number (without the sign), and place the sign of the greater number to obtain the result (e.g., $-5 + 3 = -2$, $2 + (-3) = -1$ and $-3 + 5 = 2$).\n4. The sum of a number and its inverse is zero (e.g., $2 + (-2) = 0$).\n5. The sum of any number and zero is the same number (e.g., $-2 + 0 = -2$ and $0 + 0 = 0$).\n\n<!-- page 268 -->\n\n**Brahmagupta's Rules for Subtraction (Brāhma-sphuṭa-siddhānta 18.31-18.32)**\n\n1. If a smaller positive is subtracted from a larger positive, the result is positive (e.g., $3 - 2 = 1$).\n2. If a larger positive is subtracted from a smaller positive, the result is negative (e.g., $2 - 3 = -1$).\n3. Subtracting a negative number is the same as adding the corresponding positive number (e.g., $2 - (-3) = 2 + 3$).\n4. Subtracting a number from itself gives zero (e.g., $2 - 2 = 0$ and $-2 - (-2) = 0$).\n5. Subtracting zero from a number gives the same number (e.g., $-2 - 0 = -2$ and $0 - 0 = 0$). Subtracting a number from zero gives the number's inverse (e.g., $0 - (-2) = 2$).\n\nOnce you understand Brahmagupta's rules, you can do addition and subtraction with any numbers whatsoever — positive, negative, and zero!\n\n### Figure it Out\n\n1. Can you explain each of Brahmagupta's rules in terms of Bela's Building of Fun, or in terms of a number line?\n2. Give your own examples of each rule.\n\nBrahmagupta was the first to describe zero as a number on an equal footing with positive numbers as well as with negative numbers, and the first to give explicit rules for performing arithmetic operations on all such numbers, positive, negative, and zero—forming what is now called a *ring*. It would change the way the world does mathematics.\n\nHowever, it took many centuries for the rest of the world to adopt zero and negative numbers as numbers. These numbers were transmitted to, accepted by, and further studied by the Arab world by the 9th century, before making their way to Europe by the 13th century.\n\n<!-- page 269 -->\n\nSurprisingly, negative numbers were still not accepted by many European mathematicians even in the 18th century. Lazare Carnot, a French mathematician in the 18th century, called negative numbers ‘absurd’. But over time, zero as well as negative numbers proved to be indispensable in global mathematics and science, and are now considered to be critical numbers on an equal footing with and as important as positive numbers—just as Brahmagupta had recommended and explicitly described way back in the year 628 CE! This abstraction of arithmetic rules on all numbers paved the way for the modern development of algebra, which we will learn about in future classes.",
    "page_start": 266,
    "page_end": 269
   },
   {
-   "section_id": "6-math-10-s07",
-   "heading": "Su m m a r y",
-   "text": "#### Su m m a r y\n\n- There are numbers that are less than zero. They are written with a ‘–’ sign in front of them (e.g., – 2), and are called **negative numbers**. They lie to the left of zero on the number line.\n- The numbers ..., – 4, – 3, – 2, – 1, 0, 1, 2, 3, 4, ... are called **integers**. The numbers 1, 2, 3, 4, ... are called **positive integers** and the numbers …,\n– 4, – 3, – 2, – 1 are called **negative integers**. Zero (0) is neither positive nor negative.\n- Every given number has another number associated to it which when\n\nadded to the given number gives zero. This is called the **additive inverse** of the number. For example, the additive inverse of 7 is – 7 and the additive inverse of – 543 is 543.\n- Addition can be interpreted as **Starting Position + Movement = Target Position**.\n- Addition can also be interpreted as the combination of movements or increases/decreases: **Movement 1 + Movement 2 = Total Movement**.\n- Subtraction can be interpreted as **Target Position – Starting Position = Movement**.\n\n<!-- page 270 -->\n\nGanita Prakash | Grade 6\n\n- In general, we can add two numbers by following Brahmagupta’s Rules for Addition:\n\na. If both numbers are positive, add the numbers and the result is a\n\npositive number (e.g., 2 + 3 = 5). b. If both numbers are negative, add the numbers (without the signs),\n\nand then place a minus sign to obtain the result (– 2 + (– 3) = – 5). c. If one number is positive and the other is negative, subtract the\n\nsmaller number (without the sign) from the greater number (without the sign), and place the sign of the greater number to obtain the result (e.g., – 5 + 3 = – 2). d. A number plus its additive inverse is zero (e.g., 2 + (– 2) = 0). e. A number plus zero gives back the same number (e.g., – 2 + 0 = – 2).\n- We can subtract two integers by converting the problem into an addition problem and then following the rules of addition. Subtraction of an integer is the same as the addition of its additive inverse.\n- Integers can be compared: … – 3 < – 2 < – 1 < 0 < +1 < +2 < +3 < ... Smaller numbers are to the left of larger numbers on the number line.\n- We can give meaning to positive and negative numbers by interpreting them as credits and debits. We can also interpret positive numbers as distances above a reference point like the ground level. Similarly, negative numbers can be interpreted as distances below the ground level. When measuring temperatures in degrees Celsius, positive temperatures are those above the freezing point of water, and negative temperatures are those below the freezing point of water.\n\n<!-- page 271 -->\n\nThe Other Side of Zero\n\n#### Integers: Snakes and Ladders\n\n**Rules**\n- This is a two player game. Each player has 1 pawn. Both players start at 0. Players can reach either – 50 or + 50 to win but need not decide or fix this before or during play.\n- Each player rolls two dice at a time. One dice has numbers from + 1 to + 6 and the other dice has numbers from – 1 to – 6.\n- After each roll of the two dice, the player can add or subtract them in any order and then move the steps that indicate the result. A positive result means moving towards + 50 and a negative result means moving towards – 50.\n\n<!-- page 272 -->",
+   "section_id": "6-math-10-s22",
+   "heading": "Summary",
+   "text": "## Summary\n\n- There are numbers that are less than zero. They are written with a ‘–’ sign in front of them (e.g., $-2$), and are called **negative numbers**. They lie to the left of zero on the number line.\n- The numbers $\\ldots, -4, -3, -2, -1, 0, 1, 2, 3, 4, \\ldots$ are called **integers**. The numbers $1, 2, 3, 4, \\ldots$ are called **positive integers** and the numbers $\\ldots, -4, -3, -2, -1$ are called **negative integers**. Zero (0) is neither positive nor negative.\n- Every given number has another number associated to it which when added to the given number gives zero. This is called the **additive inverse** of the number. For example, the additive inverse of 7 is $-7$ and the additive inverse of $-543$ is 543.\n- Addition can be interpreted as **Starting Position** + **Movement** = **Target Position**.\n- Addition can also be interpreted as the combination of movements or increases/decreases: **Movement 1** + **Movement 2** = **Total Movement**.\n- Subtraction can be interpreted as **Target Position** – **Starting Position** = **Movement**.\n\n<!-- page 270 -->\n\n- In general, we can add two numbers by following Brahmagupta's Rules for Addition:\n  a. If both numbers are positive, add the numbers and the result is a positive number (e.g., $2 + 3 = 5$).\n  b. If both numbers are negative, add the numbers (without the signs), and then place a minus sign to obtain the result ($-2 + (-3) = -5$).\n  c. If one number is positive and the other is negative, subtract the smaller number (without the sign) from the greater number (without the sign), and place the sign of the greater number to obtain the result (e.g., $-5 + 3 = -2$).\n  d. A number plus its additive inverse is zero (e.g., $2 + (-2) = 0$).\n  e. A number plus zero gives back the same number (e.g., $-2 + 0 = -2$).\n\n- We can subtract two integers by converting the problem into an addition problem and then following the rules of addition. Subtraction of an integer is the same as the addition of its additive inverse.\n\n- Integers can be compared: $\\ldots -3 < -2 < -1 < 0 < +1 < +2 < +3 < \\ldots$ Smaller numbers are to the left of larger numbers on the number line.\n\n- We can give meaning to positive and negative numbers by interpreting them as credits and debits. We can also interpret positive numbers as distances above a reference point like the ground level. Similarly, negative numbers can be interpreted as distances below the ground level. When measuring temperatures in degrees Celsius, positive temperatures are those above the freezing point of water, and negative temperatures are those below the freezing point of water.\n\n<!-- page 271 -->",
    "page_start": 269,
+   "page_end": 271
+  },
+  {
+   "section_id": "6-math-10-s23",
+   "heading": "Integers: Snakes and Ladders",
+   "text": "## Integers: Snakes and Ladders\n\n### Rules\n\n- This is a two player game. Each player has 1 pawn. Both players start at 0. Players can reach either $-50$ or $+50$ to win but need not decide or fix this before or during play.\n- Each player rolls two dice at a time. One dice has numbers from $+1$ to $+6$ and the other dice has numbers from $-1$ to $-6$.\n- After each roll of the two dice, the player can add or subtract them in any order and then move the steps that indicate the result. A positive result means moving towards $+50$ and a negative result means moving towards $-50$.\n\n> [Figure: Two dice; one shows faces $-2$, $-6$ and $-4$ (partly visible), the other shows faces $1$, $5$ and $3$.]\n\n[Figure: Snakes and Ladders board for integers. The path starts at a box marked 0 on the left, with rows running from 1 to 50 upward (rows: 1–10, 11–20, 21–30, 31–40, 41–50, in alternating directions) and from $-1$ to $-50$ downward (rows: $-1$ to $-10$, $-11$ to $-20$, $-21$ to $-30$, $-31$ to $-40$, $-41$ to $-50$). Numbers visible include 41, 42, 44, 45, 46, 47, 48, 49, 50 in the top row, 40, 39, 38, 35, 32 in the next, 21, 22, 23, 25, 26, 27, 28, 29 below, 20, 19, 17, 16, 14, 13, 12, 11, then 1, 2, 3, 4, 5, 6, 7, 9, 10, then $-1$, $-2$, $-3$, $-4$, $-8$, $-7$, $-10$, and so on down to $-41$, $-42$, $-44$, $-46$, $-47$, $-49$, $-50$ in the bottom row. Several coloured snakes and ladders are drawn across the board, including a ladder next to 50 and a ladder near $-40$.]\n\n<!-- page 272 -->",
+   "page_start": 271,
    "page_end": 272
   },
   {
-   "section_id": "6-math-10-s08",
+   "section_id": "6-math-10-s24",
    "heading": "Learning Material Sheets",
-   "text": "#### Learning Material Sheets\n\n<!-- page 273 -->\n\n<!-- page 274 -->\n\n<!-- page 275 -->\n\n<!-- page 276 -->\n\n<!-- page 277 -->\n\n## Tangram\n\n**Note:** Cut each shape along the white border.\n\n### B\n\n### E\n\n### A\n\n### D\n\n### C\n\n### F G\n\n<!-- page 278 -->\n\n<!-- page 279 -->\n\n## Fraction Wall\n\n**Note:** Cut each shape along the white border.\n\n|  |  | 2 2 | 3 3 | 4 4 | 5 5 | 6 6 | 7 7 | 8 8 | 9 9 | 10 10 |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 1 UNIT |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  | 9 | 10 |\n|  |  |  |  |  |  |  |  |  | 8 9 |  |  |\n|  |  |  |  |  |  |  |  | 7 8 |  |  |  |\n|  |  |  |  |  |  |  | 6 7 |  |  |  |  |\n|  |  |  |  |  |  | 5 6 |  |  |  |  |  |\n|  |  |  |  |  | 4 5 |  |  |  |  | 8 | 10 |\n|  |  |  |  |  |  |  |  |  | 7 9 |  |  |\n|  |  |  |  | 3 4 |  |  |  | 6 8 |  |  |  |\n|  |  |  |  |  |  |  | 5 7 |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  | 7 | 10 |\n|  |  |  | 2 3 |  |  | 4 6 |  |  | 6 9 |  |  |\n|  |  |  |  |  |  |  |  | 5 8 |  |  |  |\n|  |  |  |  |  | 3 5 |  |  |  |  | 6 | 10 |\n|  |  |  |  |  |  |  | 4 7 |  |  |  |  |\n|  |  |  |  |  |  |  |  |  | 5 9 |  |  |\n|  |  | 1 2 |  | 2 4 |  | 3 6 |  | 4 8 |  | 5 | 10 |\n|  |  |  |  |  |  |  |  |  | 4 9 |  |  |\n|  |  |  |  |  |  |  | 3 7 |  |  |  |  |\n|  |  |  |  |  | 2 5 |  |  |  |  | 4 | 10 |\n|  |  |  |  |  |  |  |  | 3 8 |  |  |  |\n|  |  |  | 1 3 |  |  | 2 6 |  |  | 3 9 |  |  |\n|  |  |  |  |  |  |  |  |  |  | 3 | 10 |\n|  |  |  |  |  |  |  | 2 7 |  |  |  |  |\n|  |  |  |  | 1 4 |  |  |  | 2 8 |  |  |  |\n|  |  |  |  |  |  |  |  |  | 2 9 |  |  |\n|  |  |  |  |  | 1 5 |  |  |  |  | 2 |  |\n|  |  |  |  |  |  | 1 6 |  |  |  |  |  |\n|  |  |  |  |  |  |  | 1 7 |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  | 1 8 |  |  |  |\n|  |  |  |  |  |  |  |  |  | 1 9 |  |  |\n|  |  |  |  |  |  |  |  |  |  | 1 10 |  |\n\n10 10 10\n\n<!-- page 280 -->\n\n<!-- page 281 -->\n\n**Note:** Cut the tiles along the white border.\n\n<!-- page 282 -->\n\n<!-- page 283 -->\n\n#### Notes\n\n<!-- page 284 -->\n\n#### Notes\n\n<!-- page 285 -->\n\n#### CHAPTER 10 — SOLUTIONS\n\n##### The Other Side of Zero\n\n##### Page no. 243\n\nQ. What do you press to go four floors up? What do you press to go three floors down?\n\nAns.\n\n- + + + + or + 4\n- - - - or – 3\n\n##### Page No. 244\n\nQ. Number all the floors in the Building of Fun.\n\nAns. +3: Book Store\n\n+2: Art Centre\n\n+1: Food Court\n\n0: Welcome Hall\n\n-1: Toy Store\n\n-2: Video Game.\n\n##### Page No. 245\n\n##### Figure it out\n\n##### Q.1. You start from Floor + 2 and press – 3 in the lift. Where will you reach? Write an\n\nexpression for this movement.\n\nAns. (+2) + (-3) = -1; Toy store.\n\n##### Q.2. Evaluate these expressions (you may think of them as Starting Floor + Movement by\n\nreferring to the Building of Fun).\n\n##### a. (+ 1) + (+ 4) = _______ b. (+ 4) + (+ 1) = _______\n\n##### c. (+ 4) + (– 3) = _______ d. (– 1) + (+ 2) = _______\n\n##### e. (– 1) + (+ 1) = _______ f. 0 + (+ 2) = _________\n\n##### g. 0 + (– 2) = _________\n\nAns. a. (+5) b. (+5) c. (+1) d. (+1)\n\ne. 0 f. (+2) g. (-2)\n\n[1]\n\n<!-- page 286 -->\n\n##### Q.3. Starting from different floors, find the movements required to reach Floor – 5. For\n\nexample, if I start at Floor + 2, I must press – 7 to reach Floor – 5. The expression is (+ 2) + (– 7) = – 5.\n\n##### Find more such starting positions and the movements needed to reach Floor – 5 and\n\nwrite the expressions.\n\nAns. Starting floor + Movement = Target Floor\n\n+1 + (-6) = (-5)\n\n-2 + (-3) = (-5)\n\n0 + (-5) = (-5)\n\n(Try more possibilities)\n\n##### Page No. 246\n\n##### Figure it out\n\n##### Q. Evaluate these expressions by thinking of them as the resulting movement of\n\n##### combining button presses:\n\n##### a. (+ 1) + (+ 4) = _____________ b. (+ 4) + (+ 1) = _____________\n\n##### c. (+ 4) + (– 3) + (– 2) = _______ d. (– 1) + (+ 2) + (– 3) = _______\n\nAns. a. (+5) b. (+5) c. (-1) d. (-2)\n\n##### Q. Write the inverses of these numbers:\n\n+4, –4, –3, 0, +2, –1.\n\nAns. Inverse of +4 = -4\n\nInverse of -4 = +4\n\nInverse of -3 = +3\n\nInverse of 0 = 0\n\nInverse of +2 = (-2)\n\nInverse of -1 = +1\n\nQ. Connect the inverses by drawing lines.\n\n(+5) (-7) (–8) (+9)\n\n(–9) (+8) (-5) (+7)\n\n[2]\n\n<!-- page 287 -->\n\n##### Ans. (+5) (-7) (–8) (+9)\n\n(–9) (+8) (-5) (+7)\n\nQ. Who is on the lowest floor?\n\n1. Jay is in the Art Centre. So, he is on Floor +2.\n\n2. Asin is in the Sports Centre. So, she is on Floor ___.\n\n3. Binnu is in the Cinema Centre. So, she is on Floor ____.\n\n4. Aman is in the Toys Shop. So, he is on Floor ____.\n\nAns. Binnu is on the lowest floor.\n\n1. +2\n\n2. +5\n\n3. -3\n\n4. -1\n\n##### Page No. 247\n\n##### Figure it out\n\n##### Q.1. Compare the following numbers using the Building of Fun and fill in the boxes\n\nwith < or >.\n\n##### Ans. a. (–2) +5 b. (–5) + 4 c. (–5) – 3\n\n##### d. + 6 – 6 e. 0 – 4 f. 0 + 4\n\nAns. a. < b. < c. < d. > e. > f. <\n\n##### Q.2. Imagine the Building of Fun with more floors. Compare the numbers and fill in the\n\n##### boxes with < or >:\n\n> a.\n\n##### a. (–10) (–12) b. + 17 (–10)\n\n##### c. 0 (–20) d. + 9 (–9)\n\n##### e. (–25) (–7) f. + 15 (–17)\n\nAns. a. > b. > c. > d. > e. < f. >\n\n[3]\n\n<!-- page 288 -->\n\n| G R E |  |\n| --- | --- |\n|  | 0 |\n| D |  |\n| Q C P B S A |  |\n\n-12 -11 -10 -9 -8 -7 -6 -5 -4 -3 +8 -2 -1 0 +1 +7 +2 +3 +4 +6 +5\n\n##### Q.3. If Floor A = – 12, Floor D = – 1 and Floor E = + 1 in the building shown on the right\n\nas a line, find the numbers of Floors B, C, F, G and H.\n\nAns. B = -9 C = -6 F = +2 G = +6 H = +11\n\nQ.4. Mark the following floors of the building shown on the right.\n\n##### a. -7 b. -4 c. +3 d. -10\n\nAns. a. P = -7 b. Q = - 4 c. R = +3 d. S = -10\n\n##### Page 248\n\nQ. Evaluate 15 – 5, 100 – 10 and 74 – 34 from this perspective.\n\n- 15 -5 can be expressed as 5 + ? = 15 . So, ? = 10\n- 100 – 10 can be expressed as 10 + ? = 100. So, ? = 90\n- 74 – 34 can be expressed as 34 + ? = 74. So, ? = 40\n\n##### Page No. 249\n\n##### Figure it out\n\n##### Q. Complete these expressions. You may think of them as finding the movement needed\n\nto reach the Target Floor from the Starting Floor.\n\n##### a. (+ 1) – (+ 4) = _______ b. (0) – (+ 2) = _________\n\n##### c. (+ 4) – (+ 1) = _______ d. (0) – (– 2) = _________\n\n##### e. (+ 4) – (– 3) = _______ f. (– 4) – (– 3) = ________\n\n##### g. (– 1) – (+ 2) = _______ h. (– 2) – (– 2) = ________\n\n##### i. (– 1) – (+1) = _______ j. (+ 3) – (– 3) = ________\n\nAns. a. (-3)\n\nb. (-2)\n\nc. (+3) d. (+2)\n\ne. (+7) f. (-1)\n\ng. (-3)\n\nh. (0)\n\ni. (-2)\n\nj. (+6)\n\n[4]\n\n<!-- page 289 -->\n\n##### Page No. 251\n\n##### Figure it out\n\nQ. Complete these expressions.\n\n##### a. (+ 40) + ______ = + 200 b. (+ 40) + _______ = – 200\n\n##### c. (– 50) + ______ = + 200 d. (– 50) + _______ = – 200\n\n##### e. (– 200) – (– 40) = _______ f. (+ 200) – (+ 40) = _______\n\n##### g. (– 200) – (+ 40) = _______\n\nAns. a. (+160) b. (-240) c. (+250) d. (-150)\n\ne. (-160) f. (+160) g. (-240)\n\n##### Page No. 252\n\n##### Q. In the other exercises that you did above, did you notice that subtracting a negative\n\nnumber was the same as adding the corresponding positive number?\n\nAns. Yes. The infinite lift reminds us of a number line.\n\nQ. If, from 5 you wish to go over to 9, how far must you travel along the number line?\n\nAns. 4 steps.\n\nQ. Now, from 9, if you wish to go to 3, how much must you travel along the number line?\n\nAns. One must travel 6 steps backward or move (-6) from 9 to go to 3.\n\nQ. Now, from 3, if you wish to go to – 2, how far must you travel?\n\nAns. One must travel 5 steps backward or move (-5) from 3 to go to -2.\n\n##### Page No. 253\n\n##### Figure it out\n\n| -10 -9 -8 |  |  |  |  |  |  | R |  |  |  |  |  |  | Q |  |  |  | P | 0 |  | A | 3 4 |  | B | 6 7 |  | C | 9 10 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | -10 |  | -9 |  | -8 |  | -7 |  | -6 |  | -5 |  | -4 | -3 |  | -2 |  | -1 | 0 | 1 | 2 |  | 4 | 5 | 6 | 7 | 8 |  |\n\nQ1. Mark 3 positive numbers and 3 negative numbers on the number line above.\n\nAns. Mark A = 2, B = 5, C = 8\n\nP = -1, Q = -3, R = -7\n\n(Try other possibilities)\n\n[5]\n\n<!-- page 290 -->\n\n##### Q2. Write down the above 3 marked negative numbers in the following boxes:\n\nAns. -7, -3, -1\n\nQ3. Is 2 > – 3? Why? Is – 2 < 3? Why?\n\nAns. Yes, 2 > -3. On the number line 2 is on the right side of (-3).\n\nYes, -2 < 3, as 3 is on the right of -2.\n\n##### Q4. What are (i) – 5 + 0 (ii) 7 + (– 7) (iii) – 10 + 20 (iv) 10 – 20 (v) 7 – (– 7)\n\n(vi) – 8 – (– 10)?\n\nAns.\n(i) – 5 + 0 = -5 (ii) 7 + (– 7) = 0\n(iii) – 10 + 20 =10\n\n(iv) 10 – 20 = -10\n(v) 7 – (– 7) = 14\n(vi) – 8 – (– 10) = 2\n\n##### Page No. 255\n\n##### Q. Use unmarked number lines to evaluate these expressions:\n\n##### a. – 125 + (– 30) = _______\n\n##### b. + 105 – (– 55) = _______\n\n##### c. + 80 – (– 150) = _______\n\n##### d. – 99 – (– 200) = _______\n\nAns.\n\na. – 125 + (– 30) = -155\n\nb. + 105 – (– 55) = 160\n\nc. + 80 – (– 150) = 230\n\nd. – 99 – (– 200) = 101\n\n##### Page No. 257\n\n##### Figure it out\n\nQ.1. Complete the additions using tokens.\n\n##### a. (+ 6) + (+ 4) b. (– 3) + (– 2)\n\n##### c. (+ 5) + (– 7) d. (– 2) + (+ 6)\n\nAns. a. +10\n\nb. -5\n\n[6]\n\n<!-- page 291 -->\n\nc. (-2)\n\nd. (+4)\n\n##### Q.2. Cancel the zero pairs in the following two sets of tokens. On what floor is the lift\n\nattendant in each case? What is the corresponding addition statement in each case?\n\na. b.\n\nAns. a. (+3) + (-5) = (-2) b. (+6) + (-3) = (+3)\n\nAttendant is at (-2) Floor Attendant is at (+3) Floor\n\n##### Page No. 258\n\n##### Figure it out\n\n##### Q.1. Evaluate the following differences using tokens. Check that you get the same result\n\n##### as with other methods you now know:\n\n##### a. (+ 10) – (+ 7) b. (– 8) – (– 4) c. (– 9) – (– 4)\n\n##### d. (+ 9) – (+ 12) e. (– 5) – (– 7) f. (– 2) – (– 6)\n\nAns. a.\n\n(+10) – (+7) = (+3)\n\nb.\n\n(-8) – (-4) = (-8) + (+4) = (-4)\n\nc.\n\n(-9) – (-4) = (-9) + (+4) = (-5)\n\nd.\n\n(+9) – (+12) = (-3)\n\ne.\n\n[7]\n\n<!-- page 292 -->\n\n(-5) - (-7) = (+2)\n\nf.\n\n(-2) – (-6) = +4\n\nTry for other methods.\n\n##### Q.2. Complete the subtractions:\n\n##### a. (– 5) – (– 7) b. (+ 10) – (+ 13) c. (– 7) – (– 9)\n\n##### d. (+ 3) – (+ 8) e. (– 2) – (– 7) f. (+ 3) – (+ 15)\n\nAns. a. +2\n\nb. -3\n\nc. +2\n\nd. (-5)\n\ne. +5\n\nf. (-12)\n\n##### Section 10.2\n\n##### Page No. 259\n\n##### Figure it out\n\nQ.1. Try to subtract: – 3 – (+ 5).\n\nHow many zero pairs will you have to put in? What is the result?\n\nAns. -8\n\nWe have to put five zero pairs.\n\nQ.2. Evaluate the following using tokens.\n\n##### a. (– 3) – (+ 10) b. (+ 8) – (– 7) c. (– 5) – (+ 9)\n\n##### d. (– 9) – (+ 10) e. (+ 6) – (– 4) f. (– 2) – (+ 7)\n\nAns. a. -13 b. +15 c. -14 d. -19 e. +10 f. -9\n\n[8]\n\n<!-- page 293 -->\n\n##### Section 10.3\n\n##### Page No. 259\n\n**Q. Your new bank balance is _______.** Ans. ₹ 100 + ₹ 60 = ₹ 160\n\n**Q. Your bank balance is now ______.** Ans. ₹ 160 - ₹ 30 = ₹ 130\n\nQ. What is your bank balance now? ______ Is this possible?\n\nAns. ₹ 130 - ₹ 150 = - ₹ 20\n\n##### Page No. 260\n\n##### Q. What is your balance now? ______ Ans. ₹ 180\n\n##### Section 10.3\n\n##### Page 260\n\n##### Figure it Out\n\n##### Q1. Suppose you start with 0 rupees in your bank account, and then you have credits of\n\n##### ₹30, ₹40, and ₹50, and debits of ₹40, ₹50, and ₹60. What is your bank account balance now?]\n\n**Ans.** (+30) + (+40) + (+50) – (40) – (50) – (60)\n\nBalance amount in Bank Account = ₹ (-30)\n\n##### Q2. Suppose you start with 0 rupees in your bank account, and then you have debits of\n\n₹1, 2, 4, 8, 16, 32, 64, and 128, and then a single credit of ₹256. What is your bank account balance now?\n\n**Ans.** (1) – (2) – (4) – (8) – (16) – (32) – (64) – (128) + (256)\n\nBalance amount in the Bank Account = ₹ 1\n\n[9]\n\n<!-- page 294 -->\n\n##### Figure it Out\n\n##### Page 261\n\n##### Q.1. Looking at the geographical cross section fill in the respective heights:\n\n##### A B C D\n\nE. F. G.\n\nAns. Approximate heights are:\n\nA. (+1500) m\n\nB. (-500) m\n\nC. (+300) m\n\nD. (-1200) m\n\nE. (+1200) m\n\nF. (-200) m\n\nG. (+100) m\n\n##### Q.2. Which is the highest point in this geographical cross-section? Which is the lowest\n\npoint?\n\nAns. Highest point is A & the lowest point is D.\n\nQ.3. Can you write the points A, B, …., G in a sequence of decreasing order of heights?\n\nCan you write the point in a sequence of increasing order of heights?\n\nAns. A, E, C, G, F, B, D. (Decreasing order)\n\nD, B, F, G, C, E, A. (Increasing order)\n\nQ.4. What is the highest point above sea level on Earth? What is its height?\n\nAns. Mount-Everest. Its height above sea level is 8848m.\n\n##### Q.5. What is the lowest point with respect to sea level on land or on the ocean floor? What\n\nis its height? (This height should be negative).\n\nAns. The lowest know point on the Earth is the challenger deep, located in the Mariana trench\n\nin the Pacific Ocean. Its depth is approximately -10994 m.\n\n[10]\n\n<!-- page 295 -->\n\n##### Page 262\n\n##### Figure it Out\n\n##### Q.2 Leh in Ladakh gets very cold during the winter. The following is a table of\n\ntemperature readings taken during different times of the day and night in Leh on a day in November. Match the temperature with the appropriate time of the day and night.\n\n> Ans.\n\n| Temperature | Time |\n| --- | --- |\n| 14°C | 02:00 p.m. |\n| 8°C | 11:00 a.m |\n| –2°C | 11:00 p.m. |\n| –4°C | 02:00 a.m. |\n\n##### Section 10.4\n\n##### Page 263\n\n##### Figure it Out\n\n**Q.1** Do the calculations for the second grid above and find the border sum.\n\nAns. -3, -3, -3, -3\n\n**Q.2** Complete the grids to make the required border sum:\n\nAns. One of the ways:\n\n-10 10 4 5 -5 9 -10 5 Border sum +4\n\n6 8 -16 11 -5 -19 -2 19 Border sum -2\n\n7 -2 -9 -3 -5 -8 -6 10 Border sum -4\n\nThink of other ways.\n\n[11]\n\n<!-- page 296 -->\n\n##### Page 265\n\n##### Figure it Out\n\nQ.2\n\n-8 -14\n\n##### Figure it Out\n\nQ.1Write all the integers between the given pairs, in increasing order.\n\na. 0 and –7 b. –4 and 4 c. –8 and –15 d. –30 and –23\n\nAns. a. -6,-5,-4,-3,-2,-1 b. -3,-2,-1,0,1,2,3\n\nc. -14,-13,-12,-11,-10,-9 d. -29,-28,-27,-26,-25,-24\n\nQ.2Give three numbers such that their sum is –8.\n\nAns. One of the combinations is -5,7,-10.\n\nThink of other combinations.\n\n##### Q.3 There are two dice whose faces have these numbers: –1, 2, –3, 4, –5, 6. The smallest\n\npossible sum upon rolling these dice is –10 = (–5) + (–5) and the largest possible sum is 12 = (6)+(6). Some numbers between (–10) and (+12) are not possible to get by adding numbers on these two dice. Find those numbers.\n\nAns. -9,-7,-5,0,2,7,9,11\n\n##### Q.4 Solve these:\n\n> Ans.\n\n| -5 | -21 | -5 | -21 |\n| --- | --- | --- | --- |\n| -5 | 5 | 5 | 21 |\n\n[12]\n\n<!-- page 297 -->\n\nQ.5 Find the years below.\n\n##### a. From the present year, which year was it 150 years ago? ________\n\n##### b. From the present year, which year was it 2200 years ago? _______\n\nHint: Recall that there was no year 0.\n\n##### c. What will be the year 320 years after 680 BCE? ________\n\nAns. c. -360 BCE\n\n##### Q.6Complete the following sequences:\n\na. (–40), (–34), (–28), (–22), _____, ______, ______\n\nb. 3, 4, 2, 5, 1, 6, 0, 7, _____, _____, _____\n\nc. _____, ______, 12, 6, 1, (–3), (–6), _____, ______, ______\n\nAns. a. -16, -10, -4\n\nb. -1,8, -2\n\nc. 27, 19, … -8,-9,-9\n\n##### Q.7 Here are six integer cards: (+1), (+7), (+18), (–5), (–2), (–9). You can pick any of these\n\nand make an expression using addition(s) and subtraction(s). Here is an expression: (+18)+(+1)–(+7) – (–2) which gives a value (+14). Now, pick cards and make an expression such that its value is closer to (– 30).\n\nAns. One of the ways is (-2) + (-9) – (+18) – (+1) = -30\n\n##### Q.8 The sum of two positive integers is always positive but a (positive integer) – (positive\n\n**integer) can be positive or negative. What about** a. (positive) – (negative) b. (positive) + (negative) c. (negative) + (negative) d. (negative) – (negative) e. (negative) – (positive) f. (negative) + (positive)\n\nAns. a. positive b. can be positive or negative c. negative d. can be positive or negative e. negative f. can be positive or negative\n\n##### Q.9 This string has a total of 100 tokens arranged in a particular pattern. What is the\n\nvalue of the string?\n\nAns. 20\n\n[13]",
+   "text": "## Learning Material Sheets\n\n<!-- page 273 -->\n\nThis page contains no text content. It is a blank dot-grid sheet (a grid of evenly spaced dots with a dashed cut line and scissors icons at the left margin), and only the running footer \"Reprint 2026-27\" appears, which is skipped.\n\n[Figure: Dot grid page with 17 columns and 24 rows of evenly spaced dots, a vertical dashed cutting line with scissors icons at the top and bottom of the left margin]\n\n<!-- page 274 -->\n\n[Figure: A full-page grid of evenly spaced grey dots, 17 columns by 23 rows (dot-paper), with a dashed vertical cutting line along the right edge marked with scissors symbols at the top and bottom. No text is printed on the page apart from the running footer.]\n\n<!-- page 275 -->\n\n[Figure: A blank square-grid (graph paper) page, 16 columns by 24 rows of equal squares, with a dashed cut-line and scissors icons along the left edge. No text, numbers or labels inside the grid.]\n\n<!-- page 276 -->\n\n[Figure: A blank square-grid sheet (graph paper) of 16 columns by 24 rows, with scissors marks and a dashed cut line along the right edge.]\n\n<!-- page 277 -->\n\n## TANGRAM\n\n**Note:** Cut each shape along the white border.\n\n[Figure: A square tangram divided into seven coloured pieces labelled A to G. A (magenta) is a large triangle on the left; B (blue) is a large triangle along the top; C (light blue) is a small triangle in the centre-bottom; D (green) is a square tilted on its corner at the right-centre; E (orange-red) is a small triangle at the top right; F (purple) is a medium triangle at the bottom right; G (orange) is a parallelogram along the bottom. A dashed cutting line with scissors marks the left edge of the page.]\n\n<!-- page 278 -->\n\nThis page contains no printed textbook content. It is a blank pink page with a scissors-and-dashed-line cut mark along the right edge and the diagonal watermark \"© NCERT not to be republished\". The only other text is the footer \"Reprint 2026-27\", which is skipped as running footer.\n\n<!-- page 279 -->\n\n## FRACTION WALL\n\n**Note:** Cut each shape along the white border.\n\n[Figure: A fraction wall made of ten vertical purple strips, each cut along white borders into labelled pieces. Strip 1 is a single piece labelled \"1 UNIT\". Strip 2 has pieces $\\frac{2}{2}$ (top) and $\\frac{1}{2}$ (bottom). Strip 3 has $\\frac{3}{3}$, $\\frac{2}{3}$, $\\frac{1}{3}$ from top to bottom. Strip 4 has $\\frac{4}{4}$, $\\frac{3}{4}$, $\\frac{2}{4}$, $\\frac{1}{4}$. Strip 5 has $\\frac{5}{5}$, $\\frac{4}{5}$, $\\frac{3}{5}$, $\\frac{2}{5}$, $\\frac{1}{5}$. Strip 6 has $\\frac{6}{6}$, $\\frac{5}{6}$, $\\frac{4}{6}$, $\\frac{3}{6}$, $\\frac{2}{6}$, $\\frac{1}{6}$. Strip 7 has $\\frac{7}{7}$, $\\frac{6}{7}$, $\\frac{5}{7}$, $\\frac{4}{7}$, $\\frac{3}{7}$, $\\frac{2}{7}$, $\\frac{1}{7}$. Strip 8 has $\\frac{8}{8}$, $\\frac{7}{8}$, $\\frac{6}{8}$, $\\frac{5}{8}$, $\\frac{4}{8}$, $\\frac{3}{8}$, $\\frac{2}{8}$, $\\frac{1}{8}$. Strip 9 has $\\frac{9}{9}$, $\\frac{8}{9}$, $\\frac{7}{9}$, $\\frac{6}{9}$, $\\frac{5}{9}$, $\\frac{4}{9}$, $\\frac{3}{9}$, $\\frac{2}{9}$, $\\frac{1}{9}$. Strip 10 has $\\frac{10}{10}$, $\\frac{9}{10}$, $\\frac{8}{10}$, $\\frac{7}{10}$, $\\frac{6}{10}$, $\\frac{5}{10}$, $\\frac{4}{10}$, $\\frac{3}{10}$, $\\frac{2}{10}$, $\\frac{1}{10}$. The labels are printed rotated. A dashed cutting line with scissors runs along the left edge of the page.]\n\n<!-- page 280 -->\n\nThe page is blank. It has a pale purple background, a dashed cut line with scissors icons at the right edge, and a faint \"© NCERT not to be republished\" watermark. The only other printed text is the running footer \"Reprint 2026-27\", which is skipped. There is no content to transcribe.\n\n<!-- page 281 -->\n\n**Note:** Cut the tiles along the white border.\n\n[Figure: A grid of 8 columns by 10 rows (80 square tiles), each tile divided by a diagonal from bottom-left to top-right into a blue upper-left triangle and a yellow lower-right triangle.]\n\n<!-- page 282 -->\n\nThis page has no printed content to transcribe. It is blank apart from the \"© NCERT not to be republished\" watermark, a dashed cut line with scissors icons along the right edge, and the footer \"Reprint 2026-27\", which is skipped as running footer.\n\n<!-- page 283 -->\n\n## Notes\n\n<!-- page 284 -->\n\n## Notes",
    "page_start": 272,
-   "page_end": 297
+   "page_end": 284
+  },
+  {
+   "section_id": "6-math-10-s25",
+   "heading": "Answers to the chapter's questions (from the book)",
+   "text": "## Answers to the chapter's questions (from the book)\n\n<!-- answers page 1 -->\n\n# CHAPTER 10 — SOLUTIONS\n\n### The Other Side of Zero\n\n**Page no. 243**\n\n**Q. What do you press to go four floors up? What do you press to go three floors down?**\n\nAns.\n\n- \\+ \\+ \\+ \\+ or + 4\n- \\- \\- \\- or – 3\n\n**Page No. 244**\n\n**Q. Number all the floors in the Building of Fun.**\n\nAns. \n+3: Book Store\n\n+2: Art Centre\n\n+1: Food Court\n\n0: Welcome Hall\n\n-1: Toy Store\n\n-2: Video Game.\n\n**Page No. 245**\n\n### Figure it out\n\n1. You start from Floor + 2 and press – 3 in the lift. Where will you reach? Write an expression for this movement.\n\nAns. (+2) + (-3) = -1; Toy store.\n\n2. Evaluate these expressions (you may think of them as Starting Floor + Movement by referring to the Building of Fun).\n\n   a. (+ 1) + (+ 4) = _______  \n   b. (+ 4) + (+ 1) = _______  \n   c. (+ 4) + (– 3) = _______  \n   d. (– 1) + (+ 2) = _______  \n   e. (– 1) + (+ 1) = _______  \n   f. 0 + (+ 2) = _________  \n   g. 0 + (– 2) = _________\n\nAns. a. (+5)  b. (+5)  c. (+1)  d. (+1)  e. 0  f. (+2)  g. (-2)\n\n<!-- answers page 2 -->\n\nQ.3. Starting from different floors, find the movements required to reach Floor – 5. For example, if I start at Floor + 2, I must press – 7 to reach Floor – 5. The expression is (+ 2) + (– 7) = – 5.\n\nFind more such starting positions and the movements needed to reach Floor – 5 and write the expressions.\n\nAns. Starting floor + Movement = Target Floor\n\n+1 + (-6) = (-5)\n\n-2 + (-3) = (-5)\n\n0 + (-5) = (-5)\n\n(Try more possibilities)\n\n**Page No. 246**\n\n### Figure it out\n\nQ. Evaluate these expressions by thinking of them as the resulting movement of combining button presses:\n\na. (+ 1) + (+ 4) = ______________\n\nb. (+ 4) + (+ 1) = ______________\n\nc. (+ 4) + (– 3) + (– 2) = ________\n\nd. (– 1) + (+ 2) + (– 3) = ________\n\nAns. a. (+5) b. (+5) c. (-1) d. (-2)\n\nQ. Write the inverses of these numbers:\n\n+4, –4, –3, 0, +2, –1.\n\nAns. Inverse of +4 = -4\n\nInverse of -4 = +4\n\nInverse of -3 = +3\n\nInverse of 0 = 0\n\nInverse of +2 = (-2)\n\nInverse of -1 = +1\n\nQ. Connect the inverses by drawing lines.\n\n[Figure: Two rows of numbers. Top row: (+5), (-7), (–8), (+9). Bottom row: (–9), (+8), (-5), (+7). A line is drawn from (-7) in the top row to (+7) in the bottom row.]\n\n<!-- answers page 3 -->\n\nAns. **(+5)** **(-7)** **(–8)** **(+9)**\n\n[Figure: Matching diagram. Top row: (+5), (-7), (–8), (+9). Bottom row: (–9), (+8), (-5), (+7). Lines join (+5) to (-5), (-7) to (+7), (–8) to (+8), and (+9) to (–9).]\n\n**Q. Who is on the lowest floor?**\n\n1. Jay is in the Art Centre. So, he is on Floor +2.\n2. Asin is in the Sports Centre. So, she is on Floor ___.\n3. Binnu is in the Cinema Centre. So, she is on Floor ____.\n4. Aman is in the Toys Shop. So, he is on Floor ____.\n\nAns. Binnu is on the lowest floor.\n\n1. +2\n2. +5\n3. -3\n4. -1\n\n**Page No. 247**\n\n### Figure it out\n\n**Q.1.** Compare the following numbers using the Building of Fun and fill in the boxes with < or >.\n\nAns.\na. $(-2)$ [box] $+5$\nb. $(-5)$ [box] $+4$\nc. $(-5)$ [box] $-3$\nd. $+6$ [box] $-6$\ne. $0$ [box] $-4$\nf. $0$ [box] $+4$\n\nAns. a. < b. < c. < d. > e. > f. <\n\n**Q.2.** Imagine the Building of Fun with more floors. Compare the numbers and fill in the boxes with < or >:\n\na. $(-10)$ [box] $(-12)$\nb. $+17$ [box] $(-10)$\nc. $0$ [box] $(-20)$\nd. $+9$ [box] $(-9)$\ne. $(-25)$ [box] $(-7)$\nf. $+15$ [box] $(-17)$\n\nAns. a. > b. > c. > d. > e. < f. >\n\n<!-- answers page 4 -->\n\nQ.3. If Floor A = – 12, Floor D = – 1 and Floor E = + 1 in the building shown on the right as a line, find the numbers of Floors B, C, F, G and H.\n\nAns. B = -9  C = -6  F = +2  G = +6  H = +11\n\n> [Figure: A vertical number line with arrows at both ends, marked from -12 at the bottom to +8 at the top, with tick labels -12, -11, -10, -9, -8, -7, -6, -5, -4, -3, -2, -1, 0, +1, +2, +3, +4, +5, +6, +7, +8. Floor letters are placed beside it: G (near +6), R (near +3), E (near +1), D (near -1), Q (near -4), C (near -6), P (near -7), B (near -9), S (near -10), A (near -12). The letters R, Q, P and S are in purple.]\n\nQ.4. Mark the following floors of the building shown on the right.\n\na. -7  b. -4  c. +3  d. -10\n\nAns. a. P = -7  b. Q = - 4  c. R = +3  d. S = -10\n\n**Page 248**\n\nQ. Evaluate 15 – 5, 100 – 10 and 74 – 34 from this perspective.\n\n- 15 -5 can be expressed as 5 + ? = 15 . So, ? = 10\n- 100 – 10 can be expressed as 10 + ? = 100. So, ? = 90\n- 74 – 34 can be expressed as 34 + ? = 74. So, ? = 40\n\n**Page No. 249**\n\n### Figure it out\n\nQ. Complete these expressions. You may think of them as finding the movement needed to reach the Target Floor from the Starting Floor.\n\na. $(+1) - (+4) =$ _______  b. $(0) - (+2) =$ _________\n\nc. $(+4) - (+1) =$ _______  d. $(0) - (-2) =$ _________\n\ne. $(+4) - (-3) =$ _______  f. $(-4) - (-3) =$ ________\n\ng. $(-1) - (+2) =$ _______  h. $(-2) - (-2) =$ ________\n\ni. $(-1) - (+1) =$ _______  j. $(+3) - (-3) =$ ________\n\nAns.\na. (-3)\nb. (-2)\nc. (+3)  d. (+2)\ne. (+7)  f. (-1)\ng. (-3)\nh. (0)\ni. (-2)\nj. (+6)\n\n<!-- answers page 5 -->\n\nPage No. 251\n\n### Figure it out\n\n**Q. Complete these expressions.**\n\na. $(+40) + \\_\\_\\_\\_\\_\\_ = +200$\n\nb. $(+40) + \\_\\_\\_\\_\\_\\_\\_ = -200$\n\nc. $(-50) + \\_\\_\\_\\_\\_\\_ = +200$\n\nd. $(-50) + \\_\\_\\_\\_\\_\\_\\_ = -200$\n\ne. $(-200) - (-40) = \\_\\_\\_\\_\\_\\_\\_$\n\nf. $(+200) - (+40) = \\_\\_\\_\\_\\_\\_\\_$\n\ng. $(-200) - (+40) = \\_\\_\\_\\_\\_\\_\\_$\n\nAns. a. $(+160)$ b. $(-240)$ c. $(+250)$ d. $(-150)$\n\ne. $(-160)$ f. $(+160)$ g. $(-240)$\n\nPage No. 252\n\n**Q. In the other exercises that you did above, did you notice that subtracting a negative number was the same as adding the corresponding positive number?**\n\nAns. Yes. The infinite lift reminds us of a number line.\n\n**Q. If, from 5 you wish to go over to 9, how far must you travel along the number line?**\n\nAns. 4 steps.\n\n**Q. Now, from 9, if you wish to go to 3, how much must you travel along the number line?**\n\nAns. One must travel 6 steps backward or move $(-6)$ from 9 to go to 3.\n\n**Q. Now, from 3, if you wish to go to $-2$, how far must you travel?**\n\nAns. One must travel 5 steps backward or move $(-5)$ from 3 to go to $-2$.\n\nPage No. 253\n\n### Figure it out\n\n[Figure: A number line with arrows at both ends, marked from -10 to 10. Labelled points: R at -7, Q at -3, P at -1, A at 2, B at 5, C at 8. Tick labels: -10, -9, -8, -7, -6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.]\n\n**Q1. Mark 3 positive numbers and 3 negative numbers on the number line above.**\n\nAns. Mark A = 2, B = 5, C = 8\n\nP = -1, Q = -3, R = -7\n\n(Try other possibilities)\n\n<!-- answers page 6 -->\n\n**Q2.** Write down the above 3 marked negative numbers in the following boxes:\n\n[Figure: three empty green rounded boxes in a row]\n\nAns. -7, -3, -1\n\n**Q3.** Is $2 > -3$? Why? Is $-2 < 3$? Why?\n\nAns. Yes, $2 > -3$. On the number line 2 is on the right side of $(-3)$.\n\nYes, $-2 < 3$, as 3 is on the right of $-2$.\n\n**Q4.** What are (i) $-5 + 0$ (ii) $7 + (-7)$ (iii) $-10 + 20$ (iv) $10 - 20$ (v) $7 - (-7)$ (vi) $-8 - (-10)$?\n\nAns. (i) $-5 + 0 = -5$ (ii) $7 + (-7) = 0$ (iii) $-10 + 20 = 10$\n\n(iv) $10 - 20 = -10$ (v) $7 - (-7) = 14$ (vi) $-8 - (-10) = 2$\n\n**Page No. 255**\n\n**Q.** Use unmarked number lines to evaluate these expressions:\n\n**a.** $-125 + (-30) =$ _______\n\n**b.** $+105 - (-55) =$ _______\n\n**c.** $+80 - (-150) =$ _______\n\n**d.** $-99 - (-200) =$ _______\n\nAns.\n\na. $-125 + (-30) = -155$\n\nb. $+105 - (-55) = 160$\n\nc. $+80 - (-150) = 230$\n\nd. $-99 - (-200) = 101$\n\n**Page No. 257**\n\n**Figure it out**\n\n**Q.1.** Complete the additions using tokens.\n\n**a.** $(+6) + (+4)$  **b.** $(-3) + (-2)$\n\n**c.** $(+5) + (-7)$  **d.** $(-2) + (+6)$\n\nAns. a. +10\n\nb. -5\n\n<!-- answers page 7 -->\n\nc. (-2)\nd. (+4)\n\n**Q.2.** Cancel the zero pairs in the following two sets of tokens. On what floor is the lift attendant in each case? What is the corresponding addition statement in each case?\n\na. [Figure: 3 green tokens with a plus sign in the top row, and 5 orange tokens with a minus sign in the bottom row]\n\nb. [Figure: 6 green tokens with a plus sign in the top row, and 3 orange tokens with a minus sign in the bottom row]\n\n**Ans.**\n\na. $(+3) + (-5) = (-2)$\n\nAttendant is at $(-2)$ Floor\n\nb. $(+6) + (-3) = (+3)$\n\nAttendant is at $(+3)$ Floor\n\n**Page No. 258**\n\n**Figure it out**\n\n**Q.1.** Evaluate the following differences using tokens. Check that you get the same result as with other methods you now know:\n\na. $(+10) - (+7)$  b. $(-8) - (-4)$  c. $(-9) - (-4)$\n\nd. $(+9) - (+12)$  e. $(-5) - (-7)$  f. $(-2) - (-6)$\n\n**Ans.**\n\na. [Figure: 10 green plus tokens in a row; the first 7 are crossed out with slashes, the last 3 are not]\n\n$(+10) - (+7) = (+3)$\n\nb. [Figure: 8 orange minus tokens in a row; the first 4 are crossed out with slashes, the last 4 are not]\n\n$(-8) - (-4) = (-8) + (+4) = (-4)$\n\nc. [Figure: 9 orange minus tokens in a row; the first 4 are crossed out with slashes, the last 5 are not]\n\n$(-9) - (-4) = (-9) + (+4) = (-5)$\n\nd. [Figure: 12 green plus tokens in a row, all crossed out with slashes, followed by 3 orange minus tokens in a second row that are not crossed out]\n\n$(+9) - (+12) = (-3)$\n\ne. [Figure: 7 orange minus tokens in a row, all crossed out with slashes]\n\n<!-- answers page 8 -->\n\n[Figure: Two green circular tokens, each marked with a plus sign (+).]\n\n(-5) - (-7) = (+2)\n\nf.\n\n[Figure: Six orange circular tokens, each marked with a minus sign (−), in a row.]\n\n[Figure: Four green circular tokens, each marked with a plus sign (+), in a row.]\n\n(-2) – (-6) = +4\n\nTry for other methods.\n\n**Q.2. Complete the subtractions:**\n\n**a.** $(-5) - (-7)$ **b.** $(+10) - (+13)$ **c.** $(-7) - (-9)$\n\n**d.** $(+3) - (+8)$ **e.** $(-2) - (-7)$ **f.** $(+3) - (+15)$\n\nAns.\n\na. +2\n\nb. -3\n\nc. +2\n\nd. (-5)\n\ne. +5\n\nf. (-12)\n\n**Section 10.2**\n\n**Page No. 259**\n\n### Figure it out\n\n**Q.1. Try to subtract: $-3 - (+5)$.**\n\n**How many zero pairs will you have to put in? What is the result?**\n\nAns. -8\n\nWe have to put five zero pairs.\n\n**Q.2. Evaluate the following using tokens.**\n\n**a.** $(-3) - (+10)$ **b.** $(+8) - (-7)$ **c.** $(-5) - (+9)$\n\n**d.** $(-9) - (+10)$ **e.** $(+6) - (-4)$ **f.** $(-2) - (+7)$\n\nAns. a. -13 b. +15 c. -14 d. -19 e. +10 f. -9\n\n<!-- answers page 9 -->\n\n## Section 10.3\n\n**Page No. 259**\n\n**Q. Your new bank balance is _______.**\n\nAns. ₹ 100 + ₹ 60 = ₹ 160\n\n**Q. Your bank balance is now ______.**\n\nAns. ₹ 160 - ₹ 30 = ₹ 130\n\n**Q. What is your bank balance now? ______ Is this possible?**\n\nAns. ₹ 130 - ₹ 150 = - ₹ 20\n\n**Page No. 260**\n\n**Q. What is your balance now? ______**\n\nAns. ₹ 180\n\n## Section 10.3\n\n**Page 260**\n\n### Figure it Out\n\n1. Suppose you start with 0 rupees in your bank account, and then you have credits of ₹30, ₹40, and ₹50, and debits of ₹40, ₹50, and ₹60. What is your bank account balance now?]\n\n   **Ans.** $(+30) + (+40) + (+50) - (40) - (50) - (60)$\n\n   Balance amount in Bank Account = ₹ $(-30)$\n\n2. Suppose you start with 0 rupees in your bank account, and then you have debits of ₹1, 2, 4, 8, 16, 32, 64, and 128, and then a single credit of ₹256. What is your bank account balance now?\n\n   **Ans.** $(1) - (2) - (4) - (8) - (16) - (32) - (64) - (128) + (256)$\n\n   Balance amount in the Bank Account = ₹ 1\n\n<!-- answers page 10 -->\n\n### Figure it Out\n\n**Page 261**\n\n1. Looking at the geographical cross section fill in the respective heights:\n\nA [Figure: empty box] B [Figure: empty box] C [Figure: empty box] D [Figure: empty box]\n\nE. [Figure: empty box] F. [Figure: empty box] G. [Figure: empty box]\n\nAns. Approximate heights are:\n\nA. $(+1500)$ m\n\nB. $(-500)$ m\n\nC. $(+300)$ m\n\nD. $(-1200)$ m\n\nE. $(+1200)$ m\n\nF. $(-200)$ m\n\nG. $(+100)$ m\n\n2. Which is the highest point in this geographical cross-section? Which is the lowest point?\n\nAns. Highest point is A & the lowest point is D.\n\n3. Can you write the points A, B, …., G in a sequence of decreasing order of heights? Can you write the point in a sequence of increasing order of heights?\n\nAns. A, E, C, G, F, B, D. (Decreasing order)\n\nD, B, F, G, C, E, A. (Increasing order)\n\n4. What is the highest point above sea level on Earth? What is its height?\n\nAns. Mount-Everest. Its height above sea level is 8848m.\n\n5. What is the lowest point with respect to sea level on land or on the ocean floor? What is its height? (This height should be negative).\n\nAns. The lowest know point on the Earth is the challenger deep, located in the Mariana trench in the Pacific Ocean. Its depth is approximately -10994 m.\n\n<!-- answers page 11 -->\n\nPage 262\n\n### Figure it Out\n\n**Q.2** Leh in Ladakh gets very cold during the winter. The following is a table of temperature readings taken during different times of the day and night in Leh on a day in November. Match the temperature with the appropriate time of the day and night.\n\nAns.\n\n| Temperature | Time |\n|---|---|\n| 14°C | 02:00 p.m. |\n| 8°C | 11:00 a.m |\n| –2°C | 11:00 p.m. |\n| –4°C | 02:00 a.m. |\n\nSection 10.4\n\nPage 263\n\n### Figure it Out\n\n**Q.1** Do the calculations for the second grid above and find the border sum.\n\nAns. -3, -3, -3, -3\n\n**Q.2** Complete the grids to make the required border sum:\n\nAns. One of the ways:\n\n| -10 | 10 | 4 |\n|---|---|---|\n| 5 | | -5 |\n| 9 | -10 | 5 |\n\nBorder sum +4\n\n| 6 | 8 | -16 |\n|---|---|---|\n| 11 | | -5 |\n| -19 | -2 | 19 |\n\nBorder sum -2\n\n| 7 | -2 | -9 |\n|---|---|---|\n| -3 | | -5 |\n| -8 | -6 | 10 |\n\nBorder sum -4\n\nThink of other ways.\n\n<!-- answers page 12 -->\n\nPage 265\n\n### Figure it Out\n\nQ.2\n\n[Figure: Orange 4×4 grid. Row 1: 7, 10, 13, 16. Row 2: −2, 1, 4, 7. Row 3: −11, −8, −5, −2. Row 4: −20, −7, −14, −11.]\n\n-8\n\n[Figure: Purple 4×4 grid. Row 1: −11, −10, −9, −8. Row 2: −7, −6, −5, −4. Row 3: −3, −2, −1, 0. Row 4: 1, 2, 3, 4.]\n\n-14\n\n### Figure it Out\n\n**Q.1 Write all the integers between the given pairs, in increasing order.**\n\na. 0 and $-7$  b. $-4$ and $4$  c. $-8$ and $-15$  d. $-30$ and $-23$\n\nAns. a. -6,-5,-4,-3,-2,-1  b. -3,-2,-1,0,1,2,3\n\nc. -14,-13,-12,-11,-10,-9  d. -29,-28,-27,-26,-25,-24\n\n**Q.2 Give three numbers such that their sum is $-8$.**\n\nAns. One of the combinations is -5,7,-10.\n\nThink of other combinations.\n\n**Q.3 There are two dice whose faces have these numbers: $-1$, 2, $-3$, 4, $-5$, 6. The smallest possible sum upon rolling these dice is $-10 = (-5) + (-5)$ and the largest possible sum is $12 = (6)+(6)$. Some numbers between $(-10)$ and $(+12)$ are not possible to get by adding numbers on these two dice. Find those numbers.**\n\nAns. -9,-7,-5,0,2,7,9,11\n\n**Q.4 Solve these:**\n\n[Figure: Green table of 2 rows and 4 columns. Row 1: $8-13$, $(-8)-(13)$, $(-13)-(-8)$, $(-13)+(-8)$. Row 2: $8+(-13)$, $(-8)-(-13)$, $(13)-8$, $13-(-8)$.]\n\nAns.\n\n| | | | |\n|---|---|---|---|\n| -5 | -21 | -5 | -21 |\n| -5 | 5 | 5 | 21 |\n\n<!-- answers page 13 -->\n\n**Q.5** Find the years below.\n\na. From the present year, which year was it 150 years ago? \\_\\_\\_\\_\\_\\_\\_\\_\n\nb. From the present year, which year was it 2200 years ago? \\_\\_\\_\\_\\_\\_\\_\n\n**Hint:** Recall that there was no year 0.\n\nc. What will be the year 320 years after 680 BCE? \\_\\_\\_\\_\\_\\_\\_\\_\n\nAns. c. -360 BCE\n\n**Q.6** Complete the following sequences:\n\na. $(-40), (-34), (-28), (-22),$ \\_\\_\\_\\_\\_, \\_\\_\\_\\_\\_\\_, \\_\\_\\_\\_\\_\\_\n\nb. $3, 4, 2, 5, 1, 6, 0, 7,$ \\_\\_\\_\\_\\_, \\_\\_\\_\\_\\_, \\_\\_\\_\\_\\_\n\nc. \\_\\_\\_\\_\\_, \\_\\_\\_\\_\\_\\_, $12, 6, 1, (-3), (-6),$ \\_\\_\\_\\_\\_, \\_\\_\\_\\_\\_\\_, \\_\\_\\_\\_\\_\\_\n\nAns.\na. -16, -10, -4\n\nb. -1,8, -2\n\nc. 27, 19, … -8,-9,-9\n\n**Q.7** Here are six integer cards: $(+1), (+7), (+18), (-5), (-2), (-9)$. You can pick any of these and make an expression using addition(s) and subtraction(s). Here is an expression: $(+18)+(+1)-(+7) - (-2)$ which gives a value $(+14)$. Now, pick cards and make an expression such that its value is closer to $(-30)$.\n\nAns. One of the ways is $(-2) + (-9) - (+18) - (+1) = -30$\n\n**Q.8** The sum of two positive integers is always positive but a (positive integer) – (positive integer) can be positive or negative. What about\n\na. (positive) – (negative)\nb. (positive) + (negative)\nc. (negative) + (negative)\nd. (negative) – (negative)\ne. (negative) – (positive)\nf. (negative) + (positive)\n\nAns.\na. positive\nb. can be positive or negative\nc. negative\nd. can be positive or negative\ne. negative\nf. can be positive or negative\n\n**Q.9** This string has a total of 100 tokens arranged in a particular pattern. What is the value of the string?\n\n[Figure: A string of tokens in a repeating pattern, left to right: three green tokens marked +, two orange tokens marked –, three green tokens marked +, two orange tokens marked –, three green tokens marked +, two orange tokens marked –; the string ends with a curly thread.]\n\nAns. 20",
+   "page_start": 284,
+   "page_end": 284
   }
  ],
  "key_terms": [
   {
-   "term": "More and more numbers!",
-   "meaning": "More and more numbers!",
-   "page": 242
-  },
-  {
    "term": "positive number",
-   "meaning": "A number with a ‘+’ sign in front is called a positive number.",
+   "meaning": "A number with a '+' sign in front is called a **positive number**.",
    "page": 244
   },
   {
    "term": "negative number",
-   "meaning": "A number with a ‘–’ sign in front is called a negative number.",
+   "meaning": "A number with a '–' sign in front is called a **negative number**.",
    "page": 244
   },
   {
-   "term": "Subtraction to find which button to press",
-   "meaning": "Subtraction to find which button to press In earlier classes, we understood the meaning of subtraction as ‘take away’.",
-   "page": 247
-  },
-  {
-   "term": "Target Floor – Starting Floor = Movement needed",
-   "meaning": "Target Floor – Starting Floor = Movement needed.",
-   "page": 248
+   "term": "inverse",
+   "meaning": "We call –3 the inverse of +3.",
+   "page": 246
   },
   {
    "term": "integers",
-   "meaning": "Positive and negative numbers, with zero, are called integers.",
+   "meaning": "Positive and negative numbers, with zero, are called **integers**.",
    "page": 250
   },
   {
-   "term": "First method",
-   "meaning": "First method: Looking at the number line, we see we need to move – 5 (i.e., 5 in the backward direction).",
-   "page": 255
-  },
-  {
-   "term": "Second method",
-   "meaning": "Second method: Break the journey from 2 to –3 into two parts.",
-   "page": 255
-  },
-  {
-   "term": "Example",
-   "meaning": "Example: Add + 5 and – 8.",
+   "term": "zero pair",
+   "meaning": "We say that a positive and a negative token make a 'zero pair'.",
    "page": 256
   },
   {
-   "term": "An amazing grid of numbers!",
-   "meaning": "An amazing grid of numbers!",
-   "page": 264
-  },
-  {
-   "term": "negative numbers",
-   "meaning": "They are written with a ‘–’ sign in front of them (e.g., – 2), and are called negative numbers.",
-   "page": 269
-  },
-  {
-   "term": "positive integers",
-   "meaning": "are called positive integers and the numbers …,",
-   "page": 269
-  },
-  {
-   "term": "negative integers",
-   "meaning": "– 4, – 3, – 2, – 1 are called negative integers.",
-   "page": 269
-  },
-  {
    "term": "additive inverse",
-   "meaning": "This is called the additive inverse of the number.",
+   "meaning": "This is called the **additive inverse** of the number.",
    "page": 269
-  },
-  {
-   "term": "Starting Position + Movement = Target Position",
-   "meaning": "- Addition can be interpreted as Starting Position + Movement = Target Position.",
-   "page": 269
-  },
-  {
-   "term": "Movement 1 + Movement 2 = Total Movement",
-   "meaning": "- Addition can also be interpreted as the combination of movements or increases/decreases: Movement 1 + Movement 2 = Total Movement.",
-   "page": 269
-  },
-  {
-   "term": "Target Position – Starting Position = Movement",
-   "meaning": "- Subtraction can be interpreted as Target Position – Starting Position = Movement.",
-   "page": 269
-  },
-  {
-   "term": "Rules",
-   "meaning": "Rules",
-   "page": 271
-  },
-  {
-   "term": "Q. Your new bank balance is _______",
-   "meaning": "Q. Your new bank balance is _. Ans. ₹ 100 + ₹ 60 = ₹ 160",
-   "page": 293
-  },
-  {
-   "term": "Q. Your bank balance is now ______",
-   "meaning": "Q. Your bank balance is now . Ans. ₹ 160 - ₹ 30 = ₹ 130",
-   "page": 293
-  },
-  {
-   "term": "Ans",
-   "meaning": "Ans.",
-   "page": 293
-  },
-  {
-   "term": "integer) can be positive or negative. What about",
-   "meaning": "integer) can be positive or negative. What about a. (positive) – (negative) b. (positive) + (negative) c. (negative) + (negative) d. (negative) – (negative) e. (negative) – (positive) f. (negative) + (positive)",
-   "page": 297
   }
  ],
  "activities": [],
  "figures": [],
  "exercises": [
   {
-   "label": "Figure it Out (p. 245) Q1",
-   "text": "1. \u0007You start from Floor + 2 and press – 3 in the lift. Where will you reach? Write an expression for this movement.",
+   "label": "Building of Fun Q1",
+   "text": "What do you press to go four floors up? What do you press to go three floors down?",
+   "type_hint": "short",
+   "page": 243,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Building of Fun Q2",
+   "text": "Number all the floors in the Building of Fun.",
+   "type_hint": "short",
+   "page": 244,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (p245) Q1",
+   "text": "1. You start from Floor $+2$ and press $-3$ in the lift. Where will you reach? Write an expression for this movement.",
    "type_hint": "short",
    "page": 245,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 245) Q2",
-   "text": "2. Evaluate these expressions (you may think of them as Starting Floor + Movement by referring to the Building of Fun). a. (+ 1) + (+ 4) = _______ b. (+ 4) + (+ 1) = _______ c. (+ 4) + (– 3) = _______ d. (– 1) + (+ 2) = _______ e. (– 1) + (+ 1) = _______ f. 0 + (+ 2) = _________ g. 0 + (– 2) = _________",
+   "label": "Figure it Out (p245) Q2",
+   "text": "2. Evaluate these expressions (you may think of them as Starting Floor + Movement by referring to the Building of Fun).\n\n   a. $(+1) + (+4) = $ _______\n\n   b. $(+4) + (+1) = $ _______\n\n   c. $(+4) + (-3) = $ _______\n\n   d. $(-1) + (+2) = $ _______\n\n   e. $(-1) + (+1) = $ _______\n\n   f. $0 + (+2) = $ _________\n\n   g. $0 + (-2) = $ _________",
    "type_hint": "fill_blank",
    "page": 245,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 245) Q3",
-   "text": "3. \u0007Starting from different floors, find the movements required to reach Floor – 5. For example, if I start at Floor + 2, I must press – 7 to reach Floor – 5. The expression is (+ 2) + (– 7) = – 5. \u0007Find more such starting positions and the movements needed to reach Floor – 5 and write the expressions.",
+   "label": "Figure it Out (p245) Q3",
+   "text": "3. Starting from different floors, find the movements required to reach Floor $-5$. For example, if I start at Floor $+2$, I must press $-7$ to reach Floor $-5$. The expression is $(+2) + (-7) = -5$.\n\n   Find more such starting positions and the movements needed to reach Floor $-5$ and write the expressions.",
    "type_hint": "short",
    "page": 245,
    "source": "in_chapter"
   },
   {
-   "label": "\u0007Figure it out (p. 246)",
-   "text": "Evaluate these expressions by thinking of them as the resulting movement of combining button presses:\n\na. (+ 1) + (+ 4) = _____________ b. (+ 4) + (+ 1) = _____________ c. (+ 4) + (– 3) + (– 2) = _______ d. (– 1) + (+ 2) + (– 3) = _______",
+   "label": "Figure it Out (p246) Q1",
+   "text": "Evaluate these expressions by thinking of them as the resulting movement of combining button presses:\n\na. $(+1)+(+4) = $ ____________\n\nb. $(+4)+(+1) = $ ____________\n\nc. $(+4)+(-3)+(-2) = $ ________\n\nd. $(-1)+(+2)+(-3)\\ = $ ________",
    "type_hint": "fill_blank",
    "page": 246,
    "source": "in_chapter"
   },
   {
-   "label": "\u0007Figure it Out (p. 247) Q1",
-   "text": "1. Compare the following numbers using the Building of Fun and fill in the boxes with < or >.\n\n> G\n\na. – 2 +5 b. – 5 + 4 c. – 5\n– 3\n\nd. + 6\n– 6 e. 0\n– 4 f. 0 + 4\n\n> F\n\nNotice that all negative number floors are below Floor 0. So, all negative numbers are less than 0. All the positive number floors are above Floor 0. So, all positive numbers are greater than 0.\n\n> +1 E\n\n> 0\n\n> D\n\n> –1",
+   "label": "Figure it Out (inverses) Q1",
+   "text": "Write the inverses of these numbers:\n\n+4, –4, –3, 0, +2, –1.",
+   "type_hint": "short",
+   "page": 246,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (connect inverses) Q1",
+   "text": "Connect the inverses by drawing lines.\n\n[Figure: Two rows of circled numbers. Top row: +5, –7, –8, +9. Bottom row: –9, +8, –5, +7. A line is already drawn from –7 in the top row to +7 in the bottom row.]",
+   "type_hint": "match",
+   "page": 246,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (lowest floor) Q1",
+   "text": "Who is on the lowest floor?\n\n1. Jay is in the Art Centre. So, he is on Floor +2.\n2. Asin is in the Sports Centre. So, she is on Floor ___.\n3. Binnu is in the Cinema Centre. So, she is on Floor ____.\n4. Aman is in the Toys Store. So, he is on Floor ____.",
+   "type_hint": "fill_blank",
+   "page": 246,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (p247) Q1",
+   "text": "1. Compare the following numbers using the Building of Fun and fill in the boxes with < or >.\n\n   a. –2 [ ] +5  \n   b. –5 [ ] +4  \n   c. –5 [ ] –3  \n   d. +6 [ ] –6  \n   e. 0 [ ] –4  \n   f. 0 [ ] +4",
    "type_hint": "fill_blank",
    "page": 247,
    "source": "in_chapter"
   },
   {
-   "label": "\u0007Figure it Out (p. 247) Q2",
-   "text": "2. Imagine the Building of Fun with more floors. Compare the numbers and fill in the boxes with < or >:\n\na. – 10\n– 12 b. + 17\n– 10\n\nc. 0\n– 20 d. + 9\n– 9\n\n> C\n\ne. – 25\n– 7 f. + 15\n– 17",
+   "label": "Figure it Out (p247) Q2",
+   "text": "2. Imagine the Building of Fun with more floors. Compare the numbers and fill in the boxes with < or >:\n\n   a. –10 [ ] –12  \n   b. +17 [ ] –10  \n   c. 0 [ ] –20  \n   d. +9 [ ] –9  \n   e. –25 [ ] –7  \n   f. +15 [ ] –17",
    "type_hint": "fill_blank",
    "page": 247,
    "source": "in_chapter"
   },
   {
-   "label": "\u0007Figure it Out (p. 247) Q3",
-   "text": "3. If Floor A = – 12, Floor D = – 1 and Floor E = + 1 in the building shown on the right as a line, find the numbers of Floors B, C, F, G, and H.\n\n> B",
+   "label": "Figure it Out (p247) Q3",
+   "text": "3. If Floor A = –12, Floor D = –1 and Floor E = +1 in the building shown on the right as a line, find the numbers of Floors B, C, F, G, and H.",
    "type_hint": "short",
    "page": 247,
    "source": "in_chapter"
   },
   {
-   "label": "\u0007Figure it Out (p. 247) Q4",
-   "text": "4. Mark the following floors of the building shown on the right. a. – 7 b. – 4 c. + 3 d. – 10\n\n> A\n\n> –12\n\n**Subtraction to find which button to press** In earlier classes, we understood the meaning of subtraction as ‘take away’. For example, there are 10 books on the shelf. I take away 4 books. How many are left on the shelf?\n\nWe can express the answer using subtraction: 10 – 4 = 6 or ‘Ten take away four is six.’\n\n<!-- page 248 -->\n\nGanita Prakash | Grade 6\n\nYou may also be familiar with another meaning of subtraction which is related to comparison or making quantities equal. For example, consider this situation: I have `10 with me and my sister has `6.\n\nNow, I can ask the question: ʻHow much more money should my sister get in order to have the same amount as me?ʼ\n\nWe can write this in two ways: 6 + ? = 10 Or 10 – 6 = ?\n\nHere, we see the connection between ‘finding the missing number to be added’ and subtraction.\n\nFor subtraction of positive and negative numbers, we will use this meaning of subtraction as ‘making equal’ or ‘finding the missing number to be added’.\n\n\u0007Evaluate 15 – 5, 100 – 10 and 74 – 34 from this perspective.",
-   "type_hint": "numerical",
+   "label": "Figure it Out (p247) Q4",
+   "text": "4. Mark the following floors of the building shown on the right.\n\n   a. –7  \n   b. – 4  \n   c. +3  \n   d. – 10",
+   "type_hint": "diagram",
    "page": 247,
    "source": "in_chapter"
   },
   {
-   "label": "\u0007Figure it Out (p. 249)",
-   "text": "\u0007Complete these expressions. You may think of them as finding the movement needed to reach the Target Floor from the Starting Floor.\n\na. (+ 1) – (+ 4) = _______ b. (0) – (+ 2) = _________ c. (+ 4) – (+ 1) = _______ d. (0) – (– 2) = _________ e. (+ 4) – (– 3) = _______ f. (– 4) – (– 3) = ________ g. (– 1) – (+ 2) = _______ h. (– 2) – (– 2) = ________ i. (– 1) – (+1) = _______ j. (+ 3) – (– 3) = ________\n\n<!-- page 250 -->\n\nGanita Prakash | Grade 6",
+   "label": "Subtraction exercise Q1",
+   "text": "[Figure: small sun-like spiral icon marking an exercise] Evaluate $15 - 5$, $100 - 10$ and $74 - 34$ from this perspective.",
+   "type_hint": "numerical",
+   "page": 248,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (p249) Q1",
+   "text": "Complete these expressions. You may think of them as finding the movement needed to reach the Target Floor from the Starting Floor.\n\na. $(+1) - (+4) = $ _______\n\nb. $(0) - (+2) = $ _________\n\nc. $(+4) - (+1) = $ _______\n\nd. $(0) - (-2) = $ _________\n\ne. $(+4) - (-3) = $ _______\n\nf. $(-4) - (-3) = $ _______\n\ng. $(-1) - (+2) = $ _______\n\nh. $(-2) - (-2) = $ _______\n\ni. $(-1) - (+1) = $ _______\n\nj. $(+3) - (-3) = $ _______",
    "type_hint": "fill_blank",
    "page": 249,
    "source": "in_chapter"
   },
   {
-   "label": "\u0007Figure it Out (p. 251)",
-   "text": "> +1000\n\nComplete these expressions.\n\n> +900\n\na. (+ 40) + ______ = + 200 b. (+ 40) + _______ = – 200 c. (– 50) + ______ = + 200 d. (– 50) + _______ = – 200 e. (– 200) – (– 40) = _______ f. (+ 200) – (+ 40) = _______ g. (– 200) – (+ 40) = _______\n\n> +800\n\n> +700\n\nCheck your answers by thinking about the movement in the mineshaft.\n\n> +600",
+   "label": "Figure it Out (p251) Q1",
+   "text": "Complete these expressions.\n\na. $(+40) + \\_\\_\\_\\_\\_\\_ = +200$\n\nb. $(+40) + \\_\\_\\_\\_\\_\\_\\_ = -200$\n\nc. $(-50) + \\_\\_\\_\\_\\_\\_ = +200$\n\nd. $(-50) + \\_\\_\\_\\_\\_\\_\\_ = -200$\n\ne. $(-200) - (-40) = \\_\\_\\_\\_\\_\\_\\_$\n\nf. $(+200) - (+40) = \\_\\_\\_\\_\\_\\_\\_$\n\ng. $(-200) - (+40) = \\_\\_\\_\\_\\_\\_\\_$\n\nCheck your answers by thinking about the movement in the mineshaft.",
    "type_hint": "fill_blank",
    "page": 251,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 253) Q1",
-   "text": "– 10– 9\n– 8\n– 7\n– 6\n– 5\n– 4\n– 3\n– 2\n– 1 0 1 2 3 4 5 6 7 8 9 10\n1. Mark 3 positive numbers and 3 negative numbers on the number line above.",
+   "label": "Try This (p251) Q1",
+   "text": "Try evaluating the following expressions by similarly drawing or imagining a suitable lift:\n\na. $-125 + (-30)$\n\nb. $+105 - (-55)$\n\nc. $+105 + (+55)$\n\nd. $+80 - (-150)$\n\ne. $+80 + (+150)$\n\nf. $-99 - (-200)$\n\ng. $-99 + (+200)$\n\nh. $+1500 - (-1500)$",
+   "type_hint": "numerical",
+   "page": 251,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk Q1",
+   "text": "In the other exercises that you did above, did you notice that subtracting a negative number was the same as adding the corresponding positive number?",
+   "type_hint": "short",
+   "page": 252,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk Q2",
+   "text": "Take a look at the 'infinite lift' above. Does it remind you of a number line? In what ways?",
+   "type_hint": "short",
+   "page": 252,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Number line Q1",
+   "text": "If, from 5 you wish to go over to 9, how far must you travel along the number line?",
+   "type_hint": "short",
+   "page": 252,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Number line Q2",
+   "text": "Now, from 9, if you wish to go to 3, how much must you travel along the number line?",
    "type_hint": "short",
    "page": 253,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 253) Q2",
-   "text": "2. Write down the above 3 marked negative numbers in the following boxes:\n\n<!-- page 254 -->\n\nGanita Prakash | Grade 6",
+   "label": "Number line Q3",
+   "text": "Now, from 3, if you wish to go to $-2$, how far must you travel?",
    "type_hint": "short",
    "page": 253,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 253) Q3",
-   "text": "3. Is 2 > – 3? Why? Is – 2 < 3? Why?",
-   "type_hint": "long",
-   "page": 254,
+   "label": "Figure it Out (p253) Q1",
+   "text": "1. Mark 3 positive numbers and 3 negative numbers on the number line above.",
+   "type_hint": "diagram",
+   "page": 253,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 253) Q4",
-   "text": "4. What are a. – 5 + 0 b. 7 + (– 7) c. – 10 + 20 d. 10 – 20 e. 7 – (– 7) f. – 8 – (– 10)?",
+   "label": "Figure it Out (p253) Q2",
+   "text": "2. Write down the above 3 marked negative numbers in the following boxes: [Figure: three empty rounded boxes]",
+   "type_hint": "fill_blank",
+   "page": 253,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (p253) Q3",
+   "text": "3. Is $2 > -3$? Why? Is $-2 < 3$? Why?",
    "type_hint": "short",
    "page": 254,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 257) Q1",
-   "text": "1. Complete the additions using tokens. a. (+ 6) + (+ 4) b. (– 3) + (– 2) c. (+ 5) + (– 7) d. (– 2) + (+ 6)",
+   "label": "Figure it Out (p253) Q4",
+   "text": "4. What are a. $-5 + 0$  b. $7 + (-7)$  c. $-10 + 20$  d. $10 - 20$  e. $7 - (-7)$  f. $-8 - (-10)$?",
+   "type_hint": "numerical",
+   "page": 254,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Unmarked number line Q1",
+   "text": "Use unmarked number lines to evaluate these expressions:\n\na. $-125 + (-30) = $ _______\n\nb. $+105 - (-55) = $ _______\n\nc. $+80 - (-150) = $ _______\n\nd. $-99 - (-200) = $ _______",
+   "type_hint": "numerical",
+   "page": 255,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (tokens add) Q1",
+   "text": "1. Complete the additions using tokens.\n   a. $(+6)+(+4)$\n   b. $(-3)+(-2)$\n   c. $(+5)+(-7)$\n   d. $(-2)+(+6)$",
+   "type_hint": "numerical",
+   "page": 257,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (tokens add) Q2",
+   "text": "2. Cancel the zero pairs in the following two sets of tokens. On what floor is the lift attendant in each case? What is the corresponding addition statement in each case?\n\n   [Figure: a. Three green positive tokens in the top row and five orange negative tokens in the bottom row.]\n\n   [Figure: b. Six green positive tokens in the top row and three orange negative tokens in the bottom row.]",
    "type_hint": "short",
    "page": 257,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 257) Q2",
-   "text": "2. \u0007Cancel the zero pairs in the following two sets of tokens. On what floor is the lift attendant in each case? What is the corresponding addition statement in each case?\n\na. b.",
-   "type_hint": "short",
-   "page": 257,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 258) Q2",
-   "text": "\u00071. Evaluate the following differences using tokens. Check that you get the same result as with other methods you now know: a. (+ 10) – (+ 7) b. (– 8) – (– 4) c. (– 9) – (– 4)\n\nd. (+ 9) – (+ 12) e. (– 5) – (– 7) f. (– 2) – (– 6)\n2. Complete the subtractions: a. (– 5) – (– 7) b. (+ 10) – (+ 13) c. (– 7) – (– 9) d. (+ 3) – (+ 8) e. (– 2) – (– 7) f. (+ 3) – (+ 15)\n\n**Example:** + 4 – (– 6). Start with 4 positives. We have to take out 6 negatives from these. But there are not enough negatives.\n\nThis is not a problem. We add some zero pairs as this does not change the value of the set of tokens.\n\nBut how many zero pairs? We have to take away 6 negatives so we put down 6 zero pairs:\n\nNow we can take away 6 negatives:\n\nTherefore, + 4 – (– 6) = + 10.\n\n<!-- page 259 -->\n\nThe Other Side of Zero",
-   "type_hint": "short",
+   "label": "Figure it Out (tokens sub) Q1",
+   "text": "1. Evaluate the following differences using tokens. Check that you get the same result as with other methods you now know:\n   a. $(+10) - (+7)$\n   b. $(-8) - (-4)$\n   c. $(-9) - (-4)$\n   d. $(+9) - (+12)$\n   e. $(-5) - (-7)$\n   f. $(-2) - (-6)$",
+   "type_hint": "numerical",
    "page": 258,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 259) Q1",
-   "text": "1. Try to subtract: – 3 – (+ 5). \u0007How many zero pairs will you have to put in? What is the result?",
+   "label": "Figure it Out (tokens sub) Q2",
+   "text": "2. Complete the subtractions:\n   a. $(-5) - (-7)$\n   b. $(+10) - (+13)$\n   c. $(-7) - (-9)$\n   d. $(+3) - (+8)$\n   e. $(-2) - (-7)$\n   f. $(+3) - (+15)$",
+   "type_hint": "numerical",
+   "page": 258,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (p259) Q1",
+   "text": "1. Try to subtract: $-3-(+5)$.\n   How many zero pairs will you have to put in? What is the result?",
    "type_hint": "short",
    "page": 259,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 259) Q2",
-   "text": "2. Evaluate the following using tokens. a. (– 3) – (+ 10) b. (+ 8) – (– 7) c. (– 5) – (+ 9) d. (– 9) – (+ 10) e. (+ 6) – (– 4) f. (– 2) – (+ 7)",
+   "label": "Figure it Out (p259) Q2",
+   "text": "2. Evaluate the following using tokens.\n   a. $(-3)-(+10)$\n   b. $(+8)-(-7)$\n   c. $(-5)-(+9)$\n   d. $(-9)-(+10)$\n   e. $(+6)-(-4)$\n   f. $(-2)-(+7)$",
+   "type_hint": "numerical",
+   "page": 259,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Think Q1",
+   "text": "Your new bank balance is ______.",
+   "type_hint": "fill_blank",
+   "page": 259,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Think Q2",
+   "text": "Your bank balance is now ______.",
+   "type_hint": "fill_blank",
+   "page": 259,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Think Q3",
+   "text": "What is your bank balance now? ______\n\nIs this possible?",
    "type_hint": "short",
    "page": 259,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 260) Q1",
-   "text": "1. Suppose you start with `0 in your bank account, and then you have credits of `30, `40, and `50, and debits of `40, `50, and `60. What is your bank account balance now?",
+   "label": "Think Q4",
+   "text": "What is your balance now? ______",
+   "type_hint": "fill_blank",
+   "page": 260,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (bank) Q1",
+   "text": "1. Suppose you start with ₹0 in your bank account, and then you have credits of ₹30, ₹40, and ₹50, and debits of ₹40, ₹50, and ₹60. What is your bank account balance now?",
+   "type_hint": "numerical",
+   "page": 260,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (bank) Q2",
+   "text": "2. Suppose you start with ₹0 in your bank account, and then you have debits of ₹1, 2, 4, 8, 16, 32, 64, and 128, and then a single credit of ₹256. What is your bank account balance now?",
+   "type_hint": "numerical",
+   "page": 260,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (bank) Q3",
+   "text": "3. Why is it generally better to try and maintain a positive balance in your bank account? What are circumstances under which it may be worthwhile to temporarily have a negative balance?",
    "type_hint": "short",
    "page": 260,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 260) Q2",
-   "text": "2. Suppose you start with `0 in your bank account, and then you have debits of `1, 2, 4, 8, 16, 32, 64, and 128, and then a single credit of `256. What is your bank account balance now? 3. Why is it generally better to try and maintain a positive balance in your bank account? What are circumstances under which it may be worthwhile to temporarily have a negative balance?\n\nAs you can see, positive and negative numbers along with zero are extremely useful in the world of banking and accounting.",
-   "type_hint": "long",
-   "page": 260,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 261) Q1",
-   "text": "1. Looking at the geographical cross section, fill in the respective heights:\n\na. b. c. d.\n\ne. f. g.\n\nHeight (m) A\n\n1500 | E\n\n1000\n\n500 | C\n\nG Sea level\n\n0\n\n-500 | F\n\nB\n\n-1000\n\n-1500 | D",
+   "label": "Figure it Out (geography) Q1",
+   "text": "1. Looking at the geographical cross section, fill in the respective heights:\n\n   a. [box] b. [box] c. [box] d. [box]\n\n   e. [box] f. [box] g. [box]\n\n[Figure: Geographical cross section. Vertical axis labelled \"Height (m)\" with marks 1500, 1000, 500, 0 (labelled \"Sea level\"), -500, -1000, -1500. A shaded profile of terrain with marked points A (peak at about 1500), B (about -500), C (about 300, above sea level), D (about -1200), E (about 1200), F (about -200), G (about 100). Regions below sea level are shaded darker.]",
    "type_hint": "fill_blank",
    "page": 261,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 262) Q1",
-   "text": "1. \u0007Do you know that there are some places in India where temperatures can go below 0°C? Find out the places in India where temperatures sometimes go below 0°C. What is common among these places? Why does it become colder there and not in other places?",
-   "type_hint": "long",
+   "label": "Figure it Out (geography) Q2",
+   "text": "2. Which is the highest point in this geographical cross section? Which is the lowest point?",
+   "type_hint": "short",
+   "page": 261,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (geography) Q3",
+   "text": "3. Can you write the points A, B, …, G in a sequence of decreasing order of heights? Can you write the points in a sequence of increasing order of heights?",
+   "type_hint": "short",
+   "page": 261,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (geography) Q4",
+   "text": "4. What is the highest point above sea level on Earth? What is its height?",
+   "type_hint": "short",
+   "page": 261,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (geography) Q5",
+   "text": "5. What is the lowest point with respect to sea level on land or on the ocean floor? What is its height? (This height should be negative).",
+   "type_hint": "short",
+   "page": 261,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (temperature) Q1",
+   "text": "1. Do you know that there are some places in India where temperatures can go below 0°C? Find out the places in India where temperatures sometimes go below 0°C. What is common among these places? Why does it become colder there and not in other places?",
+   "type_hint": "short",
    "page": 262,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 262) Q2",
-   "text": "2. Leh in Ladakh gets very cold during the winter. The following is a table of temperature readings taken during different times of the day and night in Leh on a day in November. Match the temperature with the appropriate time of the day and night.\n\n> ˚C 100\n\n> ˚C 100\n\n> 20 30 40 50 60 70 80 90\n\n> 20 30 40 50 60 70 80 90\n\n> Math\n\n> Talk\n\n> 10\n\n> 10\n\n> 0\n\n> 0\n\n> –10 –20\n\n> –10 –20",
+   "label": "Figure it Out (temperature) Q2",
+   "text": "2. Leh in Ladakh gets very cold during the winter. The following is a table of temperature readings taken during different times of the day and night in Leh on a day in November. Match the temperature with the appropriate time of the day and night.\n\n| Temperature |\n|---|\n| 14°C |\n| 8°C |\n| −2°C |\n| −4°C |\n\n| Time |\n|---|\n| 02:00 a.m. |\n| 11:00 p.m. |\n| 02:00 p.m. |\n| 11:00 a.m. |",
    "type_hint": "match",
    "page": 262,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 263) Q1",
-   "text": "1. Do the calculations for the second grid above and find the border sum.\n\n<!-- page 264 -->\n\nGanita Prakash | Grade 6",
-   "type_hint": "short",
+   "label": "Figure it Out (grid) Q1",
+   "text": "1. Do the calculations for the second grid above and find the border sum.",
+   "type_hint": "numerical",
    "page": 263,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 263) Q2",
-   "text": "2. Complete the grids to make the required border sum:\n\n| – 10 |  |  |\n| --- | --- | --- |\n|  |  | – 5 |\n|  |  |  |\n| 9 |  |  |\n\n| 6 | 8 |  |\n| --- | --- | --- |\n|  |  | – 5 |\n|  |  |  |\n|  | – 2 |  |\n\n7\n\n– 5\n\nBorder sum is +4 Border sum is – 2 Border sum is – 4",
+   "label": "Figure it Out (grid) Q2",
+   "text": "2. Complete the grids to make the required border sum:\n\n[Figure: Three 3×3 grids with the centre cell empty (white) and the border cells shaded.\nGrid 1: top row: −10, blank, blank; middle row: blank, (centre), −5; bottom row: 9, blank, blank. Caption: *Border sum is +4*\nGrid 2: top row: 6, 8, blank; middle row: blank, (centre), −5; bottom row: blank, −2, blank. Caption: *Border sum is −2*\nGrid 3: top row: 7, blank, blank; middle row: blank, (centre), −5; bottom row: blank, blank, blank. Caption: *Border sum is −4*]",
+   "type_hint": "fill_blank",
+   "page": 264,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (grid) Q3",
+   "text": "3. For the last grid above, find more than one way of filling the numbers to get border sum −4.",
    "type_hint": "short",
    "page": 264,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 263) Q3",
-   "text": "3. For the last grid above, find more than one way of filling the numbers to get border sum – 4.",
-   "type_hint": "short",
-   "page": 264,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 263) Q4",
+   "label": "Figure it Out (grid) Q4",
    "text": "4. Which other grids can be filled in multiple ways? What could be the reason?",
    "type_hint": "short",
    "page": 264,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 263) Q5",
-   "text": "5. \u0007Make a border integer square puzzle and challenge your classmates.\n\n**An amazing grid of numbers!** Below is a grid having some numbers. Follow the steps as shown until no number is left.\n\n| 3 | 4 | 0 | 9 |\n| --- | --- | --- | --- |\n| – 2 | – 1 | – 5 | 4 |\n| 1 | 2 | – 2 | 7 |\n| – 7 | – 6 | – 10 | – 1 |\n\nCircle any number\n\nStrike out the row and column of the\n\nchosen number\n\nCircle any unstruck number\n\nWhen there are no more unstruck numbers, STOP. Add the circled numbers.\n\nIn the example below, the circled numbers are – 1, 9, – 7, – 2. If you add them, you get – 1.\n\n| 3 | 4 |  | 0 | 9 |\n| --- | --- | --- | --- | --- |\n|  |  |  |  |  |\n| – 2 | – | 1 | – 5 | 4 |\n| 1 | 2 |  | – 2 | 7 |\n| – 7 | – | 6 | – 10 | – 1 |\n|  |  |  |  |  |\n\n|  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 3 | 4 |  | 0 |  | 9 |\n|  |  |  |  |  |  |\n| – 2 | – | 1 | – 5 |  | 4 |\n| 1 | 2 |  | – 2 |  | 7 |\n| – 7 | – | 6 | – 10 | – | 1 |\n|  |  |  |  |  |  |\n\n|  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  | 3 | 4 |  | 0 | 9 |  |\n|  |  |  |  |  |  |  |\n| – | 2 | – | 1 | – 5 | 4 |  |\n|  | 1 | 2 |  | – 2 | 7 |  |\n|  |  |  |  |  |  |  |\n| – | 7 | – | 6 | – 10 | – | 1 |\n|  |  |  |  |  |  |  |\n\n3 4 0 9\n\n– 2\n– 1\n– 5 4\n\n1 2\n– 2 7\n\n– 7\n– 6\n– 10\n– 1\n\n<!-- page 265 -->\n\nThe Other Side of Zero",
-   "type_hint": "short",
+   "label": "Figure it Out (grid) Q5",
+   "text": "5. Make a border integer square puzzle and challenge your classmates.",
+   "type_hint": "activity",
    "page": 264,
    "source": "in_chapter"
   },
   {
-   "label": "\u0007Figure it Out (p. 265) Q1",
+   "label": "Figure it Out (amazing grid) Q1",
    "text": "1. Try afresh, choose different numbers this time. What sum did you get? Was it different from the first time? Try a few more times!",
+   "type_hint": "activity",
+   "page": 265,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (amazing grid) Q2",
+   "text": "2. Play the same game with the grids below. What answer did you get?\n\n[Figure: Two 4×4 grids. The left grid (orange) has rows: 7, 10, 13, 16; −2, 1, 4, 7; −11, −8, −5, −2; −20, −7, −14, −11. The right grid (purple) has rows: −11, −10, −9, −8; −7, −6, −5, −4; −3, −2, −1, 0; 1, 2, 3, 4.]",
+   "type_hint": "activity",
+   "page": 265,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (amazing grid) Q3",
+   "text": "3. What could be so special about these grids? Is the magic in the numbers or the way they are arranged or both? Can you make more such grids?",
    "type_hint": "short",
    "page": 265,
    "source": "in_chapter"
   },
   {
-   "label": "\u0007Figure it Out (p. 265) Q2",
-   "text": "2. \u0007Play the same game with the grids below. What answer did you get?\n\n| 7 | 10 | 13 | 16 |\n| --- | --- | --- | --- |\n| – 2 | 1 | 4 | 7 |\n| – 11 | – 8 | – 5 | – 2 |\n| – 20 | – 7 | – 14 | – 11 |\n\n| – 11 | – 10 | – 9 | – 8 |\n| --- | --- | --- | --- |\n| – 7 | – 6 | – 5 | – 4 |\n| – 3 | – 2 | – 1 | 0 |\n| 1 | 2 | 3 | 4 |",
+   "label": "Try This Q1",
+   "text": "1. Write all the integers between the given pairs, in increasing order.\n   a. 0 and −7\n   b. −4 and 4\n   c. −8 and −15\n   d. −30 and −23",
    "type_hint": "short",
    "page": 265,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "\u0007Figure it Out (p. 265) Q3",
-   "text": "3. What could be so special about these grids? Is the magic in the numbers or the way they are arranged or both? Can you make more such grids?\n\nTry This",
+   "label": "Try This Q2",
+   "text": "2. Give three numbers such that their sum is −8.",
    "type_hint": "short",
    "page": 265,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "\u0007Figure it Out (p. 265) Q1",
-   "text": "1. \u0007Write all the integers between the given pairs, in increasing order. a. 0 and – 7 b. – 4 and 4 c. – 8 and – 15 d. – 30 and – 23",
+   "label": "Try This Q3",
+   "text": "3. There are two dice whose faces have these numbers: −1, 2, −3, 4, −5, 6. The smallest possible sum upon rolling these dice is −10 = (−5) + (−5) and the largest possible sum is 12 = (6) + (6). Some numbers between (−10) and (+12) are not possible to get by adding numbers on these two dice. Find those numbers.",
    "type_hint": "short",
    "page": 265,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "\u0007Figure it Out (p. 265) Q2",
-   "text": "2. \u0007 Give three numbers such that their sum is – 8.",
-   "type_hint": "short",
+   "label": "Try This Q4",
+   "text": "4. Solve these:\n\n| $8-13$ | $(-8)-(13)$ | $(-13)-(-8)$ | $(-13)+(-8)$ |\n|---|---|---|---|\n| $8+(-13)$ | $(-8)-(-13)$ | $(13)-8$ | $13-(-8)$ |",
+   "type_hint": "numerical",
    "page": 265,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "\u0007Figure it Out (p. 265) Q3",
-   "text": "3. \u0007 There are two dice whose faces have these numbers: – 1, 2, – 3, 4, – 5, 6. The smallest possible sum upon rolling these dice is – 10 = (– 5) + (– 5) and the largest possible sum is 12 = (6) + (6). Some numbers between (– 10) and (+ 12) are not possible to get by adding numbers on these two dice. Find those numbers.",
-   "type_hint": "short",
-   "page": 265,
-   "source": "in_chapter"
-  },
-  {
-   "label": "\u0007Figure it Out (p. 265) Q4",
-   "text": "4. \u0007Solve these:\n\n| 8 – 13 | (– 8) – (13) | (– 13) – (– 8) | (– 13) + (– 8) |\n| --- | --- | --- | --- |\n| 8 + (– 13) | (– 8) – (– 13) | (13) – 8 | 13 – (– 8) |",
-   "type_hint": "short",
-   "page": 265,
-   "source": "in_chapter"
-  },
-  {
-   "label": "\u0007Figure it Out (p. 265) Q5",
-   "text": "5. \u0007 \u0007Find the years below. a. From the present year, which year was it 150 years ago? ________ b. From the present year, which year was it 2200 years ago? _______ Hint: Recall that there was no year 0.\n\n<!-- page 266 -->\n\nGanita Prakash | Grade 6\n\nc. What will be the year 320 years after 680 BCE? ________ 6. Complete the following sequences: a. (– 40), (– 34), (– 28), (– 22), _____, ______, ______ b. 3, 4, 2, 5, 1, 6, 0, 7, _____, _____, _____ c. _____, ______, 12, 6, 1, (– 3), (– 6), _____, ______, ______ 7. \u0007Here are six integer cards: (+ 1), (+ 7), (+ 18), (– 5), (– 2), (– 9). You can pick any of these and make an expression using addition(s) and subtraction(s). Here is an expression: (+ 18) + (+ 1) – (+ 7) – (– 2) which gives a value (+ 14). Now, pick cards and make an expression such that its value is closer to (– 30).",
+   "label": "Try This Q5",
+   "text": "5. Find the years below.\n   a. From the present year, which year was it 150 years ago? ________\n   b. From the present year, which year was it 2200 years ago? ________\n\n   *Hint*: Recall that there was no year 0.\n\n<!-- page 266 -->\n\nc. What will be the year 320 years after 680 BCE? ________",
    "type_hint": "fill_blank",
    "page": 265,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "\u0007Figure it Out (p. 265) Q8",
-   "text": "8. \u0007The sum of two positive integers is always positive but a (positive integer) – (positive integer) can be positive or negative. What about a. (positive) – (negative) b. (positive) + (negative) c. (negative) + (negative) d. (negative) – (negative) e. (negative) – (positive) f. (negative) + (positive) 9. \u0007This string has a total of 100 tokens arranged in a particular pattern. What is the value of the string?",
+   "label": "Try This Q6",
+   "text": "6. Complete the following sequences:\n   a. $(-40), (-34), (-28), (-22)$, _____, ______, ______\n   b. $3, 4, 2, 5, 1, 6, 0, 7$, _____, _____, _____\n   c. _____, ______, $12, 6, 1, (-3), (-6)$, _____, ______, ______",
+   "type_hint": "fill_blank",
+   "page": 266,
+   "source": "end"
+  },
+  {
+   "label": "Try This Q7",
+   "text": "7. Here are six integer cards: $(+1), (+7), (+18), (-5), (-2), (-9)$.\n   You can pick any of these and make an expression using addition(s) and subtraction(s).\n   Here is an expression: $(+18)+(+1)-(+7)-(-2)$ which gives a value $(+14)$. Now, pick cards and make an expression such that its value is closer to $(-30)$.",
    "type_hint": "short",
    "page": 266,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "\u0007Figure it Out (p. 268) Q1",
-   "text": "1. Can you explain each of Brahmagupta’s rules in terms of Bela’s Building of Fun, or in terms of a number line?",
-   "type_hint": "long",
-   "page": 268,
-   "source": "in_chapter"
-  },
-  {
-   "label": "\u0007Figure it Out (p. 268) Q2",
-   "text": "2. Give your own examples of each rule.\n\nBrahmagupta was the first to describe zero as a number on an equal footing with positive numbers as well as with negative numbers, and the first to give explicit rules for performing arithmetic operations on all such numbers, positive, negative, and zero—forming what is now called a ring. It would change the way the world does mathematics.\n\nHowever, it took many centuries for the rest of the world to adopt zero and negative numbers as numbers. These numbers were transmitted to, accepted by, and further studied by the Arab world by the 9th century, before making their way to Europe by the 13th century.\n\n<!-- page 269 -->\n\nThe Other Side of Zero\n\nSurprisingly, negative numbers were still not accepted by many European mathematicians even in the 18th century. Lazare Carnot, a French mathematician in the 18th century, called negative numbers ‘absurd’. But over time, zero as well as negative numbers proved to be indispensable in global mathematics and science, and are now considered to be critical numbers on an equal footing with and as important as positive numbers — just as Brahmagupta had recommended and explicitly described way back in the year 628 CE! This abstraction of arithmetic rules on all numbers paved the way for the modern development of algebra, which we will learn about in future classes.",
-   "type_hint": "long",
-   "page": 268,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it out (p. 289)",
-   "text": "Q. Complete these expressions.",
+   "label": "Try This Q8",
+   "text": "8. The sum of two positive integers is always positive but a (positive integer) – (positive integer) can be positive or negative. What about\n   a. (positive) – (negative)\n   b. (positive) + (negative)\n   c. (negative) + (negative)\n   d. (negative) – (negative)\n   e. (negative) – (positive)\n   f. (negative) + (positive)",
    "type_hint": "short",
-   "page": 289,
-   "source": "in_chapter"
+   "page": 266,
+   "source": "end"
   },
   {
-   "label": "Figure it out (p. 289) Q1",
-   "text": "Q1. Mark 3 positive numbers and 3 negative numbers on the number line above.\n\nAns. Mark A = 2, B = 5, C = 8\n\nP = -1, Q = -3, R = -7\n\n(Try other possibilities)\n\n[5]\n\n<!-- page 290 -->",
-   "type_hint": "short",
-   "page": 289,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it out (p. 290) Q1",
-   "text": "Q.1. Complete the additions using tokens.",
-   "type_hint": "short",
-   "page": 290,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it out (p. 292) Q1",
-   "text": "Q.1. Try to subtract: – 3 – (+ 5).\n\nHow many zero pairs will you have to put in? What is the result?\n\nAns. -8\n\nWe have to put five zero pairs.",
-   "type_hint": "short",
-   "page": 292,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it out (p. 292) Q2",
-   "text": "Q.2. Evaluate the following using tokens.",
-   "type_hint": "short",
-   "page": 292,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 295)",
-   "text": "**Q.1** Do the calculations for the second grid above and find the border sum.\n\nAns. -3, -3, -3, -3\n\n**Q.2** Complete the grids to make the required border sum:\n\nAns. One of the ways:\n\n-10 10 4 5 -5 9 -10 5 Border sum +4\n\n6 8 -16 11 -5 -19 -2 19 Border sum -2\n\n7 -2 -9 -3 -5 -8 -6 10 Border sum -4\n\nThink of other ways.\n\n[11]\n\n<!-- page 296 -->",
+   "label": "Try This Q9",
+   "text": "9. This string has a total of 100 tokens arranged in a particular pattern. What is the value of the string?\n\n[Figure: A string of tokens in a repeating pattern: 3 green \"+\" tokens, 2 red \"−\" tokens, 3 green \"+\" tokens, 2 red \"−\" tokens, 3 green \"+\" tokens, 2 red \"−\" tokens, with the string continuing as a curly line at the right end.]",
    "type_hint": "numerical",
-   "page": 295,
+   "page": 266,
+   "source": "end"
+  },
+  {
+   "label": "Figure it Out (Brahmagupta) Q1",
+   "text": "1. Can you explain each of Brahmagupta's rules in terms of Bela's Building of Fun, or in terms of a number line?",
+   "type_hint": "short",
+   "page": 268,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 296)",
-   "text": "Q.2\n\n-8 -14",
+   "label": "Figure it Out (Brahmagupta) Q2",
+   "text": "2. Give your own examples of each rule.",
    "type_hint": "short",
-   "page": 296,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 296)",
-   "text": "Q.1Write all the integers between the given pairs, in increasing order.\n\na. 0 and –7 b. –4 and 4 c. –8 and –15 d. –30 and –23\n\nAns. a. -6,-5,-4,-3,-2,-1 b. -3,-2,-1,0,1,2,3\n\nc. -14,-13,-12,-11,-10,-9 d. -29,-28,-27,-26,-25,-24\n\nQ.2Give three numbers such that their sum is –8.\n\nAns. One of the combinations is -5,7,-10.\n\nThink of other combinations.",
-   "type_hint": "short",
-   "page": 296,
+   "page": 268,
    "source": "in_chapter"
   }
  ],
  "topics": [
-  "Bela’s Building of Fun",
-  "The Token Model",
-  "Integers in Other Places",
-  "Explorations with Integers",
-  "A Pinch of History",
-  "More and more numbers!",
-  "positive number",
-  "negative number",
-  "Subtraction to find which button to press",
-  "Target Floor – Starting Floor = Movement needed",
   "integers",
-  "First method",
-  "Second method",
-  "Example",
-  "An amazing grid of numbers!",
   "negative numbers",
-  "positive integers",
-  "negative integers",
+  "positive numbers",
+  "number line",
   "additive inverse",
-  "Starting Position + Movement = Target Position",
-  "Movement 1 + Movement 2 = Total Movement",
-  "Target Position – Starting Position = Movement",
-  "Rules",
-  "Q. Your new bank balance is _______",
-  "Q. Your bank balance is now ______",
-  "Ans",
-  "integer) can be positive or negative. What about"
+  "Building of Fun lift",
+  "addition of integers",
+  "subtraction of integers",
+  "comparing integers",
+  "unmarked number line",
+  "token model",
+  "zero pairs",
+  "credits and debits",
+  "sea level heights",
+  "temperature below zero",
+  "border sum grid",
+  "Brahmagupta's rules",
+  "history of negative numbers",
+  "integer snakes and ladders"
  ],
  "page_start": 242,
- "page_end": 297,
- "structured_by": "heuristic",
+ "page_end": 284,
+ "structured_by": "llm:sonnet",
  "warnings": []
 }

@@ -6,245 +6,103 @@
  "part": 1,
  "chapter_no": 1,
  "title": "Locating Places on the Earth",
- "summary": "- Maps are a very useful tool to represent an area of the Earth, whether small or large. The main components of maps are distance, direction and symbols. - Every place on the Earth has a location which can be precisely defined with the help of a grid of latitudes and longitudes — imaginary lines running from east to west (parallel to the Equator) and north to south (from pole to pole) respectively. - Longitude also marks the time and defines the time zones. - The International Date Line is located approximately at 180 degrees longitude, opposite the Prime Meridian. Crossing the International Date Line changes the date by one day.",
+ "summary": "This chapter teaches how to locate places on the Earth. It explains what a map is, the kinds of maps (physical, political, thematic) and their three components: distance (scale), direction and symbols. It then shows why a globe represents the Earth better than a flat map. Latitudes (parallels) and longitudes (meridians) are introduced as coordinates forming a grid, with the Equator and Prime Meridian as references. It also covers India's ancient Ujjayini prime meridian. Finally it explains how longitude gives local time (15° per hour), standard time, IST, time zones and the International Date Line.",
  "sections": [
   {
    "section_id": "6-sst-01-s01",
-   "heading": "Introduction Why Social Science?",
-   "text": "# Book introduction (pages 1-6, printed before Chapter 1; not part of the chapter)\n\n<!-- page 1 -->\n\n### Introduction Why Social Science?\n\nLandforms | Timeline and Sources\n\nand Life\n\nOceans and | of History\n\nContinents\n\nIndia, That\n\nIs Bharat\n\nTHEME A India and the\n\nLocating Places on the | World – Land | THEME B Tapestry of the Past\n\nand the | The Beginnings of Indian Civilisation\n\nEarth | People",
+   "heading": "Book introduction",
+   "text": "# Book introduction (pages 1-6, printed before Chapter 1; not part of the chapter)\n\n<!-- page 1 -->\n\n### Introduction Why Social Science?\n\nLandforms | Timeline and Sources\n\nand Life\n\nOceans and | of History\n\nContinents\n\nIndia, That\n\nIs Bharat\n\nTHEME A India and the\n\nLocating Places on the | World – Land | THEME B Tapestry of the Past\n\nand the | The Beginnings of Indian Civilisation\n\nEarth | People\n\n#### Social Science The Value\n\nTHEME E Economic Life Around | India’s Cultural\n\nof Work | THEME C Our Cultural Heritage and\n\nRoots\n\nUs | Knowledge\n\nTraditions\n\nTheme D Governance | Unity in Diversity, or ‘Many in\n\nEconomic\n\nActivities Around Us | and Democracy\n\nthe One’\n\nLocal Government | Family\n\nin Urban Areas | and Community\n\nLocal Government\n\nin Rural Areas\n\nGovernance\n\n<!-- page 2 -->\n\n| ring Society: India and Beyond |  | LET’S EXPLORE |  |\n| --- | --- | --- | --- |\n|  |  |  |  |\n|  |  | LET’S EXPLORE |  |\n|  |  | Æ Observe the picture above. What do you notice? |  |\n|  |  |  |  |\n|  |  |  Where does the water in the lake come from? |  |\n|  |  |  |  |\n|  |  |  Who made the road and why? |  |\n|  |  |  |  |\n|  |  |  What could be the activities of people living in the small house? What could be their history? Their future? |  |\n|  |  |  |  |\n|  |  | Æ Write down your answers and discuss them with your classmates. |  |\n|  |  |  |  |\n|  |  | Æ Now, looking at the picture on the facing page, what questions come to your mind? Write them down. |  |\n|  |  |  |  |\n|  |  | Æ How do you propose to find answers to the questions related to these two images? |  |\n|  |  | How are our questions above relevant to Social Science? We live in the 21st century (if you do not know what this figur |  |\n\nWe live in the 21st century (if you do not know what this figure really means, you will soon learn about it). Everyone agrees that it is a particularly challenging time for humanity. On\n\n<!-- page 3 -->\n\nthe one hand, there is rapid progress in technology, which is changing our lives in many ways. On the other hand, the world is witnessing multiple wars, armed conflicts and rising social tensions, and our planet’s natural environment is under great stress. We live in an age of great possibilities but also great challenges.\n\nThe world over, more and more people wonder, “How do we solve the problems facing humanity? How can our societies learn to live in peace and harmony? How can we protect this beautiful Earth which we all share — and protect it not only for ourselves but also for all the species that live on it?”\n\nThese fundamental questions are simple, but the answers are not. They cannot be simple, because human societies are very diverse and complex. If we wish to find answers to such questions and help build a better future, we first need to understand our world, and human societies in particular. That is what Social Science is all about.\n\nYou may wonder whether this is a ‘science’ like, say, physics or chemistry. It is not. The discipline does use scientific\n\n<!-- page 4 -->\n\nmethods wherever possible (you will see a few examples in this textbook), but its focus — human society — is, again, too diverse to allow the kind of set procedures and fixed results the sciences come up with.\n\nSocial Science has many subdisciplines: geography, history, political science, economics, sociology, anthropology, archaeology, psychology and a few more. You need not feel intimidated by all these terms! While you will study some of these subdisciplines in the Secondary Stage, in the Middle Stage we have avoided this classification. Instead, we have opted for five broad themes. Let us briefly look at them.\n\n#### Theme A – India and the World: Land and the People\n\nThis first theme includes the basics of the geographical world around us — some of the main features of our planet and the way to represent them on a map. Why is this theme important, when today we can get excellent maps on a mobile phone? Because it deals with much more than maps. It also asks how geographical features — oceans, mountains, rivers, etc. — have shaped entire civilisations throughout their histories. It is also, in India’s case, about how its natural setting has contributed to giving this ancient civilisation a unique identity.\n\n#### Theme B – Tapestry of the Past\n\nA tapestry is a large piece of canvas-like cloth usually kept as a wall hanging, with pictures and designs on it — sometimes a historical narrative. Our tapestry is where we will be painting scenes from the past, beginning with India’s past. But why should we be at all concerned with the past? Because it is the key to understanding the present, and the chapters in this theme will often make this connection clear. The past is a major source for our identities — it helps us understand who we are and where we come from.\n\n<!-- page 5 -->\n\nThe past is still with us, in other words. And since history is unfortunately not all about happy developments, it is useful to understand where people, governments or rulers went wrong, and why. Only then can we hope to avoid repeating those errors.\n\n#### Theme C – Our Cultural Heritage and Knowledge Traditions\n\nIt has often been said that India has a rich and ancient culture. True, but what are its main characteristics? Its guiding principles? How has it manifested itself in India’s history? And how can it help us to deal with issues of our times? These are some of the questions that this theme is exploring, with the objective that every student should understand some of the cultural foundations of our civilisation and learn to appreciate their value.\n\n#### Theme D – Governance and Democracy\n\nCitizens of any country should know how their political system functions. India, as the world’s largest democracy, has an elaborate system working at different levels. What are its chief characteristics and components? How do the citizens participate in the overall governance? What are their rights and also their duties or dharma? Are there different systems in other countries, and, if so, of what type? How are different countries supposed to interact? By studying this theme, we can become more responsible citizens, understand how the organs of the government function, and learn to have a say in the policies that affect us all, whether locally or nationally.\n\n#### Theme E – Economic Life Around Us\n\nNo family can be happy without the essentials of daily living — at least food, clothing, shelter, access to water in a first stage; in a second, livelihood for adults and access to education for the younger ones. Similarly, no country can\n\n<!-- page 6 -->\n\ndevelop harmoniously without a sound economy. But how does an economy work, especially in a huge country like India? What exactly is money? Where does it come from? How can it be increased? What economic activities can people engage themselves in? How are natural and human resources best managed? This theme will lay down some of the important concepts and practices that will enable us to answer these questions.\n\n-\n\nYou will notice that there are many questions in the preceding paragraphs. This is as it should be — Social Science is also about the art of asking the right questions. Only then can we start looking for the right answers. This also explains the presence of ‘Big Questions’ at the start of each chapter in this book.\n\nYou may also be intrigued to find a game of chess and some ancient Tamil poetry in chapters that apparently deal with geography; a discussion on the uses of the sari in a chapter on cultural heritage; the concept of sevā and the mention of festivals in chapters focusing on economics. This is deliberate. We believe in bringing elements from diverse fields together (you will learn later that this is called ‘multidisciplinarity’). This enriches our perspective. Indeed, life constantly mixes numerous elements together, so why should we not?\n\nBy now, it should be clear that although Social Science makes constant use of the past, it seeks to make sense of the present so as to help us prepare a better future. It is an exploration and an adventure.",
    "page_start": 1,
-   "page_end": 1
+   "page_end": 6
   },
   {
    "section_id": "6-sst-01-s02",
-   "heading": "Social Science The Value",
-   "text": "#### Social Science The Value\n\nTHEME E Economic Life Around | India’s Cultural\n\nof Work | THEME C Our Cultural Heritage and\n\nRoots\n\nUs | Knowledge\n\nTraditions\n\nTheme D Governance | Unity in Diversity, or ‘Many in\n\nEconomic\n\nActivities Around Us | and Democracy\n\nthe One’\n\nLocal Government | Family\n\nin Urban Areas | and Community\n\nLocal Government\n\nin Rural Areas\n\nGovernance\n\n<!-- page 2 -->\n\n| ring Society: India and Beyond |  | LET’S EXPLORE |  |\n| --- | --- | --- | --- |\n|  |  |  |  |\n|  |  | LET’S EXPLORE |  |\n|  |  | Æ Observe the picture above. What do you notice? |  |\n|  |  |  |  |\n|  |  |  Where does the water in the lake come from? |  |\n|  |  |  |  |\n|  |  |  Who made the road and why? |  |\n|  |  |  |  |\n|  |  |  What could be the activities of people living in the small house? What could be their history? Their future? |  |\n|  |  |  |  |\n|  |  | Æ Write down your answers and discuss them with your classmates. |  |\n|  |  |  |  |\n|  |  | Æ Now, looking at the picture on the facing page, what questions come to your mind? Write them down. |  |\n|  |  |  |  |\n|  |  | Æ How do you propose to find answers to the questions related to these two images? |  |\n|  |  | How are our questions above relevant to Social Science? We live in the 21st century (if you do not know what this figur |  |\n\nWe live in the 21st century (if you do not know what this figure really means, you will soon learn about it). Everyone agrees that it is a particularly challenging time for humanity. On\n\n<!-- page 3 -->\n\nthe one hand, there is rapid progress in technology, which is changing our lives in many ways. On the other hand, the world is witnessing multiple wars, armed conflicts and rising social tensions, and our planet’s natural environment is under great stress. We live in an age of great possibilities but also great challenges.\n\nThe world over, more and more people wonder, “How do we solve the problems facing humanity? How can our societies learn to live in peace and harmony? How can we protect this beautiful Earth which we all share — and protect it not only for ourselves but also for all the species that live on it?”\n\nThese fundamental questions are simple, but the answers are not. They cannot be simple, because human societies are very diverse and complex. If we wish to find answers to such questions and help build a better future, we first need to understand our world, and human societies in particular. That is what Social Science is all about.\n\nYou may wonder whether this is a ‘science’ like, say, physics or chemistry. It is not. The discipline does use scientific\n\n<!-- page 4 -->\n\nmethods wherever possible (you will see a few examples in this textbook), but its focus — human society — is, again, too diverse to allow the kind of set procedures and fixed results the sciences come up with.\n\nSocial Science has many subdisciplines: geography, history, political science, economics, sociology, anthropology, archaeology, psychology and a few more. You need not feel intimidated by all these terms! While you will study some of these subdisciplines in the Secondary Stage, in the Middle Stage we have avoided this classification. Instead, we have opted for five broad themes. Let us briefly look at them.",
-   "page_start": 1,
-   "page_end": 4
-  },
-  {
-   "section_id": "6-sst-01-s03",
-   "heading": "Theme A – India and the World: Land and the People",
-   "text": "#### Theme A – India and the World: Land and the People\n\nThis first theme includes the basics of the geographical world around us — some of the main features of our planet and the way to represent them on a map. Why is this theme important, when today we can get excellent maps on a mobile phone? Because it deals with much more than maps. It also asks how geographical features — oceans, mountains, rivers, etc. — have shaped entire civilisations throughout their histories. It is also, in India’s case, about how its natural setting has contributed to giving this ancient civilisation a unique identity.",
-   "page_start": 4,
-   "page_end": 4
-  },
-  {
-   "section_id": "6-sst-01-s04",
-   "heading": "Theme B – Tapestry of the Past",
-   "text": "#### Theme B – Tapestry of the Past\n\nA tapestry is a large piece of canvas-like cloth usually kept as a wall hanging, with pictures and designs on it — sometimes a historical narrative. Our tapestry is where we will be painting scenes from the past, beginning with India’s past. But why should we be at all concerned with the past? Because it is the key to understanding the present, and the chapters in this theme will often make this connection clear. The past is a major source for our identities — it helps us understand who we are and where we come from.\n\n<!-- page 5 -->\n\nThe past is still with us, in other words. And since history is unfortunately not all about happy developments, it is useful to understand where people, governments or rulers went wrong, and why. Only then can we hope to avoid repeating those errors.",
-   "page_start": 4,
-   "page_end": 5
-  },
-  {
-   "section_id": "6-sst-01-s05",
-   "heading": "Theme C – Our Cultural Heritage and Knowledge Traditions",
-   "text": "#### Theme C – Our Cultural Heritage and Knowledge Traditions\n\nIt has often been said that India has a rich and ancient culture. True, but what are its main characteristics? Its guiding principles? How has it manifested itself in India’s history? And how can it help us to deal with issues of our times? These are some of the questions that this theme is exploring, with the objective that every student should understand some of the cultural foundations of our civilisation and learn to appreciate their value.",
-   "page_start": 5,
-   "page_end": 5
-  },
-  {
-   "section_id": "6-sst-01-s06",
-   "heading": "Theme D – Governance and Democracy",
-   "text": "#### Theme D – Governance and Democracy\n\nCitizens of any country should know how their political system functions. India, as the world’s largest democracy, has an elaborate system working at different levels. What are its chief characteristics and components? How do the citizens participate in the overall governance? What are their rights and also their duties or dharma? Are there different systems in other countries, and, if so, of what type? How are different countries supposed to interact? By studying this theme, we can become more responsible citizens, understand how the organs of the government function, and learn to have a say in the policies that affect us all, whether locally or nationally.",
-   "page_start": 5,
-   "page_end": 5
-  },
-  {
-   "section_id": "6-sst-01-s07",
-   "heading": "Theme E – Economic Life Around Us",
-   "text": "#### Theme E – Economic Life Around Us\n\nNo family can be happy without the essentials of daily living — at least food, clothing, shelter, access to water in a first stage; in a second, livelihood for adults and access to education for the younger ones. Similarly, no country can\n\n<!-- page 6 -->\n\ndevelop harmoniously without a sound economy. But how does an economy work, especially in a huge country like India? What exactly is money? Where does it come from? How can it be increased? What economic activities can people engage themselves in? How are natural and human resources best managed? This theme will lay down some of the important concepts and practices that will enable us to answer these questions.\n\n-\n\nYou will notice that there are many questions in the preceding paragraphs. This is as it should be — Social Science is also about the art of asking the right questions. Only then can we start looking for the right answers. This also explains the presence of ‘Big Questions’ at the start of each chapter in this book.\n\nYou may also be intrigued to find a game of chess and some ancient Tamil poetry in chapters that apparently deal with geography; a discussion on the uses of the sari in a chapter on cultural heritage; the concept of sevā and the mention of festivals in chapters focusing on economics. This is deliberate. We believe in bringing elements from diverse fields together (you will learn later that this is called ‘multidisciplinarity’). This enriches our perspective. Indeed, life constantly mixes numerous elements together, so why should we not?\n\nBy now, it should be clear that although Social Science makes constant use of the past, it seeks to make sense of the present so as to help us prepare a better future. It is an exploration and an adventure.\n\n# Chapter 1: Locating Places on the Earth\n\n<!-- page 7 -->\n\n1\n\n#### CHAPTER",
-   "page_start": 5,
-   "page_end": 7
-  },
-  {
-   "section_id": "6-sst-01-s08",
-   "heading": "Locating Places on the Earth",
-   "text": "### Locating Places on the Earth\n\n|  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  | earth, fire and air and is spherical. ... It is surrounded by all creatures, terrestrial as well as aquatic. — Āryabhaṭa (about 500 CE) |  |  |  |  |  |\n|  |  |  |  |  |  |  |\n|  | Big The Questions |  | 1. What is a map and how do we use it? What are its main components? 2. What are coordinates? How can latitude and longitude be used to |  |  |  |\n\nThe globe of the Earth stands in space, made up of water, earth, fire and air and is spherical. ... It is surrounded by all creatures, terrestrial as well as aquatic.\n1. What is a map and how do we use it? What are its main components? 2. What are coordinates? How can latitude and longitude be used to mark any location on the Earth? 3. How are local time and standard time related to longitude?\n\n<!-- page 8 -->\n\nImagine that you are visiting a city for the first time. How would you find the places you want to visit? You might ask a local person for help, or you might look at a map of the city. In previous grades, you learnt a little about maps, and in this chapter, we will study them in more detail.\n\nLet us play a game. Examine the map of this small city (Fig. 1.1). Imagine that you just got off a train at the railway station, and you want to visit the bank marked on the map. Which way would you go? Are there other possible ways? Can you locate the public garden, the school and the museum? If you want to proceed from the bank to the market, which way will you go? This is where a map comes in handy!\n\nFig. 1.1. A map of an imaginary small city.\n\nA map is like a treasure guide; it shows you where things are and how to get to them. Notice the four arrows in the top right corner of the map; we will soon see how they point to some specific directions and make maps even more helpful.\n\n<!-- page 9 -->\n\n##### LET’S EXPLORE\n\n- On the map in Fig. 1.1 given on page 8 —\n\n1. Mark the hospital.\n\n2. What is the meaning of the blue-coloured areas?\n\n3. Which is farther away from the railway station — the school, the Nagar Panchayat or the public garden?\n\n- As a class activity, form groups of three or four students each. Let each group try to draw a map of your school and some of the streets or roads that lead to it, and a few neighbouring buildings. At the end, compare all the maps and discuss.",
-   "page_start": 7,
+   "heading": "Chapter 1: Locating Places on the Earth (opening)",
+   "text": "# Chapter 1: Locating Places on the Earth\n\n<!-- page 7 -->\n\n1\n\n#### CHAPTER\n\n### Locating Places on the Earth\n\n|  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  | earth, fire and air and is spherical. ... It is surrounded by all creatures, terrestrial as well as aquatic. — Āryabhaṭa (about 500 CE) |  |  |  |  |  |\n|  |  |  |  |  |  |  |\n|  | Big The Questions |  | 1. What is a map and how do we use it? What are its main components? 2. What are coordinates? How can latitude and longitude be used to |  |  |  |\n\nThe globe of the Earth stands in space, made up of water, earth, fire and air and is spherical. ... It is surrounded by all creatures, terrestrial as well as aquatic.\n1. What is a map and how do we use it? What are its main components? 2. What are coordinates? How can latitude and longitude be used to mark any location on the Earth? 3. How are local time and standard time related to longitude?\n\n<!-- page 8 -->\n\nImagine that you are visiting a city for the first time. How would you find the places you want to visit? You might ask a local person for help, or you might look at a map of the city. In previous grades, you learnt a little about maps, and in this chapter, we will study them in more detail.\n\nLet us play a game. Examine the map of this small city (Fig. 1.1). Imagine that you just got off a train at the railway station, and you want to visit the bank marked on the map. Which way would you go? Are there other possible ways? Can you locate the public garden, the school and the museum? If you want to proceed from the bank to the market, which way will you go? This is where a map comes in handy!\n\nFig. 1.1. A map of an imaginary small city.\n\nA map is like a treasure guide; it shows you where things are and how to get to them. Notice the four arrows in the top right corner of the map; we will soon see how they point to some specific directions and make maps even more helpful.\n\n<!-- page 9 -->\n\n##### LET’S EXPLORE\n\n- On the map in Fig. 1.1 given on page 8 —\n\n1. Mark the hospital.\n\n2. What is the meaning of the blue-coloured areas?\n\n3. Which is farther away from the railway station — the school, the Nagar Panchayat or the public garden?\n\n- As a class activity, form groups of three or four students each. Let each group try to draw a map of your school and some of the streets or roads that lead to it, and a few neighbouring buildings. At the end, compare all the maps and discuss.",
+   "page_start": 6,
    "page_end": 9
   },
   {
-   "section_id": "6-sst-01-s09",
+   "section_id": "6-sst-01-s03",
    "heading": "A Map and Its Components",
-   "text": "#### A Map and Its Components\n\nFrom this simple example, we understand that a map is a representation, or a drawing, of some area — it may be a small area (a village, a town, etc.), a bigger area (say, your district or state), or a very large area like India or even the whole world. In a map, you look at the surface as if you are viewing it from the top.\n\nAn **atlas** is a book or collection of maps.\n\nAs you will discover, there are several kinds of maps —\n\n- **physical maps,** which mainly show some natural features such as mountains, oceans and rivers (see an example in Fig. 5.2 in this textbook)\n- **political maps,** which show details of countries or states, boundaries, cities, etc. (for instance, a map of India with all its States, Union Territories and their capitals)\n- **thematic maps,** with a specific kind of information (examples include Fig. 6.3 and Fig. 8.1 in this textbook).\n\nIn addition, there are three important components of maps—**distance, direction** and **symbols**. You have already\n\n<!-- page 10 -->\n\nexperienced the first two while navigating the map in Fig. 1.1. Let us now define them more precisely.\n\nHave you ever wondered how a huge place can fit on a small piece of paper? It is all thanks to the map’s **scale**. Let us go back to our map of a small city (Fig. 1.1). Each centimetre on the map represents a certain distance on the ground — let us suppose it is 500 metres; we say that the scale is 1 cm = 500 m. Now, turn to the map of India in Fig. 5.2 in Chapter 5 of this textbook. The scale is repre-sented in the bottom left corner by a ruler with ‘500’ written above its length and ‘km’ on the side. It simply means that this ruler, which measures 2.5 cm in the printed map, corresponds to 500 kilometres on the ground.\n\nSo, the actual **distance** between two points represented on the map depends on the scale that the map is using.\n\n##### LET’S EXPLORE\n\n- Draw a simple map of a school’s playground. Let us assume it is a rectangle, 40 m in length and 30 m in width. Draw it precisely with your ruler on a scale of 1 cm = 10 m.\n\n- Now measure the diagonal of the rectangle. How many centimetres do you get? Using the scale, calculate the real length of the playground’s diagonal, in metres.\n\nLet us return to the four arrows at the top right\n\nof the small city’s map. They point to four\n\n**directions**, which are north, at the top, and,\n\nNorth | moving clockwise, east, south and west.\n\nThese are called the **cardinal directions**,\n\n> Northwest\n\nNortheast\n\nalso **cardinal points**. Other than these,\n\nintermediate directions are also used — northeast (NE), southeast (SE), southwest (SW) and northwest (NW). Most maps simply have an arrow marked with the letter ‘N’, which points to the north direction.\n\nEast West\n\n> Southwest\n\nSoutheast\n\nSouth\n\n<!-- page 11 -->\n\n##### LET’S EXPLORE\n\n- Consider the map of the small city again. Identify the correct and incorrect statements in the list below:\n\n1. The market is north of the hospital.\n\n2. The museum is southeast of the bank.\n\n3. The railway station is northwest of the hospital.\n\n4. The lake is northwest of the apartment blocks.\n\n- Taking your school as the starting point, do you know approximately in which cardinal direction your home is located? Discuss with your teacher and your parents.\n\n**Symbols** are another important component of maps. Our map has small drawings of actual buildings and a few other elements, but there would not be enough space on the map of a large city or a country to draw them all. Instead, a symbol is used to represent these features — symbols for different kinds of buildings (for instance a railway station, a school, a post office), for roads and railway lines, and for natural elements such as a river, a pond or a forest. In that way, numerous details can be shown in the limited space available on a map.\n\nTo make maps more easily understood by a variety of users, map makers use specific symbols. Different countries use different sets of symbols. The Survey of India, a government body, has fixed a set of symbols for maps of India (or parts of India). A small selection of them is shown in Fig. 1.2 on page 12.\n\n##### LET’S EXPLORE\n\nDraw a rough map of your locality or your village, including your home, school and a few other important landmarks. Show the cardinal directions and use a few of the symbols shown in Fig. 1.2 on page 12 to mark some important features.\n\n<!-- page 12 -->\n\nRailway Line: broad gauge, metre gauge, railway station\n\nRS\n\nRoads: metalled, unmetalled\n\nBoundary: international, state, district\n\nRiver, well, tank, canal, bridge\n\n| bridge Temple, chur chhatri Post Office, Office, Police Settlement, Trees, grass |  | ch, mosque, Post & Telegraph PO PTO PS Station graveyard |\n| --- | --- | --- |\n|  |  |  |\n| ring Society: India and Beyond and the World: Land and the People |  |  |\n\nMapping the Earth\nMapping the Earth is a little more difficult because our planet is not a flat surface. It nearly has the shape of a sphere. (We say ‘nearly’ because it is not a perfect sphere, but is slightly flattened at the poles. However, in practice, we will consider it to be spherical.) Representing a sphere accurately on a flat sheet of paper is not possible. To understand why, peel an orange in such a way that you have just three or four large pieces of the skin; then try and flatten them on a table — you will see that you cannot do it without tearing them at the edges.\nNow, consider a globe, which is a sphere on which a map is drawn. This may be a map of the Earth, the Moon, the planet Mars, the stars and constellations in the sky, etc. The physical object, like the one shown in the drawing on the next page, is a sphere that is generally made of metal, plastic or cardboard.\nFig. 1.2. A selection of symbols commonly used in maps.\nTemple, church, mosque, chhatri\n\n<!-- page 13 -->\n\nHere we will study the globe representing the Earth’s geography. Because the globe and the Earth have the same spherical shape, a globe will better represent the geography of the Earth than a flat map.\n\nLet us now explore some of its features.",
+   "text": "#### A Map and Its Components\n\nFrom this simple example, we understand that a map is a representation, or a drawing, of some area — it may be a small area (a village, a town, etc.), a bigger area (say, your district or state), or a very large area like India or even the whole world. In a map, you look at the surface as if you are viewing it from the top.\n\nAn **atlas** is a book or collection of maps.\n\nAs you will discover, there are several kinds of maps —\n\n- **physical maps,** which mainly show some natural features such as mountains, oceans and rivers (see an example in Fig. 5.2 in this textbook)\n- **political maps,** which show details of countries or states, boundaries, cities, etc. (for instance, a map of India with all its States, Union Territories and their capitals)\n- **thematic maps,** with a specific kind of information (examples include Fig. 6.3 and Fig. 8.1 in this textbook).\n\nIn addition, there are three important components of maps—**distance, direction** and **symbols**. You have already\n\n<!-- page 10 -->\n\nexperienced the first two while navigating the map in Fig. 1.1. Let us now define them more precisely.\n\nHave you ever wondered how a huge place can fit on a small piece of paper? It is all thanks to the map’s **scale**. Let us go back to our map of a small city (Fig. 1.1). Each centimetre on the map represents a certain distance on the ground — let us suppose it is 500 metres; we say that the scale is 1 cm = 500 m. Now, turn to the map of India in Fig. 5.2 in Chapter 5 of this textbook. The scale is repre-sented in the bottom left corner by a ruler with ‘500’ written above its length and ‘km’ on the side. It simply means that this ruler, which measures 2.5 cm in the printed map, corresponds to 500 kilometres on the ground.\n\nSo, the actual **distance** between two points represented on the map depends on the scale that the map is using.\n\n##### LET’S EXPLORE\n\n- Draw a simple map of a school’s playground. Let us assume it is a rectangle, 40 m in length and 30 m in width. Draw it precisely with your ruler on a scale of 1 cm = 10 m.\n\n- Now measure the diagonal of the rectangle. How many centimetres do you get? Using the scale, calculate the real length of the playground’s diagonal, in metres.\n\nLet us return to the four arrows at the top right\n\nof the small city’s map. They point to four\n\n**directions**, which are north, at the top, and,\n\nNorth | moving clockwise, east, south and west.\n\nThese are called the **cardinal directions**,\n\n> Northwest\n\nNortheast\n\nalso **cardinal points**. Other than these,\n\nintermediate directions are also used — northeast (NE), southeast (SE), southwest (SW) and northwest (NW). Most maps simply have an arrow marked with the letter ‘N’, which points to the north direction.\n\nEast West\n\n> Southwest\n\nSoutheast\n\nSouth\n\n<!-- page 11 -->\n\n##### LET’S EXPLORE\n\n- Consider the map of the small city again. Identify the correct and incorrect statements in the list below:\n\n1. The market is north of the hospital.\n\n2. The museum is southeast of the bank.\n\n3. The railway station is northwest of the hospital.\n\n4. The lake is northwest of the apartment blocks.\n\n- Taking your school as the starting point, do you know approximately in which cardinal direction your home is located? Discuss with your teacher and your parents.\n\n**Symbols** are another important component of maps. Our map has small drawings of actual buildings and a few other elements, but there would not be enough space on the map of a large city or a country to draw them all. Instead, a symbol is used to represent these features — symbols for different kinds of buildings (for instance a railway station, a school, a post office), for roads and railway lines, and for natural elements such as a river, a pond or a forest. In that way, numerous details can be shown in the limited space available on a map.\n\nTo make maps more easily understood by a variety of users, map makers use specific symbols. Different countries use different sets of symbols. The Survey of India, a government body, has fixed a set of symbols for maps of India (or parts of India). A small selection of them is shown in Fig. 1.2 on page 12.\n\n##### LET’S EXPLORE\n\nDraw a rough map of your locality or your village, including your home, school and a few other important landmarks. Show the cardinal directions and use a few of the symbols shown in Fig. 1.2 on page 12 to mark some important features.\n\n<!-- page 12 -->\n\nRailway Line: broad gauge, metre gauge, railway station\n\nRS\n\nRoads: metalled, unmetalled\n\nBoundary: international, state, district\n\nRiver, well, tank, canal, bridge\n\n| bridge Temple, chur chhatri Post Office, Office, Police Settlement, Trees, grass |  | ch, mosque, Post & Telegraph PO PTO PS Station graveyard |\n| --- | --- | --- |\n|  |  |  |\n| ring Society: India and Beyond and the World: Land and the People |  |  |",
    "page_start": 9,
+   "page_end": 12
+  },
+  {
+   "section_id": "6-sst-01-s04",
+   "heading": "Mapping the Earth",
+   "text": "Mapping the Earth\nMapping the Earth is a little more difficult because our planet is not a flat surface. It nearly has the shape of a sphere. (We say ‘nearly’ because it is not a perfect sphere, but is slightly flattened at the poles. However, in practice, we will consider it to be spherical.) Representing a sphere accurately on a flat sheet of paper is not possible. To understand why, peel an orange in such a way that you have just three or four large pieces of the skin; then try and flatten them on a table — you will see that you cannot do it without tearing them at the edges.\nNow, consider a globe, which is a sphere on which a map is drawn. This may be a map of the Earth, the Moon, the planet Mars, the stars and constellations in the sky, etc. The physical object, like the one shown in the drawing on the next page, is a sphere that is generally made of metal, plastic or cardboard.\nFig. 1.2. A selection of symbols commonly used in maps.\nTemple, church, mosque, chhatri\n\n<!-- page 13 -->\n\nHere we will study the globe representing the Earth’s geography. Because the globe and the Earth have the same spherical shape, a globe will better represent the geography of the Earth than a flat map.\n\nLet us now explore some of its features.",
+   "page_start": 12,
    "page_end": 13
   },
   {
-   "section_id": "6-sst-01-s10",
+   "section_id": "6-sst-01-s05",
    "heading": "a) Understanding coordinates",
    "text": "#### a) Understanding coordinates\n\nImagine a big market in a city or town, with neat rows of shops, all the same size. You want to meet a friend at a stationery shop inside the market. But your friend does not know where the shop is. So you would give directions like, “Meet me at 6 pm at the 7th shop in the 5th row from the entrance.” This will allow your friend to precisely determine your location.\n\nNow, consider a chessboard. To record moves by advanced players, letters are placed alongside the main pieces (from ‘a’ to ‘h’, see the image) and numbers (from 1 to 8) in between the two sides. This simple system allows players to mark each square and record every move. Here, the white side has just opened the game by moving the queen’s pawn two squares forward (a very common opening). So, the pawn is said to have moved from d2 to d4.\n\n##### LET’S EXPLORE\n\nUsing the same terms, write down your move if you play black and respond with the same move.\n\n<!-- page 14 -->\n\nThe system used in these two examples may be called a system of **coordinates**. Thanks to their two coordinates, the stationery shop as well as the chess square on the chessboard can be precisely determined.\n\nA similar system of coordinates is used in the world of maps to determine the location of any place on a map. Let us see how this system works.",
    "page_start": 13,
    "page_end": 14
   },
   {
-   "section_id": "6-sst-01-s11",
+   "section_id": "6-sst-01-s06",
    "heading": "b) Latitudes",
    "text": "#### b) Latitudes\n\nLet us return to the globe. It is easy to identify the North Pole and the South Pole on it. Rotate the globe; while it rotates, the fixed points at the top and bottom are the two poles. Halfway between them is the Equator; note the circle marking it (see Fig. 1.3).\n\nImagine that you stand on the **Equator** and travel towards one of the poles; your distance from the Equator increases. **Latitude** measures this distance from the Equator. At any point of this travel, you can draw an imaginary line that runs east and west, parallel to the Equator. Such a line is called a **parallel of latitude** and it draws a circle around the Earth. Again, it is easy to note on the globe that the largest circle is the Equator, while the circles marked by the parallels of latitude grow smaller as we move northward or southward (Fig. 1.3).\n\nLatitudes are expressed in **degrees**; by convention, the Equator is latitude 0° (zero degree), while the latitudes of the two poles are 90° North and 90° South respectively; this is noted 90°N and 90°S.\n\nThere is a connection between latitude and climate. Around the Equator, the climate is generally hot (it is also called ‘torrid’). As you travel away from the Equator towards one of the two poles (in other words, as your latitude increases), the climate becomes more moderate (or ‘temperate’). And closer to the North or South Pole, the climate grows colder (or ‘frigid’). You will learn in Science why this is so, and\n\n<!-- page 15 -->\n\nalso why we experience different seasons in the course of a year.\n\nFig. 1.3. This globe shows both parallels of latitude and\n\nmeridians of longitudes",
    "page_start": 14,
    "page_end": 15
   },
   {
-   "section_id": "6-sst-01-s12",
+   "section_id": "6-sst-01-s07",
    "heading": "c) Longitudes",
    "text": "#### c) Longitudes\n\nImagine now that you travel from the North Pole to the South Pole by the shortest possible line. Observe the globe: you will see that instead of passing through Europe and Africa, you could just as well pass through Asia — the distance would be the same. These lines are called **meridians of longitude** (Fig. 1.3). They are all half-circles running from one pole to the other.\n\nYou will also learn in Science that the Earth spins on its axis. To put it simply, let’s place a desk lamp a little away from our globe, focused on it, and imagine that this is\n\n<!-- page 16 -->\n\nthe Sun illuminating the Earth. Slowly rotating the globe eastward, we can note that for some places on the Earth it is morning, while for others it is mid-day, evening or night — when it’s breakfast time in one country, it’s lunchtime in another and in a third country people are fast asleep! That is why by measuring the longitude of a place, we will also be measuring the time at that place. Let us see how.\n\nTo measure longitudes, we need to define a reference point called the **Prime Meridian** (Fig. 1.3 on page 15). It is also called Greenwich Meridian because, in the year 1884, some nations decided that the meridian passing through Greenwich, an area of London in England, would become the international standard for the Prime Meridian. It is marked as 0° longitude.\n\nJust as latitude is a measure of the distance from the Equator if you travel towards one of the poles, **longitude** is a measure of the distance from the Prime Meridian if you travel along the Equator. Longitude, too, is measured in degrees. Westward or eastward, it increases in value from 0° to 180°, with the letter ‘W’ or ‘E’ added. For instance, using round figures, New York’s longitude is 74°W, while Delhi’s is 77°E and Tokyo’s is 140°E.\n\n##### DON’T MISS OUT\n\nAs you can see on the globe of meridians of longitudes, 180°W and 180°E are the same longitude; so this longitude is noted 180°, omitting the letter W or E.\n\nLatitude and longitude together are the two **coordinates** of a place. With them, you are now able to locate any place on Earth! You can now understand a statement such as “Delhi lies at 29°N latitude and 77°E longitude” (these values are rounded off, not exact).\n\nFig. 1.3 on page 15 shows the parallels of latitude and the meridians of longitude together on the globe as blue lines.\n\n<!-- page 17 -->\n\nAll these lines together constitute a **grid** for the globe; they are also called grid lines.\n\n##### LET’S EXPLORE\n\nIf the globe or atlas in your class has well-marked latitudes and longitudes, try to note down approximate values for the latitude and longitude of (1) Mumbai, (2) Kolkata, (3) Singapore,\n(4) Paris.\n\nGreenwich\n\nMeridian\n\nWestern Hemisphere | Northern Hemisphere\n\nEquator\n\nEastern Hemisphere\n\n> Southern Hemisphere\n\nFig. 1.4. This sketch shows how the Prime Meridian divides the Earth into the Western and Eastern Hemispheres, while the Equator divides it into the\n\nNorthern and Southern Hemispheres.\n\n##### DON’T MISS OUT\n\nThe Greenwich Meridian is not the first prime meridian. There were others in the past. In fact, many centuries before Europe, India had a prime meridian of its own! (Fig. 1.5) It was called madhya rekhā (or ‘middle line’) and passed through the city of Ujjayinī (today Ujjain), which was a reputed centre for astronomy over many centuries. Varāhamihira, a famous astronomer, lived and worked there some 1,500 years ago.\n\nIndian astronomers were aware of concepts of latitude and longitude, including the need for a zero or prime meridian. The Ujjayinī meridian became a reference for calculations in all Indian astronomical texts.\n\n<!-- page 18 -->\n\nThe map shows a few ancient Indian cities close to the Ujjayinī meridian. Some are very close to it, while others are a little away. That is because measuring longitude required accurate timekeeping, which was not as precise then as it is today.\n\n75.8°E\n\nKurukṣhetra\n\nRohitaka / Rohtak | Delhi\n\nMālavangara / Nagar\n\nUjjayinī / Ujjain | Kolkata\n\nMāhiṣhmati / Maheshwar\n\nMumbai\n\nChennai Bengaluru\n\nAncient city Modern city\n\nKumārī / Kanyakumari\n\nNot to scale\n\nFig. 1.5. The Ujjayinī prime meridian used in ancient Indian astronomy. Cities\n\nmarked with a circle are mentioned in astronomical texts as being on this\n\nmeridian (the modern name is given after the oblique bar).\n\n<!-- page 19 -->\n\nFig. 1.6. This map, published by the Survey of India, shows the country’s outline along with a few parallels of latitude and meridians of longitude. India’s latitudes extend approximately from to 8°N to 37°N, and longitudes\n\napproximately from 68°E to 97°E. (The two colours have been added.)\n\n<!-- page 20 -->",
    "page_start": 15,
    "page_end": 20
   },
   {
-   "section_id": "6-sst-01-s13",
+   "section_id": "6-sst-01-s08",
    "heading": "Understanding Time Zones",
    "text": "#### Understanding Time Zones\n\nLet’s make the globe rotate again from west to east — that is how our planet spins around its axis, making a full turn every 24 hours. A full turn is 360°, so this means 15° per hour (15 × 24 = 360). Let us now mark the meridians of longitude every 15°. Moving eastward from the Prime Meridian, we get 0°, 15°E, 30°E, 45°E, and so on every 15° up to 180°E. It is the same as adding one hour of **local time** with each 15° meridian — if it is 12 pm or noon at Greenwich, it is 1 pm local time at 15°E, 2 pm at 30°E, and so on. But going westward, it is the other way round — 11 am local time at 15°W, 10 am at 30°W, etc.\n\n> 9 AM\n\n10 AM 11 AM 12 PM 1 PM 2 PM 3 PM\n\n15°\n\n45° W 30° W 15° W 0° 15° E 30°E 45° E\n\nFig. 1.7. This graph shows longitudes at the bottom and the local time at the\n\ntop, with reference to the Prime Meridian at 0°. Each colour is a zone of 15°\n\ncentred on a meridian.\n\n<!-- page 21 -->\n\n##### LET’S EXPLORE\n\nTwo friends, one sitting in Porbandar (Gujarat) and the other in Tinsukia (Assam), are speaking on the phone late afternoon. The latter remarks that the sun has set in Assam and it’s now dark. The former is surprised and says, “But it’s still full daylight here!” Explain why. And, as a class activity, calculate the difference in local time between those two cities. (Hint: for now, consider the difference in longitude between Porbandar and Tinsukia to be 30°; later, you can find out the precise value.)\n\nThe same method can be used to calculate the local time of any place on the Earth. But it would not be convenient for a country to use many local times! That is why most countries adopt a **standard time** based on a meridian passing through them. Indian Standard Time (IST) is 5 hours 30 minutes (also noted 5.5 hours) ahead of the local time at Greenwich (called **Greenwich Mean Time** or GMT).\n\n##### LET’S EXPLORE\n\nReturn to the two friends sitting in Gujarat and Assam. Use this example to explain the difference between local time and standard time.\n\nAll these standard times are organised in time zones, which broadly follow the zones of 15° in the graph (Fig. 1.7). But let us consider the world map below (Fig. 1.8). We can see that the lines dividing the time zones are not fully straight. This is because they have to respect each country’s standard time and, therefore, tend to follow international borders. The numbers written inside some countries are the numbers of hours to be added to GMT to get their standard times if they have a positive sign, or subtracted from GMT if they have a negative sign.\n\n<!-- page 22 -->\n\n> Not to scale\n\nFig. 1.8. A world map of the time zones, showing the standard times (with\n\nrespect to GMT) for a few countries. (Note that international borders are\n\napproximate, not exact.)\n\n##### DON’T MISS OUT\n\nFrom the above explanation, it may seem as if every country has one standard time. That is not always the case. Some countries, like Russia, Canada or the USA, are too large to have a single time zone. The USA has six time zones and Russia has 11 — which means that travelling across Russia from east to\n\nwest, you will need to readjust your watch 10 times to align with the local time!\n\nSimilarly, the globe in Fig. 1.9, centred on India, shows standard times with respect to GMT for a few countries.\n\nFinally, while the Prime Meridian was fixed at Greenwich, the opposite line — at approximately 180° longitude — is called the **International Date Line**.\n\nAs you can see on the map, the +12 and the –12 time zones touch each other at this line. If you cross it by ship or plane, you need to change the date in your watch. If you cross it\n\n<!-- page 23 -->\n\nFig. 1.9 A few time zones (with respect to GMT) in Africa and Eurasia.\n\ntravelling eastward, you subtract a day (say, from Monday to Sunday); if you cross it travelling westward, you add a day (from Sunday to Monday). We said that the International Date Line is ‘approximately’ at 180° longitude, as it deviates in places to avoid dividing some countries into two different days!",
    "page_start": 20,
    "page_end": 23
   },
   {
-   "section_id": "6-sst-01-s14",
+   "section_id": "6-sst-01-s09",
    "heading": "Before we move on ...",
    "text": "#### Before we move on ...\n\n- Maps are a very useful tool to represent an area of the Earth, whether small or large. The main components of maps are distance, direction and symbols.\n\n- Every place on the Earth has a location which can be precisely defined with the help of a grid of latitudes and longitudes — imaginary lines running from east to west (parallel to the Equator) and north to south (from pole to pole) respectively.\n\n<!-- page 24 -->\n\n- Longitude also marks the time and defines the time zones.\n\n- The International Date Line is located approximately at 180 degrees longitude, opposite the Prime Meridian. Crossing the International Date Line changes the date by one day.",
    "page_start": 23,
    "page_end": 24
   },
   {
-   "section_id": "6-sst-01-s15",
+   "section_id": "6-sst-01-s10",
    "heading": "Questions, activities and projects",
-   "text": "#### Questions, activities and projects\n\n1. Returning to page 10 and to Fig. 5.2 in Chapter 5 of this textbook, taking the scale to be 2.5 cm = 500 km, calculate the real distance from the **estuary** of the Narmada River to the estuary of the Ganga river. (Hint: round off your measurement on the map to an easy number.)\n\n**Estuary:** The place\n\nwhere a river meets\n\nthe sea.\n\n2. Why is it 5:30 pm in India when it is 12 pm or noon in London?\n\n3. Why do we need symbols and colours in the map?\n\n4. Find out what you have in the eight directions from your home or school.\n\n5. What is the difference between local time and standard time? Discuss it in groups, with each group writing an answer in 100 to 150 words. Compare the answers.\n\n6. Delhi’s and Bengaluru’s latitudes are 29°N and 13°N; their longitudes are almost the same, 77°E. How much will be the difference in local time between the two cities?\n\n7. Mark the following statements as true or false; explain your answers with a sentence or two.\n\n- All parallels of latitude have the same length.\n\n- The length of a meridian of longitude is half of that of the Equator.\n\n- The South Pole has a latitude of 90°S.\n\n- In Assam, the local time and the IST are identical.\n\n- Lines separating the time zones are identical with meridians of longitude.\n\n- The Equator is also a parallel of latitude.\n\n8. Solve the crossword below.\n\n<!-- page 25 -->\n\nLocating places on Earth\n\n|  |  |  |  |  |  |  | 1 |  |  | 2 |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  | 3 |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  | 4 |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  | 6 |  |  |  |  |  | 7 |  |  |\n| 8 |  | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  | 10 |  |  | 11 |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\nAcross | Down\n\n1. Lets you squeeze a huge | 2. A measure of the distance\n\narea into your map | from the Prime Meridian\n\n4. A convenient sphere | 3. These two together allow\n\n5. The longest parallel of | us to locate a place\n\nlatitude | 6. What latitudes and\n\n6. The place the Prime | longitudes together create\n\nMeridian is attached to | 7. The time we all follow in\n\n8. So convenient to find your | India\n\nway | 9. On top of the world\n\n10. A measure of the distance | 11. An abbreviation for a\n\nfrom the Equator | line across which the\n\nday and date change\n\n<!-- page 26 -->",
+   "text": "#### Questions, activities and projects\n\n1. Returning to page 10 and to Fig. 5.2 in Chapter 5 of this textbook, taking the scale to be 2.5 cm = 500 km, calculate the real distance from the **estuary** of the Narmada River to the estuary of the Ganga river. (Hint: round off your measurement on the map to an easy number.)\n\n**Estuary:** The place\n\nwhere a river meets\n\nthe sea.\n\n2. Why is it 5:30 pm in India when it is 12 pm or noon in London?\n\n3. Why do we need symbols and colours in the map?\n\n4. Find out what you have in the eight directions from your home or school.\n\n5. What is the difference between local time and standard time? Discuss it in groups, with each group writing an answer in 100 to 150 words. Compare the answers.\n\n6. Delhi’s and Bengaluru’s latitudes are 29°N and 13°N; their longitudes are almost the same, 77°E. How much will be the difference in local time between the two cities?\n\n7. Mark the following statements as true or false; explain your answers with a sentence or two.\n\n- All parallels of latitude have the same length.\n\n- The length of a meridian of longitude is half of that of the Equator.\n\n- The South Pole has a latitude of 90°S.\n\n- In Assam, the local time and the IST are identical.\n\n- Lines separating the time zones are identical with meridians of longitude.\n\n- The Equator is also a parallel of latitude.\n\n8. Solve the crossword below.\n\n<!-- page 25 -->\n\nLocating places on Earth\n\n|  |  |  |  |  |  |  | 1 |  |  | 2 |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  | 3 |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  | 4 |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  | 6 |  |  |  |  |  | 7 |  |  |\n| 8 |  | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  | 10 |  |  | 11 |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\nAcross | Down\n\n1. Lets you squeeze a huge | 2. A measure of the distance\n\narea into your map | from the Prime Meridian\n\n4. A convenient sphere | 3. These two together allow\n\n5. The longest parallel of | us to locate a place\n\nlatitude | 6. What latitudes and\n\n6. The place the Prime | longitudes together create\n\nMeridian is attached to | 7. The time we all follow in\n\n8. So convenient to find your | India\n\nway | 9. On top of the world\n\n10. A measure of the distance | 11. An abbreviation for a\n\nfrom the Equator | line across which the\n\nday and date change\n\n<!-- page 26 -->\n\n## Noodles\n\n*‘Noodles’ is our abbreviation for ‘Notes and Doodles’!",
    "page_start": 24,
-   "page_end": 26
-  },
-  {
-   "section_id": "6-sst-01-s16",
-   "heading": "Noodles",
-   "text": "## Noodles\n\n*‘Noodles’ is our abbreviation for ‘Notes and Doodles’!",
-   "page_start": 26,
    "page_end": 26
   }
  ],
  "key_terms": [
   {
    "term": "atlas",
-   "meaning": "An atlas is a book or collection of maps.",
+   "meaning": "An **atlas** is a book or collection of maps.",
    "page": 9
-  },
-  {
-   "term": "physical maps",
-   "meaning": "- physical maps, which mainly show some natural features such as mountains, oceans and rivers (see an example in Fig.",
-   "page": 9
-  },
-  {
-   "term": "political maps",
-   "meaning": "- political maps, which show details of countries or states, boundaries, cities, etc.",
-   "page": 9
-  },
-  {
-   "term": "thematic maps",
-   "meaning": "- thematic maps, with a specific kind of information (examples include Fig.",
-   "page": 9
-  },
-  {
-   "term": "distance, direction",
-   "meaning": "In addition, there are three important components of maps—distance, direction and symbols.",
-   "page": 9
-  },
-  {
-   "term": "symbols",
-   "meaning": "In addition, there are three important components of maps—distance, direction and symbols.",
-   "page": 9
-  },
-  {
-   "term": "scale",
-   "meaning": "It is all thanks to the map’s scale.",
-   "page": 10
-  },
-  {
-   "term": "distance",
-   "meaning": "So, the actual distance between two points represented on the map depends on the scale that the map is using.",
-   "page": 10
-  },
-  {
-   "term": "directions",
-   "meaning": "directions, which are north, at the top, and,",
-   "page": 10
-  },
-  {
-   "term": "cardinal directions",
-   "meaning": "These are called the cardinal directions,",
-   "page": 10
-  },
-  {
-   "term": "cardinal points",
-   "meaning": "also cardinal points.",
-   "page": 10
-  },
-  {
-   "term": "coordinates",
-   "meaning": "The system used in these two examples may be called a system of coordinates.",
-   "page": 14
-  },
-  {
-   "term": "Equator",
-   "meaning": "Imagine that you stand on the Equator and travel towards one of the poles; your distance from the Equator increases.",
-   "page": 14
   },
   {
    "term": "Latitude",
-   "meaning": "Latitude measures this distance from the Equator.",
+   "meaning": "**Latitude** measures this distance from the Equator.",
    "page": 14
-  },
-  {
-   "term": "parallel of latitude",
-   "meaning": "Such a line is called a parallel of latitude and it draws a circle around the Earth.",
-   "page": 14
-  },
-  {
-   "term": "degrees",
-   "meaning": "Latitudes are expressed in degrees; by convention, the Equator is latitude 0° (zero degree), while the latitudes of the two poles are 90° North and 90° South respectively; this is noted 90°N and 90°S.",
-   "page": 14
-  },
-  {
-   "term": "meridians of longitude",
-   "meaning": "These lines are called meridians of longitude (Fig.",
-   "page": 15
   },
   {
    "term": "Prime Meridian",
-   "meaning": "To measure longitudes, we need to define a reference point called the Prime Meridian (Fig.",
+   "meaning": "To measure longitudes, we need to define a reference point called the **Prime Meridian** (Fig. 1.3 on page 15).",
    "page": 16
   },
   {
-   "term": "longitude",
-   "meaning": "Just as latitude is a measure of the distance from the Equator if you travel towards one of the poles, longitude is a measure of the distance from the Prime Meridian if you travel along the Equator.",
-   "page": 16
-  },
-  {
-   "term": "grid",
-   "meaning": "All these lines together constitute a grid for the globe; they are also called grid lines.",
-   "page": 17
-  },
-  {
-   "term": "local time",
-   "meaning": "It is the same as adding one hour of local time with each 15° meridian — if it is 12 pm or noon at Greenwich, it is 1 pm local time at 15°E, 2 pm at 30°E, and so on.",
-   "page": 20
-  },
-  {
-   "term": "standard time",
-   "meaning": "That is why most countries adopt a standard time based on a meridian passing through them.",
+   "term": "Standard time",
+   "meaning": "That is why most countries adopt a **standard time** based on a meridian passing through them.",
    "page": 21
   },
   {
-   "term": "Greenwich Mean Time",
-   "meaning": "Indian Standard Time (IST) is 5 hours 30 minutes (also noted 5.5 hours) ahead of the local time at Greenwich (called Greenwich Mean Time or GMT).",
-   "page": 21
-  },
-  {
-   "term": "International Date Line",
-   "meaning": "Finally, while the Prime Meridian was fixed at Greenwich, the opposite line — at approximately 180° longitude — is called the International Date Line.",
-   "page": 22
-  },
-  {
-   "term": "estuary",
-   "meaning": "5.2 in Chapter 5 of this textbook, taking the scale to be 2.5 cm = 500 km, calculate the real distance from the estuary of the Narmada River to the estuary of the Ganga river.",
+   "term": "Estuary",
+   "meaning": "**Estuary:** The place",
    "page": 24
   },
   {
@@ -373,7 +231,48 @@
    "page": null
   }
  ],
- "activities": [],
+ "activities": [
+  {
+   "label": "Let's Explore: map of small city (hospital, blue areas, distance)",
+   "description": "- On the map in Fig. 1.1 given on page 8 — 1. Mark the hospital. 2. What is the meaning of the blue-coloured areas? 3. Which is farther away from the railway station — the school, the Nagar Panchayat or the public garden? - As a class activity, form groups of three or four students each. Let each group try to draw a map of your school and some of the streets or roads that lead to it, and a few neighbouring buildings. At the end, compare all the maps and discuss.",
+   "page": 9
+  },
+  {
+   "label": "Let's Explore: playground map on scale",
+   "description": "- Draw a simple map of a school’s playground. Let us assume it is a rectangle, 40 m in length and 30 m in width. Draw it precisely with your ruler on a scale of 1 cm = 10 m. - Now measure the diagonal of the rectangle. How many centimetres do you get? Using the scale, calculate the real length of the playground’s diagonal, in metres.",
+   "page": 10
+  },
+  {
+   "label": "Let's Explore: directions statements",
+   "description": "- Consider the map of the small city again. Identify the correct and incorrect statements in the list below: 1. The market is north of the hospital. 2. The museum is southeast of the bank. 3. The railway station is northwest of the hospital. 4. The lake is northwest of the apartment blocks. - Taking your school as the starting point, do you know approximately in which cardinal direction your home is located? Discuss with your teacher and your parents.",
+   "page": 11
+  },
+  {
+   "label": "Let's Explore: map of your locality",
+   "description": "Draw a rough map of your locality or your village, including your home, school and a few other important landmarks. Show the cardinal directions and use a few of the symbols shown in Fig. 1.2 on page 12 to mark some important features.",
+   "page": 11
+  },
+  {
+   "label": "Let's Explore: chess move",
+   "description": "Using the same terms, write down your move if you play black and respond with the same move.",
+   "page": 13
+  },
+  {
+   "label": "Let's Explore: latitude and longitude of cities",
+   "description": "If the globe or atlas in your class has well-marked latitudes and longitudes, try to note down approximate values for the latitude and longitude of (1) Mumbai, (2) Kolkata, (3) Singapore, (4) Paris.",
+   "page": 17
+  },
+  {
+   "label": "Let's Explore: Porbandar and Tinsukia",
+   "description": "Two friends, one sitting in Porbandar (Gujarat) and the other in Tinsukia (Assam), are speaking on the phone late afternoon. The latter remarks that the sun has set in Assam and it’s now dark. The former is surprised and says, “But it’s still full daylight here!” Explain why. And, as a class activity, calculate the difference in local time between those two cities. (Hint: for now, consider the difference in longitude between Porbandar and Tinsukia to be 30°; later, you can find out the precise v",
+   "page": 21
+  },
+  {
+   "label": "Let's Explore: local vs standard time",
+   "description": "Return to the two friends sitting in Gujarat and Assam. Use this example to explain the difference between local time and standard time.",
+   "page": 21
+  }
+ ],
  "figures": [
   {
    "label": "Fig. 1.1",
@@ -387,32 +286,32 @@
   },
   {
    "label": "Fig. 1.3",
-   "caption": "This globe shows both parallels of latitude and",
+   "caption": "This globe shows both parallels of latitude and meridians of longitudes",
    "page": 15
   },
   {
    "label": "Fig. 1.4",
-   "caption": "This sketch shows how the Prime Meridian divides the Earth into the Western and Eastern Hemispheres, while the Equator divides it into the",
+   "caption": "Prime Meridian divides the Earth into Western and Eastern Hemispheres, Equator into Northern and Southern Hemispheres.",
    "page": 17
   },
   {
    "label": "Fig. 1.5",
-   "caption": "The Ujjayinī prime meridian used in ancient Indian astronomy. Cities",
+   "caption": "The Ujjayinī prime meridian used in ancient Indian astronomy.",
    "page": 18
   },
   {
    "label": "Fig. 1.6",
-   "caption": "This map, published by the Survey of India, shows the country’s outline along with a few parallels of latitude and meridians of longitude. India’s latitudes extend approximately from to 8°N to 37°N, and longitudes",
+   "caption": "Map by the Survey of India showing India's outline with parallels and meridians.",
    "page": 19
   },
   {
    "label": "Fig. 1.7",
-   "caption": "This graph shows longitudes at the bottom and the local time at the",
+   "caption": "Graph showing longitudes and local time with reference to the Prime Meridian.",
    "page": 20
   },
   {
    "label": "Fig. 1.8",
-   "caption": "A world map of the time zones, showing the standard times (with",
+   "caption": "A world map of the time zones, showing standard times with respect to GMT.",
    "page": 22
   },
   {
@@ -423,92 +322,78 @@
  ],
  "exercises": [
   {
-   "label": "LET’S EXPLORE (p. 9) Q1",
-   "text": "- On the map in Fig. 1.1 given on page 8 —\n1. Mark the hospital.",
+   "label": "Let's Explore (p9) Q1",
+   "text": "- On the map in Fig. 1.1 given on page 8 —\n\n1. Mark the hospital.\n\n2. What is the meaning of the blue-coloured areas?\n\n3. Which is farther away from the railway station — the school, the Nagar Panchayat or the public garden?",
    "type_hint": "short",
    "page": 9,
    "source": "in_chapter"
   },
   {
-   "label": "LET’S EXPLORE (p. 9) Q2",
-   "text": "2. What is the meaning of the blue-coloured areas?",
-   "type_hint": "short",
+   "label": "Let's Explore (p9) Q2",
+   "text": "- As a class activity, form groups of three or four students each. Let each group try to draw a map of your school and some of the streets or roads that lead to it, and a few neighbouring buildings. At the end, compare all the maps and discuss.",
+   "type_hint": "activity",
    "page": 9,
    "source": "in_chapter"
   },
   {
-   "label": "LET’S EXPLORE (p. 9) Q3",
-   "text": "3. Which is farther away from the railway station — the school, the Nagar Panchayat or the public garden?\n\n- As a class activity, form groups of three or four students each. Let each group try to draw a map of your school and some of the streets or roads that lead to it, and a few neighbouring buildings. At the end, compare all the maps and discuss.",
-   "type_hint": "diagram",
-   "page": 9,
-   "source": "in_chapter"
-  },
-  {
-   "label": "LET’S EXPLORE (p. 10)",
-   "text": "- Draw a simple map of a school’s playground. Let us assume it is a rectangle, 40 m in length and 30 m in width. Draw it precisely with your ruler on a scale of 1 cm = 10 m.\n\n- Now measure the diagonal of the rectangle. How many centimetres do you get? Using the scale, calculate the real length of the playground’s diagonal, in metres.\n\nLet us return to the four arrows at the top right\n\nof the small city’s map. They point to four\n\n**directions**, which are north, at the top, and,\n\nNorth | moving clockwise, east, south and west.\n\nThese are called the **cardinal directions**,\n\n> Northwest\n\nNortheast\n\nalso **cardinal points**. Other than these,\n\nintermediate directions are also used — northeast (NE), southeast (SE), southwest (SW) and northwest (NW). Most maps simply have an arrow marked with the letter ‘N’, which points to the north direction.\n\nEast West\n\n> Southwest\n\nSoutheast\n\nSouth\n\n<!-- page 11 -->",
-   "type_hint": "diagram",
+   "label": "Let's Explore (p10) Q1",
+   "text": "- Draw a simple map of a school’s playground. Let us assume it is a rectangle, 40 m in length and 30 m in width. Draw it precisely with your ruler on a scale of 1 cm = 10 m.",
+   "type_hint": "activity",
    "page": 10,
    "source": "in_chapter"
   },
   {
-   "label": "LET’S EXPLORE (p. 11) Q1",
-   "text": "- Consider the map of the small city again. Identify the correct and incorrect statements in the list below:\n1. The market is north of the hospital.",
+   "label": "Let's Explore (p10) Q2",
+   "text": "- Now measure the diagonal of the rectangle. How many centimetres do you get? Using the scale, calculate the real length of the playground’s diagonal, in metres.",
+   "type_hint": "numerical",
+   "page": 10,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Let's Explore (p11) Q1",
+   "text": "- Consider the map of the small city again. Identify the correct and incorrect statements in the list below:\n\n1. The market is north of the hospital.\n\n2. The museum is southeast of the bank.\n\n3. The railway station is northwest of the hospital.\n\n4. The lake is northwest of the apartment blocks.",
+   "type_hint": "true_false",
+   "page": 11,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Let's Explore (p11) Q2",
+   "text": "- Taking your school as the starting point, do you know approximately in which cardinal direction your home is located? Discuss with your teacher and your parents.",
    "type_hint": "short",
    "page": 11,
    "source": "in_chapter"
   },
   {
-   "label": "LET’S EXPLORE (p. 11) Q2",
-   "text": "2. The museum is southeast of the bank.",
-   "type_hint": "short",
+   "label": "Let's Explore (p11) Q3",
+   "text": "Draw a rough map of your locality or your village, including your home, school and a few other important landmarks. Show the cardinal directions and use a few of the symbols shown in Fig. 1.2 on page 12 to mark some important features.",
+   "type_hint": "activity",
    "page": 11,
    "source": "in_chapter"
   },
   {
-   "label": "LET’S EXPLORE (p. 11) Q3",
-   "text": "3. The railway station is northwest of the hospital.",
-   "type_hint": "short",
-   "page": 11,
-   "source": "in_chapter"
-  },
-  {
-   "label": "LET’S EXPLORE (p. 11) Q4",
-   "text": "4. The lake is northwest of the apartment blocks.\n\n- Taking your school as the starting point, do you know approximately in which cardinal direction your home is located? Discuss with your teacher and your parents.\n\n**Symbols** are another important component of maps. Our map has small drawings of actual buildings and a few other elements, but there would not be enough space on the map of a large city or a country to draw them all. Instead, a symbol is used to represent these features — symbols for different kinds of buildings (for instance a railway station, a school, a post office), for roads and railway lines, and for natural elements such as a river, a pond or a forest. In that way, numerous details can be shown in the limited space available on a map.\n\nTo make maps more easily understood by a variety of users, map makers use specific symbols. Different countries use different sets of symbols. The Survey of India, a government body, has fixed a set of symbols for maps of India (or parts of India). A small selection of them is shown in Fig. 1.2 on page 12.",
-   "type_hint": "diagram",
-   "page": 11,
-   "source": "in_chapter"
-  },
-  {
-   "label": "LET’S EXPLORE (p. 11)",
-   "text": "Draw a rough map of your locality or your village, including your home, school and a few other important landmarks. Show the cardinal directions and use a few of the symbols shown in Fig. 1.2 on page 12 to mark some important features.\n\n<!-- page 12 -->\n\nRailway Line: broad gauge, metre gauge, railway station\n\nRS\n\nRoads: metalled, unmetalled\n\nBoundary: international, state, district\n\nRiver, well, tank, canal, bridge\n\n| bridge Temple, chur chhatri Post Office, Office, Police Settlement, Trees, grass |  | ch, mosque, Post & Telegraph PO PTO PS Station graveyard |\n| --- | --- | --- |\n|  |  |  |\n| ring Society: India and Beyond and the World: Land and the People |  |  |\n\nMapping the Earth\nMapping the Earth is a little more difficult because our planet is not a flat surface. It nearly has the shape of a sphere. (We say ‘nearly’ because it is not a perfect sphere, but is slightly flattened at the poles. However, in practice, we will consider it to be spherical.) Representing a sphere accurately on a flat sheet of paper is not possible. To understand why, peel an orange in such a way that you have just three or four large pieces of the skin; then try and flatten them on a table — you will see that you cannot do it without tearing them at the edges.\nNow, consider a globe, which is a sphere on which a map is drawn. This may be a map of the Earth, the Moon, the planet Mars, the stars and constellations in the sky, etc. The physical object, like the one shown in the drawing on the next page, is a sphere that is generally made of metal, plastic or cardboard.\nFig. 1.2. A selection of symbols commonly used in maps.\nTemple, church, mosque, chhatri\n\n<!-- page 13 -->\n\nHere we will study the globe representing the Earth’s geography. Because the globe and the Earth have the same spherical shape, a globe will better represent the geography of the Earth than a flat map.\n\nLet us now explore some of its features.",
-   "type_hint": "diagram",
-   "page": 11,
-   "source": "in_chapter"
-  },
-  {
-   "label": "LET’S EXPLORE (p. 13)",
-   "text": "Using the same terms, write down your move if you play black and respond with the same move.\n\n<!-- page 14 -->\n\nThe system used in these two examples may be called a system of **coordinates**. Thanks to their two coordinates, the stationery shop as well as the chess square on the chessboard can be precisely determined.\n\nA similar system of coordinates is used in the world of maps to determine the location of any place on a map. Let us see how this system works.",
+   "label": "Let's Explore (p13) Q1",
+   "text": "Using the same terms, write down your move if you play black and respond with the same move.",
    "type_hint": "short",
    "page": 13,
    "source": "in_chapter"
   },
   {
-   "label": "LET’S EXPLORE (p. 17)",
-   "text": "If the globe or atlas in your class has well-marked latitudes and longitudes, try to note down approximate values for the latitude and longitude of (1) Mumbai, (2) Kolkata, (3) Singapore,\n(4) Paris.\n\nGreenwich\n\nMeridian\n\nWestern Hemisphere | Northern Hemisphere\n\nEquator\n\nEastern Hemisphere\n\n> Southern Hemisphere\n\nFig. 1.4. This sketch shows how the Prime Meridian divides the Earth into the Western and Eastern Hemispheres, while the Equator divides it into the\n\nNorthern and Southern Hemispheres.",
-   "type_hint": "diagram",
+   "label": "Let's Explore (p17) Q1",
+   "text": "If the globe or atlas in your class has well-marked latitudes and longitudes, try to note down approximate values for the latitude and longitude of (1) Mumbai, (2) Kolkata, (3) Singapore,\n(4) Paris.",
+   "type_hint": "short",
    "page": 17,
    "source": "in_chapter"
   },
   {
-   "label": "LET’S EXPLORE (p. 21)",
-   "text": "Two friends, one sitting in Porbandar (Gujarat) and the other in Tinsukia (Assam), are speaking on the phone late afternoon. The latter remarks that the sun has set in Assam and it’s now dark. The former is surprised and says, “But it’s still full daylight here!” Explain why. And, as a class activity, calculate the difference in local time between those two cities. (Hint: for now, consider the difference in longitude between Porbandar and Tinsukia to be 30°; later, you can find out the precise value.)\n\nThe same method can be used to calculate the local time of any place on the Earth. But it would not be convenient for a country to use many local times! That is why most countries adopt a **standard time** based on a meridian passing through them. Indian Standard Time (IST) is 5 hours 30 minutes (also noted 5.5 hours) ahead of the local time at Greenwich (called **Greenwich Mean Time** or GMT).",
-   "type_hint": "numerical",
+   "label": "Let's Explore (p21) Q1",
+   "text": "Two friends, one sitting in Porbandar (Gujarat) and the other in Tinsukia (Assam), are speaking on the phone late afternoon. The latter remarks that the sun has set in Assam and it’s now dark. The former is surprised and says, “But it’s still full daylight here!” Explain why. And, as a class activity, calculate the difference in local time between those two cities. (Hint: for now, consider the difference in longitude between Porbandar and Tinsukia to be 30°; later, you can find out the precise value.)",
+   "type_hint": "long",
    "page": 21,
    "source": "in_chapter"
   },
   {
-   "label": "LET’S EXPLORE (p. 21)",
-   "text": "Return to the two friends sitting in Gujarat and Assam. Use this example to explain the difference between local time and standard time.\n\nAll these standard times are organised in time zones, which broadly follow the zones of 15° in the graph (Fig. 1.7). But let us consider the world map below (Fig. 1.8). We can see that the lines dividing the time zones are not fully straight. This is because they have to respect each country’s standard time and, therefore, tend to follow international borders. The numbers written inside some countries are the numbers of hours to be added to GMT to get their standard times if they have a positive sign, or subtracted from GMT if they have a negative sign.\n\n<!-- page 22 -->\n\n> Not to scale\n\nFig. 1.8. A world map of the time zones, showing the standard times (with\n\nrespect to GMT) for a few countries. (Note that international borders are\n\napproximate, not exact.)",
+   "label": "Let's Explore (p21) Q2",
+   "text": "Return to the two friends sitting in Gujarat and Assam. Use this example to explain the difference between local time and standard time.",
    "type_hint": "long",
    "page": 21,
    "source": "in_chapter"
@@ -523,21 +408,21 @@
   {
    "label": "Questions, activities and projects Q2",
    "text": "2. Why is it 5:30 pm in India when it is 12 pm or noon in London?",
-   "type_hint": "long",
+   "type_hint": "short",
    "page": 24,
    "source": "end"
   },
   {
    "label": "Questions, activities and projects Q3",
    "text": "3. Why do we need symbols and colours in the map?",
-   "type_hint": "long",
+   "type_hint": "short",
    "page": 24,
    "source": "end"
   },
   {
    "label": "Questions, activities and projects Q4",
    "text": "4. Find out what you have in the eight directions from your home or school.",
-   "type_hint": "short",
+   "type_hint": "activity",
    "page": 24,
    "source": "end"
   },
@@ -551,7 +436,7 @@
   {
    "label": "Questions, activities and projects Q6",
    "text": "6. Delhi’s and Bengaluru’s latitudes are 29°N and 13°N; their longitudes are almost the same, 77°E. How much will be the difference in local time between the two cities?",
-   "type_hint": "short",
+   "type_hint": "numerical",
    "page": 24,
    "source": "end"
   },
@@ -564,85 +449,40 @@
   },
   {
    "label": "Questions, activities and projects Q8",
-   "text": "8. Solve the crossword below.\n\n<!-- page 25 -->\n\nLocating places on Earth\n\n|  |  |  |  |  |  |  | 1 |  |  | 2 |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  | 3 |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  | 4 |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  | 6 |  |  |  |  |  | 7 |  |  |\n| 8 |  | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  | 10 |  |  | 11 |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\nAcross | Down",
-   "type_hint": "short",
+   "text": "8. Solve the crossword below.\n\n<!-- page 25 -->\n\nLocating places on Earth\n\n|  |  |  |  |  |  |  | 1 |  |  | 2 |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  | 3 |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  | 4 |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  | 6 |  |  |  |  |  | 7 |  |  |\n| 8 |  | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  | 10 |  |  | 11 |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\nAcross | Down\n\n1. Lets you squeeze a huge | 2. A measure of the distance\n\narea into your map | from the Prime Meridian\n\n4. A convenient sphere | 3. These two together allow\n\n5. The longest parallel of | us to locate a place\n\nlatitude | 6. What latitudes and\n\n6. The place the Prime | longitudes together create\n\nMeridian is attached to | 7. The time we all follow in\n\n8. So convenient to find your | India\n\nway | 9. On top of the world\n\n10. A measure of the distance | 11. An abbreviation for a\n\nfrom the Equator | line across which the\n\nday and date change",
+   "type_hint": "other",
    "page": 24,
-   "source": "end"
-  },
-  {
-   "label": "Questions, activities and projects Q1",
-   "text": "1. Lets you squeeze a huge | 2. A measure of the distance\n\narea into your map | from the Prime Meridian",
-   "type_hint": "short",
-   "page": 25,
-   "source": "end"
-  },
-  {
-   "label": "Questions, activities and projects Q4",
-   "text": "4. A convenient sphere | 3. These two together allow",
-   "type_hint": "short",
-   "page": 25,
-   "source": "end"
-  },
-  {
-   "label": "Questions, activities and projects Q5",
-   "text": "5. The longest parallel of | us to locate a place\n\nlatitude | 6. What latitudes and",
-   "type_hint": "short",
-   "page": 25,
-   "source": "end"
-  },
-  {
-   "label": "Questions, activities and projects Q6",
-   "text": "6. The place the Prime | longitudes together create\n\nMeridian is attached to | 7. The time we all follow in",
-   "type_hint": "short",
-   "page": 25,
-   "source": "end"
-  },
-  {
-   "label": "Questions, activities and projects Q8",
-   "text": "8. So convenient to find your | India\n\nway | 9. On top of the world",
-   "type_hint": "short",
-   "page": 25,
-   "source": "end"
-  },
-  {
-   "label": "Questions, activities and projects Q10",
-   "text": "10. A measure of the distance | 11. An abbreviation for a\n\nfrom the Equator | line across which the\n\nday and date change\n\n<!-- page 26 -->",
-   "type_hint": "short",
-   "page": 25,
    "source": "end"
   }
  ],
  "topics": [
+  "maps",
   "atlas",
   "physical maps",
   "political maps",
   "thematic maps",
-  "distance, direction",
-  "symbols",
   "scale",
   "distance",
-  "directions",
   "cardinal directions",
-  "cardinal points",
+  "map symbols",
+  "Survey of India",
+  "globe",
   "coordinates",
-  "Equator",
-  "Latitude",
-  "parallel of latitude",
-  "degrees",
-  "meridians of longitude",
-  "Prime Meridian",
+  "latitude",
   "longitude",
-  "grid",
+  "Equator",
+  "Prime Meridian",
+  "Greenwich",
+  "Ujjayini meridian",
+  "hemispheres",
   "local time",
   "standard time",
-  "Greenwich Mean Time",
-  "International Date Line",
-  "estuary"
+  "IST",
+  "time zones",
+  "International Date Line"
  ],
  "page_start": 1,
  "page_end": 26,
- "structured_by": "heuristic",
- "warnings": [
-  "very short section 6-sst-01-s16 'Noodles'"
- ]
+ "structured_by": "llm:sonnet",
+ "warnings": []
 }
