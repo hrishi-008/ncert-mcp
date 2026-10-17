@@ -1,0 +1,242 @@
+{
+ "chapter_id": "7-math-14",
+ "model": "backend=claude-cli model=sonnet",
+ "pages": [
+  {
+   "page": "136",
+   "plain_words": 66,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "137",
+   "plain_words": 93,
+   "missing": 2,
+   "missing_ratio": 0.022,
+   "sample": [
+    "constructions",
+    "tilings"
+   ]
+  },
+  {
+   "page": "138",
+   "plain_words": 40,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "139",
+   "plain_words": 85,
+   "missing": 2,
+   "missing_ratio": 0.024,
+   "sample": [
+    "constructions",
+    "tilings"
+   ]
+  },
+  {
+   "page": "140",
+   "plain_words": 96,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "141",
+   "plain_words": 110,
+   "missing": 2,
+   "missing_ratio": 0.018,
+   "sample": [
+    "constructions",
+    "tilings"
+   ]
+  },
+  {
+   "page": "142",
+   "plain_words": 100,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "143",
+   "plain_words": 56,
+   "missing": 2,
+   "missing_ratio": 0.036,
+   "sample": [
+    "constructions",
+    "tilings"
+   ]
+  },
+  {
+   "page": "144",
+   "plain_words": 82,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "145",
+   "plain_words": 60,
+   "missing": 2,
+   "missing_ratio": 0.033,
+   "sample": [
+    "constructions",
+    "tilings"
+   ]
+  },
+  {
+   "page": "146",
+   "plain_words": 36,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "147",
+   "plain_words": 74,
+   "missing": 2,
+   "missing_ratio": 0.027,
+   "sample": [
+    "constructions",
+    "tilings"
+   ]
+  },
+  {
+   "page": "148",
+   "plain_words": 30,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "149",
+   "plain_words": 78,
+   "missing": 2,
+   "missing_ratio": 0.026,
+   "sample": [
+    "constructions",
+    "tilings"
+   ]
+  },
+  {
+   "page": "150",
+   "plain_words": 47,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "151",
+   "plain_words": 88,
+   "missing": 2,
+   "missing_ratio": 0.023,
+   "sample": [
+    "constructions",
+    "tilings"
+   ]
+  },
+  {
+   "page": "152",
+   "plain_words": 93,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "153",
+   "plain_words": 49,
+   "missing": 2,
+   "missing_ratio": 0.041,
+   "sample": [
+    "constructions",
+    "tilings"
+   ]
+  },
+  {
+   "page": "154",
+   "plain_words": 53,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "155",
+   "plain_words": 66,
+   "missing": 2,
+   "missing_ratio": 0.03,
+   "sample": [
+    "constructions",
+    "tilings"
+   ]
+  },
+  {
+   "page": "156",
+   "plain_words": 16,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "157",
+   "plain_words": 56,
+   "missing": 2,
+   "missing_ratio": 0.036,
+   "sample": [
+    "constructions",
+    "tilings"
+   ]
+  },
+  {
+   "page": "158",
+   "plain_words": 43,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "159",
+   "plain_words": 64,
+   "missing": 2,
+   "missing_ratio": 0.031,
+   "sample": [
+    "constructions",
+    "tilings"
+   ]
+  },
+  {
+   "page": "160",
+   "plain_words": 73,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "161",
+   "plain_words": 53,
+   "missing": 2,
+   "missing_ratio": 0.038,
+   "sample": [
+    "constructions",
+    "tilings"
+   ]
+  },
+  {
+   "page": "162",
+   "plain_words": 73,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "163",
+   "plain_words": 56,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  }
+ ],
+ "flagged_pages": []
+}
