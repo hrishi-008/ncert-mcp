@@ -1,13 +1,15 @@
 {
- "stage": "structure",
+ "stage": "done",
  "vision_done": 25,
  "vision_total": 25,
  "last": "7-sst-20",
- "updated_at": "2026-10-17T19:23:22",
+ "updated_at": "2026-10-17T19:23:28",
  "usage": {
   "five_hour": 0.64,
   "seven_day": 0.35
  },
  "structure_done": 83,
- "structure_total": 83
+ "structure_total": 83,
+ "tests": "105 passed, 2 warnings in 2.94s",
+ "hours": 0.6
 }
