@@ -26,7 +26,7 @@ from pathlib import Path
 import pymupdf
 import yaml
 
-from ingest.common import DATA, EXTRACTED, STRUCTURED, clean_text, load_book_config, load_manifest, select, squash
+from ingest.common import ANSWERS_HEADING, DATA, EXTRACTED, STRUCTURED, clean_text, load_book_config, load_manifest, select, squash
 from ingest.glyphs import GlyphRepair
 from ingest.schema import Activity, Chapter, Exercise, Figure, KeyTerm, Section
 
@@ -50,8 +50,11 @@ def key(text: str) -> str:
     return re.sub(r"[^a-z]", "", clean_text(text).lower().replace("’", "'"))
 
 
+ANY_PAGE_RE = re.compile(r"<!-- (?:answers )?page \d+ -->")
+
+
 def strip_md(text: str) -> str:
-    text = PAGE_RE.sub(" ", text)
+    text = ANY_PAGE_RE.sub(" ", text)
     text = re.sub(r"\*\*|__|`", "", text)
     text = re.sub(r"^#+\s*|^>\s*", "", text, flags=re.M)
     return re.sub(r"\s+", " ", text).strip()
@@ -301,7 +304,9 @@ def verify(ch: Chapter, doc: Doc) -> list[str]:
 
 def heuristic(entry: dict, doc: Doc, cfg: dict) -> Chapter:
     cid = entry["chapter_id"]
-    boundary_names = cfg.get("summary", []) + cfg.get("keywords", []) + cfg.get("end_exercises", []) + cfg.get("end_matter", [])
+    boundary_names = cfg.get("summary", []) + cfg.get("keywords", []) + cfg.get("end_exercises", []) + cfg.get("end_matter", []) \
+        + [ANSWERS_HEADING.lstrip("# ")]
+    answers_at = next((i for i, line in enumerate(doc.lines) if line.strip() == ANSWERS_HEADING), len(doc.lines))
     starts = []
     for i in range(len(doc.lines)):
         h = doc.heading(i)
@@ -318,17 +323,17 @@ def heuristic(entry: dict, doc: Doc, cfg: dict) -> Chapter:
     exercises: list[Exercise] = []
     bounds = [(s, doc.lines.index(s.text.split("\n")[0])) for s in sections]
     starts_idx = sorted(i for i, _ in starts)
-    for i in range(len(doc.lines)):
+    for i in range(answers_at):  # the book's answer pages are not exercises
         h = doc.heading(i)
         if not h:
             continue
         level, text = h
         if matches(text, cfg.get("end_exercises", [])):
-            end = next((j for j in starts_idx if j > i), len(doc.lines))
+            end = min(next((j for j in starts_idx if j > i), len(doc.lines)), answers_at)
             exercises += split_items(doc, i + 1, end, strip_md(text), "end")
         elif matches(text, cfg.get("in_chapter_exercises", [])):
             end = i + 1
-            while end < len(doc.lines):
+            while end < answers_at:
                 hh = doc.heading(end)
                 if hh and (hh[0] <= level or end in starts_idx):
                     break
@@ -407,7 +412,9 @@ line numbers, and code cuts the text out. Return:
 - figures: each figure caption ("Fig. 5.3") with its caption text and line.
 - key_terms: important terms the chapter defines; meaning = the defining sentence COPIED EXACTLY from the line given.
 - summary: 5-8 lines in plain, simple English of what the chapter teaches (this one you write).
-- topics: 8-25 short topic tags a teacher might search for ("photosynthesis", "Harappan drains")."""
+- topics: 8-25 short topic tags a teacher might search for ("photosynthesis", "Harappan drains").
+If the chapter ends with "## Answers to the chapter's questions (from the book)", that part is the book's
+answer key: make it one section of its own, and do not list its questions as exercises."""
 
 
 def llm_mode(entry: dict, doc: Doc, cfg: dict) -> Chapter:

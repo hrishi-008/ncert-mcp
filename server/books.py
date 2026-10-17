@@ -19,6 +19,7 @@ from server.normalize import (
 )
 
 PAGE_MARK = re.compile(r"<!-- page (\d+) -->")
+ANY_MARK = re.compile(r"<!-- (?:answers )?page \d+ -->")
 STOPWORDS = {
     "a", "an", "the", "of", "on", "in", "about", "and", "or", "to", "for", "with", "is", "are", "was", "be",
     "chapter", "chapters", "ch", "lesson", "one", "that", "this", "which", "what", "topic", "book", "books",
@@ -45,7 +46,7 @@ def content_tokens(text: str) -> list[str]:
 
 
 def strip_md(text: str) -> str:
-    text = PAGE_MARK.sub(" ", text)
+    text = ANY_MARK.sub(" ", text)
     text = re.sub(r"[#*>|_`]+", " ", text)
     return re.sub(r"\s+", " ", text).strip()
 

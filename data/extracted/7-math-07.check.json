@@ -3,12 +3,13 @@
  "pdf_pages": 34,
  "printed_pages": [
   146,
-  179
+  172
  ],
+ "answer_pages": 7,
  "book_page_start": 146,
  "start_page_ok": true,
- "words_expected": 7277,
- "words_in_markdown": 7353,
+ "words_expected": 7270,
+ "words_in_markdown": 7362,
  "missing_words": 0,
  "missing_sample": [],
  "dropped_as_noise": [
@@ -77,7 +78,14 @@
   "[page number] 171",
   "[running header] Ganita Prakash | Grade 7",
   "[footer] Reprint 2026-27",
-  "[page number] 172"
+  "[page number] 172",
+  "[page number] 1",
+  "[page number] 2",
+  "[page number] 3",
+  "[page number] 4",
+  "[page number] 5",
+  "[page number] 6",
+  "[page number] 7"
  ],
  "image_only_pages": [],
  "glyphs_repaired": 0,

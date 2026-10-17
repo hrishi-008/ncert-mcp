@@ -3,12 +3,13 @@
  "pdf_pages": 50,
  "printed_pages": [
   151,
-  200
+  186
  ],
+ "answer_pages": 14,
  "book_page_start": 151,
  "start_page_ok": true,
- "words_expected": 9655,
- "words_in_markdown": 9758,
+ "words_expected": 9648,
+ "words_in_markdown": 9774,
  "missing_words": 0,
  "missing_sample": [],
  "dropped_as_noise": [
@@ -82,7 +83,14 @@
   "[footer] Reprint 2026-27",
   "[page number] 185",
   "[footer] Reprint 2026-27",
-  "[page number] 186"
+  "[page number] 186",
+  "[page number] 1",
+  "[page number] 1",
+  "[page number] 1",
+  "[page number] 3",
+  "[page number] 3",
+  "[page number] 9",
+  "[page number] 9"
  ],
  "image_only_pages": [],
  "glyphs_repaired": 7,

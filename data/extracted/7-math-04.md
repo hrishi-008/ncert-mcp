@@ -1012,7 +1012,9 @@ Do you see any pattern in it? List other patterns that you see.
 - Algebraic expressions use not only numbers but also letter-numbers. The rules for manipulating arithmetic expressions also apply to algebraic expressions. These rules can be used to reduce algebraic expressions to their simplest forms.
 - Algebraic expressions can be described in ordinary language, and vice versa. Patterns or relationships that are easily written using algebra can often be long and complex in ordinary language. This is one of the advantages of algebra.
 
-<!-- page 106 -->
+## Answers to the chapter's questions (from the book)
+
+<!-- answers page 1 -->
 
 #### Chapter – 4
 
@@ -1049,9 +1051,7 @@ Perimeter of Regular Hexagon = 6a units 2.Munirathna has a 20 m long pipe. Howev
 
 **Ans:** (20 + k) meters
 
-1
-
-<!-- page 107 -->
+<!-- answers page 2 -->
 
 3. What is the total amount Krithika has, if she has the following numbers of notes of ₹100, ₹20 and ₹5? Complete the following table:
 
@@ -1097,9 +1097,7 @@ Let letter ‘d’ represent the number, then
 | (c) 13 × d – 2 |  |
 | (d) 2 × d – 13 |  |
 
-2
-
-<!-- page 108 -->
+<!-- answers page 3 -->
 
 ##### Page No. 85
 
@@ -1139,9 +1137,7 @@ an example is shown.
 
 Then compare the values that 5u and 5 + u take.
 
-3
-
-<!-- page 109 -->
+<!-- answers page 4 -->
 
 ##### Ans:
 
@@ -1165,9 +1161,7 @@ expressions and simplify them. Try adding the numbers in each picture in a coupl
 
 Some of the ways are
 
-4
-
-<!-- page 110 -->
+<!-- answers page 5 -->
 
 | (i) Method 1: Group by Like Terms |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1229,9 +1223,7 @@ Total: 8p + 12q + 2
 
 First column: –5g + 5k + 5k + (–5g) = –10g + 10k Middle columns 2 and 3 all 5k = 8 × 5k = 40k Last column: –5g + 5k + 5k + (–5g) = –10g + 10k Total of all: = –10g + 10k + 40k –10g + 10k = –20g + 60k Try some other ways!
 
-5
-
-<!-- page 111 -->
+<!-- answers page 6 -->
 
 ##### Simplify each of the following expressions:
 
@@ -1279,9 +1271,7 @@ Some simplifications of algebraic expressions are done below. The expression on 
 | 10 | 3j + 6k + 9h + 12 | 3 (j + 2k + 3h + 4) | 3j + 6k + 9h + 12 |
 | 11 | 4 (2r + 3s + 5) | – 20 – 8r – 12s | 8r + 12s + 20 |
 
-6
-
-<!-- page 112 -->
+<!-- answers page 7 -->
 
 ##### Page No. 95
 
@@ -1320,9 +1310,7 @@ No. of letters ≤ no of terms
 
 expression for each set of inputs. Ans: (i) Formula: Two is subtracted from the sum of the two numbers.
 
-7
-
-<!-- page 113 -->
+<!-- answers page 8 -->
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1356,9 +1344,7 @@ Here, the sum is
 
 a – 7 + a – 1 + a + a +1 + a + 7 = 5a (5times the number in the Centre.)
 
-8
-
-<!-- page 114 -->
+<!-- answers page 9 -->
 
 Page No. 101.
 
@@ -1406,9 +1392,7 @@ Page No. 102.
 
 **Ans:** (a) p + q + r
 
-9
-
-<!-- page 115 -->
+<!-- answers page 10 -->
 
 3.A snail is trying to climb along the wall of a deep well. During the day it climbs up ‘u’ cm and during the night it slowly slips down ‘d’ cm. This happens for 10 days and 10 nights.
 
@@ -1452,9 +1436,7 @@ The ovals contain expressions and the boxes contain operations.
 
 ##### stops for 2 minutes at each of the three stations. (a) If t = 4, what is the
 
-10
-
-<!-- page 116 -->
+<!-- answers page 11 -->
 
 ##### time taken to travel from Yahapur to Vahapur? (b) What is the
 
@@ -1518,9 +1500,7 @@ Vahapur = 4t + 6 minutes.
 | (e) 0 |  |  |  |  |
 | (f) 0 |  |  |  |  |
 
-11
-
-<!-- page 117 -->
+<!-- answers page 12 -->
 
 9.Subtract the expressions given below:
 (a) 9a – 6b + 14 from 6a + 9b – 18
@@ -1556,9 +1536,7 @@ Vahapur = 4t + 6 minutes.
 
 11.Imagine a straight rope. If it is cut once as shown in the picture, we get 2 pieces. If the rope is folded once and then cut as shown, we get 3 pieces. Observe the pattern and find the number of pieces if the rope is folded 10 times and cut. What is the expression for the number of pieces when the rope is folded r times and cut?
 
-12
-
-<!-- page 118 -->
+<!-- answers page 13 -->
 
 | Ans: If the rope is folded 10 times and cut, we get 10 + 2 = 12 pieces. |  |  |
 | --- | --- | --- |
@@ -1600,9 +1578,7 @@ colour.
 |  | In general, 4n – 3 positions for red light, 4n – 1 position for green light |  |  |  |
 |  | and 2n position for yellow light. |  |  |  |
 
-13
-
-<!-- page 119 -->
+<!-- answers page 14 -->
 
 14.Observe the pattern below. How many squares will be there in Step 4, Step 10, Step 50? Write a general formula. How would the formula change if we want to count the number of vertices of all the squares?
 
@@ -1627,9 +1603,7 @@ Ans:
 | Column 1: |  |  |  |
 | So, number in the rth row of column 1 = 4 × (r – 1) + 1 |  |  |  |
 
-14
-
-<!-- page 120 -->
+<!-- answers page 15 -->
 
 | Column 2: 4 × (r – 1) + 2 |  |  |  |
 | --- | --- | --- | --- |
@@ -1663,9 +1637,7 @@ The pattern in the columns in which multiples of 3 appear, follow a
 
 repeating sequence of column number: 3, 2, 1, 4, 3, 2, 1, ... as shown.
 
-15
-
-<!-- page 121 -->
+<!-- answers page 16 -->
 
 Do you see any pattern in it? List other patterns that you see.
 
@@ -1675,5 +1647,3 @@ Do you see any pattern in it? List other patterns that you see.
 |  | 3. Odd numbers always appear in column 1 and column 3. |  |  |  |
 | Find some more! |  |  |  |  |
 |  |  |  |  |  |
-
-16

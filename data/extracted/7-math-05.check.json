@@ -3,12 +3,13 @@
  "pdf_pages": 34,
  "printed_pages": [
   106,
-  139
+  126
  ],
+ "answer_pages": 13,
  "book_page_start": 106,
  "start_page_ok": true,
  "words_expected": 5351,
- "words_in_markdown": 5425,
+ "words_in_markdown": 5447,
  "missing_words": 0,
  "missing_sample": [],
  "dropped_as_noise": [

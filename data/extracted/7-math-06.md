@@ -684,7 +684,9 @@ it be an even
 
 year. | number?
 
-<!-- page 146 -->
+## Answers to the chapter's questions (from the book)
+
+<!-- answers page 1 -->
 
 #### CHAPTER – 6 Number Play
 
@@ -710,9 +712,7 @@ Child 1: From left → 0 Child 2: From left → 0 Child 3: From left → 1 Child
 (e) 0, 1, 1, 1, 1, 1, 1
 (f) 0, 0, 0, 3, 3, 3, 3
 
-1
-
-<!-- page 147 -->
+<!-- answers page 2 -->
 
 | Ans: |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -751,9 +751,7 @@ Try for other subparts
 |  |  | odd) |  |  |  |  |
 |  | (b) Sum of 2 odd numbers and 3 even numbers |  |  |  |  |  |
 
-2
-
-<!-- page 148 -->
+<!-- answers page 3 -->
 
 |  | (c) Sum of 5 even numbers |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -799,9 +797,7 @@ Try for other subparts
 | (f) Odd |  |  |
 | (g) Odd |  |  |
 
-3
-
-<!-- page 149 -->
+<!-- answers page 4 -->
 
 ##### Given the dimensions of a grid, can you tell the parity of the number of
 
@@ -837,9 +833,7 @@ The parity of the number of small squares in a grid (with m rows and n columns) 
 |  | or even parity. |
 | Ans: |  |
 
-4
-
-<!-- page 150 -->
+<!-- answers page 5 -->
 
 (i) If n is odd, then 3n + 4 is odd then some expressions of odd parity would be—
 
@@ -858,9 +852,7 @@ The parity of the number of small squares in a grid (with m rows and n columns) 
 
 Try to find out other possible ways.
 
-5
-
-<!-- page 151 -->
+<!-- answers page 6 -->
 
 ##### Page No- 136
 
@@ -902,9 +894,7 @@ Figure it out 1.How many different magic squares can be made using the numbers 1
 | 3 | 5 | 7 |
 | 4 | 9 | 2 |
 
-6
-
-<!-- page 152 -->
+<!-- answers page 7 -->
 
 (a)After increasing each number by 1:
 
@@ -940,9 +930,7 @@ Operations like Addition, subtraction, multiplication and division can be perfor
 | 3 | 5 | 7 |
 | 4 | 9 | 2 |
 
-7
-
-<!-- page 153 -->
+<!-- answers page 8 -->
 
 Magic square with numbers 2 – 10 can be created by adding 1 to each number of the magic square 1 – 9.
 
@@ -980,9 +968,7 @@ Magic square with numbers 2 – 10 can be created by adding 1 to each number of 
 | 23 | 25 | 27 |
 | 24 | 29 | 22 |
 
-8
-
-<!-- page 154 -->
+<!-- answers page 9 -->
 
 |  | 2. What is the expression obtained by adding the 3 terms of any row, |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -1027,9 +1013,7 @@ Magic square with numbers 2 – 10 can be created by adding 1 to each number of 
 
 Try some more.
 
-9
-
-<!-- page 155 -->
+<!-- answers page 10 -->
 
 ##### Page No- 142
 
@@ -1065,9 +1049,7 @@ Figure it out 1.A light bulb is ON. Dorjee toggles its switch 77 times. Will the
 
 number. Since there are 50 sheets, so there will be fifty pages with an even number and 50 pages with an odd number The sum of the even numbers is **even**. The sum of the odd numbers taken even number of times is also **even**. Thus, 6000 being even, it is possible that sum of all the page numbers of the loose sheets could be 6000.
 
-10
-
-<!-- page 156 -->
+<!-- answers page 11 -->
 
 3.Here is a 2 × 3 grid. For each row and column, the parity of the sum is written in the circle; ‘e’ for even and ‘o’ for odd. Fill the 6 boxes with 3 odd numbers (‘o’) and 3 even numbers (‘e’) to satisfy the parity of the row and column sums.
 
@@ -1097,9 +1079,7 @@ Try more combinations.
 (a) Even.
 (b) Even.
 
-11
-
-<!-- page 157 -->
+<!-- answers page 12 -->
 
 | (c) Even. (d) Odd. 6. What is the parity of the sum of numbers from 1 to 100? |  | (c) Even. |  |  |
 | --- | --- | --- | --- | --- |
@@ -1134,9 +1114,7 @@ Try more combinations.
 
 So, the total ways in which Angaan reaches the top = 1 + 7 + 15 + 10 + 1 = 34 ways.
 
-12
-
-<!-- page 158 -->
+<!-- answers page 13 -->
 
 ##### 9.What is the parity of the 20th term of the Virahanka sequence? Ans:
 
@@ -1154,5 +1132,3 @@ Consider the Virahanka sequence given below: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 
 ##### Ans:
 
 U = 9, T = 1 and A = 0.
-
-13

@@ -27,8 +27,10 @@ from concurrent.futures import ThreadPoolExecutor
 import pymupdf
 
 from ingest import llm
-from ingest.common import DATA, EXTRACTED, load_manifest, select, words
-from ingest.extract_text import extract_chapter
+from ingest.common import ANSWERS_HEADING, DATA, EXTRACTED, load_manifest, select, words
+from ingest.extract_text import extract_chapter, page_marker
+
+MARKER_RE = re.compile(r"<!-- (answers )?page (\d+) -->")
 
 PROMPT_VERSION = "v1"
 DPI = 200
@@ -69,25 +71,29 @@ def transcribe(png: bytes, page_label: str) -> str:
 
 
 def run_chapter(entry: dict, workers: int) -> dict:
-    # Stage 1a gives us printed page numbers and a plain-text word list per page to check against.
-    plain_md, plain_report = extract_chapter(entry)
-    first_page = plain_report["printed_pages"][0]
+    # Stage 1a gives the page labels (book pages, then any answer pages) and plain words to check against.
+    plain_md, _ = extract_chapter(entry)
+    markers = MARKER_RE.findall(plain_md)  # [("", "24"), ..., ("answers ", "1"), ...]
+    plain_pages = MARKER_RE.split(plain_md)[3::3]
     pngs = render_pages(DATA / entry["file"])
-    labels = [str(first_page + i) for i in range(len(pngs))]
+    if len(markers) != len(pngs):
+        raise RuntimeError(f"{entry['chapter_id']}: {len(markers)} page labels for {len(pngs)} pages")
+    prompts = [f"{'answers page' if a else 'printed page'} {n}" for a, n in markers]
     with ThreadPoolExecutor(max_workers=workers) as pool:
-        pages = list(pool.map(lambda a: transcribe(*a), zip(pngs, labels)))
+        pages = list(pool.map(lambda a: transcribe(*a), zip(pngs, prompts)))
 
-    plain_pages = re.split(r"<!-- page \d+ -->", plain_md)[1:]
     out = [f"# Chapter {entry['chapter_no']}: {entry['title']}", ""]
     checks = []
-    for label, md, plain in zip(labels, pages, plain_pages + [""] * len(pages)):
-        out += [f"<!-- page {label} -->", "", md, ""]
+    for (answers, no), md, plain in zip(markers, pages, plain_pages):
+        if answers and not any(m[0] for m in markers[: len(checks)]):
+            out += [ANSWERS_HEADING, ""]
+        out += [page_marker(int(no), bool(answers)), "", md, ""]
         # Words (not maths) the plain text has but the transcription lacks.
         want = Counter(w for w in words(plain) if w.isalpha() and len(w) > 2)
         got = Counter(w for w in words(md) if w.isalpha())
         missing = want - got
         ratio = sum(missing.values()) / max(1, sum(want.values()))
-        checks.append({"page": int(label), "plain_words": sum(want.values()), "missing": sum(missing.values()),
+        checks.append({"page": f"{answers}{no}".strip(), "plain_words": sum(want.values()), "missing": sum(missing.values()),
                        "missing_ratio": round(ratio, 3), "sample": [w for w, _ in missing.most_common(12)]})
     (EXTRACTED / f"{entry['chapter_id']}.md").write_text("\n".join(out).strip() + "\n", encoding="utf-8")
     report = {"chapter_id": entry["chapter_id"], "model": llm.describe(), "pages": checks,

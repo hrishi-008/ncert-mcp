@@ -82,3 +82,34 @@ def words(text: str) -> list[str]:
 def squash(text: str) -> str:
     """Whitespace/markup-insensitive form for substring checks."""
     return " ".join(words(text))
+
+
+ANSWERS_HEADING = "## Answers to the chapter's questions (from the book)"
+_ANSWER_PAGE = re.compile(r"(?im)^\s*page\s*no\.?\s*\d|\bAns\s*[:.]")
+
+
+def chapter_length(entry: dict) -> int | None:
+    """Book pages in this chapter, from the contents page: where the next chapter of the same part starts."""
+    nxt = [e for e in load_manifest() if (e["class"], e["subject"], e["part"]) == (entry["class"], entry["subject"], entry["part"])
+           and e.get("chapter_in_part") == entry.get("chapter_in_part", 0) + 1]
+    if nxt and nxt[0].get("book_page_start") and entry.get("book_page_start"):
+        return nxt[0]["book_page_start"] - entry["book_page_start"]
+    return None
+
+
+def answers_start(page_texts: list[str], expected_len: int | None = None) -> int | None:
+    """Index of the first answer page, if the chapter PDF ends with the book's answers.
+
+    Ganita Prakash chapter PDFs end with worked answers to the in-text questions, numbered 1, 2, 3 ...
+    on their own. The contents page tells where the chapter's own pages end; any pages after that are
+    answers. For the last chapter of a book, the answers are found by their "Page No." / "Ans:" lines.
+    """
+    looks = [bool(_ANSWER_PAGE.search(t)) for t in page_texts]
+    if expected_len is not None:
+        if len(page_texts) > expected_len and any(looks[expected_len:]):
+            return expected_len
+        return None
+    for i, ok in enumerate(looks):
+        if ok and i >= len(page_texts) // 2 and sum(looks[i:]) >= max(1, (len(page_texts) - i) // 2):
+            return i
+    return None

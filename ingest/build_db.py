@@ -92,7 +92,7 @@ def build(chapters: list[Chapter], old_map_rows: list[tuple], out: Path) -> None
                 "INSERT INTO sections VALUES (?,?,?,?,?,?,?)",
                 (s.section_id, c.chapter_id, i, s.heading, s.text, s.page_start, s.page_end),
             )
-            plain = re.sub(r"<!-- page \d+ -->", " ", s.text)  # page markers are not words to search
+            plain = re.sub(r"<!-- (?:answers )?page \d+ -->", " ", s.text)  # page markers are not words to search
             db.execute("INSERT INTO fts_sections VALUES (?,?,?,?)", (plain, s.heading, c.chapter_id, s.section_id))
         for k in c.key_terms:
             db.execute("INSERT INTO key_terms VALUES (?,?,?,?)", (c.chapter_id, k.term, k.meaning, k.page))

@@ -734,7 +734,9 @@ What causes these illusions?
 - When a transversal intersects a pair of parallel lines, the alternate angles are equal.
 - The interior angles on the same side formed by a transversal intersecting a pair of parallel lines always add up to 180°.
 
-<!-- page 127 -->
+## Answers to the chapter's questions (from the book)
+
+<!-- answers page 1 -->
 
 > Chapter – 5
 
@@ -766,7 +768,7 @@ Page No. 108.
 | --- | --- |
 | Pairs of Vertically Opposite Angles | ∠b and ∠d, ∠a and ∠c |
 
-<!-- page 128 -->
+<!-- answers page 2 -->
 
 > Page No. 110
 
@@ -802,7 +804,7 @@ Fig. 5.7).
 
 line segment relate to the vertical sides?
 
-<!-- page 129 -->
+<!-- answers page 3 -->
 
 ##### Fig. 5.7
 
@@ -850,7 +852,7 @@ line are all parallel to each other.
 
 Yes, the pattern is 2n + 1, where n is the number of folds.
 
-<!-- page 130 -->
+<!-- answers page 4 -->
 
 ##### Vertical and Diagonal Folds
 
@@ -890,7 +892,7 @@ to these, so are parallel to each other.
 
 parallel to the same diagonal.
 
-<!-- page 131 -->
+<!-- answers page 5 -->
 
 ##### Page No. 113-114
 
@@ -902,7 +904,7 @@ parallel to the same diagonal.
 
 ##### Ans:
 
-<!-- page 132 -->
+<!-- answers page 6 -->
 
 2.In the given Fig.5.11, mark the parallel lines using the notation given above (single arrow, double arrow, etc). Mark the angle between perpendicular lines with a square symbol.
 
@@ -912,7 +914,7 @@ parallel to the same diagonal.
 
 ##### Fig. 5.11
 
-<!-- page 133 -->
+<!-- answers page 7 -->
 
 ##### Ans:
 
@@ -928,7 +930,7 @@ degree angle (a right angle)
 
 4. Using your sense of how parallel lines look, try to draw lines parallel to the line segments on this dot paper.
 
-<!-- page 134 -->
+<!-- answers page 8 -->
 
 (a) Did you find it challenging to draw some of them?
 (b) Which ones?
@@ -951,7 +953,7 @@ degree angle (a right angle)
 
 always at the same distance apart.
 
-<!-- page 135 -->
+<!-- answers page 9 -->
 
 > Page No. 115
 
@@ -985,7 +987,7 @@ Tools required: Ruler, Set-squares (right-angled triangle), Pencil, eraser
 
 1.Place the set square so that one side is along the line l. 2.Hold the ruler against the other side of the set square so that the ruler won’t move. 3.Slide the set square along the ruler until one side reaches point A. 4.Draw a line along the edge of the set square through point A.
 
-<!-- page 136 -->
+<!-- answers page 10 -->
 
 5.This new line is parallel to line l and passes through point A.
 
@@ -1003,7 +1005,7 @@ A. Since lines l and m are perpendicular to t, so pair of corresponding
 
 angles are equal i.e. 900. Thus, l and m are parallel.
 
-<!-- page 137 -->
+<!-- answers page 11 -->
 
 ##### Page No. 123-125
 
@@ -1026,7 +1028,7 @@ angles are equal i.e. 900. Thus, l and m are parallel.
 - i = 54°
 - j = 97°
 
-<!-- page 138 -->
+<!-- answers page 12 -->
 
 2. Find the angle represented by a.
 
@@ -1051,7 +1053,7 @@ angles are equal i.e. 900. Thus, l and m are parallel.
 - HEF = 57°;
 - FED = 78°
 
-<!-- page 139 -->
+<!-- answers page 13 -->
 
 ##### 5. In the Figure, AB is parallel to CD, and CD is parallel to EF. Also, EA is
 

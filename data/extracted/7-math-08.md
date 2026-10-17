@@ -1466,7 +1466,9 @@ Now, place 8 queens on this 8 × 8 grid so that no 2 queens attack each other!
 
 #### Note
 
-<!-- page 203 -->
+## Answers to the chapter's questions (from the book)
+
+<!-- answers page 1 -->
 
 #### CHAPTER – 8
 
@@ -1530,7 +1532,7 @@ Time at which the moon sets on Thursday (i.e. 3 days after Monday)
 
 2 am Or 12:30 am
 
-<!-- page 204 -->
+<!-- answers page 2 -->
 
 ##### Page No. 177
 
@@ -1608,11 +1610,11 @@ Ans: | 9 | 7 = 7 5
 
 15
 
-<!-- page 205 -->
+<!-- answers page 3 -->
 
 𝟏 | 𝟏
 
-𝟒 × | 𝟑
+𝟒 ×
 
 ##### (b)
 
@@ -1646,7 +1648,7 @@ Ans: | 9 | 7 = 7 5
 
 30
 
-<!-- page 206 -->
+<!-- answers page 4 -->
 
 ##### Page No. 181
 
@@ -1752,7 +1754,7 @@ Ans: | 9 | 7 = 7 5
 
 40 part
 
-<!-- page 207 -->
+<!-- answers page 5 -->
 
 𝟕
 
@@ -1852,7 +1854,7 @@ last sapling.
 
 15 of 500 gm.
 
-<!-- page 208 -->
+<!-- answers page 6 -->
 
 ##### Page No. 191
 
@@ -1902,7 +1904,7 @@ The red shaded part of Fig. (b) occupies | 1
 
 16 of the area of whole square.
 
-<!-- page 209 -->
+<!-- answers page 7 -->
 
 ##### Page No. 196
 
@@ -1965,7 +1967,7 @@ The red shaded part of Fig. (b) occupies | 1
 
 8 kg
 
-<!-- page 210 -->
+<!-- answers page 8 -->
 
 4.Patiganita, a book written by Sridharacharya in the 9th century C.E., mentions this problem: “Friend, after thinking, what sum will be obtained by adding together
 
@@ -2045,7 +2047,7 @@ three friends. How much of the cake did each friend get?
 
 32 of the whole square.
 
-<!-- page 211 -->
+<!-- answers page 9 -->
 
 11.A colony of ants set out in search of food. As they search, they keep splitting equally at each point (as shown in the figure 8.7) and reach two food sources, one near a mango tree and another near a sugarcane field. What fraction of the original group reached each food source?
 

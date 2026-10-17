@@ -28,7 +28,7 @@ from dataclasses import dataclass, field
 
 import pymupdf
 
-from ingest.common import DATA, EXTRACTED, clean_text, load_manifest, select, words
+from ingest.common import ANSWERS_HEADING, DATA, EXTRACTED, answers_start, chapter_length, clean_text, load_manifest, select, words
 from ingest.glyphs import GlyphRepair
 
 BOLD_FLAG = 16
@@ -345,6 +345,11 @@ def order_blocks(blocks: list[Block]) -> list[list[Block]]:
     return rows
 
 
+def page_marker(no: int, answers: bool = False) -> str:
+    # Answer pages get their own marker, so they are never mistaken for book pages.
+    return f"<!-- answers page {no} -->" if answers else f"<!-- page {no} -->"
+
+
 def extract_chapter(entry: dict) -> tuple[str, dict]:
     pdf = DATA / entry["file"]
     doc = pymupdf.open(pdf)
@@ -354,14 +359,17 @@ def extract_chapter(entry: dict) -> tuple[str, dict]:
     repair = GlyphRepair(doc)
     pages = [analyse_page(p, book_words, phrases, repair) for p in doc]
 
+    # Maths chapter PDFs can end with the book's answers, numbered 1, 2, 3 ... on their own.
+    ans = answers_start([p.get_text() for p in doc], chapter_length(entry)) if entry["subject"] == "math" else None
+    book_pages = pages[:ans] if ans is not None else pages
     # Printed page numbers: the offset (printed number - PDF page index) that most pages agree on.
-    votes = Counter(n - i for i, p in enumerate(pages) for n, _ in p.candidates)
+    votes = Counter(n - i for i, p in enumerate(book_pages) for n, _ in p.candidates)
     start = entry.get("book_page_start")
     offset = votes.most_common(1)[0][0] if votes else None
-    if offset is None or (start and not (offset <= start <= offset + len(pages) - 1)):
+    if offset is None or (start and not (offset <= start <= offset + len(book_pages) - 1)):
         offset = start or 1  # fall back to the contents page: the PDF starts at the chapter's first page
     for i, p in enumerate(pages):
-        p.printed_no = i + offset
+        p.printed_no = i + offset if ans is None or i < ans else i - ans + 1  # answer pages: 1, 2, 3 ...
         # Drop the page number itself (now that we know it); keep every other number.
         for n, blk in p.candidates:
             if n == p.printed_no and blk in p.blocks:
@@ -377,10 +385,12 @@ def extract_chapter(entry: dict) -> tuple[str, dict]:
         md = [f"# Book introduction (pages {pages[0].printed_no}-{start - 1}, printed before Chapter {entry['chapter_no']}; not part of the chapter)", ""]
     else:
         md = [title_line, ""]
-    for p in pages:
-        if has_front and p.printed_no == start:
+    for idx, p in enumerate(pages):
+        if has_front and p.printed_no == start and (ans is None or idx < ans):
             md += [title_line, ""]
-        md.append(f"<!-- page {p.printed_no} -->")
+        if ans is not None and idx == ans:
+            md += [ANSWERS_HEADING, ""]
+        md.append(page_marker(p.printed_no, ans is not None and idx >= ans))
         md.append("")
         for row in order_blocks(p.blocks):
             if len(row) > 1 and all(b.kind != "table" for b in row):
@@ -412,15 +422,16 @@ def extract_chapter(entry: dict) -> tuple[str, dict]:
     report = {
         "chapter_id": entry["chapter_id"],
         "pdf_pages": doc.page_count,
-        "printed_pages": [pages[0].printed_no, pages[-1].printed_no],
+        "printed_pages": [book_pages[0].printed_no, book_pages[-1].printed_no],
+        "answer_pages": len(pages) - len(book_pages),
         "book_page_start": start,
-        "start_page_ok": (start is None) or (pages[0].printed_no <= start <= pages[-1].printed_no),
+        "start_page_ok": (start is None) or (book_pages[0].printed_no <= start <= book_pages[-1].printed_no),
         "words_expected": sum(expected.values()),
         "words_in_markdown": sum(got.values()),
         "missing_words": sum(missing.values()),
         "missing_sample": sorted(missing.items(), key=lambda kv: -kv[1])[:30],
         "dropped_as_noise": [d for p in pages for d in p.dropped],
-        "image_only_pages": [p.printed_no for p in pages if not p.blocks],
+        "image_only_pages": [p.printed_no for p in book_pages if not p.blocks],
         "glyphs_repaired": repair.fixed,
         "glyphs_unknown": repair.unknown,
     }

@@ -928,7 +928,9 @@ Take a cardboard box and mark the path that you think is the shortest from one c
 
 ##### Hint:
 
-<!-- page 173 -->
+## Answers to the chapter's questions (from the book)
+
+<!-- answers page 1 -->
 
 #### Chapter – 7
 
@@ -950,9 +952,7 @@ Try more **Page No. 151**
 
 Take points C, C1, C2, C3 … on the circle with centre B. The triangles ABC, AC1B, AC2B, … are isosceles triangle. Similarly for points D1, D2, D3 … ∆ADB, ∆AD1B, ∆AD2B, … are isosceles triangles. ∆ABC and ∆ADB are equilateral triangle. Similarly it can be done for the other figure.
 
-1
-
-<!-- page 174 -->
+<!-- answers page 2 -->
 
 ##### Page No. 154
 
@@ -994,9 +994,7 @@ Take points C, C1, C2, C3 … on the circle with centre B. The triangles ABC, AC
 
 So, these are not the side lengths of a triangle.
 
-2
-
-<!-- page 175 -->
+<!-- answers page 3 -->
 
 ##### (b) 3, 4, 6
 
@@ -1056,9 +1054,7 @@ These are the side lengths of a triangle.
 
 **Ans:** A triangle exists.
 
-3
-
-<!-- page 176 -->
+<!-- answers page 4 -->
 
 ##### 2.Does there exist an equilateral triangle with sides 50, 50, 50? In
 
@@ -1112,9 +1108,7 @@ For example–
 
 (b)3cm, 180°, 7cm
 
-4
-
-<!-- page 177 -->
+<!-- answers page 5 -->
 
 ##### Page No. 163
 
@@ -1153,9 +1147,7 @@ For example–
 
 **Ans:** This pair cannot form angles of a triangle.
 
-5
-
-<!-- page 178 -->
+<!-- answers page 6 -->
 
 ##### Like the triangle inequality, can you form a rule that describes the
 
@@ -1199,9 +1191,7 @@ So, BAC = 72°
 
 **Ans:** 60°
 
-6
-
-<!-- page 179 -->
+<!-- answers page 7 -->
 
 ##### 2.Can you construct a triangle all of whose angles are equal to 70°? If
 
@@ -1224,5 +1214,3 @@ be? Explore and find out.
 - B = C and A = 50°. Can you find B and C?
 
 **Ans:** B = C = 65°
-
-7
