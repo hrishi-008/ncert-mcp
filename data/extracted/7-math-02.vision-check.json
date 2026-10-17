@@ -1,0 +1,388 @@
+{
+ "chapter_id": "7-math-02",
+ "model": "backend=claude-cli model=sonnet",
+ "pages": [
+  {
+   "page": 24,
+   "plain_words": 152,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 25,
+   "plain_words": 161,
+   "missing": 2,
+   "missing_ratio": 0.012,
+   "sample": [
+    "arithmetic",
+    "expressions"
+   ]
+  },
+  {
+   "page": 26,
+   "plain_words": 159,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 27,
+   "plain_words": 233,
+   "missing": 2,
+   "missing_ratio": 0.009,
+   "sample": [
+    "arithmetic",
+    "expressions"
+   ]
+  },
+  {
+   "page": 28,
+   "plain_words": 203,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 29,
+   "plain_words": 141,
+   "missing": 2,
+   "missing_ratio": 0.014,
+   "sample": [
+    "arithmetic",
+    "expressions"
+   ]
+  },
+  {
+   "page": 30,
+   "plain_words": 199,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 31,
+   "plain_words": 260,
+   "missing": 2,
+   "missing_ratio": 0.008,
+   "sample": [
+    "arithmetic",
+    "expressions"
+   ]
+  },
+  {
+   "page": 32,
+   "plain_words": 173,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 33,
+   "plain_words": 147,
+   "missing": 2,
+   "missing_ratio": 0.014,
+   "sample": [
+    "arithmetic",
+    "expressions"
+   ]
+  },
+  {
+   "page": 34,
+   "plain_words": 176,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 35,
+   "plain_words": 153,
+   "missing": 2,
+   "missing_ratio": 0.013,
+   "sample": [
+    "arithmetic",
+    "expressions"
+   ]
+  },
+  {
+   "page": 36,
+   "plain_words": 239,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 37,
+   "plain_words": 107,
+   "missing": 2,
+   "missing_ratio": 0.019,
+   "sample": [
+    "arithmetic",
+    "expressions"
+   ]
+  },
+  {
+   "page": 38,
+   "plain_words": 159,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 39,
+   "plain_words": 157,
+   "missing": 2,
+   "missing_ratio": 0.013,
+   "sample": [
+    "arithmetic",
+    "expressions"
+   ]
+  },
+  {
+   "page": 40,
+   "plain_words": 102,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 41,
+   "plain_words": 75,
+   "missing": 2,
+   "missing_ratio": 0.027,
+   "sample": [
+    "arithmetic",
+    "expressions"
+   ]
+  },
+  {
+   "page": 42,
+   "plain_words": 116,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 43,
+   "plain_words": 95,
+   "missing": 2,
+   "missing_ratio": 0.021,
+   "sample": [
+    "arithmetic",
+    "expressions"
+   ]
+  },
+  {
+   "page": 44,
+   "plain_words": 165,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 45,
+   "plain_words": 67,
+   "missing": 2,
+   "missing_ratio": 0.03,
+   "sample": [
+    "arithmetic",
+    "expressions"
+   ]
+  },
+  {
+   "page": 46,
+   "plain_words": 98,
+   "missing": 11,
+   "missing_ratio": 0.112,
+   "sample": [
+    "the",
+    "expressions",
+    "fill",
+    "blanks",
+    "make",
+    "equal",
+    "both",
+    "sides",
+    "sign"
+   ]
+  },
+  {
+   "page": 47,
+   "plain_words": 149,
+   "missing": 34,
+   "missing_ratio": 0.228,
+   "sample": [
+    "ans",
+    "the",
+    "can",
+    "you",
+    "explain",
+    "why",
+    "this",
+    "examples",
+    "subtracting",
+    "number",
+    "same",
+    "adding"
+   ]
+  },
+  {
+   "page": 48,
+   "plain_words": 115,
+   "missing": 11,
+   "missing_ratio": 0.096,
+   "sample": [
+    "ans",
+    "yes",
+    "adding",
+    "any",
+    "order",
+    "same",
+    "gives"
+   ]
+  },
+  {
+   "page": 49,
+   "plain_words": 149,
+   "missing": 12,
+   "missing_ratio": 0.081,
+   "sample": [
+    "the",
+    "expression",
+    "ans",
+    "total",
+    "for",
+    "terms",
+    "cost",
+    "are"
+   ]
+  },
+  {
+   "page": 50,
+   "plain_words": 58,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 51,
+   "plain_words": 138,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 52,
+   "plain_words": 103,
+   "missing": 3,
+   "missing_ratio": 0.029,
+   "sample": [
+    "value",
+    "gold",
+    "coins"
+   ]
+  },
+  {
+   "page": 53,
+   "plain_words": 1,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 54,
+   "plain_words": 62,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 55,
+   "plain_words": 60,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 56,
+   "plain_words": 96,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 57,
+   "plain_words": 85,
+   "missing": 1,
+   "missing_ratio": 0.012,
+   "sample": [
+    "ans"
+   ]
+  },
+  {
+   "page": 58,
+   "plain_words": 73,
+   "missing": 14,
+   "missing_ratio": 0.192,
+   "sample": [
+    "try",
+    "further",
+    "procedure",
+    "yes",
+    "this",
+    "quicker",
+    "than",
+    "the",
+    "multiplication",
+    "generally",
+    "use"
+   ]
+  },
+  {
+   "page": 59,
+   "plain_words": 10,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 60,
+   "plain_words": 67,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 61,
+   "plain_words": 170,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 62,
+   "plain_words": 58,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 63,
+   "plain_words": 68,
+   "missing": 3,
+   "missing_ratio": 0.044,
+   "sample": [
+    "ans",
+    "iii",
+    "and"
+   ]
+  }
+ ],
+ "flagged_pages": [
+  46,
+  47,
+  48,
+  49,
+  58
+ ]
+}
