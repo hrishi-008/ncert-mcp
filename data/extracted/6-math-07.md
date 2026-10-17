@@ -2,1775 +2,1078 @@
 
 <!-- page 151 -->
 
-## Fractions 7
+# 7 FRACTIONS
+
+[Figure: Four circles in a row, each divided into equal sectors with some sectors shaded: the first in light blue, the second in blue, the third in green, the fourth in orange.]
+
+[Figure: QR code, labelled 0674CH07]
 
 Recall that when some whole number of things are shared equally among some number of people, fractions tell us how much each share is.
 
-Shabnam: Do you remember, if one roti is divided equally
+Shabnam: Do you remember, if one *roti* is divided equally between two children, how much *roti* will each child get?
 
-between two children, how much
+> [Figure: A roti divided into two equal halves, with arrows pointing to two children.]
 
-roti will each child get?
+Mukta: Each child will get half a *roti*.
 
-Mukta: Each child will get half a roti.
+Shabnam: The fraction 'one half' is written as $\frac{1}{2}$ . We also sometimes read this as 'one upon two.'
 
-Shabnam: The fraction ‘one half’ is written as
+Mukta: If one *roti* is equally shared among 4 children, how much *roti* will one child get?
 
-1 2 . We also sometimes read this as
+Shabnam: Each child's share is $\frac{1}{4}$ *roti*.
 
-‘one upon two.’
+> [Figure: A roti divided into four equal parts, with arrows pointing to four children.]
 
-Mukta: If one roti is equally shared among
+Mukta: And which is more $\frac{1}{2}$ *roti* or $\frac{1}{4}$ *roti*?
 
-4 children, how much roti will one child get?
-
-Shabnam: Each child’s share is1
-
-4roti.
-
-Mukta: And which is more1
-
-2 roti or1 4 roti?
-
-Shabnam: When 2 children share 1 roti
-
-equally, each child gets 1
-
-2roti. When
-
-4 children share 1 roti equally, each
-
-child gets 1
-
-4roti. Since, in the second
-
-group more children share the
+Shabnam: When 2 children share 1 *roti* equally, each child gets $\frac{1}{2}$ *roti*. When 4 children share 1 *roti* equally, each child gets $\frac{1}{4}$ *roti*. Since, in the second group more children share the
 
 <!-- page 152 -->
 
-Ganita Prakash | Grade 6
+same one *roti*, each child gets a smaller share. So, $\frac{1}{2}$ *roti* is more than $\frac{1}{4}$ *roti*.
 
-same one roti, each child gets a smaller share. So, 1
+> $\frac{1}{2} > \frac{1}{4}$
 
-2roti is
+## 7.1 Fractional Units and Equal Shares
 
-more than 1
+**Beni:** Which fraction is greater— $\frac{1}{5}$ or $\frac{1}{9}$?
 
-4roti. | 1 2 > 1 4
+**Arvin:** 9 is bigger than 5. So I would guess that $\frac{1}{9}$ is greater than $\frac{1}{5}$. Am I right?
 
-### 7.1 Fractional Units and Equal Shares
+**Beni:** No! That is a common mistake. Think of these fractions as shares.
 
-Beni: Which fraction is greater —1
+**Arvin:** If one *roti* is shared among 5 children, each one gets a share of $\frac{1}{5}$ *roti*. If one *roti* is shared among 9 children, each one gets a share of $\frac{1}{9}$ *roti*?
 
-5 or 1 9?
+**Beni:** Exactly! Now think again - which share is higher?
 
-Arvin: 9 is bigger than 5. So I would guess that 1 9 is greater than 1
+**Arvin:** If I share with more people, I will get less. So, $\frac{1}{9} < \frac{1}{5}$.
 
-5. Am I right? Beni: No! That is a common mistake. Think of these fractions as shares. Arvin: If one roti is shared among 5 children, each one gets a share of 1
+**Beni:** You got it!
 
-5roti. If one roti is shared among 9 children, each one gets a share of 1
-
-9roti? Beni: Exactly! Now think again - which share is higher?
-
-9 < 1 5. Beni: You got it!
-
-Arvin: If I share with more people, I will get less. So, 1
-
-Oh, so 1 100 is bigger than 1 200!
+> Oh, so $\frac{1}{100}$ is bigger than $\frac{1}{200}$!
 
 When one unit is divided into several equal parts, each part is called a **fractional unit**. These are all fractional units:
 
-1 2,1 3,1 4, 1 5, 1 6, …,1 10, …,1 50, …,1 100, etc.
+$\frac{1}{2}, \frac{1}{3}, \frac{1}{4}, \frac{1}{5}, \frac{1}{6}, \ldots, \frac{1}{10}, \ldots, \frac{1}{50}, \ldots, \frac{1}{100}$, etc.
 
-We also sometimes refer to fractional units as ‘**unit fractions**.’
+We also sometimes refer to fractional units as '**unit fractions**.'
 
-#### Figure it Out
+### Figure it Out
 
 Fill in the blanks with fractions.
 
-1. Three guavas together weigh 1 kg. If they are roughly of the same size, each guava will roughly weigh ____ kg.
+1. Three guavas together weigh 1 kg. If they are roughly of the same size, each guava will roughly weigh ____ kg.
+2. A wholesale merchant packed 1 kg of rice in four packets of equal weight. The weight of each packet is ___ kg.
+3. Four friends ordered 3 glasses of sugarcane juice and shared it equally among themselves. Each one drank ____ glass of sugarcane juice.
 
-2. A wholesale merchant packed 1 kg of rice in four packets of equal weight. The weight of each packet is ___ kg.
-
-Math
-
-3. Four friends ordered 3 glasses of sugarcane juice and shared it equally among themselves. Each one drank ____ glass of sugarcane juice. | Talk
+> [Figure: "Math Talk" icon with speech bubbles, beside questions 2 and 3]
 
 <!-- page 153 -->
 
-Fractions
+4. The big fish weighs $\frac{1}{2}$ kg. The small one weighs $\frac{1}{4}$ kg. Together they weigh ____ kg.
 
-4. The big fish weighs 1 2 kg. The small one weighs 1 4 kg. | Math
+> [Figure: Math Talk icon with speech bubbles]
 
-Together they weigh ____ kg. | Talk
+### Knowledge from the past!
 
-**Knowledge from the past!** Fractions have been used and named in India since ancient times. In the Rig Veda, the fraction 3
+Fractions have been used and named in India since ancient times. In the *Rig Veda*, the fraction $\frac{3}{4}$ is referred to as *tri-pada*. This has the same meaning as the words for $\frac{3}{4}$ in many Indian languages today, e.g., '*teen paav*' in colloquial Hindi and '*mukkaal*' in Tamil. Indeed, words for fractions used today in many Indian languages go back to ancient times.
 
-4 is referred to as tri-pada. This has the same meaning as the words for 3
+Find out and discuss the words for fractions that are used in the different languages spoken in your home, city, or state. Ask your grandparents, parents, teachers, and classmates what words they use for different fractions, such as for one and a half, three quarters, one and a quarter, half, quarter, and two and a half, and write them here:
 
-4 in many Indian languages today, e.g., ʻteen paavʼ in colloquial Hindi and ‘mukkaal’ in Tamil. Indeed, words for fractions used today in many Indian languages go back to ancient times.
+___________ ___________ ___________ ___________________ ___________
 
-Find out and discuss the words for fractions that are used in the different languages spoken in your home, city, or state. Ask your grandparents, parents, teachers, and classmates what words they use for different fractions, such as for one and a half, three quarters, one and a quarter, half, quarter, and two and a half, and write them here:
+5. Arrange these fraction words in order of size from the smallest to the biggest in the empty box below:
 
-___________ ___________ ___________ ___________ ___________ ___________
+   One and a half, three quarters, one and a quarter, half, quarter, two and a half.
 
-5. Arrange these fraction words in order of size from the smallest to the biggest in the empty box below:
-
-One and a half, three quarters, one and a quarter, half, quarter, two and a half.
-
-Write your answer here.
+[Figure: Empty rounded green box with the text "Write your answer here."]
 
 <!-- page 154 -->
 
-Ganita Prakash | Grade 6
+## 7.2 Fractional Units as Parts of a Whole
 
-### 7.2 Fractional Units as Parts of a Whole
+The picture shows a whole *chikki*.
 
-The picture shows a whole chikki.
+[Figure: A rectangular chikki divided into a grid of small squares, 6 columns by 4 rows. Caption: A whole *chikki*]
 
-A whole chikki A picture of the chikki broken into 2 pieces is shown below. How much of the original chikki is each piece?
+A picture of the *chikki* broken into 2 pieces is shown below. How much of the original *chikki* is each piece?
 
-1 4
+[Figure: The chikki broken into 2 pieces. A smaller rectangular piece (3 columns by 2 rows of small squares) is placed at the top right, with an arrow pointing to it from a box labelled $\frac{1}{4}$. The bigger L-shaped piece lies below, with dotted lines showing where the cut was made.]
 
-We can see that the bigger piece has 3 pieces of 1
+We can see that the bigger piece has 3 pieces of $\frac{1}{4}$ *chikki* in it. So, we can measure the bigger piece using the fractional unit $\frac{1}{4}$. We see that the bigger piece is $\frac{3}{4}$ *chikki*.
 
-4chikki in it. So, we
+[Figure: A whole chikki with dotted lines showing a cut into 6 equal pieces (two vertical dotted lines and one horizontal dotted line). One small square piece (2 columns by 2 rows of small squares) is placed beside it, labelled with a box $\frac{1}{6}$. Caption: A whole *chikki* cut into 6 equal pieces.]
 
-can measure the bigger piece using the fractional unit 1
+[Figure: A whole chikki with slanted dotted lines showing a different way of cutting into 6 equal pieces. A triangular/trapezoidal piece is placed beside it, labelled with a box $\frac{1}{6}$. Caption: A whole *chikki* cut into 6 equal pieces in a different way.]
 
-4. We see that
+### Math Talk
 
-the bigger piece is 3
-
-4chikki.
-
-> 1 6
-
-1 6
-
-A whole chikki cut into 6 equal pieces. | A whole chikki cut into 6 equal
-
-pieces in a different way.
-
-By dividing the whole chikki into 6 equal parts in different
-
-> Math
-
-ways, we get 1
-
-6chikki pieces of different shapes. Are they of
-
-> Talk
-
-the same size?
+By dividing the whole *chikki* into 6 equal parts in different ways, we get $\frac{1}{6}$ *chikki* pieces of different shapes. Are they of the same size?
 
 <!-- page 155 -->
 
-Fractions
+What is the fractional unit of *chikki* shown below?
 
-What is the fractional unit of chikki shown below?
+[Figure: A whole *chikki* shown as a rectangle divided into a grid of small squares (6 columns by 4 rows), with two vertical dotted lines marking it into 3 equal parts; labelled "A whole *chikki*".]
 
-We get this piece by breaking the chikki into 3 equal pieces. So this is 1
+[Figure: One piece of the chikki, a tall rectangle (2 columns by 4 rows of small squares), with a box below it containing $\frac{1}{3}$.]
 
-1 3 | 3chikki.
+> We get this piece by breaking the *chikki* into 3 equal pieces. So this is $\frac{1}{3}$ *chikki*.
 
-A whole chikki
+### Figure it Out
 
-#### Figure it Out
+The figures below show different fractional units of a whole *chikki*. How much of a whole *chikki* is each piece?
 
-The figures below show different fractional units of a whole chikki. How much of a whole chikki is each piece?
+[Figure: a. A small rectangle piece made of 2 small squares (1 column by 2 rows), with an empty box below it.]
 
-a. | b. c. d.
+[Figure: b. A large right-angled triangle piece made of small squares and half-squares, with an empty box below it.]
 
-e. f. g. h.
+[Figure: c. A smaller right-angled triangle piece, long and flat, with an empty box below it.]
+
+[Figure: d. A tall narrow rectangle piece made of 4 small squares in a column, with an empty box below it.]
+
+[Figure: e. An L-shaped piece made of 3 small squares, with an empty box below it.]
+
+[Figure: f. A triangle piece pointing to the right, made of small squares and half-squares, with an empty box below it.]
+
+[Figure: g. A single small square piece, with an empty box below it.]
+
+[Figure: h. A small right-angled triangle piece, half of a small square, with an empty box below it.]
 
 <!-- page 156 -->
 
-Ganita Prakash | Grade 6
-
-### 7.3 Measuring Using Fractional Units
+## 7.3 Measuring Using Fractional Units
 
 Take a strip of paper. We consider this paper strip to be one unit long.
 
-1 Strip Paper
+[Figure: A long rectangular grey strip with a brace below it labelled "1 Strip Paper".]
 
 Fold the strip into two equal parts and then open up the strip again. Taking the strip to be one unit in length, what are the lengths of the two new parts of the strip created by the crease?
 
-1 2 1 2
+[Figure: The same strip with a dotted crease line in the middle; braces below the two halves are labelled $\frac{1}{2}$ and $\frac{1}{2}$.]
 
 What will you get if you fold the previously-folded strip again into two equal parts? You will now get four equal parts.
 
-1 4
+[Figure: The strip divided into four equal parts by dotted creases. Braces below: the first part is labelled $\frac{1}{4}$; the first two parts "2 times $\frac{1}{4} = \frac{2}{4}$"; the first three parts "3 times $\frac{1}{4} = \frac{3}{4}$"; the whole strip "4 times $\frac{1}{4} = \frac{4}{4}$".]
 
-2 times1 4= 2 4
-
-3 times1 4= 3 4
-
-4 times1 4= 4 4
-
-Do it once more! Fill in the blank boxes.
+**Do it once more! Fill in the blank boxes.**
 
 <!-- page 157 -->
 
-Fractions
+[Figure: A long rectangular strip divided by dashed lines into 8 equal parts. Below it, braces from the first part mark an empty box (one part), then a brace labelled "2 times $\frac{1}{8}$" with an empty box "=" empty box; then "4 times $\frac{1}{8}$" "=" empty box; then an empty box "=" empty box; then "6 times $\frac{1}{8}$" "=" empty box; then an empty box "=" empty box; and finally "8 times $\frac{1}{8}$ = $\frac{8}{8}$ = 1".]
 
-2 times1 8
+> Fractional quantities can be measured using fractional units.
 
-=
+Let us look at another example,
 
-4 times1 8 | =
+> [Figure: A shaded circle] Represents a full *roti* (whole)
 
-=
-
-6 times1 8 | =
-
-=
-
-8 times1 8 8
-
-8 = = 1
-
-Fractional quantities can be measured using fractional units.
-
-|  | Let us look at another example, |  |  | Represents a full roti (whole) |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| 1 2 = 1 times half | 1 1 + 2 2 = 2 times half | 1 1 1 + + 2 2 2 = 3 times half | 1 1 1 1 + + + 2 2 2 2 = 4 times half | 1 1 1 1 1 + + + + 2 2 2 2 2 = 5 times half |
+| [Figure: one half-circle] | [Figure: two half-circles] | [Figure: three half-circles] | [Figure: four half-circles] | [Figure: five half-circles] |
+|---|---|---|---|---|
+| $\frac{1}{2}$ = 1 times half | $\frac{1}{2} + \frac{1}{2}$ = 2 times half | $\frac{1}{2} + \frac{1}{2} + \frac{1}{2}$ = 3 times half | $\frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2}$ = 4 times half | $\frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2}$ = 5 times half |
 
 We can describe how much the quantity is by collecting together the fractional units.
 
 <!-- page 158 -->
 
-Ganita Prakash | Grade 6
+### Figure it Out
 
-#### Figure it Out
-
-1. Continue this table of 1 2 for 2 more steps.
-
-2. Can you create a similar table for 1 4?
-
-3. Make 1 3 using a paper strip. Can you use this to also make 1 6?
-
-4. Draw a picture and write an addition statement as above to show:
-
-a. 5 times 1
-
-4 of a roti b. 9 times 1
-
-4 of a roti
-
+1. Continue this table of $\frac{1}{2}$ for 2 more steps.
+2. Can you create a similar table for $\frac{1}{4}$?
+3. Make $\frac{1}{3}$ using a paper strip. Can you use this to also make $\frac{1}{6}$?
+4. Draw a picture and write an addition statement as above to show:
+   a. 5 times $\frac{1}{4}$ of a *roti* 　　　　　 b. 9 times $\frac{1}{4}$ of a *roti*
 5. Match each fractional unit with the correct picture:
 
-1 3 1 5 1 8 1 6
+$\frac{1}{3}$　　　　　$\frac{1}{5}$　　　　　$\frac{1}{8}$　　　　　$\frac{1}{6}$
 
-Reading Fractions
+[Figure: Four circles in a row, each with one part shaded. First circle is divided into 8 equal parts with one part shaded; second circle is divided into 6 equal parts with one part shaded; third circle is divided into 3 equal parts with one part shaded; fourth circle is divided into 5 equal parts with one part shaded.]
 
-We usually read the fraction 3
+### Reading Fractions
 
-4 as ‘three quarters’ or ‘three upon four’,
+We usually read the fraction $\frac{3}{4}$ as ‘three quarters’ or ‘three upon four’, but reading it as ‘3 times $\frac{1}{4}$’ helps us to understand the size of the fraction because it clearly shows what the fractional unit is ($\frac{1}{4}$) and how many such fractional units (3) there are.
 
-but reading it as ‘3 times 1
+Recall what we call the top number and the bottom number of fractions. In the fraction $\frac{5}{6}$, 5 is the **numerator** and 6 is the **denominator**.
 
-4’ helps us to understand the size of the
-
-fraction because it clearly shows what the fractional unit is (1
-
-4) and
-
-how many such fractional units (3) there are.
-
-Recall what we call the top number and the bottom number of fractions.
-
-In the fraction 5
-
-6, 5 is the **numerator** and 6 is the **denominator.**
-
-#### Teacher’s Note
+### Teacher’s Note
 
 Give several opportunities to the children to explore the idea of fractional units with different shapes like circles, squares, rectangles, triangles, etc.
 
 <!-- page 159 -->
 
-Fractions
-
-### 7.4 Marking Fraction Lengths on the Number Line
+## 7.4 Marking Fraction Lengths on the Number Line
 
 We have marked lengths equal to 1, 2, 3, … units on the number line. Now, let us try to mark lengths equal to fractions on the number line.
 
 What is the length of the blue line? Write the fraction that gives the length of the blue line in the box.
 
-0 1 2
+[Figure: A number line with marks at 0, 1 and 2, and an additional tick midway between 1 and 2. A blue line runs from 0 to the tick midway between 0 and 1, which is labelled with an empty box below it. The labels 0, 1, 2 are printed below the line.]
 
-The distance between 0 and 1 is one unit long. It is divided into two equal parts. So, the length of each part is 1
-
-2unit. So, this blue line is 1
-
-2unit long.
+The distance between 0 and 1 is one unit long. It is divided into two equal parts. So, the length of each part is $\frac{1}{2}$ unit. So, this blue line is $\frac{1}{2}$ unit long.
 
 Now, can you find the lengths of the various blue lines shown below? Fill in the boxes as well.
+
 1. Here, the fractional unit is dividing a length of 1 unit into three equal parts. Write the fraction that gives the length of the blue line in the box or in your notebook.
 
-0 1 2 1 3
+[Figure: A number line marked 0, $\frac{1}{3}$, an empty box, 1, and 2, with an additional tick midway between 1 and 2. A blue line runs from 0 to the tick at the empty box, which is the second division of the unit.]
 
 2. Here, a unit is divided into 5 equal parts. Write the fraction that gives the length of the blue lines in the respective boxes or in your notebook.
 
-0 1 2 1 5 3 5
+[Figure: A number line marked 0, $\frac{1}{5}$, an empty box, $\frac{3}{5}$, another empty box, 1, and 2, with ticks dividing each unit into 5 equal parts. Two blue lines are drawn above: a shorter one from 0 to the tick at the first empty box (the second division), and a longer one from 0 to the tick at the second empty box (the fourth division).]
 
-3. Now, a unit is divided into 8 equal parts. Write the appropriate fractions in your notebook.
+3. Now, a unit is divided into 8 equal parts. Write the appropriate fractions in your notebook.
 
 <!-- page 160 -->
 
-Ganita Prakash | Grade 6
+### Figure it Out
 
-#### Figure it Out
+> Math Talk
 
-1. On a number line, draw lines of lengths 1 10 , 3 10 , and 4 5 .
+1. On a number line, draw lines of lengths $\frac{1}{10}$, $\frac{3}{10}$, and $\frac{4}{5}$.
 
-Math
+2. Write five more fractions of your choice and mark them on the number line.
 
-2. Write five more fractions of your choice and mark them on the | Talk
+3. How many fractions lie between 0 and 1? Think, discuss with your classmates, and write your answer.
 
-number line.
+4. What is the length of the blue line and black line shown below? The distance between 0 and 1 is 1 unit long, and it is divided into two equal parts. The length of each part is $\frac{1}{2}$. So the blue line is $\frac{1}{2}$ units long. Write the fraction that gives the length of the black line in the box.
 
-3. How many fractions lie between 0 and 1? Think, discuss with
-
-your classmates, and write your answer.
-
-4. What is the length of the blue line and black line shown below? The
-
-distance between 0 and 1 is 1 unit long, and it is divided into two
-
-2. So the blue line is 1 2 units
-
-equal parts. The length of each part is 1
-
-long. Write the fraction that gives the length of the black line in the
-
-box.
-
-1 2 0 1 2
+[Figure: A number line marked 0, 1 and 2, with tick marks at every half unit. A black line extends from 0 to the tick just before 2 (three halves), and a blue line above the number line extends from 0 to the first half-unit tick. A box below the tick at $\frac{1}{2}$ contains $\frac{1}{2}$, and an empty box is below the tick at the end of the black line.]
 
 5. Write the fraction that gives the lengths of the black lines in the respective boxes.
 
-0 1 2 1 5 2 5 3 5 4 5
+[Figure: A number line from 0 to 2 with ticks at every fifth, labelled 0, $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$, $\frac{4}{5}$, 1, then four empty boxes, then 2. Four black lines of decreasing length are drawn above the number line, starting at 0 and ending above the four empty boxes respectively.]
 
-#### Teacher’s Note
+### Teacher's Note
 
 Draw these lines on the board and ask the students to write the answers in their notebooks.
 
 <!-- page 161 -->
 
-Fractions
+## 7.5 Mixed Fractions
 
-### 7.5 Mixed Fractions
+### Fractions greater than one
 
-**Fractions greater than one** You marked some fractions on the number line earlier. Did you notice that the lengths of all the blue lines were less than one and the lengths of all the black lines were more than 1?
+You marked some fractions on the number line earlier. Did you notice that the lengths of all the blue lines were less than one and the lengths of all the black lines were more than 1?
 
-Write down all the fractions you marked on the number line earlier. Now, let us classify these in two groups:
+Write down all the fractions you marked on the number line earlier.
 
-Lengths less than 1 unit Lengths more than 1 unit
+Now, let us classify these in two groups:
+
+| Lengths less than 1 unit | Lengths more than 1 unit |
+|---|---|
+| | |
 
 Did you notice something common between the fractions that are greater than 1?
 
-In all the fractions that are less than 1 unit, the numerator is
+In all the fractions that are less than 1 unit, the numerator is smaller than the denominator, while in the fractions that are more than 1 unit, the numerator is larger than the denominator.
 
-smaller than the denominator, while in the fractions that are more
+We know that $\frac{3}{2}$, $\frac{5}{2}$ and $\frac{7}{2}$ are all greater than 1 unit. But can we see how many whole units they contain?
 
-than 1 unit, the numerator is larger than the denominator.
+$$\frac{3}{2} = \frac{1}{2} + \frac{1}{2} + \frac{1}{2} = 1 + \frac{1}{2}$$
 
-We know that 3
+$$\frac{5}{2} = \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} = 2 + \frac{1}{2}$$
 
-2, 5 2 and7 2 are all greater than 1 unit. But can we
-
-see how many whole units they contain?
-
-3 2 =1 2 + 1 2 +1 2 = 1 +1 2
-
-5 2 = 1 2 +1 2 +1 2 + 1 2 +1 2 = 2 +1 2
-
-I know that 1
-
-3 + 1 3 + 1 3 = 3 3 = 1. If I add one more 1 3,
-
-I will get more than 1 unit! So, 4
-
-3 > 1.
+> [Figure: A girl with a hand on her chin, thinking, with a speech bubble:] "I know that $\frac{1}{3} + \frac{1}{3} + \frac{1}{3} = \frac{3}{3} = 1$. If I add one more $\frac{1}{3}$, I will get more than 1 unit! So, $\frac{4}{3} > 1$."
 
 <!-- page 162 -->
 
-Ganita Prakash | Grade 6
+### Figure it Out
 
-#### Figure it Out
+1. How many whole units are there in $\frac{7}{2}$?
+2. How many whole units are there in $\frac{4}{3}$ and in $\frac{7}{3}$?
 
-1. How many whole units are there in 7 2?
+> [Figure: Math Talk icon with speech bubbles]
 
-Math
+## Writing fractions greater than one as mixed numbers
 
-2. How many whole units are there in 4 3 and in 7 3? | Talk
-
-#### Writing fractions greater than one as mixed numbers
-
-We saw that: 3
-
-2 = 1 + 1 2.
+We saw that: $\frac{3}{2} = 1 + \frac{1}{2}$.
 
 We can write other fractions in a similar way. For example,
 
-4 3 = 1 3 + 1 3 + 1 3 + 1 3 = 1 + 1 3.
+$$\frac{4}{3} = \frac{1}{3} + \frac{1}{3} + \frac{1}{3} + \frac{1}{3} = 1 + \frac{1}{3}.$$
 
-3 × 1
+[Figure: A brace under the first three $\frac{1}{3}$ terms, labelled $3 \times \frac{1}{3} = 1$]
 
-3 = 1
-
-#### Figure it Out
+### Figure it Out
 
 1. Figure out the number of whole units in each of the following fractions:
 
-a.8
-
-3 b.11
-
-5 c.9
-
-4
+   a. $\frac{8}{3}$  b. $\frac{11}{5}$  c. $\frac{9}{4}$
 
 We saw that
 
-8 3 = 2 + 2 3 | This number is thus also called ‘two and
+$$\frac{8}{3} = 2 + \frac{2}{3}$$
 
-two thirds’. We also write it as 22
+[Figure: Arrows pointing from the label "Fraction" to $\frac{8}{3}$ and from the label "Mixed number" to $2$]
 
-3.
-
-Fraction Mixed number
+> This number is thus also called 'two and two thirds'. We also write it as $2\frac{2}{3}$.
 
 2. Can all fractions greater than 1 be written as such mixed numbers?
 
+[Figure: Green boxed definition]
+
 A **mixed number or mixed fraction** contains a whole number (called the whole part) and a fraction that is less than 1 (called the fractional part).
 
-3. Write the following fractions as mixed fractions (e.g., 9 2 = 4 1 2):
+3. Write the following fractions as mixed fractions (e.g., $\frac{9}{2} = 4\frac{1}{2}$):
 
-a. 9
-
-2 b. 9
-
-5 c. 21
-
-19d. 47 9 e. 12
-
-11 f. 19
-
-6
+   a. $\frac{9}{2}$  b. $\frac{9}{5}$  c. $\frac{21}{19}$  d. $\frac{47}{9}$  e. $\frac{12}{11}$  f. $\frac{19}{6}$
 
 <!-- page 163 -->
 
-Fractions
+> [Figure: Speech bubble from a girl pointing a finger up: "Can we write a mixed number (mixed fraction) as a regular fraction?"]
 
-Can we write a mixed number (mixed fraction)
+> [Figure: Speech bubble from a girl with a braid, hand at chin: "Yes! I figured out a way to write a mixed number as a regular fraction!"]
 
-as a regular fraction?
+Jaya: When I have $3 + \frac{3}{4}$, this means $1 + 1 + 1 + \frac{3}{4}$. I know
 
-Yes! I figured out a way to write a mixed number as a
-
-regular fraction!
-
-Jaya: When I have 3 + 3
-
-4, this means 1 + 1 + 1 + 3
-4. I know
-
-1 =1 4 +1 4 +1 4 +1 4.
+$$1 = \frac{1}{4} + \frac{1}{4} + \frac{1}{4} + \frac{1}{4}.$$
 
 So I get
 
-(1
+$$\left(\frac{1}{4} + \frac{1}{4} + \frac{1}{4} + \frac{1}{4}\right) + \left(\frac{1}{4} + \frac{1}{4} + \frac{1}{4} + \frac{1}{4}\right) + \left(\frac{1}{4} + \frac{1}{4} + \frac{1}{4} + \frac{1}{4}\right) + \left(\frac{1}{4} + \frac{1}{4} + \frac{1}{4}\right) = \frac{15}{4}.$$
 
-4 +1 4 +1 4 +1 4)+( 1 4 +1 4 +1 4 +1 4)+( 1 4 +1 4 +1 4 +1 4)+( 1 4 +1 4 +1 4)=15 4.
+Therefore, $\left(4 \times \frac{1}{4}\right) + \left(4 \times \frac{1}{4}\right) + \left(4 \times \frac{1}{4}\right) + \left(3 \times \frac{1}{4}\right) = \frac{15}{4}$.
 
-Therefore, (4 ×1
+### Figure it Out
 
-4) + (4 ×1
-4) + (4 ×1
-4) + (3 ×1
-4) = 15 4.
+Write the following mixed numbers as fractions:
 
-#### Figure it Out
+> [Figure: Math Talk icon]
 
-Write the following mixed numbers as fractions: a.31
+a. $3\frac{1}{4}$
 
-4 b.72
+b. $7\frac{2}{3}$
 
-3 c. 9 4 9 | Math
+c. $9\frac{4}{9}$
 
-Talk
+d. $3\frac{1}{6}$
 
-d. 3 1
+e. $2\frac{3}{11}$
 
-6 e.2 3
+f. $3\frac{9}{10}$
 
-11 f.3 9
+## 7.6 Equivalent Fractions
 
-10
-
-### 7.6 Equivalent Fractions
-
-#### Using a fraction wall to find equal fractional lengths!
+### Using a fraction wall to find equal fractional lengths!
 
 In the previous section, you used paper folding to represent various fractions using fractional units. Let us do some more activities with the same paper strips.
 
 <!-- page 164 -->
 
-Ganita Prakash | Grade 6
+[Figure: A blank grey strip with a brace beneath it labelled "1".]
 
-1
+[Figure: Strip with the first part shaded blue, the remainder grey, divided by dotted lines; brace under the blue part labelled $\frac{1}{2}$.]
 
-What do you
+[Figure: Strip with the first two parts shaded blue, the remainder grey, divided by dotted lines; brace under the blue part labelled $\frac{2}{4}$.]
 
-observe?
+[Figure: Strip with the first four parts shaded blue, the remainder grey, divided by dotted lines; brace under the blue part labelled $\frac{4}{8}$.]
 
-1 2 | - Are the lengths 1 2 and 2 4 equal?
+> What do you observe?
 
-- Are the lengths 2 4 and 4 8 equal?
+- Are the lengths $\frac{1}{2}$ and $\frac{2}{4}$ equal?
+- Are the lengths $\frac{2}{4}$ and $\frac{4}{8}$ equal?
 
-We can say that 1
+We can say that $\frac{1}{2} = \frac{2}{4} = \frac{4}{8}$.
 
-2 = 2 4 = 4 8.
+These are 'equivalent fractions' that denote the same length, but they are expressed in terms of different fractional units.
 
-2 4
-
-4 8
-
-These are ‘equivalent fractions’ that denote the same length, but they are expressed in terms of different fractional units.
-
-3 and 2 6 are equivalent fractions or not, using paper strips.
-
-Now, check whether 1
+Now, check whether $\frac{1}{3}$ and $\frac{2}{6}$ are equivalent fractions or not, using paper strips.
 
 Make your own fraction wall using such strips as given in the picture below!
 
-Answer the following questions after looking at the fraction wall:
+Answer the following questions after looking at the fraction wall:
 
-1. Are the lengths 1
+1. Are the lengths $\frac{1}{2}$ and $\frac{3}{6}$ equal?
+2. Are $\frac{2}{3}$ and $\frac{4}{6}$ equivalent fractions? Why?
+3. How many pieces of length $\frac{1}{6}$ will make a length of $\frac{1}{2}$?
 
-2 and 3 6equal?
+[Figure: Fraction wall. Top row: "1 UNIT". Second row: $\frac{1}{2}$, $\frac{2}{2}$. Third row: $\frac{1}{3}$, $\frac{2}{3}$, $\frac{3}{3}$. Fourth row: $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$. Fifth row: $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$, $\frac{4}{5}$, $\frac{5}{5}$. Sixth row: $\frac{1}{6}$, $\frac{2}{6}$, $\frac{3}{6}$, $\frac{4}{6}$, $\frac{5}{6}$, $\frac{6}{6}$.]
 
-2. Are 2
-
-3 and 4 6 equivalent | 1 UNIT
-
-fractions? Why? | 1 2 2 2
-
-1 3 2 3 3 3
-
-3. How many pieces of
-
-1 4 2 4 3 4 4 4
-
-length 1
-
-6 will make a | 1 5 2 5 3 5 4 5 5 5
-
-length of 1
-
-2? | 1 6 2 6 3 6 4 6 5 6 6 6
-
-4. How many pieces of length 1 6 will make a length of 1 3?
+4. How many pieces of length $\frac{1}{6}$ will make a length of $\frac{1}{3}$?
 
 <!-- page 165 -->
 
-> Fractions
+We can extend this idea to make a fraction wall up to the fractional unit $\frac{1}{10}$. (This fraction wall is given at the end of the book.)
 
-We can extend this idea to make a fraction wall up to the fractional unit 1
+[Figure: Fraction wall with rows of equal bricks. Row 1: "1 UNIT". Row 2: $\frac{1}{2}$, $\frac{2}{2}$. Row 3: $\frac{1}{3}$, $\frac{2}{3}$, $\frac{3}{3}$. Row 4: $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$. Row 5: $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$, $\frac{4}{5}$, $\frac{5}{5}$. Row 6: $\frac{1}{6}$, $\frac{2}{6}$, $\frac{3}{6}$, $\frac{4}{6}$, $\frac{5}{6}$, $\frac{6}{6}$. Row 7: $\frac{1}{7}$, $\frac{2}{7}$, $\frac{3}{7}$, $\frac{4}{7}$, $\frac{5}{7}$, $\frac{6}{7}$, $\frac{1}{7}$. Row 8: $\frac{1}{8}$, $\frac{2}{8}$, $\frac{3}{8}$, $\frac{4}{8}$, $\frac{5}{8}$, $\frac{6}{8}$, $\frac{7}{8}$, $\frac{8}{8}$. Row 9: $\frac{1}{9}$, $\frac{2}{9}$, $\frac{3}{9}$, $\frac{4}{9}$, $\frac{5}{9}$, $\frac{6}{9}$, $\frac{7}{9}$, $\frac{8}{9}$, $\frac{9}{9}$. Row 10: $\frac{1}{10}$, $\frac{2}{10}$, $\frac{3}{10}$, $\frac{4}{10}$, $\frac{5}{10}$, $\frac{6}{10}$, $\frac{7}{10}$, $\frac{8}{10}$, $\frac{9}{10}$, $\frac{10}{10}$.]
 
-10. (This fraction wall is given at the end of the book.)
+### Figure it Out
 
-| 1 UNIT |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1 3 |  |  |  |  |  |  |  |  |  |  | 2 3 |  |  |  |  |  |  |  |  |  | 3 3 |  |  |  |  |  |  |  |  |  |  |
-| 1 4 |  |  |  |  |  |  |  | 2 4 |  |  |  |  |  |  |  | 3 4 |  |  |  |  |  |  |  | 4 4 |  |  |  |  |  |  |  |
-| 1 5 |  |  |  |  |  | 2 5 |  |  |  |  |  |  | 3 5 |  |  |  |  |  | 4 5 |  |  |  |  |  |  | 5 5 |  |  |  |  |  |
-| 1 6 |  |  |  |  | 2 6 |  |  |  |  |  | 3 6 |  |  |  |  | 4 6 |  |  |  |  | 5 6 |  |  |  |  |  | 6 6 |  |  |  |  |
-| 1 7 |  |  |  | 2 7 |  |  |  |  | 3 7 |  |  |  |  | 4 7 |  |  |  | 5 7 |  |  |  |  | 6 7 |  |  |  |  | 1 7 |  |  |  |
-| 1 8 |  |  | 2 8 |  |  |  |  | 3 8 |  |  |  | 4 8 |  |  |  | 5 8 |  |  |  | 6 8 |  |  |  | 7 8 |  |  |  |  | 8 8 |  |  |
-| 1 9 |  | 2 9 |  |  |  |  | 3 9 |  |  |  | 4 9 |  |  |  | 5 9 |  | 6 9 |  |  |  | 7 9 |  |  |  | 8 9 |  |  |  |  | 9 9 |  |
-| 1 10 | 2 10 |  |  |  |  | 3 10 |  |  |  | 4 10 |  |  | 5 10 |  |  | 6 10 |  |  | 7 10 |  |  | 8 10 |  |  |  | 9 10 |  |  |  |  | 10 10 |
+1. Are $\frac{3}{6}$, $\frac{4}{8}$, $\frac{5}{10}$ equivalent fractions? Why?
 
-#### Figure it Out
+2. Write two equivalent fractions for $\frac{2}{6}$.
 
-1. Are 3 6, 4 8, 5 10 equivalent fractions? Why?
+3. $\frac{4}{6}$ = $\boxed{\phantom{\frac{}{}}}$ = $\boxed{\phantom{\frac{}{}}}$ = $\boxed{\phantom{\frac{}{}}}$ = ............ (Write as many as you can)
 
-2. Write two equivalent fractions for 2 6.
+### Understanding equivalent fractions using equal shares
 
-3.4 6= = = = ............ (Write as many as you can)
+One *roti* was shared equally by four children. What fraction of the whole did each child get?
 
-#### Understanding equivalent fractions using equal shares
+The adjoining picture shows the division of a *roti* among four children.
 
-One roti was shared equally by four children. What fraction of the whole did each child get?
+Fraction of *roti* each child got is $\frac{1}{4}$.
 
-The adjoining picture shows the division of a roti among four children.
+[Figure: A round roti divided into four equal parts by a cross, with arrows from the roti pointing to four stick-figure children below.]
 
-Fraction of roti each child got is 1
-
-4.
-
-> The four shares must be
-
-> equal to each other!
+> The four shares must be equal to each other!
 
 <!-- page 166 -->
 
-Ganita Prakash | Grade 6
-
 You can also express this event through division facts, addition facts, and multiplication facts.
 
-The division fact is 1 ÷ 4 = 1
+The division fact is $1 \div 4 = \frac{1}{4}$.
 
-4.
+The addition fact is $1 = \frac{1}{4} + \frac{1}{4} + \frac{1}{4} + \frac{1}{4}$.
 
-The addition fact is 1 = 1
+The multiplication fact is $1 = 4 \times \frac{1}{4}$.
 
-4 + 1 4 + 1 4 + 1 4.
+### Figure it Out
 
-The multiplication fact is 1 = 4 × 1
+1. Three *rotis* are shared equally by four children. Show the division in the picture and write a fraction for how much each child gets. Also, write the corresponding division facts, addition facts, and, multiplication facts.
 
-4.
+   Fraction of *roti* each child gets is ______.
 
-#### Figure it Out
+   Division fact:
 
-1. Three rotis are shared equally by four children. Show the division in the picture and write a fraction for how much each child gets. Also, write the corresponding division facts, addition facts, and, multiplication facts.
+   Addition fact:
 
-Fraction of roti each child gets is ______.
+   Multiplication fact:
 
-Division fact:
+   Compare your picture and answers with your classmates!
 
-Addition fact:
+   > [Figure: Three rotis, each divided into four equal parts by a cross, shown above four stick-figure children with differently coloured faces.]
 
-Multiplication fact:
-
-Compare your picture and answers with your classmates!
-
-2. Draw a picture to show how much each child gets when 2 rotis are shared equally by 4 children. Also, write the corresponding division facts, addition facts, and multiplication facts.
+2. Draw a picture to show how much each child gets when 2 *rotis* are shared equally by 4 children. Also, write the corresponding division facts, addition facts, and multiplication facts.
 
 3. Anil was in a group where 2 cakes were divided equally among 5 children. How much cake would Anil get?
 
-What if we put two such groups
+[Figure: A girl with a braid and a yellow flower in her hair, wearing a red top, with her arm stretched out, speaking through two speech bubbles.]
 
-Now, if there are 10 children | together? one group where
+> Speech bubble (left): Now, if there are 10 children in my group, how many cakes will I need so that they get same amount of cake as Anil?
 
-in my group, how many | 2 cakes are divided equally
-
-cakes will I need so that they | between 5 children, and another
-
-get same amount of cake as | group again with 4 cakes and
-
-Anil? | 10 children.
+> Speech bubble (right): What if we put two such groups together? One group where 2 cakes are divided equally between 5 children, and another group again with 4 cakes and 10 children.
 
 <!-- page 167 -->
 
-> Fractions
+[Figure: Group 1 — two blue rectangles (rotis) above five stick-figure children.]
 
-#### Group 1
+[Figure: Group 2 — four blue rectangles in two sets of two; each set of two rectangles is above five stick-figure children, making ten children in all.]
 
-#### Group 2
+> So, the share of each child is the same in both these situations!
 
-> So,2
-
-> 5= 4 10!
-
-So, the share of each child is the same in both these situations!
+> So, $\frac{2}{5} = \frac{4}{10}$!
 
 Let us examine the shares of each child in the following situations.
 
-- 1 roti is divided equally between 2 children.
-- 2 rotis are divided equally among 4 children.
-- 3 rotis are divided equally among 6 children.
+- 1 *roti* is divided equally between 2 children.
+- 2 *rotis* are divided equally among 4 children.
+- 3 *rotis* are divided equally among 6 children.
 
-Let us draw and share! Did you notice that in each situation the share of every child is the same? So, we can say that 1
+Let us draw and share!
 
-2= 2 4= 3 6.
+Did you notice that in each situation the share of every child is the same? So, we can say that $\frac{1}{2} = \frac{2}{4} = \frac{3}{6}$.
 
-1 roti is divided | 2 rotis are divided
+[Figure: Three situations shown side by side. Left: "1 *roti* is divided equally between 2" — one roti cut in half, above two children, each labelled $\frac{1}{2}$. Middle: "2 *rotis* are divided equally among 4" — two rotis each cut in half, above four children, each labelled $\frac{2}{4}$. Right: "3 *rotis* are divided equally among 6" — three rotis each cut in half, above six children, each labelled $\frac{3}{6}$. The situations are separated by lines.]
 
-> 3 rotis are divided
-
-equally between 2 | equally among 4
-
-> equally among 6
-
-1 2 1 2 2 4 2 4 2 4 2 4 3 6 3 6 3 6 3 6 3 6 3 6
-
-Fractions where the shares are equal are called ‘equivalent fractions’.
+> Fractions where the shares are equal are called 'equivalent fractions'.
 
 <!-- page 168 -->
 
-Ganita Prakash | Grade 6
+So, $\frac{1}{2}$, $\frac{2}{4}$, and $\frac{3}{6}$ are all **equivalent fractions**.
 
-So, 1
+Find some more fractions equivalent to $\frac{1}{2}$. Write them in the boxes here: [Figure: four empty boxes for writing fractions]
 
-2, 2 4, and 3 6are all **equivalent fractions**.
+Equally divide the *rotis* in the situations shown below and write down the share of each child. Are the shares in each of these cases the same? Why?
 
-Find some more fractions equivalent to 1
+[Figure: Three situations. First: speech box "2 *rotis* divided equally among 3 children", showing 2 rotis and 3 children, with three answer boxes filled in "$\frac{2}{3}$ $\frac{2}{3}$ $\frac{2}{3}$". Second: speech box "4 *rotis* divided equally among 6 children", showing 4 rotis and 6 children, with 6 children's empty answer boxes (the first three and the next three are separated by a dashed line). Third: speech box "6 *rotis* divided equally among 9 children", showing 6 rotis and 9 children, with empty answer boxes below the children, separated by dashed lines. In total there are 6 empty boxes shown beside the first filled one.]
 
-2. Write them in the
+> $\frac{2}{3}$ is also called the simplest form of $\frac{4}{6}$. It is also the simplest form of $\frac{6}{9}$ as well.
 
-boxes here:
+[Figure: A girl pointing, with speech box: "Do you notice anything about the relationship between the numerator and denominator in each of these fractions?"]
 
-Equally divide the rotis in the situations shown below and write down the share of each child. Are the shares in each of these cases the same? Why?
-
-2 rotis divided | 4 rotis divided | 6 rotis divided
-
-equally among | equally among | equally among
-
-3 children | 6 children | 9 children
-
-2 3 2 3 2 3
-
-2 3 is also called the simplest form of 4 6 . It is also the simplest form of 6 9 as well.
-
-Do you notice anything about the relationship between the
-
-numerator and denominator in each of these fractions?
-
-#### Figure it Out
+### Figure it Out
 
 Find the missing numbers:
 
-a. 5 glasses of juice shared equally among 4 friends is | Math
+a. 5 glasses of juice shared equally among 4 friends is the same as ____ glasses of juice shared equally among 8 friends.
 
-the same as ____ glasses of juice shared equally among 8 friends. | Talk
+   So, $\frac{5}{4} = \frac{\square}{8}$.
 
-So, 5
+b. 4 kg of potatoes divided equally in 3 bags is the same as 12 kgs of potatoes divided equally in ___ bags.
 
-4 = 8 .
+   So, $\frac{4}{3} = \frac{12}{\square}$
 
-b. 4 kg of potatoes divided equally in 3 bags is the same as
-
-12 kgs of potatoes divided equally in ___ bags.
-
-So, 4
-
-3 = 12
+> ### Math Talk
 
 <!-- page 169 -->
 
-Fractions
+c. 7 *rotis* divided among 5 children is the same as ____ *rotis* divided among _____ children.
 
-c. 7 rotis divided among 5 children is the same as ____ rotis divided
+So, $\frac{7}{5} = \frac{\square}{\square}$.
 
-among _____ children.
+### In which group will each child get more *chikki*?
 
-So, 7
+1 *chikki* divided between 2 children or 5 *chikkis* divided among 8 children.
 
-5 = .
+Mukta: So, we must compare $\frac{1}{2}$ and $\frac{5}{8}$. Which is more?
 
-In which group will each child get more chikki?
+Shabnam: Well, we have seen that $\frac{1}{2} = \frac{4}{8}$; and clearly $\frac{4}{8} < \frac{5}{8}$. So, the children for whom 5 *chikkis* is divided equally among 8 will get more than those children for whom 1 *chikki* is divided equally among 2. The children of the second group will get more *chikki* each.
 
-1 chikki divided between 2 children or 5 chikkis divided among 8 children.
+### What about the following groups? In which group will each child get more?
 
-Mukta: So, we must compare 1
+1 *chikki* divided between 2 children or 4 *chikkis* divided among 7 children.
 
-2 and 5
-8. Which is more?
+Shabnam: The children of which group will get more *chikki* this time?
 
-2 = 4 8; and clearly 4 8 < 5
-8. So, the
-
-Shabnam: Well, we have seen that 1
-
-children for whom 5 chikkis is divided equally among 8 will get more than those children for whom 1 chikki is divided equally among 2. The children of the second group will get more chikki each.
-
-What about the following groups? In which group will each child get more?
-
-1 chikki divided between 2 children or 4 chikkis divided among 7 children.
-
-Shabnam: The children of which group will get more chikki this time?
-
-Mukta: We must compare 1
-
-7 and 4 7.
+Mukta: We must compare $\frac{1}{7}$ and $\frac{4}{7}$.
 
 Now
 
-1 × 4 2 × 4 = 4 8 so, 1 2 = 4 8.
+$\frac{1 \times 4}{2 \times 4} = \frac{4}{8}$ so, $\frac{1}{2} = \frac{4}{8}$.
 
-Shabnam: But why did you multiply the numerator and denominator
-
-by 4 again?
+Shabnam: But why did you multiply the numerator and denominator by 4 again?
 
 Mukta: You will see!
 
-When 4 chikkis are divided equally among 7 children, each one will get 4
-
-7chikki. When 4 chikkis are divided equally among 8 children, each one will get 4
-
-8chikki. So 4 7 > 4 8.
+> [Figure: A girl character pointing upward, with a speech bubble:] When 4 *chikkis* are divided equally among 7 children, each one will get $\frac{4}{7}$ *chikki*. When 4 *chikkis* are divided equally among 8 children, each one will get $\frac{4}{8}$ *chikki*. So $\frac{4}{7} > \frac{4}{8}$.
 
 <!-- page 170 -->
 
-Ganita Prakash | Grade 6
+> [Figure: A girl with a braid, hand on chin, thinking, with a speech bubble:] Therefore, $\frac{4}{7} > \frac{4}{8}$ and $\frac{4}{8} = \frac{1}{2}$, so $\frac{4}{7} > \frac{1}{2}$.
+> Now I understood why you multiplied the numerator and denominator by 4.
 
-If the number of units that are shared
+> [Figure: A girl with a yellow background, pointing a finger up, with a speech bubble:] If the number of units that are shared is the same, but the number of children among whom the units are shared is more, then the share is less.
 
-is the same, but the number of children among whom the units are shared is more, then the share is less.
-
-Therefore, 4
-
-7 > 4 8 and 4 8 = 1 2 , so 4 7 > 1 2.
-
-Now I understood why you multiplied the numerator and denominator by 4.
-
-Suppose the number of children is kept the same, but the number of units that are being shared is increased? What can you say about each child’s share now? Why? Discuss how your reasoning explains
-
-1 5 < 2 5, 3 7 < 4 7, and 1 2 < 5 8.
+Suppose the number of children is kept the same, but the number of units that are being shared is increased? What can you say about each child's share now? Why? Discuss how your reasoning explains $\frac{1}{5} < \frac{2}{5}$, $\frac{3}{7} < \frac{4}{7}$, and $\frac{1}{2} < \frac{5}{8}$.
 
 Now, decide in which of the two groups will each child get a larger share:
 
-1. **Group 1 :** 3 glasses of sugarcane juice divided equally among 4 children. **Group 2:** 7 glasses of sugarcane juice divided equally
+> ### Math Talk
 
-Math
+1. **Group 1 :** 3 glasses of sugarcane juice divided equally among 4 children.
+   **Group 2:** 7 glasses of sugarcane juice divided equally among 10 children.
+2. **Group 1 :** 4 glasses of sugarcane juice divided equally among 7 children.
+   **Group 2:** 5 glasses of sugarcane juice divided equally among 7 children.
 
-Talk
+Which groups were easier to compare? Why?
 
-among 10 children.
+> [Figure: A girl with a yellow background, pointing a finger up, with a speech bubble:] When the number of children is same, it is easier to compare, isn't it?
 
-2. **Group 1 :** 4 glasses of sugarcane juice divided equally among 7 children. **Group 2:** 5 glasses of sugarcane juice divided equally
+Shabnam: To compare the first two groups, we have to find fractions equivalent to the fractions $\frac{3}{4}$ and $\frac{7}{10}$.
 
-among 7 children.
-
-Which groups were easier to compare? Why? | When the number of
-
-children is same, it is easier
-
-Shabnam: To compare the first two groups, | to compare, isn’t it?
-
-we have to find fractions equivalent to the fractions
-
-3 4 and 7 10.
-
-Mukta: How about 6
-
-8 = 3 4 and 21 30 = 7 10?
+Mukta: How about $\frac{6}{8} = \frac{3}{4}$ and $\frac{21}{30} = \frac{7}{10}$?
 
 <!-- page 171 -->
 
-Fractions
+**Shabnam:** There is a condition. The fractional unit used for the two fractions have to be the same! Like $\frac{2}{6}$ and $\frac{3}{6}$ both use the same fractional unit $\frac{1}{6}$ (i.e., the denominators are the same). But $\frac{6}{8}$ and $\frac{21}{30}$ do not use the same fractional units (they have different denominators).
 
-Shabnam: There is a condition. The fractional unit used for the two
+**Mukta:** Okay, so let us start making equivalent fractions then:
 
-fractions have to be the same! Like 2
+$$\frac{3}{4} = \frac{6}{8} = \frac{9}{12} = \frac{12}{16} = \frac{15}{20} \dots$$ But when do I stop?
 
-6 and 3 6 both use the
+**Shabnam:** Got it! How about we go on till $4 \times 10 = 40$.
 
-same fractional unit 1
+**Mukta:** You mean the product of the two denominators? Sounds good!
 
-6 (i.e., the denominators are the same).
+We have $\frac{3}{4}$ and $\frac{7}{10}$. The product of the two denominators (4 and 10) is 40.
 
-But 6
+$$\frac{3}{4} = \frac{6}{8} = \frac{9}{12} = \frac{12}{16} = \frac{15}{20} = \frac{18}{24} = \dots = \frac{27}{36} = \frac{30}{40}.$$
 
-8 and 21 30 do not use the same fractional units (they have
+$$\frac{7}{10} = \frac{14}{20} = \frac{21}{30} = \frac{28}{40}.$$
 
-different denominators).
+> Go till we reach the denominator 40.
 
-Mukta: Okay, so let us start making equivalent fractions then:
+[Figure: Two girls with speech bubbles. The left girl says: "But notice that $\frac{15}{20}$ and $\frac{14}{20}$ also had the same denominator!" The right girl says: "Yes! We just needed to get the same fractional units for each fraction."]
 
-3
+**Shabnam:** So, fractions equivalent to $\frac{3}{4}$ and $\frac{7}{10}$ with the same fractional unit (same denominators) are $\frac{30}{40}$ and $\frac{28}{40}$, or $\frac{15}{20}$ and $\frac{14}{20}$.
 
-4 = 6 8 = 9 12 = 12 16 = 15 20 … But when do I stop?
-
-Shabnam: Got it! How about we go on till 4 × 10 = 40.
-
-Mukta: You mean the product of the two denominators?
-
-Sounds good!
-
-We have 3
-
-4 and 7
-10. The product of the two denominators
-
-(4 and 10) is 40.
-
-3 4 = 6 8 = 9 12 = 12 16 = 15 20 = 18 24 = … = 27 36 = 30 40 .
-
-Go till we reach the
-
-7 10 = 14 20 = 21 30 = 28 40. | denominator 40.
-
-15 20 and 14 20 also had | Yes! We just needed to get the
-
-But notice that
-
-the same denominator! | same fractional units for each
-
-fraction.
-
-Shabnam: So, fractions equivalent to 3
-
-4 and 7 10 with the same fractional
-
-unit (same denominators) are 30
-
-40 and 28 40, or 15 20 and 14 20.
-
-Since clearly 30
-
-40 > 28 40, we conclude that 3 4 > 7 10.
+Since clearly $\frac{30}{40} > \frac{28}{40}$, we conclude that $\frac{3}{4} > \frac{7}{10}$.
 
 <!-- page 172 -->
 
-Ganita Prakash | Grade 6
-
 Find equivalent fractions for the given pairs of fractions such that the fractional units are the same.
 
-a. 7
+a. $\frac{7}{2}$ and $\frac{3}{5}$
 
-2 and 3 5 b. 8
+b. $\frac{8}{3}$ and $\frac{5}{6}$
 
-3 and 5 6 c. 3
+c. $\frac{3}{4}$ and $\frac{3}{5}$
 
-4 and 3 5 d. 6
+d. $\frac{6}{7}$ and $\frac{8}{5}$
 
-7 and 8 5
+e. $\frac{9}{4}$ and $\frac{5}{2}$
 
-e. 9
+f. $\frac{1}{10}$ and $\frac{2}{9}$
 
-4 and 5 2 f. 1
+g. $\frac{8}{3}$ and $\frac{11}{4}$
 
-10 and 2 9 g. 8
+h. $\frac{13}{6}$ and $\frac{1}{9}$
 
-3 and 11 4 h. 13
-
-6 and 1 9
-
-#### Expressing a fraction in lowest terms (or in its simplest form)
+## Expressing a fraction in lowest terms (or in its simplest form)
 
 In any fraction, if its numerator and denominator have no common factor except 1, then the fraction is said to be in **lowest terms** or in its **simplest form**. In other words, a fraction is said to be in lowest terms if its numerator and denominator are as small as possible.
 
 Any fraction can be expressed in lowest terms by finding an equivalent fraction whose numerator and denominator are as small as possible.
 
-Let’s see how to express fractions in lowest terms.
+Let's see how to express fractions in lowest terms.
 
-**Example**:Is the fraction 16
-
-20 in lowest terms? No, 4 is a common factor
-
-of 16 and 20. Let us reduce 16
-
-20 to lowest terms.
+**Example**: Is the fraction $\frac{16}{20}$ in lowest terms? No, 4 is a common factor of 16 and 20. Let us reduce $\frac{16}{20}$ to lowest terms.
 
 We know that both 16 (numerator) and 20 (denominator) are divisible by 4.
 
-20 ÷ 4 = 4 5.
+So, $\frac{16 \div 4}{20 \div 4} = \frac{4}{5}$.
 
-So, 16 ÷ 4
+Now, there is no common factor between 4 and 5. Hence, $\frac{16}{20}$ expressed in lowest terms is $\frac{4}{5}$. So, $\frac{4}{5}$ is called the simplest form of $\frac{16}{20}$, since 4 and 5 have no common factor other than 1.
 
-Now, there is no common factor between 4 and 5. Hence, 16
-
-20
-
-expressed in lowest terms is 4
-
-5. So, 4 5 is called the simplest form of 16 20,
-
-since 4 and 5 have no common factor other than 1.
-
-Any fraction can be converted to
-
-lowest terms by dividing both the
-
-numerator and denominator by the
-
-highest common factor between
-
-them.
+> [Figure: A girl with a red top pointing with her outstretched arm toward a speech bubble that says: "Any fraction can be converted to lowest terms by dividing both the numerator and denominator by the highest common factor between them."]
 
 <!-- page 173 -->
 
-Fractions
-
 Expressing a fraction in lowest terms can also be done in steps.
 
-Suppose we want to express 36
+Suppose we want to express $\frac{36}{60}$ in lowest terms. First, we notice that both the numerator and denominator are even. So, we divide both by 2, and see that $\frac{36}{60} = \frac{18}{30}$.
 
-60 in lowest terms. First, we notice that both the numerator and denominator are even. So, we divide both by 2, and see that 36
+Both the numerator and denominator are even again, so we can divide them each by 2 again; we get $\frac{18}{30} = \frac{9}{15}$.
 
-60 = 18 30.
+We now notice that 9 and 15 are both multiples of 3, so we divide both by 3 to get $\frac{9}{15} = \frac{3}{5}$.
 
-Both the numerator and denominator are even again, so we can divide them each by 2 again; we get 18
+Now, 3 and 5 have no common factor other than 1, so, $\frac{36}{60}$ in lowest terms is $\frac{3}{5}$.
 
-30 = 9 15.
-
-We now notice that 9 and 15 are both multiples of 3, so we divide both by 3 to get 9
-
-15 = 3 5.
-
-Now, 3 and 5 have no common factor other than 1, so, 36
-
-60 in lowest
-
-terms is 3
-
-5.
-
-Alternatively, we could have noticed that in 36
-
-60 , both the numerator
-
-and denominator are multiples of 12 : we see that 36 = 3 × 12 and
-
-60 = 5 × 12. Therefore, we could have concluded that 36 60 = 3 5 straight away.
+Alternatively, we could have noticed that in $\frac{36}{60}$, both the numerator and denominator are multiples of 12 : we see that $36 = 3 \times 12$ and $60 = 5 \times 12$. Therefore, we could have concluded that $\frac{36}{60} = \frac{3}{5}$ straight away.
 
 Either method works and will give the same answer! But sometimes it can be easier to go in steps.
 
-#### Figure it Out
+### Figure it Out
 
 Express the following fractions in lowest terms:
 
-a. 17
+a. $\frac{17}{51}$  b. $\frac{64}{144}$  e. $\frac{126}{147}$  d. $\frac{525}{112}$
 
-51 b. 64
+## 7.7 Comparing Fractions
 
-144 e. 126
+Which is greater, $\frac{4}{5}$ or $\frac{7}{9}$? It can be difficult to compare two such fractions directly. However, we know how to find fractions equivalent to two fractions with the same denominator. Let us see how we can use it:
 
-147 d. 525
+$$\frac{4}{5} = \frac{4\times 9}{5\times 9} = \frac{36}{45}$$
 
-112
+$$\frac{7}{9} = \frac{7\times 5}{9\times 5} = \frac{35}{45}.$$
 
-### 7.7 Comparing Fractions
-
-Which is greater, 4
-
-5 or 7 9? It can be difficult to compare two such fractions directly. However, we know how to find fractions equivalent to two fractions with the same denominator. Let us see how we can use it:
-
-5 = 4×9 5×9 = 36 45
-
-4
-
-9 = 7×5 9×5 = 35 45. 45 is a common multiple
-
-7
-
-of 5 and 9, so we can
-
-use 45 as a common
-
-denominator.
+> [Figure: A girl character with her arm outstretched, in a speech bubble saying: "45 is a common multiple of 5 and 9, so we can use 45 as a common denominator."]
 
 <!-- page 174 -->
 
-Ganita Prakash | Grade 6
+Clearly, $\frac{36}{45} > \frac{35}{45}$
 
-> Clearly, 36
+So, $\frac{4}{5} > \frac{7}{9}$!
 
-45 > 35 45
-
-> 5 > 7 9!
-
-> So, 4
-
-Let us try this for another pair: 7
-
-9 and 17 21.
+Let us try this for another pair: $\frac{7}{9}$ and $\frac{17}{21}$.
 
 63 is a common multiple of 9 and 21. We can then write:
 
-9 = 7×7 9×7 = 49 63 , 17 21 = 17×3 21×3 = 51 63.
+$\frac{7}{9} = \frac{7\times7}{9\times7} = \frac{49}{63}$, $\frac{17}{21} = \frac{17\times3}{21\times3} = \frac{51}{63}$.
 
-> 7
+Clearly, $\frac{49}{63} < \frac{51}{63}$. So, $\frac{7}{9} < \frac{17}{21}$!
 
-> Clearly, 49
-
-63 < 51 63 . So, 7 9 < 17 21!
-
-#### Let’s Summarise!
+**Let's Summarise!**
 
 Steps to compare the sizes of two or more given fractions:
 
-**Step 1: **Change the given fractions to equivalent fractions so that
+**Step 1:** Change the given fractions to equivalent fractions so that they all are expressed with the same denominator or same fractional unit.
 
-they all are expressed with the same denominator or same fractional unit.
+**Step 2:** Now, compare the equivalent fractions by simply comparing the numerators, i.e., the number of fractional units each has.
 
-**Step 2: **Now, compare the equivalent fractions by simply comparing
+### Figure it Out
 
-the numerators, i.e., the number of fractional units each has.
-
-#### Figure it Out
-
-1. Compare the following fractions and justify your answers:
-
-a. 8
-
-3 , 5 2 b. 4
-
-9 , 3 7 c. 7
-
-10 , 9 14
-
-d. 12
-
-5, 8 5 e. 9
-
-4 , 5 2
+1. Compare the following fractions and justify your answers:
+   a. $\frac{8}{3}$, $\frac{5}{2}$
+   b. $\frac{4}{9}$, $\frac{3}{7}$
+   c. $\frac{7}{10}$, $\frac{9}{14}$
+   d. $\frac{12}{5}$, $\frac{8}{5}$
+   e. $\frac{9}{4}$, $\frac{5}{2}$
 
 2. Write the following fractions in ascending order.
-
-> a. 7
-
-10 , 11 15 , 2 5 b. 19
-
-24 , 5 6 , 7 12
+   a. $\frac{7}{10}$, $\frac{11}{15}$, $\frac{2}{5}$
+   b. $\frac{19}{24}$, $\frac{5}{6}$, $\frac{7}{12}$
 
 3. Write the following fractions in descending order.
-
-> a. 25
-
-16, 7 8, 13 4, 17 32 b. 3
-
-4 , 12 5, 7 12, 5 4
+   a. $\frac{25}{16}$, $\frac{7}{8}$, $\frac{13}{4}$, $\frac{17}{32}$
+   b. $\frac{3}{4}$, $\frac{12}{5}$, $\frac{7}{12}$, $\frac{5}{4}$
 
 <!-- page 175 -->
 
-Fractions
+## 7.8 Addition and Subtraction of Fractions
 
-### 7.8 Addition and Subtraction of Fractions
+Meena's father made some *chikki*. Meena ate $\frac{1}{2}$ of it and her younger brother ate $\frac{1}{4}$ of it. How much of the total *chikki* did Meena and her brother eat together?
 
-Meena’s father made some chikki. Meena ate 1
+> [Figure: Two children, an older girl in a green dress and a younger brother in a yellow top with a red cap, holding hands.]
 
-2
+[Figure: A rectangular piece of chikki divided into four equal square parts.]
 
-of it and her younger brother ate 1
+We can arrive at the answer by visualising it. Let us take a piece of *chikki* and divide it into two halves first like this.
 
-4 of it. How
+Meena ate $\frac{1}{2}$ of it as shown in the picture.
 
-much of the total chikki did Meena and her brother eat together?
+[Figure: The chikki divided into four parts, with a thick line dividing it into two halves; the left half (two parts) is dark, the right half (two parts) is light. An arrow from the label "Meena ate" points to the light right half.]
 
-We can arrive at the answer by visualising it. Let us take a piece of chikki and divide it into two halves first like this.
+Let us now divide the remaining half into two further halves as shown. Each of these pieces is $\frac{1}{4}$ of the whole *chikki*.
 
-Meena ate 1
+Meena's brother ate $\frac{1}{4}$ of the whole *chikki*, as is shown in the picture.
 
-2 of it as
+[Figure: The chikki divided into four equal parts; the first part is dark, the other three are light. Labels: "Brother ate" with an arrow pointing to the second part, and "Meena ate" with an arrow pointing to the right half.]
 
-shown in the picture.
+The total *chikki* eaten is $\frac{1}{2}$ (by Meena) and $\frac{1}{4}$ (by her brother)
 
-Meena ate
+The total *chikki* eaten
 
-Let us now divide the remaining half into two further halves as shown. Each of these pieces is 1
+$= \frac{1}{2} + \frac{1}{4}$
 
-4 of the whole chikki.
+$= \frac{1}{4} + \frac{1}{4} + \frac{1}{4}$
 
-Meena’s brother ate 1
+$= 3 \times \frac{1}{4} = \frac{3}{4}$.
 
-4
+[Figure: The chikki divided into four equal parts; the first part is dark and the other three are light. Label: "Total *chikki* eaten" with an arrow pointing to the light parts.]
 
-of the whole chikki, as is shown in the picture.
-
-Meena ate
-
-The total chikki eaten is 1 | Brother ate
-
-2 (by Meena) and 1 4 (by her
-
-brother)
-
-The total chikki eaten = 1
-
-2 + 1 4
-
-Total chikki eaten
-
-= 1
-
-4 + 1 4 + 1 4
-
-= 3 × 1
-
-4 = 3 4.
-
-How much of the total chikki is remaining?
+How much of the total *chikki* is remaining?
 
 <!-- page 176 -->
 
-Ganita Prakash | Grade 6
+### Adding fractions with the same fractional unit or denominator
 
-#### Adding fractions with the same fractional unit or denominator
+**Example**: Find the sum of $\frac{2}{5}$ and $\frac{1}{5}$.
 
-**Example**: Find the sum of 2
+Let us represent both using the rectangular strips. In both fractions, the fractional unit is the same $\frac{1}{5}$, so, each strip will be divided into 5 equal parts.
 
-5 and 1 5.
+So $\frac{2}{5}$ will be represented as—
 
-Let us represent both using the rectangular strips. In both fractions, the fractional unit is the same 1
+[Figure: Rectangular strip divided into 5 equal parts, the first 2 parts shaded red and the remaining 3 parts grey.]
 
-5 , so, each strip will be divided into 5 equal parts.
+And $\frac{1}{5}$ will be represented as—
 
-So 2
+[Figure: Rectangular strip divided into 5 equal parts, the first 1 part shaded red and the remaining 4 parts grey.]
 
-5 will be represented as —
+Adding the two given fractions is the same as finding out the total number of shaded parts, each of which represent the same fractional unit $\frac{1}{5}$.
 
-And 1
+In this case, the total number of shaded parts is 3. Since, each shaded part represents the fractional unit $\frac{1}{5}$, we see that the 3 shaded parts together represent the fraction $\frac{3}{5}$.
 
-5 will be represented as —
+Therefore, $\frac{2}{5} + \frac{1}{5} = \frac{3}{5}$?
 
-Adding the two given fractions is the same as finding out the total number of shaded parts, each of which represent the same fractional unit 1
+[Figure: Rectangular strip divided into 5 equal parts, the first 3 parts shaded red and the remaining 2 parts grey.]
 
-5.
+**Example**: Find the sum of $\frac{4}{7}$ and $\frac{6}{7}$.
 
-In this case, the total number of shaded parts is 3. Since, each shaded part represents the fractional unit 1
+Let us represent both again using the rectangular strip model. Here in both fractions, the fractional unit is the same, i.e., $\frac{1}{7}$, so each strip will be divided into 7 equal parts.
 
-5 , we see that the 3 shaded
+Then $\frac{4}{7}$ will be represented as—
 
-parts together represent the fraction 3
-
-5.
-
-Therefore, 2
-
-5 + 1 5 = 3 5?
-
-**Example**: Find the sum of 4
-
-7 and 6 7.
-
-Let us represent both again using the rectangular strip model. Here in both fractions, the fractional unit is the same, i.e., 1
-
-7, so each strip will
-
-be divided into 7 equal parts.
-
-Then 4
-
-7 will be represented as —
+[Figure: Rectangular strip divided into 7 equal parts, the first 4 parts shaded red and the remaining 3 parts grey.]
 
 <!-- page 177 -->
 
-Fractions
+and $\frac{6}{7}$ will be represented as—
 
-and 6
+[Figure: A bar divided into 7 equal parts, with 6 parts shaded red and 1 part grey.]
 
-7 will be represented as —
+In this case, the total number of shaded parts is 10, and each shaded part represents the fractional unit $\frac{1}{7}$, so, the 10 shaded parts together represent the fraction $\frac{10}{7}$ as seen here.
 
-In this case, the total number of | While adding fractions
+> While adding fractions with the same fractional unit, just add the number of fractional units from each fraction.
 
-shaded parts is 10, and each shaded part | with the same fractional
+[Figure: Two bars, each divided into 7 equal parts. The first bar has 4 parts shaded red and 3 grey; the second bar has 6 parts shaded red and 1 grey.]
 
-represents the fractional unit 1 | unit, just add the number of
+Therefore, $\frac{4}{7} + \frac{6}{7} = \frac{10}{7}$
 
-7, so, the
+$= 1 + \frac{3}{7}$
 
-fractional units from each
+$= 1\frac{3}{7}$.
 
-10 shaded parts together represent the | fraction.
+[Figure: Two bars, each divided into 7 equal parts. The first bar is fully shaded red (7 parts); the second bar has 3 parts shaded red and 4 grey.]
 
-fraction 10
+Try adding $\frac{4}{7} + \frac{6}{7}$ using a number line. Do you get the same answer?
 
-7 as seen here.
+### Adding fractions with different fractional units or denominators
 
-Therefore, 4
-
-7 + 6 7 = 10 7
-
-= 1 + 3
-
-7
-
-= 1 3
-
-7.
-
-Try adding 4
-
-7 + 6 7 using a number line. Do you get the same answer?
-
-#### Adding fractions with different fractional units or denominators
-
-**Example**:Find the sum of 1
-
-4 and 1 3.
+**Example**: Find the sum of $\frac{1}{4}$ and $\frac{1}{3}$.
 
 To add fractions with different fractional units, first convert the fractions into equivalent fractions with the same denominator or
 
 <!-- page 178 -->
 
-Ganita Prakash | Grade 6
-
-fractional unit. In this case, the common denominator can be made
-
-3 × 4 = 12, i.e., we can find equivalent fractions with fractional unit 1 12.
+fractional unit. In this case, the common denominator can be made $3 \times 4 = 12$, i.e., we can find equivalent fractions with fractional unit $\frac{1}{12}$.
 
 Let us write the equivalent fraction for each given fraction.
 
-1 4 = 1 × 3 4 × 3 = 3 12, 1 3= 1 × 4 3 × 4= 4 12.
+$$\frac{1}{4} = \frac{1 \times 3}{4 \times 3} = \frac{3}{12}, \quad \frac{1}{3} = \frac{1 \times 4}{3 \times 4} = \frac{4}{12}.$$
 
-Now, 3
+Now, $\frac{3}{12}$ and $\frac{4}{12}$ have the same fractional unit, i.e., $\frac{1}{12}$.
 
-12 and 4 12 have the same fractional unit, i.e., 1 12.
+Therefore, $\frac{1}{4} + \frac{1}{3} = \frac{3}{12} + \frac{4}{12} = \frac{7}{12}$.
 
-Therefore, 1
+This method of addition, which works for adding any number of fractions, was first explicitly described in general by Brahmagupta in the year 628 CE! We will describe the history of the development of fractions in more detail later in the chapter. For now, we simply summarise the steps in Brahmagupta's method for addition of fractions.
 
-4 + 1 3 = 3 12 + 4 12 = 7 12.
-
-This method of addition, which works for adding any number of fractions, was first explicitly described in general by Brahmagupta in the year 628 CE! We will describe the history of the development of fractions in more detail later in the chapter. For now, we simply summarise the steps in Brahmagupta’s method for addition of fractions.
-
-#### Brahmagupta’s method for adding fractions
+### Brahmagupta's method for adding fractions
 
 1. Find equivalent fractions so that the fractional unit is common for all fractions. This can be done by finding a common multiple of the denominators (e.g., the product of the denominators, or the smallest common multiple of the denominators).
-
 2. Add these equivalent fractions with the same fractional units. This can be done by adding the numerators and keeping the same denominator.
-
 3. Express the result in lowest terms if needed.
 
-Let us carry out another example of Brahmagupta’s method.
+Let us carry out another example of Brahmagupta's method.
 
-**Example**: Find the sum of 2
-
-3 and 1 5.
+**Example**: Find the sum of $\frac{2}{3}$ and $\frac{1}{5}$.
 
 The denominators of the given fractions are 3 and 5. The lowest common multiple of 3 and 5 is 15. Then we see that
 
-2 3= 2 × 5 3 × 5 = 10 15, 1 5= 1 × 3 5 × 3 = 3 15.
+$$\frac{2}{3} = \frac{2 \times 5}{3 \times 5} = \frac{10}{15}, \quad \frac{1}{5} = \frac{1 \times 3}{5 \times 3} = \frac{3}{15}.$$
 
 <!-- page 179 -->
 
-Fractions
+Therefore, $\frac{2}{3} + \frac{1}{5} = \frac{10}{15} + \frac{3}{15} = \frac{13}{15}$.
 
-Therefore, 2
-
-3 + 1 5 = 10 15 + 3 15 = 13 15.
-
-**Example**: Find the sum of 1
-
-6 and 1 3.
+**Example**: Find the sum of $\frac{1}{6}$ and $\frac{1}{3}$.
 
 The smallest common multiple of 6 and 3 is 6.
 
-1 6 will remain 1 6.
+$\frac{1}{6}$ will remain $\frac{1}{6}$.
 
-1 3 = 1 × 2 3 × 2 = 2 6
+$\frac{1}{3} = \frac{1 \times 2}{3 \times 2} = \frac{2}{6}$
 
-Therefore, 1
+Therefore, $\frac{1}{6} + \frac{1}{3} = \frac{1}{6} + \frac{2}{6} = \frac{3}{6}$.
 
-6 + 1 3 = 1 6 + 2 6 = 3 6.
+The fraction $\frac{3}{6}$ can now be re-expressed in lowest terms, if desired. This can be done by dividing both the numerator and denominator by 3 (the biggest common factor of 3 and 6):
 
-The fraction 3 6 can now be re-expressed in lowest terms, if
+$\frac{3}{6} = \frac{3 \div 3}{6 \div 3} = \frac{1}{2}$.
 
-desired. This can be done by dividing both the numerator and denominator by 3 (the biggest common factor of 3 and 6):
+Therefore, $\frac{1}{6} + \frac{1}{3} = \frac{1}{2}$.
 
-3 6 = 3 ÷ 3 6 ÷ 3 = 1 2.
+### Figure it Out
 
-6 + 1 3 = 1 2.
+1. Add the following fractions using Brahmagupta's method:
 
-Therefore, 1
+   a. $\frac{2}{7} + \frac{5}{7} + \frac{6}{7}$
 
-#### Figure it Out
+   b. $\frac{3}{4} + \frac{1}{3}$
 
-1. Add the following fractions using Brahmagupta’s method:
+   c. $\frac{2}{3} + \frac{5}{6}$
 
-a.2
+   d. $\frac{2}{3} + \frac{2}{7}$
 
-7 + 5 7 + 6 7 b.3
+   e. $\frac{3}{4} + \frac{1}{3} + \frac{1}{5}$
 
-4 + 1 3 c.2
+   f. $\frac{2}{3} + \frac{4}{5}$
 
-3 + 5 6 d.2
+   g. $\frac{4}{5} + \frac{2}{3}$
 
-3 + 2 7 e.3
+   h. $\frac{3}{5} + \frac{5}{8}$
 
-4 + 1 3 + 1 5
+   i. $\frac{9}{2} + \frac{5}{4}$
 
-f.2
+   j. $\frac{8}{3} + \frac{2}{7}$
 
-3 + 4 5 g.4
+   k. $\frac{3}{4} + \frac{1}{3} + \frac{1}{5}$
 
-5 + 2 3 h.3
+   l. $\frac{2}{3} + \frac{4}{5} + \frac{3}{7}$
 
-5 + 5 8 i.9
+   m. $\frac{9}{2} + \frac{5}{4} + \frac{7}{6}$
 
-2 + 5 4 j.8
+2. Rahim mixes $\frac{2}{3}$ litres of yellow paint with $\frac{3}{4}$ litres of blue paint to make green paint. What is the volume of green paint he has made?
 
-3 + 2 7
-
-k.3
-
-4 + 1 3 + 1 5 l.2
-
-3 + 4 5 + 3 7 m.9 2 + 5 4 + 7 6
-
-2. Rahim mixes 2 3 litres of yellow paint with 3 4 litres of blue paint to
-
-make green paint. What is the volume of green paint he has made?
-
-3. Geeta bought 2 5 meter of lace and Shamim bought 3 4 meter of the
-
-same lace to put a complete border on a table cloth whose perimeter is 1 meter long. Find the total length of the lace they both have bought. Will the lace be sufficient to cover the whole border?
+3. Geeta bought $\frac{2}{5}$ meter of lace and Shamim bought $\frac{3}{4}$ meter of the same lace to put a complete border on a table cloth whose perimeter is 1 meter long. Find the total length of the lace they both have bought. Will the lace be sufficient to cover the whole border?
 
 <!-- page 180 -->
 
-Ganita Prakash | Grade 6
+### Subtraction of fractions with the same fractional unit or denominator
 
-#### Subtraction of fractions with the same fractional unit or denominator
+Brahmagupta's method also applies when subtracting fractions!
 
-Brahmagupta’s method also applies when subtracting fractions!
+Let us start with the problem of subtracting $\frac{4}{7}$ from $\frac{6}{7}$, i.e., what is $\frac{6}{7} - \frac{4}{7}$?
 
-Let us start with the problem of subtracting 4
+To solve this problem, we can again use the rectangular strips. In both fractions, the fractional unit is the same, i.e., $\frac{1}{7}$. Let us first represent the bigger fraction using a rectangular strip model as shown:
 
-7 from 6 7, i.e., what is
+[Figure: A rectangular strip divided into 7 equal parts, the first 6 shaded red and the last one unshaded. A brace beneath the 6 shaded parts is labelled $\frac{6}{7}$.]
 
-6 7 – 4 7?
+Each shaded part represents $\frac{1}{7}$. Now, we need to subtract $\frac{4}{7}$. To do this let us remove 4 of the shaded parts:
 
-To solve this problem, we can again use the rectangular strips. In both fractions, the fractional unit is the same, i.e., 1
+[Figure: The strip of 7 parts with the first 2 parts shaded red, then 4 parts (3rd to 6th) shown pulled down below the strip as shaded red parts, and the 7th part unshaded. An arrow from the lowered 4 parts points to a speech bubble.]
 
-7. Let us first represent the bigger fraction using a rectangular strip model as shown:
+> Fractional parts to be removed.
 
-6 7
+> We can do this here directly because both fractions have the same fractional units.
 
-Each shaded part represents 1
+[Figure: A girl pointing towards the strip, speaking the two speech bubbles above.]
 
-7. Now, we need to subtract 4
-7. To do
-
-this let us remove 4 of the shaded parts:
-
-Fractional parts to
-
-be removed.
-
-We can do this here directly
-
-because both fractions have
-
-the same fractional units.
-
-So, we are left with 2 shaded parts, i.e., 6
-
-7 – 4 7 = 2 7.
+So, we are left with 2 shaded parts, i.e., $\frac{6}{7} - \frac{4}{7} = \frac{2}{7}$.
 
 Try doing this same exercise using the number line.
 
 <!-- page 181 -->
 
-Fractions
+### Figure it Out
 
-#### Figure it Out
+1. $\frac{5}{8} - \frac{3}{8}$
+2. $\frac{7}{9} - \frac{5}{9}$
+3. $\frac{10}{27} - \frac{1}{27}$
 
-1. 5 8 – 3 8 2. 7 9 – 5 9 3. 10
+### Subtraction of fractions with different fractional units or denominators
 
-27 – 1 27
-
-#### Subtraction of fractions with different fractional units or denominators
-
-**Example**: What is 3
-
-4 – 2 3?
+**Example**: What is $\frac{3}{4} - \frac{2}{3}$?
 
 As we already know the procedure for subtraction of fractions with the same fractional units, let us convert each of the given fractions into equivalent fractions with the same fractional units.
 
-Yes! By doing this we can easily
+$$\frac{3}{4} = \frac{(3\times3)}{(4\times3)} = \frac{9}{12}$$
 
-subtract the two fractions.
+> [Figure: Thought bubble] Yes! By doing this we can easily subtract the two fractions.
 
-3 4 = (3×3) (4×3) = 9
-
-12
-
-Think! Why did we choose to
-
-multiply both the numerator and
-
-denominator by 3?
+> [Figure: Thought bubble] Think! Why did we choose to multiply both the numerator and denominator by 3?
 
 and similarly,
 
-2 3 = (2×4) (3×4) = 8 | Again! Why did we choose to multiply
+$$\frac{2}{3} = \frac{(2\times4)}{(3\times4)} = \frac{8}{12}.$$
 
-12.
+> [Figure: Thought bubble] Again! Why did we choose to multiply both the numerator and denominator here by 4?
 
-both the numerator and denominator
+Therefore, $\frac{3}{4} - \frac{2}{3} = \frac{9}{12} - \frac{8}{12} = \frac{1}{12}$.
 
-here by 4?
+**Brahmagupta's method for subtracting two fractions—**
 
-Therefore, 3
-
-4 – 2 3 = 9 12 – 8 12 = 1 12.
-
-#### Brahmagupta’s method for subtracting two fractions —
-
-1. Convert the given fractions into equivalent fractions with the same fractional unit, i.e., the same denominator.
-
-2. Carry out the subtraction of fractions having the same fractional units. This can be done by subtracting the numerators and keeping the same denominator.
-
+1. Convert the given fractions into equivalent fractions with the same fractional unit, i.e., the same denominator.
+2. Carry out the subtraction of fractions having the same fractional units. This can be done by subtracting the numerators and keeping the same denominator.
 3. Simplify the result into lowest terms if needed.
 
 <!-- page 182 -->
 
-Ganita Prakash | Grade 6
+### Figure it Out
 
-#### Figure it Out
-
-1. Carry out the following subtractions using Brahmagupta’s method:
-
-a. 8
-
-15 – 3 15 b. 2
-
-5 – 4 15 c. 5
-
-6 – 4 9 d. 2
-
-3 – 1 2
+1. Carry out the following subtractions using Brahmagupta's method:
+   a. $\frac{8}{15} - \frac{3}{15}$
+   b. $\frac{2}{5} - \frac{4}{15}$
+   c. $\frac{5}{6} - \frac{4}{9}$
+   d. $\frac{2}{3} - \frac{1}{2}$
 
 2. Subtract as indicated:
-
-a. 13
-
-4 from 10 3 b. 18
-
-5 from 23 3 c. 29
-
-7 from 45 7
+   a. $\frac{13}{4}$ from $\frac{10}{3}$
+   b. $\frac{18}{5}$ from $\frac{23}{3}$
+   c. $\frac{29}{7}$ from $\frac{45}{7}$
 
 3. Solve the following problems:
+   a. Jaya's school is $\frac{7}{10}$ km from her home. She takes an auto for $\frac{1}{2}$ km from her home daily, and then walks the remaining distance to reach her school. How much does she walk daily to reach the school?
+   b. Jeevika takes $\frac{10}{3}$ minutes to take a complete round of the park and her friend Namit takes $\frac{13}{4}$ minutes to do the same. Who takes less time and by how much?
 
-a. Jaya’s school is 7
+## 7.9 A Pinch of History
 
-10 km from her home. She takes an auto for
+Do you know what a fraction was called in ancient India? It was called *bhinna* in Sanskrit, which means 'broken'. It was also called *bhaga* or *ansha* meaning 'part' or 'piece'.
 
-1 2 km from her home daily, and then walks the remaining
-
-distance to reach her school. How much does she walk daily
-
-to reach the school?
-
-b. Jeevika takes 10
-
-3 minutes to take a complete round of the
-
-park and her friend Namit takes 13
-
-4 minutes to do the same.
-
-Who takes less time and by how much?
-
-### 7.9 A Pinch of History
-
-Do you know what a fraction was called in ancient India? It was called bhinna in Sanskrit, which means ‘broken’. It was also called bhaga or ansha meaning ‘part’ or ‘piece’.
-
-The way we write fractions today, globally, originated in India. In ancient Indian mathematical texts, such as the Bakshali manuscript (from around the year 300 CE), when they wanted to write 1
-
-2, they wrote it as 1
-
-2 which is indeed very similar to the way we write it
-
-today! This method of writing and working with fractions continued to be used in India for the next several centuries, including by Aryabhata (499 CE), Brahmagupta (628 CE), Sridharacharya (c. 750 CE), and Mahaviracharya (c. 850 CE), among others. The line segment between the numerator and denominator in ‘1
-
-2’ and in other
+The way we write fractions today, globally, originated in India. In ancient Indian mathematical texts, such as the *Bakshali manuscript* (from around the year 300 CE), when they wanted to write $\frac{1}{2}$, they wrote it as $\frac{1}{2}$ which is indeed very similar to the way we write it today! This method of writing and working with fractions continued to be used in India for the next several centuries, including by Aryabhata (499 CE), Brahmagupta (628 CE), Sridharacharya (c. 750 CE), and Mahaviracharya (c. 850 CE), among others. The line segment between the numerator and denominator in '$\frac{1}{2}$' and in other
 
 <!-- page 183 -->
 
-Fractions
-
 fractions was later introduced by the Moroccan mathematician Al-Hassar (in the 12th century). Over the next few centuries the notation then spread to Europe and around the world.
 
-Fractions had also been used in other cultures such as the ancient Egyptian and Babylonian civilisations, but they primarily used only fractional units, that is, fractions with a 1 in the numerator. More general fractions were expressed as sums of fractional units, now called ‘Egyptian fractions’. Writing numbers as the sum of fractional units, e.g., 19
+Fractions had also been used in other cultures such as the ancient Egyptian and Babylonian civilisations, but they primarily used only fractional units, that is, fractions with a 1 in the numerator. More general fractions were expressed as sums of fractional units, now called 'Egyptian fractions'. Writing numbers as the sum of fractional units, e.g., $\frac{19}{24} = \frac{1}{2} + \frac{1}{6} + \frac{1}{8}$, can be quite an art and leads to beautiful puzzles. We will consider one such puzzle below.
 
-24 = 1 2 + 1 6 + 1 8, can be quite an art and leads to beautiful
+General fractions (where the numerator is not necessarily 1) were first introduced in India, along with their rules of arithmetic operations like addition, subtraction, multiplication, and even division of fractions. The ancient Indian treatises called the 'Sulba-sutras' shows that even during Vedic times, Indians had discovered the rules for operations with fractions. General rules and procedures for working with and computing with fractions were first codified formally and in a modern form by Brahmagupta.
 
-puzzles. We will consider one such puzzle below.
+Brahmagupta's methods for working with and computing with fractions are still what we use today. For example, Brahmagupta described how to add and subtract fractions as follows:
 
-General fractions (where the numerator is not necessarily 1) were first introduced in India, along with their rules of arithmetic operations like addition, subtraction, multiplication, and even division of fractions. The ancient Indian treatises called the ‘Sulba-sutras’ shows that even during Vedic times, Indians had discovered the rules for operations with fractions. General rules and procedures for working with and computing with fractions were first codified formally and in a modern form by Brahmagupta.
-
-Brahmagupta’s methods for working with and computing with fractions are still what we use today. For example, Brahmagupta described how to add and subtract fractions as follows:
-
-“By the multiplication of the numerator and the denominator of each of the fractions by the other denominators, the fractions are reduced to a common denominator. Then, in case of addition, the numerators (obtained after the above reduction) are added. In case of subtraction, their difference is taken.’’ (Brahmagupta, Brahmasphuṭasiddhānta, Verse 12.2, 628 CE)
+"By the multiplication of the numerator and the denominator of each of the fractions by the other denominators, the fractions are reduced to a common denominator. Then, in case of addition, the numerators (obtained after the above reduction) are added. In case of subtraction, their difference is taken." (Brahmagupta, Brahmasphuṭasiddhānta, Verse 12.2, 628 CE)
 
 The Indian concepts and methods involving fractions were transmitted to Europe via the Arabs over the next few centuries and they came into general use in Europe in around the 17th century and then spread worldwide.
 
 <!-- page 184 -->
 
-Ganita Prakash | Grade 6
+### Puzzle!
 
-**Puzzle!** It is easy to add up fractional units to obtain the sum 1, if one uses the same fractional unit, for example,
+It is easy to add up fractional units to obtain the sum 1, if one uses the same fractional unit, for example,
 
-1 2 + 1 2 = 1, 1 3 + 1 3 + 1 3 = 1, 1 4 + 1 4 + 1 4 + 1 4 = 1, etc.
+$\frac{1}{2} + \frac{1}{2} = 1$, $\frac{1}{3} + \frac{1}{3} + \frac{1}{3} = 1$, $\frac{1}{4} + \frac{1}{4} + \frac{1}{4} + \frac{1}{4} = 1$, etc.
 
- However, can you think of a way to add fractional units that are all different to get 1?
+However, can you think of a way to add fractional units that are all different to get 1?
 
- It is not possible to add two different fractional units to get 1. The reason is that 1
+It is not possible to add two different fractional units to get 1. The reason is that $\frac{1}{2}$ is the largest fractional unit, and $\frac{1}{2} + \frac{1}{2} = 1$.
 
-2 is the largest fractional unit, and 1 2 + 1 2 = 1.
+To get different fractional units, we would have to replace at least one of the $\frac{1}{2}$'s with some smaller fractional unit - but then the sum would be less than 1! Therefore, it is not possible for two different fractional units to add up to 1.
 
- To get different fractional units, we would have to replace at
+We can try to look instead for a way to write 1 as the sum of three different fractional units.
 
-least one of the 1
+> ### Try This
 
-2’s with some smaller fractional unit - but then
+1. Can you find three different fractional units that add up to 1?
 
-the sum would be less than 1! Therefore, it is not possible for
+It turns out there is only one solution to this problem (up to changing the order of the 3 fractions)! Can you find it? Try to find it before reading further.
 
-two different fractional units to add up to 1.
+Here is a systematic way to find the solution. We know that $\frac{1}{3} + \frac{1}{3} + \frac{1}{3} = 1$. To get the fractional units to be different, we will have to increase at least one of the $\frac{1}{3}$'s, and decrease at least one of the other $\frac{1}{3}$'s to compensate for that increase. The only way to increase $\frac{1}{3}$ to another fractional unit is to replace it by $\frac{1}{2}$. So $\frac{1}{2}$ must be one of the fractional units.
 
- We can try to look instead for a way to write 1 as the sum of three different fractional units.
-
-1. Can you find three different fractional units that add up to 1? | Try This
-
-It turns out there is only one solution to this problem
-
-(up to changing the order of the 3 fractions)! Can you find it? Try to find it before reading further.
-
-Here is a systematic way to find the solution. We know that
-
-1 3 + 1 3 + 1 3 = 1. To get the fractional units to be different, we will have
-
-to increase at least one of the 1
-
-3’s, and decrease at least one of the
-
-other 1
-
-3’s to compensate for that increase. The only way to increase
-
-1 3 to another fractional unit is to replace it by 1
-2. So 1 2 must be one of
-
-the fractional units.
-
-Now 1
-
-2 + 1 4 + 1 4 = 1. To get the fractional units to be different, we
-
-4’s and decrease the other 1 4 to
-
-will have to increase one of the 1
-
-compensate for that increase. Now the only way to increase 1
-
-4 to
+Now $\frac{1}{2} + \frac{1}{4} + \frac{1}{4} = 1$. To get the fractional units to be different, we will have to increase one of the $\frac{1}{4}$'s and decrease the other $\frac{1}{4}$ to compensate for that increase. Now the only way to increase $\frac{1}{4}$ to
 
 <!-- page 185 -->
 
-> Fractions
-
-another fractional unit, that is different from 1
-
-2, is to replace it by 1 3.
-
-So two of the fractions must be 1
-
-2 and 1 3! What must be third fraction
-
-then, so that the three fractions add up to 1?
+another fractional unit, that is different from $\frac{1}{2}$, is to replace it by $\frac{1}{3}$. So two of the fractions must be $\frac{1}{2}$ and $\frac{1}{3}$! What must be third fraction then, so that the three fractions add up to 1?
 
 This explains why there is only one solution to the above problem.
 
-1 2 + 1 3 + 1 6 = 1
+[Figure: A circle divided into six equal parts: one part shaded blue, two parts shaded orange, and three parts shaded green. Below it: $\frac{1}{2} + \frac{1}{3} + \frac{1}{6} = 1$]
 
 What if we look for four different fractional units that add up to 1?
 
-2. Can you find four different fractional units that add up to 1?
+### Try This
 
 > Try This
 
-It turns out that this problem has six solutions! Can
+2. Can you find four different fractional units that add up to 1?
 
-you find at least one of them? Can you find them all? You can try using similar reasoning as in the cases of two and three fractional units — or find your own method! Once you find one solution, try to divide a circle into parts like in the figure above to visualise it!
+   It turns out that this problem has six solutions! Can you find at least one of them? Can you find them all? You can try using similar reasoning as in the cases of two and three fractional units — or find your own method!
+
+Once you find one solution, try to divide a circle into parts like in the figure above to visualise it!
 
 <!-- page 186 -->
 
-Ganita Prakash | Grade 6
+## Summary
 
 - **Fraction as equal share:** When a whole number of units is divided into equal parts and shared equally, a **fraction** results.
-
 - **Fractional Units:** When one whole basic unit is divided into equal parts, then each part is called a **fractional unit.**
-
-- **Reading Fractions:** In a fraction such as 5
-
-6, 5 is called the **numerator**
-
-and 6 is called the **denominator.**
-
+- **Reading Fractions:** In a fraction such as $\frac{5}{6}$, 5 is called the **numerator** and 6 is called the **denominator.**
 - **Mixed fractions** contain a whole number part and a fractional part.
-
 - **Number line:** Fractions can be shown on a number line. Every fraction has a point associated with it on the number line.
-
 - **Equivalent Fractions:** When two or more fractions represent the same share or number, they are called **equivalent fractions**.
-
 - **Lowest terms:** A fraction whose numerator and denominator have no common factor other than 1 is said to be in **lowest terms** or in its **simplest form.**
-
-- **Brahmagupta’s method for adding fractions:** When adding fractions, convert them into equivalent fractions with the same fractional unit (i.e., the same denominator), and then add the number of fractional units in each fraction to obtain the sum. This is accomplished by adding the numerators while keeping the same denominator.
-
-- **Brahmagupta’s method for subtracting fractions:** When subtracting fractions, convert them into equivalent fractions with the same fractional unit (i.e., the same denominator), and then subtract the number of fractional units. This is accomplished by subtracting the numerators while keeping the same denominator.
+- **Brahmagupta's method for adding fractions:** When adding fractions, convert them into equivalent fractions with the same fractional unit (i.e., the same denominator), and then add the number of fractional units in each fraction to obtain the sum. This is accomplished by adding the numerators while keeping the same denominator.
+- **Brahmagupta's method for subtracting fractions:** When subtracting fractions, convert them into equivalent fractions with the same fractional unit (i.e., the same denominator), and then subtract the number of fractional units. This is accomplished by subtracting the numerators while keeping the same denominator.
 
 <!-- page 187 -->
 
-#### CHAPTER 7 — SOLUTIONS
+## CHAPTER 7 — SOLUTIONS
 
-Fractions
+### Fractions
 
-Section 7.1
+## Section 7.1
 
-Page no. 152
+**Page no. 152**
 
-Figure it out
+### Figure it out
 
-Q1. Three guavas together weigh 1 kg. If they are roughly of the same size, each guava
+1. Three guavas together weigh 1 kg. If they are roughly of the same size, each guava will roughly weigh ____kg.
 
-will roughly weigh ____kg.
+   Ans. $\frac{1}{3}$
 
-1
+2. A wholesale merchant packed 1 kg of rice in four packets of equal weight. The weight of each packet is_______ kg.
 
-Ans. | 3
+   Ans. $\frac{1}{4}$
 
-Q2. A wholesale merchant packed 1 kg of rice in four packets of equal weight. The weight
+3. Four friends ordered 3 glasses of sugarcane juice and shared it equally among themselves. Each one drank ____ glass of sugarcane juice
 
-of each packet is_______ kg.
+   Ans. $\frac{3}{4}$
 
-Ans. | 1
+4. The big fish weighs $\frac{1}{2}$ kg. The small one weighs $\frac{1}{4}$ kg. Together they weigh ____ kg.
 
-4
+   Ans. $\frac{3}{4}$
 
-Q3. Four friends ordered 3 glasses of sugarcane juice and shared it equally among
+5. Arrange these fraction words in order of size from the smallest to the biggest in the empty box below:
 
-themselves. Each one drank ____ glass of sugarcane juice
+   One and a half, three quarters, one and a quarter, half, quarter, two and a half.
 
-Ans. | 3
+   Ans. $\frac{1}{4}, \frac{1}{2}, \frac{3}{4}, 1\frac{1}{4}, 1\frac{1}{2}, 2\frac{1}{2}$
 
-4
+## Section 7.2
 
-Q4. The big fish weighs | 𝟏 | 𝟏
+**Page No. 154**
 
-𝟐 kg. The small one weighs | 𝟒 kg. Together they weigh ____ kg.
-
-Ans. | 3
-
-4
-
-Q5. Arrange these fraction words in order of size from the smallest to the biggest in the
-
-empty box below:
-
-One and a half, three quarters, one and a quarter, half, quarter, two and a half.
-
-1
-
-4, 1
-
-2, 3
-
-4, 1 1
-
-4, 1 1
-
-Ans. | 2, 2 1
-
-2
-
-Section 7.2
-
-Page No. 154
-
-Q. By dividing the whole chikki into 6 equal parts in different ways, we get 1/6 chikki
-
-pieces of different shapes. Are they of the same size?
+**Q.** By dividing the whole chikki into 6 equal parts in different ways, we get 1/6 chikki pieces of different shapes. Are they of the same size?
 
 Ans. Yes, they are of the same size.
 
@@ -1778,482 +1081,219 @@ Ans. Yes, they are of the same size.
 
 Page No. 155
 
-Figure it out
+### Figure it out
 
-Q. The figures below show different fractional units of a whole chikki. How much of a
+**Q.** The figures below show different fractional units of a whole chikki. How much of a whole chikki is each piece?
 
-whole chikki is each piece?
+Ans. a. $\frac{1}{12}$ b. $\frac{1}{4}$ c. $\frac{1}{8}$ d. $\frac{1}{6}$ e. $\frac{1}{8}$ f. $\frac{1}{6}$ g. $\frac{1}{24}$ h. $\frac{1}{24}$
 
-12 b. 1
+## Section 7.3
 
-1 | 1
+### Figure it out Page No. 158
 
-8 d. 1 | 1 | 1 | 24 h. 1
+**Q1.** continue this table of $\frac{1}{2}$ for 2 more steps.
 
-Ans. a. | 4 c. | 6 e. | 8 f. | 6 g. | 1 | 24
+Ans.
+$\frac{1}{2}+\frac{1}{2}+\frac{1}{2}+\frac{1}{2}+\frac{1}{2}+\frac{1}{2}= 6$ times $\frac{1}{2}$
 
-Section 7.3
+$\frac{1}{2}+\frac{1}{2}+\frac{1}{2}+\frac{1}{2}+\frac{1}{2}+\frac{1}{2}+\frac{1}{2}= 7$ times $\frac{1}{2}$
 
-Figure it out Page No. 158
+**Q2.** Can you create a similar table for $\frac{1}{4}$ ?
 
-Q1. continue this table of | 𝟏
+Ans.
 
-𝟐 for 2 more steps.
+| [Figure: one shaded quarter of a circle] | [Figure: two shaded quarters of a circle forming a half circle] | [Figure: three shaded quarters of a circle] | [Figure: four shaded quarters forming a full circle] |
+|---|---|---|---|
+| $\frac{1}{4}=$ 1-time quarter | $\frac{1}{4}+\frac{1}{4}=$ 2 times quarter | $\frac{1}{4}+\frac{1}{4}+\frac{1}{4}=$ 3 times quarter | $\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}=$ 4 times quarter |
 
-1
+### Try Further!
 
-2 + 1
+**Q4.** Draw a picture and write an addition statement as above to show:
 
-2 + 1
+a. 5 times $\frac{1}{4}$ of a *roti*  b. 9 times $\frac{1}{4}$ of a *roti*
 
-2 + 1
+Ans. a. [Figure: a full circle divided into four shaded quarters, and a separate single shaded quarter beside it]
 
-2 + 1
-
-2 + 1
-
-2 = 6 times 1
-
-Ans. | 2
-
-1
-
-2 + 1
-
-2 + 1
-
-2 + 1
-
-2 + 1
-
-2 + 1
-
-2 + 1
-
-2 = 7 times 1
-
-2
-
-| Ans. | Q2. Can you create a similar table for | 𝟏 𝟒? |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-| 1 = 4 1-time quarter | 1 1 + = 4 4 2 times quarter | 1 1 1 + + = 4 4 4 3 times quarter | 1 1 1 1 + + + = 4 4 4 4 4 times quarter |
-
-Try Further!
-
-Q4. Draw a picture and write an addition statement as above to show:
-
-𝟏 | 𝟏
-
-a. 5 times | 𝟒of a roti b. 9 times | 𝟒 of a roti
-
-Ans. a.
-
-1
-
-4 + 1
-
-4 + 1
-
-4 + 1
-
-4 + 1
-
-4 = 5
-
-4 = 5 times quarter
+$\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}=\frac{5}{4}=$ 5 times quarter
 
 <!-- page 189 -->
 
 b.
 
-1
+[Figure: Two full circles, each divided into four equal quarters and shaded with horizontal pink lines, followed by a single shaded quarter-circle piece.]
 
-4 + 1
+$$\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4} = \frac{9}{4} = 9 \text{ times quarter} = 2 + \frac{1}{4}$$
 
-4 + 1
+**Q5. Match each fractional unit with the correct picture:**
 
-4 + 1
-
-4 + 1
-
-4 + 1
-
-4 + 1
-
-4 + 1
-
-4 + 1
-
-4 = 9
-
-4 = 9 times quarter = 2 + 1
-
-4
-
-Q5. Match each fractional unit with the correct picture:
-
-𝟏 | 𝟏 | 𝟏 | 𝟏
-
-𝟑 | 𝟓 | 𝟖 | 𝟔
-
-Ans. | 1
-
-3
-
-1
-
-5
-
-1
-
-6
-
-1
-
-8
-
-Section 7.4
-
-Page no. 159
-
-Q1. Here, the fractional unit is dividing a length of 1 unit into three equal parts. Write
-
-the fraction that gives the length of the blue line in the box or in your notebook.
-
-2
-
-Ans. | 3
-
-Q2. Here, a unit is divided into 5 equal parts. Write the fraction that gives the length of
-
-the blue lines in the respective boxed or in your notebook.
-
-2
-
-5, 4
-
-Ans. | 5
-
-<!-- page 190 -->
-
-Q3. Now, a unit is divided into 8 equal parts. Write the appropriate fractions in your
-
-notebook.
-
-1
-
-8, 2
-
-8, 3
-
-Ans. | 8 ,…
-
-Page no. 160
-
-Figure it out
-
-𝟏 | 𝟑 | 𝟒
-
-Q1. On a number line, draw lines of lengths | 𝟏𝟎, | 𝟏𝟎, and | 𝟓.
+$\frac{1}{3}$  $\frac{1}{5}$  $\frac{1}{8}$  $\frac{1}{6}$
 
 Ans.
 
-0 | 𝟏 | 𝟑 | 4 5 1
+$\frac{1}{3}$ → [Figure: A circle divided into 3 equal parts with one part shaded blue.]
 
-𝟏𝟎 | 𝟏𝟎
+$\frac{1}{5}$ → [Figure: A circle divided into 5 equal parts with one part shaded blue.]
 
-Q3. How many fractions lie between 0 and 1? Think, discuss with your classmates, and
+$\frac{1}{6}$ → [Figure: A circle divided into 6 equal parts with one part shaded blue.]
 
-write your answer.
+$\frac{1}{8}$ → [Figure: A circle divided into 8 equal parts with one part shaded blue.]
+
+## Section 7.4
+
+**Page no. 159**
+
+**Q1.** Here, the fractional unit is dividing a length of 1 unit into three equal parts. Write the fraction that gives the length of the blue line in the box or in your notebook.
+
+Ans. $\frac{2}{3}$
+
+**Q2.** Here, a unit is divided into 5 equal parts. Write the fraction that gives the length of the blue lines in the respective boxed or in your notebook.
+
+Ans. $\frac{2}{5}, \frac{4}{5}$
+
+<!-- page 190 -->
+
+**Q3.** Now, a unit is divided into 8 equal parts. Write the appropriate fractions in your notebook.
+
+Ans. $\frac{1}{8}, \frac{2}{8}, \frac{3}{8}, \ldots$
+
+**Page no. 160**
+
+### Figure it out
+
+**Q1.** On a number line, draw lines of lengths $\frac{1}{10}$, $\frac{3}{10}$, and $\frac{4}{5}$.
+
+Ans.
+
+[Figure: A number line with arrows at both ends and tick marks at equal intervals from 0 to 1. Labels below: 0, $\frac{1}{10}$, $\frac{3}{10}$, $\frac{4}{5}$, 1.]
+
+**Q3.** How many fractions lie between 0 and 1? Think, discuss with your classmates, and write your answer.
 
 Ans. Uncountable number of fractions
 
-Q4. What is the length of the blue line and black line shown below? The distance between
+**Q4.** What is the length of the blue line and black line shown below? The distance between 0 and 1 is 1 unit long, and it is divided into two equal parts. The length of each part is $\frac{1}{2}$. So the blue line is $\frac{1}{2}$ units long. Write the fraction that gives the length of the black line in the box.
 
-0 and 1 is 1 unit long, and it is divided into two equal parts. The length of each part
+Ans. $\frac{3}{2}$
 
-is | 𝟏 | 𝟏
+**Q5.** Write the fraction that gives the lengths of the black lines in the respective boxes.
 
-𝟐. So the blue line is | 𝟐 units long. Write the fraction that gives the length of the
+Ans. $\frac{6}{5}, \frac{7}{5}, \frac{8}{5}, \frac{9}{5}$
 
-black line in the box.
+## Section 7.5
 
-Ans. | 3
+**Page No. 162**
 
-2
+### Figure it out
 
-Q5. Write the fraction that gives the lengths of the black lines in the respective boxes.
+**Q1.** How many whole units are there in $\frac{7}{2}$?
 
-6
+Ans. There are 3 whole units in $\frac{7}{2}$
 
-5, 7
+**Q2.** How many whole units are there in $\frac{4}{3}$ and in $\frac{7}{3}$?
 
-5, 8
-
-Ans. | 5, 9
-
-5
-
-Section 7.5
-
-Page No. 162
-
-Figure it out
-
-Q1. How many whole units are there in | 𝟕
-
-𝟐?
-
-Ans. There are 3 whole units in | 7
-
-2
-
-Q2. How many whole units are there in | 𝟒 | 𝟕
-
-𝟑 and in | 𝟑?
-
-4
-
-Ans. There is 1 whole unit in | 3 and 2 whole units in 7
-
-3.
+Ans. There is 1 whole unit in $\frac{4}{3}$ and 2 whole units in $\frac{7}{3}$.
 
 <!-- page 191 -->
 
-Figure it out
+### Figure it out
 
-Q1. Figure out the number of whole units in each of the following fractions:
+1. Figure out the number of whole units in each of the following fractions:
 
-a. | 𝟖 | 𝟏𝟏 | 𝟗
+   a. $\frac{8}{3}$  b. $\frac{11}{5}$  c. $\frac{9}{4}$
 
-𝟑 b. | 𝟓 c. | 𝟒
+   Ans. a. 2
+   b. 2
+   c. 2
 
-Ans. a.2
+2. Can all fractions greater than 1 be written as such mixed numbers?
 
-b. 2 c. 2
+   Ans. No. For example: $\frac{8}{4} = 2$ cannot be written as a mixed number.
 
-Q2. Can all fractions greater than 1 be written as such mixed numbers?
+3. Write the following fractions as mixed fractions (e.g., $\frac{9}{2} = 4\frac{1}{2}$):
 
-Ans. No. For example: | 8
+   a. $\frac{9}{2}$  b. $\frac{9}{5}$  c. $\frac{21}{19}$  d. $\frac{47}{9}$  e. $\frac{12}{11}$  f. $\frac{19}{6}$
 
-4 = 2 cannot be written as a mixed number.
-
-𝟗 | 𝟏
-
-Q3. Write the following fractions as mixed fractions (e.g., | 𝟐 = 𝟒 | 𝟐):
-
-a. | 𝟗 | 𝟗 | 𝟐𝟏 | 𝟒𝟕 | 𝟏𝟐 | 𝟏𝟗
-
-𝟐 b. | 𝟓 c. | 𝟏𝟗 **d.** | 𝟗 e. | 𝟏𝟏 **f.** | 𝟔
-
-2 = 4 1
-
-Ans. a. | 9 | 2
-
-5 = 1 4
-
-b. | 9 | 5
-
-21
-
-c. | 19 = 1 2
-
-19
-
-47
-
-d. | 9 = 5 2
-
-9
-
-12
-
-e. | 11 = 1 1
-
-11
-
-19
-
-f. | 6 = 3 1
-
-6
+   Ans.
+   a. $\frac{9}{2} = 4\frac{1}{2}$
+   b. $\frac{9}{5} = 1\frac{4}{5}$
+   c. $\frac{21}{19} = 1\frac{2}{19}$
+   d. $\frac{47}{9} = 5\frac{2}{9}$
+   e. $\frac{12}{11} = 1\frac{1}{11}$
+   f. $\frac{19}{6} = 3\frac{1}{6}$
 
 Page No. 163
 
-Figure it out
+### Figure it out
 
-Q1. Write the following mixed numbers as fractions:
+1. Write the following mixed numbers as fractions:
 
-𝟏 | 𝟐 | 𝟒 | 𝟏 | 𝟑 | 𝟗
+   a. $3\frac{1}{4}$  b. $7\frac{2}{3}$  c. $9\frac{4}{9}$  d. $3\frac{1}{6}$  e. $2\frac{3}{11}$  f. $3\frac{9}{10}$
 
-#### a. 3
-
-#### 𝟒 b. 7
-
-#### 𝟑 c. 9
-
-#### 𝟗 d. 3
-
-#### 𝟔 e. 2
-
-#### 𝟏𝟏 f. 3
-
-𝟏𝟎
-
-Ans. a. 3 | 1
-
-4
-
-= 3 + | 1
-
-4
-
-= 1 + 1 + 1 + | 1
-
-4
-
-1
-
-4 + 1
-
-4 + 1
-
-4 + 1
-
-4) + ( 1
-
-4 + 1
-
-4 + 1
-
-4 + 1
-
-4) + ( 1
-
-4 + 1
-
-4 + 1
-
-4 + 1
-
-= ( | 4) + 1
-
-4
+   Ans. a. $3\frac{1}{4}$
+   $= 3 + \frac{1}{4}$
+   $= 1 + 1 + 1 + \frac{1}{4}$
+   $= \left(\frac{1}{4} + \frac{1}{4} + \frac{1}{4} + \frac{1}{4}\right) + \left(\frac{1}{4} + \frac{1}{4} + \frac{1}{4} + \frac{1}{4}\right) + \left(\frac{1}{4} + \frac{1}{4} + \frac{1}{4} + \frac{1}{4}\right) + \frac{1}{4}$
 
 <!-- page 192 -->
 
-1
+$$= \left(4 \times \frac{1}{4}\right) + \left(4 \times \frac{1}{4}\right) + \left(4 \times \frac{1}{4}\right) + \frac{1}{4}$$
 
-4) + (4 × 1
+$$= \frac{13}{4}$$
 
-4) + (4 × 1
+b. $\frac{23}{3}$
 
-= (4 × | 4) + 1
+c. $\frac{85}{9}$
 
-4
+d. $\frac{19}{6}$
 
-= | 13
+e. $\frac{25}{11}$
 
-4
+f. $\frac{39}{10}$
 
-b. | 23
+## Section 7.6
 
-3
+**Page no. 164**
 
-c. | 85
-
-9
-
-d. | 19
-
-6
-
-e. | 25
-
-11
-
-f. | 39
-
-10
-
-Section 7.6
-
-Page no. 164
-
-Q1. Are the lengths | 𝟏 | 𝟑
-
-𝟐 and | 𝟔 equal?
+**Q1. Are the lengths $\frac{1}{2}$ and $\frac{3}{6}$ equal?**
 
 Ans. Yes.
 
-Q2. Are | 𝟐 | 𝟒
-
-𝟑 and | 𝟔 equivalent fractions? Why?
+**Q2. Are $\frac{2}{3}$ and $\frac{4}{6}$ equivalent fractions? Why?**
 
 Ans. Yes, since they are of equal length which can be seen in fractional wall also.
 
-Q3. How many pieces of length | 𝟏 | 𝟏
-
-𝟔 will make a length of | 𝟐?
+**Q3. How many pieces of length $\frac{1}{6}$ will make a length of $\frac{1}{2}$?**
 
 Ans. 3 pieces.
 
-Q4. How many pieces of length | 𝟏 | 𝟏
-
-𝟔 will make a length of | 𝟑?
+**Q4. How many pieces of length $\frac{1}{6}$ will make a length of $\frac{1}{3}$?**
 
 Ans. 2 pieces.
 
-Page no. 165
+**Page no. 165**
 
-Figure it out
+### Figure it out
 
-𝟑 | 𝟒 | 𝟓
-
-Q1. Are | 𝟔, | 𝟖, and | 𝟏𝟎 are equivalent fractions? Why?
+**Q1. Are $\frac{3}{6}$, $\frac{4}{8}$, and $\frac{5}{10}$ are equivalent fractions? Why?**
 
 **Ans.** Yes. In the fraction wall their lengths can be seen to be equal.
 
-Q2. Write two equivalent fractions for | 𝟐
+**Q2. Write two equivalent fractions for $\frac{2}{6}$.**
 
-𝟔.
-
-2
-
-6 are 1
-
-Ans. Two equivalent fractions for | 3 and 3
-
-9. (Try for other equivalent fractions also)
+Ans. Two equivalent fractions for $\frac{2}{6}$ are $\frac{1}{3}$ and $\frac{3}{9}$. (Try for other equivalent fractions also)
 
 <!-- page 193 -->
 
-Q3 . | 𝟒
+Q3. $\frac{4}{6} = \frac{\ }{\ } = \frac{\ }{\ } = \frac{\ }{\ } = \ldots\ldots$ (Write as many as you can)
 
-𝟔 = = = = = ……. (Write as many as you can)
-
-4
-
-6 = 2
-
-3 = 6
-
-9 = 8
-
-12 = 10
-
-Ans. | 15 = …….
+Ans. $\frac{4}{6} = \frac{2}{3} = \frac{6}{9} = \frac{8}{12} = \frac{10}{15} = \ldots\ldots$
 
 Page no. 166
 
-Figure it out
+### Figure it out
 
-Q1. Three rotis are shared equally by four children. Show the division in the picture and
+1. Three *rotis* are shared equally by four children. Show the division in the picture and write a fraction for how much each child gets. Also, write the corresponding division facts, addition facts, and, multiplication facts.
 
-write a fraction for how much each child gets. Also, write the corresponding division facts, addition facts, and, multiplication facts.
-
-Fraction of roti each child gets is ______.
+Fraction of *roti* each child gets is ______.
 
 Division fact:
 
@@ -2263,119 +1303,67 @@ Multiplication fact:
 
 Compare your picture and answers with your classmates!
 
-Ans. Each child gets | 3
+Ans. Each child gets $\frac{3}{4}$ roti.
 
-4 roti.
+Division fact: $3 \div 4 = \frac{3}{4}$
 
-Division fact: 3 4 = | 3
+Addition fact: $3 = \frac{3}{4} + \frac{3}{4} + \frac{3}{4} + \frac{3}{4}$
 
-4
+Multiplication fact: $3 = 4 \times \frac{3}{4}$
 
-3
+[Figure: Three rotis, each divided into four equal parts, above four children (yellow, blue, purple, brown heads), each labelled $\frac{3}{4}$.]
 
-4 + 3
+2. Draw a picture to show how much each child gets when 2 *rotis* are shared equally by 4 children. Also, write the corresponding division facts, addition facts, and multiplication facts.
 
-4 + 3
+Ans. 2 Rotis equally shared by 4 children. Each child gets $\frac{1}{2}$ roti.
 
-Addition fact: 3 = | 4 + 3
+Division fact: $2 \div 4 = \frac{2}{4} = \frac{1}{2}$
 
-4
+Addition fact: $2 = \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2}$
 
-Multiplication fact: 3 = 4 × | 3
+Multiplication fact: $2 = 4 \times \frac{1}{2}$
 
-4
+[Figure: Two rotis, each divided into two halves, above four children (yellow, blue, purple, brown heads), each labelled $\frac{1}{2}$.]
 
-Q2. Draw a picture to show how much each child gets when 2 rotis are shared equally by
+3. Anil was in a group where 2 cakes were divided equally among 5 children. How much cake would Anil get?
 
-4 children. Also, write the corresponding division facts, addition facts, and multiplication facts.
-
-1
-
-2 Ans. 2 Rotis equally shared by 4 children. Each child
-
-gets
-
-roti.
-
-2
-
-Division fact :2 4 = | 4 = 1
-
-2
-
-1
-
-2 + 1
-
-2 + 1
-
-Addition fact: 2 = | 2 + 1
-
-2
-
-Multiplication fact: 2 = 4 × | 1
-
-2
-
-Q3. Anil was in a group where 2 cakes were divided equally among 5 children. How much
-
-cake would Anil get?
-
-Ans. Anil would get | 2
-
-5 cake.
+Ans. Anil would get $\frac{2}{5}$ cake.
 
 <!-- page 194 -->
 
 Page no. 168
 
-Section 7.6
+## Section 7.6
 
-Figure it out
+### Figure it out
 
-Q1. Find the missing numbers:
+1. Find the missing numbers:
 
-a. 5 glasses of juice shared equally among 4 friends is the same as ____ glasses of
+   a. 5 glasses of juice shared equally among 4 friends is the same as ____ glasses of juice shared equally among 8 friends.
 
-juice shared equally among 8 friends.
+   So, $\frac{5}{4} = \frac{\_\_}{8}$
 
-𝟓
+   Ans. 10
 
-So, | 𝟒 = 𝟖
+   b. 4 kg of potatoes divided equally in 3 bags is the same as 12 kgs of potatoes divided equally in __ bags.
 
-Ans. 10
+   So, $\frac{4}{3} = \frac{12}{\_\_}$
 
-b. 4 kg of potatoes divided equally in 3 bags is the same as 12 kgs of potatoes divided
+   Ans. 9
 
-equally in __ bags.
+   c. 7 *rotis* divided among 5 children is the same as ____*rotis* divided among _____ children.
 
-𝟒 | 𝟏𝟐
+   So, $\frac{7}{5} = \frac{\_\_}{\_\_}$
 
-So, | 𝟑 =
-
-Ans. 9
-
-c. 7 rotis divided among 5 children is the same as____rotis divided among _____
-
-children.
-
-𝟕
-
-So, | 𝟓 =
-
-Ans. One of the choices is 14, 10 (Try for other options also.)
+   Ans. One of the choices is 14, 10 (Try for other options also.)
 
 Page no. 170
 
-Section 7.6
+## Section 7.6
 
-Q. Suppose the number of children is kept the same, but the number of units that are
+Q. Suppose the number of children is kept the same, but the number of units that are being shared is increased? What can you say about each child's share now? Why? Discuss how your reasoning explains
 
-being shared is increased? What can you say about each child’s share now? Why? Discuss how your reasoning explains
-
-𝟏 | 𝟐 | 𝟑 | 𝟒 | 𝟏 | 𝟓
-
-𝟓 < | 𝟓, | 𝟕 < | 𝟕and | 𝟐 < | 𝟖.
+$\frac{1}{5} < \frac{2}{5}$, $\frac{3}{7} < \frac{4}{7}$ and $\frac{1}{2} < \frac{5}{8}$.
 
 Ans. Each child will have larger share now.
 
@@ -2385,458 +1373,273 @@ Q. Now, decide in which of the two groups will each child get a larger share:
 
 1. Group 1: 3 glasses of sugarcane juice divided equally among 4 children.
 
-Group 2: 7 glasses of sugarcane juice divided equally among 10 children.
+   Group 2: 7 glasses of sugarcane juice divided equally among 10 children.
 
 2. Group 1: 4 glasses of sugarcane juice divided equally among 7 children.
 
-Group 2: 5 glasses of sugarcane juice divided equally among 7 children.
+   Group 2: 5 glasses of sugarcane juice divided equally among 7 children.
 
 <!-- page 195 -->
 
 Which groups were easier to compare? Why?
 
-**Ans.** Each child’s share in group 1 = | 4
+**Ans.** Each child's share in group 1 $= \frac{4}{7}$
 
-7
+Each child's share in group 2 $= \frac{5}{7}$
 
-Each child’s share in group 2 = | 5
-
-7
-
-5
-
-And | 7 > 4
-
-7
+And $\frac{5}{7} > \frac{4}{7}$
 
 The groups in second part were easier to compare because the number of children is same.
 
 Page no. 172
 
-Section 7.6
+## Section 7.6
 
-Q. Find equivalent fractions for the given pairs of fractions such that the fractional units
+**Q.** Find equivalent fractions for the given pairs of fractions such that the fractional units are the same.
 
-are the same.
+a. $\frac{7}{2}$ and $\frac{3}{5}$  b. $\frac{8}{3}$ and $\frac{5}{6}$  c. $\frac{3}{4}$ and $\frac{3}{5}$  d. $\frac{6}{7}$ and $\frac{8}{5}$
 
-𝟕 | 𝟑 | 𝟖 | 𝟓 | 𝟑 | 𝟑 | 𝟔 | 𝟖
+e. $\frac{9}{4}$ and $\frac{5}{2}$  f. $\frac{1}{10}$ and $\frac{2}{9}$  g. $\frac{8}{3}$ and $\frac{11}{4}$  h. $\frac{13}{6}$ and $\frac{1}{9}$
 
-a. | 𝟐 and | 𝟓 b. | 𝟑 and | 𝟔 c. | 𝟒 and | 𝟓 d. | 𝟕 and | 𝟓
+**Ans.**
 
-e. | 𝟗 | 𝟓 | 𝟏 | 𝟐 | 𝟖 | 𝟏𝟏 | 𝟏𝟑 | 𝟏
+a. $\frac{35}{10}$ and $\frac{6}{10}$
 
-𝟒 and | 𝟐 f. | 𝟏𝟎 **and** | 𝟗 g. | 𝟑 and | 𝟒 h. | 𝟔 and | 𝟗
+b. $\frac{16}{6}$ and $\frac{5}{6}$
 
-Ans.
+c. $\frac{15}{20}$ and $\frac{12}{20}$
 
-35
+d. $\frac{30}{35}$ and $\frac{56}{35}$
 
-a. | 10 and 6
+e. $\frac{9}{4}$ and $\frac{10}{4}$
 
-10
+f. $\frac{9}{90}$ and $\frac{20}{90}$
 
-16
+g. $\frac{32}{12}$ and $\frac{33}{12}$
 
-b. | 6 and 5
-
-6
-
-15
-
-20 and 12
-
-𝑐. | 20
-
-30
-
-35 and 56
-
-𝑑. | 35
-
-4 and 10
-
-𝑒. | 9 | 4
-
-90 and 20
-
-𝑓. | 9 | 90
-
-32
-
-12 and 33
-
-𝑔. | 12
-
-18 and 2
-
-ℎ. | 39 | 18
+h. $\frac{39}{18}$ and $\frac{2}{18}$
 
 <!-- page 196 -->
 
 Page no. 173
 
-Section 7.6
+## Section 7.6
 
-Figure it out
+### Figure it out
 
 Q. Express the following fractions in lowest terms:
 
-a. | 𝟏𝟕 | 𝟔𝟒 | 𝟏𝟐𝟔 | 𝟓𝟐𝟓
+a. $\frac{17}{51}$  b. $\frac{64}{144}$  c. $\frac{126}{147}$  d. $\frac{525}{112}$
 
-𝟓𝟏 **b.** | 𝟏𝟒𝟒 **c.** | 𝟏𝟒𝟕 **d.** | 𝟏𝟏𝟐
+Ans.
 
-Ans. a. | 1
+a. $\frac{1}{3}$
 
-3
+b. $\frac{4}{9}$
 
-𝑏. | 4
+c. $\frac{6}{7}$
 
-9
-
-c. | 6
-
-7
-
-d. | 75
-
-16
+d. $\frac{75}{16}$
 
 Page no. 174
 
-Section 7.7
+## Section 7.7
 
-Figure it out
+### Figure it out
 
 Q1. Compare the following fractions and justify your answers:
 
-a. | 𝟖 | 𝟓 | 𝟒 | 𝟑 | 𝟕 | 𝟗
+a. $\frac{8}{3}, \frac{5}{2}$  b. $\frac{4}{9}, \frac{3}{7}$  c. $\frac{7}{10}, \frac{9}{14}$
 
-𝟑, | 𝟐 b. | 𝟗 , | 𝟕 c. | 𝟏𝟎 , | 𝟏𝟒
-
-d. | 𝟏𝟐 | 𝟖 | 𝟗 | 𝟓
-
-𝟓 , | 𝟓 e. | 𝟒 , | 𝟐
+d. $\frac{12}{5}, \frac{8}{5}$  e. $\frac{9}{4}, \frac{5}{2}$
 
 Ans.
 
-8
+a. $\frac{8}{3} > \frac{5}{2}$
 
-a. | 3 > 5
+b. $\frac{4}{9} > \frac{3}{7}$
 
-2
+c. $\frac{7}{10} > \frac{9}{14}$
 
-4
+d. $\frac{12}{5} > \frac{8}{5}$
 
-b. | 9 > 3
-
-7
-
-10 > 9
-
-𝑐. | 7 | 14
-
-12
-
-d. | 5 > 8
-
-5
-
-4 < 5
-
-𝑒. | 9 | 2
+e. $\frac{9}{4} < \frac{5}{2}$
 
 <!-- page 197 -->
 
-Q2. Write the following fractions in ascending order.
+**Q2.** Write the following fractions in ascending order.
 
-a. | 𝟕 | 𝟏𝟏 | 𝟐 | 𝟏𝟗 | 𝟓 | 𝟕
+a. $\frac{7}{10}, \frac{11}{15}, \frac{2}{5}$
 
-𝟏𝟎, | 𝟏𝟓, | 𝟓 b. | 𝟐𝟒, | 𝟔, | 𝟏𝟐
-
-2
-
-5 < 7
-
-Ans. a. | 10 < 11
-
-15
-
-12 < 19
-
-b. | 7 | 24 < 5
-
-6
-
-Q3. Write the following fractions in descending order.
-
-a. | 𝟐𝟓 | 𝟕 | 𝟏𝟑 | 𝟏𝟕 | 𝟑 | 𝟏𝟐 | 𝟕 | 𝟓
-
-𝟏𝟔, | 𝟖, | 𝟒, | 𝟑𝟐 **b.** | 𝟒, | 𝟓, | 𝟏𝟐, | 𝟒
-
-13
-
-4 > 25
-
-16 > 7
-
-Ans. a. | 8 > 17
-
-32
-
-12
-
-5 > 5
-
-4 > 3
-
-b. | 4 > 7
-
-12
-
-Section 7.8
-
-Page no. 177
-
-𝟒 | 𝟔
-
-Q. Try adding | 𝟕 + | 𝟕using a number line. Do you get the same answer?
-
-4
-
-Ans. | 7 + 6
-
-7
-
-4
-
-7 + 6
-
-7 = 10
-
-7 = 1 + 3
-
-7
-
-Yes, using a number line, the answer is same.
-
-Page no. 179
-
-Section 7.8
-
-Figure it out
-
-Q1. Add the following fractions using Brahmagupta’s method:
-
-<!-- page 198 -->
+b. $\frac{19}{24}, \frac{5}{6}, \frac{7}{12}$
 
 Ans.
 
-a. | 13
+a. $\frac{2}{5} < \frac{7}{10} < \frac{11}{15}$
 
-7
+b. $\frac{7}{12} < \frac{19}{24} < \frac{5}{6}$
 
-b. | 13
+**Q3.** Write the following fractions in descending order.
 
-12
+a. $\frac{25}{16}, \frac{7}{8}, \frac{13}{4}, \frac{17}{32}$
 
-6 = 9 3
+b. $\frac{3}{4}, \frac{12}{5}, \frac{7}{12}, \frac{5}{4}$
 
-c. | 9 | 6 3 = 3
+Ans.
 
-2
+a. $\frac{13}{4} > \frac{25}{16} > \frac{7}{8} > \frac{17}{32}$
 
-d. | 20
+b. $\frac{12}{5} > \frac{5}{4} > \frac{3}{4} > \frac{7}{12}$
 
-21
+## Section 7.8
 
-e. | 77
+**Page no. 177**
 
-60
+**Q.** Try adding $\frac{4}{7} + \frac{6}{7}$ using a number line. Do you get the same answer?
 
-f. | 22
+Ans.
 
-15
+$\frac{4}{7} + \frac{6}{7}$
 
-g. | 22
+$\frac{4}{7} + \frac{6}{7} = \frac{10}{7} = 1 + \frac{3}{7}$
 
-15
+[Figure: Number line with marked points 0, $\frac{4}{7}$, 1, $\frac{10}{7}$ and 2. Six arcs (jumps) are drawn from $\frac{4}{7}$ to $\frac{10}{7}$, labelled "$+\frac{6}{7}$" above.]
 
-h. | 49
+Yes, using a number line, the answer is same.
 
-40
+**Page no. 179**
 
-i. | 23
+## Section 7.8
 
-4
+### Figure it out
 
-j. | 62
+**Q1.** Add the following fractions using Brahmagupta's method:
 
-21
+a. $\frac{2}{7} + \frac{5}{7} + \frac{6}{7}$
 
-k. | 77
+b. $\frac{3}{4} + \frac{1}{3}$
 
-60
+c. $\frac{2}{3} + \frac{5}{6}$
 
-l. | 199
+d. $\frac{2}{3} + \frac{2}{7}$
 
-105
+e. $\frac{3}{4} + \frac{1}{3} + \frac{1}{5}$
 
-m. | 83
+f. $\frac{2}{3} + \frac{4}{5}$
 
-12
+g. $\frac{4}{5} + \frac{2}{3}$
 
-𝟐 | 𝟑
+h. $\frac{3}{5} + \frac{5}{8}$
 
-Q2. Rahim mixes | 𝟑litres of yellow paint with | 𝟒litres of blue paint to make green paint.
+i. $\frac{9}{2} + \frac{5}{4}$
 
-What is the volume of green paint he has made?
+j. $\frac{8}{3} + \frac{2}{7}$
 
-Ans. 1 | 5
+k. $\frac{3}{4} + \frac{1}{3} + \frac{1}{5}$
 
-12litres
+l. $\frac{2}{3} + \frac{4}{5} + \frac{3}{7}$
 
-𝟐 | 𝟑
+m. $\frac{9}{2} + \frac{5}{4} + \frac{7}{6}$
 
-Q3. Geeta bought | 𝟓meter of lace and Shamim bought | 𝟒meter of the same lace to put a
+<!-- page 198 -->
 
-complete border on a table cloth whose perimeter is 1 meter long. Find the total length of the lace they both have bought. Will the lace be sufficient to cover the whole border?
+**Ans.**
 
-Ans. Total length of the lace = 1 | 3
+a. $\frac{13}{7}$
 
-20 m
+b. $\frac{13}{12}$
+
+c. $\frac{9}{6} = \frac{9 \div 3}{6 \div 3} = \frac{3}{2}$
+
+d. $\frac{20}{21}$
+
+e. $\frac{77}{60}$
+
+f. $\frac{22}{15}$
+
+g. $\frac{22}{15}$
+
+h. $\frac{49}{40}$
+
+i. $\frac{23}{4}$
+
+j. $\frac{62}{21}$
+
+k. $\frac{77}{60}$
+
+l. $\frac{199}{105}$
+
+m. $\frac{83}{12}$
+
+**Q2.** Rahim mixes $\frac{2}{3}$ litres of yellow paint with $\frac{3}{4}$ litres of blue paint to make green paint. What is the volume of green paint he has made?
+
+Ans. $1\frac{5}{12}$ litres
+
+**Q3.** Geeta bought $\frac{2}{5}$ meter of lace and Shamim bought $\frac{3}{4}$ meter of the same lace to put a complete border on a table cloth whose perimeter is 1 meter long. Find the total length of the lace they both have bought. Will the lace be sufficient to cover the whole border?
+
+Ans. Total length of the lace $= 1\frac{3}{20}$ m
 
 Yes.
 
 <!-- page 199 -->
 
-Section 7.8
+## Section 7.8
 
-Figure it out (Page no. 181)
+### Figure it out (Page no. 181)
 
-5
+**Q1.** $\frac{5}{8} - \frac{3}{8}$
 
-Q1. | 8 - 3
+Ans. $\frac{2}{8}$ (= $\frac{1}{4}$, in lowest terms)
 
-8
+**Q2.** $\frac{7}{9} - \frac{5}{9}$
 
-2
+Ans. $\frac{2}{9}$
 
-8 (= 1
+**Q3.** $\frac{10}{27} - \frac{1}{27}$
 
-Ans. | 4, in lowest terms)
+Ans. $\frac{9}{27}$ (= $\frac{1}{3}$, in lowest terms)
 
-Q2. | 𝟕 | 𝟓
+**Page no. 181**
 
-𝟗 - | 𝟗
+## Section 7.8
 
-2
+### Figure it out
 
-Ans. | 9
+Ans. 1. $\frac{1}{4}$  2. $\frac{2}{9}$  3 $\frac{1}{3}$
 
-𝟏𝟎 | 𝟏
+### Figure it out
 
-Q3. | 𝟐𝟕 - | 𝟐𝟕
+**Q1. Carry out the following subtractions using Brahmagupta's method:**
 
-27(= 1
+a. $\frac{8}{15} - \frac{3}{15}$  b. $\frac{2}{5} - \frac{4}{15}$  c. $\frac{5}{6} - \frac{4}{9}$  d. $\frac{2}{3} - \frac{1}{2}$
 
-Ans. | 9 | 3, in lowest terms)
+Ans.
+a. $\frac{1}{3}$
 
-Page no. 181
+b. $\frac{2}{15}$
 
-Section 7.8
+c. $\frac{7}{18}$
 
-Figure it out
-
-1
-
-4 2. 2
-
-Ans. 1. | 9 3 1
-
-3
-
-Figure it out
-
-Q1. Carry out the following subtractions using Brahmagupta’s method:
-
-15 - 3
-
-8 | 2
-
-5 - 4 | 5
-
-6 - 4 | 2
-
-a. | 15 b. | 15 c. | 9 d. | 3 - 1
-
-2
-
-Ans. a. | 1
-
-3
-
-b. | 2
-
-15
-
-c. | 7
-
-18
-
-d. | 1
-
-6
+d. $\frac{1}{6}$
 
 <!-- page 200 -->
 
-Q2. Subtract as indicated:
+**Q2.** Subtract as indicated:
 
-a. | 𝟏𝟑 | 𝟏𝟎 | 𝟏𝟖 | 𝟐𝟑 | 𝟐𝟗 | 𝟒𝟓
+a. $\frac{13}{4}$ from $\frac{10}{3}$  b. $\frac{18}{5}$ from $\frac{23}{3}$  c. $\frac{29}{7}$ from $\frac{45}{7}$
 
-#### 𝟒 from
+Ans. a. $\frac{1}{12}$
 
-𝟑 b.
+b. $\frac{61}{15}$
 
-#### 𝟓 from
+c. $\frac{16}{7}$
 
-𝟑 c.
+**Q3.** Solve the following problems:
 
-#### 𝟕 from
+a. Jaya's school is $\frac{7}{10}$ km from her home. She takes an auto for $\frac{1}{2}$ km from her home daily, and then walks the remaining distance to reach her school. How much does she walk daily to reach the school?
 
-𝟕
+b. Jeevika takes $\frac{10}{3}$ minutes to take a complete round of the park and her friend Namit takes $\frac{13}{4}$ minutes to do the same. Who takes less time and by how much?
 
-Ans. a. | 1
+Ans. a. $\frac{1}{5}$ Km
 
-12
-
-b. | 61
-
-15
-
-c. | 16
-
-7
-
-Q3. Solve the following problems:
-
-𝟕 | 𝟏
-
-a. Jaya’s school is | 𝟏𝟎km from her home. She takes an auto for | 𝟐km from her home
-
-daily, and then walks the remaining distance to reach her school. How much does she walk daily to reach the school?
-
-𝟏𝟎
-
-b. Jeevika takes | 𝟑minutes to take a complete round of the park and her friend
-
-𝟏𝟑
-
-Namit takes | 𝟒minutes to do the same. Who takes less time and by how much?
-
-Ans. a. | 1
-
-5Km
-
-1
-
-b. Namit takes less time than Jeevika, by | 12minutes
+b. Namit takes less time than Jeevika, by $\frac{1}{12}$ minutes
