@@ -1,0 +1,431 @@
+{
+ "chapter_id": "7-math-04",
+ "model": "backend=claude-cli model=sonnet",
+ "pages": [
+  {
+   "page": "81",
+   "plain_words": 167,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "82",
+   "plain_words": 211,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "83",
+   "plain_words": 183,
+   "missing": 4,
+   "missing_ratio": 0.022,
+   "sample": [
+    "expressions",
+    "using",
+    "letter",
+    "numbers"
+   ]
+  },
+  {
+   "page": "84",
+   "plain_words": 157,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "85",
+   "plain_words": 162,
+   "missing": 4,
+   "missing_ratio": 0.025,
+   "sample": [
+    "expressions",
+    "using",
+    "letter",
+    "numbers"
+   ]
+  },
+  {
+   "page": "86",
+   "plain_words": 160,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "87",
+   "plain_words": 133,
+   "missing": 4,
+   "missing_ratio": 0.03,
+   "sample": [
+    "expressions",
+    "using",
+    "letter",
+    "numbers"
+   ]
+  },
+  {
+   "page": "88",
+   "plain_words": 217,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "89",
+   "plain_words": 201,
+   "missing": 4,
+   "missing_ratio": 0.02,
+   "sample": [
+    "expressions",
+    "using",
+    "letter",
+    "numbers"
+   ]
+  },
+  {
+   "page": "90",
+   "plain_words": 194,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "91",
+   "plain_words": 176,
+   "missing": 4,
+   "missing_ratio": 0.023,
+   "sample": [
+    "expressions",
+    "using",
+    "letter",
+    "numbers"
+   ]
+  },
+  {
+   "page": "92",
+   "plain_words": 122,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "93",
+   "plain_words": 149,
+   "missing": 4,
+   "missing_ratio": 0.027,
+   "sample": [
+    "expressions",
+    "using",
+    "letter",
+    "numbers"
+   ]
+  },
+  {
+   "page": "94",
+   "plain_words": 61,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "95",
+   "plain_words": 188,
+   "missing": 8,
+   "missing_ratio": 0.043,
+   "sample": [
+    "expression",
+    "expressions",
+    "using",
+    "letter",
+    "numbers"
+   ]
+  },
+  {
+   "page": "96",
+   "plain_words": 93,
+   "missing": 8,
+   "missing_ratio": 0.086,
+   "sample": [
+    "expression"
+   ]
+  },
+  {
+   "page": "97",
+   "plain_words": 190,
+   "missing": 8,
+   "missing_ratio": 0.042,
+   "sample": [
+    "nth",
+    "expressions",
+    "using",
+    "letter",
+    "numbers"
+   ]
+  },
+  {
+   "page": "98",
+   "plain_words": 94,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "99",
+   "plain_words": 205,
+   "missing": 4,
+   "missing_ratio": 0.02,
+   "sample": [
+    "expressions",
+    "using",
+    "letter",
+    "numbers"
+   ]
+  },
+  {
+   "page": "100",
+   "plain_words": 163,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "101",
+   "plain_words": 183,
+   "missing": 4,
+   "missing_ratio": 0.022,
+   "sample": [
+    "expressions",
+    "using",
+    "letter",
+    "numbers"
+   ]
+  },
+  {
+   "page": "102",
+   "plain_words": 210,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "103",
+   "plain_words": 119,
+   "missing": 4,
+   "missing_ratio": 0.034,
+   "sample": [
+    "expressions",
+    "using",
+    "letter",
+    "numbers"
+   ]
+  },
+  {
+   "page": "104",
+   "plain_words": 110,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "105",
+   "plain_words": 135,
+   "missing": 9,
+   "missing_ratio": 0.067,
+   "sample": [
+    "expressions",
+    "using",
+    "letter",
+    "numbers",
+    "answers",
+    "chapter",
+    "questions",
+    "from",
+    "book"
+   ]
+  },
+  {
+   "page": "answers 1",
+   "plain_words": 136,
+   "missing": 10,
+   "missing_ratio": 0.074,
+   "sample": [
+    "units",
+    "perimeter",
+    "regular",
+    "pentagon",
+    "hexagon",
+    "let",
+    "length",
+    "each",
+    "side"
+   ]
+  },
+  {
+   "page": "answers 2",
+   "plain_words": 91,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 3",
+   "plain_words": 116,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 4",
+   "plain_words": 58,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 5",
+   "plain_words": 85,
+   "missing": 16,
+   "missing_ratio": 0.188,
+   "sample": [
+    "column",
+    "all",
+    "final",
+    "number",
+    "try",
+    "some",
+    "other",
+    "ways",
+    "total",
+    "columns",
+    "first",
+    "middle"
+   ]
+  },
+  {
+   "page": "answers 6",
+   "plain_words": 54,
+   "missing": 3,
+   "missing_ratio": 0.056,
+   "sample": [
+    "simplify",
+    "then",
+    "correctly"
+   ]
+  },
+  {
+   "page": "answers 7",
+   "plain_words": 149,
+   "missing": 72,
+   "missing_ratio": 0.483,
+   "sample": [
+    "the",
+    "terms",
+    "numbers",
+    "are",
+    "added",
+    "and",
+    "number",
+    "removed",
+    "like",
+    "with",
+    "only",
+    "also"
+   ]
+  },
+  {
+   "page": "answers 8",
+   "plain_words": 54,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 9",
+   "plain_words": 150,
+   "missing": 7,
+   "missing_ratio": 0.047,
+   "sample": [
+    "yth",
+    "ans",
+    "step",
+    "matchsticks",
+    "placed",
+    "horizontally"
+   ]
+  },
+  {
+   "page": "answers 10",
+   "plain_words": 162,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 11",
+   "plain_words": 56,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 12",
+   "plain_words": 112,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 13",
+   "plain_words": 128,
+   "missing": 9,
+   "missing_ratio": 0.07,
+   "sample": [
+    "the",
+    "rope",
+    "folded",
+    "cut",
+    "get",
+    "pieces",
+    "same",
+    "way",
+    "when"
+   ]
+  },
+  {
+   "page": "answers 14",
+   "plain_words": 69,
+   "missing": 3,
+   "missing_ratio": 0.043,
+   "sample": [
+    "step",
+    "ofsquares",
+    "rth"
+   ]
+  },
+  {
+   "page": "answers 15",
+   "plain_words": 80,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 16",
+   "plain_words": 32,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  }
+ ],
+ "flagged_pages": [
+  "96",
+  "105",
+  "answers 1",
+  "answers 5",
+  "answers 7",
+  "answers 13"
+ ]
+}
