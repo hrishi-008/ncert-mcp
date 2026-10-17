@@ -1,0 +1,176 @@
+{
+ "chapter_id": "7-math-11",
+ "model": "backend=claude-cli model=sonnet",
+ "pages": [
+  {
+   "page": "47",
+   "plain_words": 67,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "48",
+   "plain_words": 129,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "49",
+   "plain_words": 108,
+   "missing": 4,
+   "missing_ratio": 0.037,
+   "sample": [
+    "common",
+    "factorising",
+    "finding",
+    "ground"
+   ]
+  },
+  {
+   "page": "50",
+   "plain_words": 88,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "51",
+   "plain_words": 70,
+   "missing": 3,
+   "missing_ratio": 0.043,
+   "sample": [
+    "common",
+    "finding",
+    "ground"
+   ]
+  },
+  {
+   "page": "52",
+   "plain_words": 74,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "53",
+   "plain_words": 46,
+   "missing": 1,
+   "missing_ratio": 0.022,
+   "sample": [
+    "ground"
+   ]
+  },
+  {
+   "page": "54",
+   "plain_words": 67,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "55",
+   "plain_words": 103,
+   "missing": 2,
+   "missing_ratio": 0.019,
+   "sample": [
+    "finding",
+    "ground"
+   ]
+  },
+  {
+   "page": "56",
+   "plain_words": 116,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "57",
+   "plain_words": 73,
+   "missing": 2,
+   "missing_ratio": 0.027,
+   "sample": [
+    "finding",
+    "ground"
+   ]
+  },
+  {
+   "page": "58",
+   "plain_words": 95,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "59",
+   "plain_words": 82,
+   "missing": 3,
+   "missing_ratio": 0.037,
+   "sample": [
+    "common",
+    "finding",
+    "ground"
+   ]
+  },
+  {
+   "page": "60",
+   "plain_words": 68,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "61",
+   "plain_words": 76,
+   "missing": 2,
+   "missing_ratio": 0.026,
+   "sample": [
+    "finding",
+    "ground"
+   ]
+  },
+  {
+   "page": "62",
+   "plain_words": 92,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "63",
+   "plain_words": 118,
+   "missing": 2,
+   "missing_ratio": 0.017,
+   "sample": [
+    "finding",
+    "ground"
+   ]
+  },
+  {
+   "page": "64",
+   "plain_words": 102,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "65",
+   "plain_words": 98,
+   "missing": 1,
+   "missing_ratio": 0.01,
+   "sample": [
+    "ground"
+   ]
+  },
+  {
+   "page": "66",
+   "plain_words": 42,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  }
+ ],
+ "flagged_pages": []
+}
