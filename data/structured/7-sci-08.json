@@ -6,11 +6,11 @@
  "part": 1,
  "chapter_no": 8,
  "title": "Measurement of Time and Motion",
- "summary": "- The time taken by the pendulum to complete one oscillation is called its time period. - The time period of a simple pendulum of a given length is constant at a place. - The SI unit of time is the second. Its symbol is s. - The average speed of an object is the total distance covered divided by the total time taken to cover it. - An object moving along a straight line with a constant speed is said to be in uniform linear motion. - If the speed of an object moving along a straight line keeps changing, it is said to be in non-uniform linear motion.",
+ "summary": "The chapter explains how humans measured time using natural cycles, sundials, water clocks, hourglasses, candle clocks and the pendulum clock. A simple pendulum has a time period that depends on its length but not on the mass of the bob, which makes it useful for timekeeping. The SI unit of time is the second, and its symbol is s. Speed is the total distance covered divided by the total time taken. Its SI unit is m/s, and km/h is also used. The chapter shows how to find distance and time from speed. It separates uniform linear motion (equal distances in equal times) from non-uniform linear motion, and it explains average speed.",
  "sections": [
   {
    "section_id": "7-sci-08-s01",
-   "heading": "Chapter 8: Measurement of Time and Motion",
+   "heading": "Introduction",
    "text": "# Chapter 8: Measurement of Time and Motion\n\n<!-- page 105 -->\n\n## Measurement of Time and Motion 8\n\nPrerna and her younger sister are watching a sports channel on television. Prerna enjoys running and she has been declared the fastest runner among the girls in her district for winning the 100 metre sprint at an interschool competition held at the district level. She is now training to compete at the state level. She dreams of representing India at the international level in 100 metre sprint contests in future.\n\nWhile watching the rerun of sprints at the Olympic games held in the past, Prerna is always amazed that the measurement of the time taken for the race is so advanced that they could identify the winner even when two sprinters seemed to cross the finish line almost together. However, in her school, the sports teacher only used a special kind of watch called a ‘stopwatch’ for timing the school races. She had noticed her mother wearing a watch on her wrist and her sister looking at her mobile phone when she needed to check the time. Her uncle used a Braille watch and had recently acquired a talking watch that announced the time at the touch of a button. There was also a large clock on the wall near the school entrance. Her thoughts turned to people in the ancient past, who did not have the modern gadgets we have today and she wondered…\n\n<!-- page 106 -->\n\n> How was time measured when there were no clocks and watches?",
    "page_start": 105,
    "page_end": 106
@@ -45,7 +45,7 @@
   },
   {
    "section_id": "7-sci-08-s06",
-   "heading": "8.3 Speed p",
+   "heading": "8.3 Speed",
    "text": "### 8.3 Speed p\n\nBy comparing the distances moved by two or more objects in a unit time, it can be found out which of them is moving faster. The unit time may be one second or one minute or one hour. We call the distance covered by an object in a unit time as the **speed** of the object.\n\nHow can we **determine** the speed of an object? It can be calculated, if we know the total distance covered by an object and the time taken to cover it. The speed of an object is the total distance covered divided by the total time taken to cover it. Thus,\n\n##### Speed = Total distance covered\n\n##### Total time taken\n\nWhat would be the unit of speed? We know the SI units of length and time. Since the speed is distance/time, the **SI unit of speed** is **metre/second** and is expressed as **m/s**.\n\nSpeed can also be expressed in other units. If we **express** the distance in kilometre and time in hour, then the unit of speed is **kilometre/hour**, expressed as **km/h**.\n\n<!-- page 114 -->\n\n**Example 8.1:** Swati’s school is 3.6 km from her house. It took her 15 min to reach her school riding on her bicycle. Calculate the speed of the bicycle in m/s.\n\n**Solution:** Speed of the bicycle = Distance covered\n\nTime taken\n\n= 3.6 km\n\n15 min\n\nkm m km s\n\n3 6 1000\n\n. | -\n\n=\n\n15 60\n\nmin min\n\n-\n\n= 3.6 × 1000 m\n\n15 × 60 s = 4 m/s\n\n##### Activity 8.4: Let us calculate\n\n- Look up at the railway timetable on the internet.\n- **Identify** a train stopping at the railway station nearest to\n\nyour place of stay.\n- Find out the name of the next station where this train stops.\n\nAlso, find the distance to that station as given in the timetable.\n- Note the time at which the train departs from your station and\n\narrives at the next station. Find the difference to calculate the time taken by the train to cover the distance till the next station.\n- Calculate the speed of the train between the two stations and\n\nrecord it in Table 8.2.\n- Repeat for 4–5 different types of trains (Passenger/ Express/\n\nSuperfast).\n\n##### Table 8.2: Finding the speed of trains\n\nName of the railway station nearest to your place of stay ____________________________.\n\nName of the next | Distance till the next station | Time taken till the next | Speed of the train between these two\n\n> S.No. Name of the train\n\nstation | (km) | station (h) | stations (km/h)\n\n<!-- page 115 -->\n\n- **Compare** the speeds of the trains. Which is the fastest train?\n\nThe train which has covered the maximum distance in unit time is the fastest train, that is, the one with the highest speed.",
    "page_start": 113,
    "page_end": 115
@@ -89,154 +89,54 @@
  "key_terms": [
   {
    "term": "bob",
-   "meaning": "A simple pendulum consists of a small metallic ball (called the bob of the pendulum) suspended from a rigid support by a long thread as shown in Fig.",
+   "meaning": "A simple pendulum consists of a small metallic ball (called the **bob** of the pendulum) suspended from a rigid support by a long thread as shown in Fig. 8.7a.",
    "page": 109
   },
   {
    "term": "mean position",
-   "meaning": "The pendulum at rest is in its mean position.",
-   "page": 109
-  },
-  {
-   "term": "periodic",
-   "meaning": "Its motion is periodic in nature because it repeats its path after a fixed interval of time.",
-   "page": 109
-  },
-  {
-   "term": "one oscillation",
-   "meaning": "The pendulum is said to have completed one oscillation when its bob, starting from its mean position O, moves to extreme position A, changes direction and moves to another extreme position B, changes direction and comes back to O (Fig.",
+   "meaning": "The pendulum at rest is in its **mean position**.",
    "page": 109
   },
   {
    "term": "time period",
-   "meaning": "The time taken by the pendulum to complete one oscillation is called its time period.",
+   "meaning": "The time taken by the pendulum to complete one oscillation is called its **time period**.",
    "page": 109
   },
   {
-   "term": "calculate",
-   "meaning": "- Divide the time taken for 10 oscillations by 10 to calculate",
-   "page": 110
-  },
-  {
    "term": "SI unit of time",
-   "meaning": "The SI unit of time is the second.",
+   "meaning": "The **SI unit of time** is the **second**.",
    "page": 111
-  },
-  {
-   "term": "second",
-   "meaning": "The SI unit of time is the second.",
-   "page": 111
-  },
-  {
-   "term": "symbol",
-   "meaning": "Its symbol is s.",
-   "page": 111
-  },
-  {
-   "term": "minute",
-   "meaning": "The larger units of time are minute (min) and hour (h).",
-   "page": 111
-  },
-  {
-   "term": "min",
-   "meaning": "The larger units of time are minute (min) and hour (h).",
-   "page": 111
-  },
-  {
-   "term": "hour",
-   "meaning": "The larger units of time are minute (min) and hour (h).",
-   "page": 111
-  },
-  {
-   "term": "decide",
-   "meaning": "How do you decide who is running faster amongst them?",
-   "page": 112
   },
   {
    "term": "speed",
-   "meaning": "We call the distance covered by an object in a unit time as the speed of the object.",
+   "meaning": "We call the distance covered by an object in a unit time as the **speed** of the object.",
    "page": 113
-  },
-  {
-   "term": "determine",
-   "meaning": "How can we determine the speed of an object?",
-   "page": 113
-  },
-  {
-   "term": "SI unit of speed",
-   "meaning": "Since the speed is distance/time, the SI unit of speed is metre/second and is expressed as m/s.",
-   "page": 113
-  },
-  {
-   "term": "metre/second",
-   "meaning": "Since the speed is distance/time, the SI unit of speed is metre/second and is expressed as m/s.",
-   "page": 113
-  },
-  {
-   "term": "express",
-   "meaning": "Speed can also be expressed in other units.",
-   "page": 113
-  },
-  {
-   "term": "kilometre/hour",
-   "meaning": "If we express the distance in kilometre and time in hour, then the unit of speed is kilometre/hour, expressed as km/h.",
-   "page": 113
-  },
-  {
-   "term": "Example 8.1",
-   "meaning": "Example 8.1: Swati’s school is 3.6 km from her house.",
-   "page": 114
-  },
-  {
-   "term": "Solution",
-   "meaning": "Solution: Speed of the bicycle = Distance covered",
-   "page": 114
-  },
-  {
-   "term": "Speed Example 8.2",
-   "meaning": "Speed Example 8.2: Raghav is going to a neighbouring city in a bus moving at a speed of 50 km/h.",
-   "page": 115
-  },
-  {
-   "term": "Example 8.3",
-   "meaning": "Example 8.3: A train is travelling at a speed of 90 km/h.",
-   "page": 115
-  },
-  {
-   "term": "average speed",
-   "meaning": "So, the speed that we have calculated is the average speed, but, in this book, we have used the term ‘speed’ for ‘average speed’.",
-   "page": 115
   },
   {
    "term": "uniform linear motion",
-   "meaning": "An object moving along a straight line with a constant speed is said to be in uniform linear motion.",
-   "page": 117
-  },
-  {
-   "term": "non-uniform linear motion",
-   "meaning": "On the other hand, if the speed of an object moving along a straight line keeps changing, it is said to be in non-uniform linear motion.",
+   "meaning": "An object moving along a straight line with a constant speed is said to be in **uniform linear motion**.",
    "page": 117
   }
  ],
  "activities": [
   {
    "label": "Activity 8.1: Let us construct",
-   "description": "- Take a used transparent plastic bottle (1/2 litre or larger) with its cap. - Cut it into two, roughly in the middle as shown in Fig. 8.5a. - Using a drawing pin, make a small hole in the cap of the bottle (Fig. 8.5b). (b) (a) (c) (d) (a) Fig. 8.5: Making a simple water clock - Place the upper part of the bottle in an inverted position over the lower half (Fig. 8.5c). - Fill the upper part of the bottle with water. You may add a",
+   "description": "- Take a used transparent plastic bottle (1/2 litre or larger) with its cap. - Cut it into two, roughly in the middle as shown in Fig. 8.5a. - Using a drawing pin, make a small hole in the cap of the bottle (Fig. 8.5b). (b) (a) (c) (d) (a) Fig. 8.5: Making a simple water clock - Place the upper part of the bottle in an inverted position over the lower half (Fig. 8.5c). - Fill the upper part of the bottle with water. You may add a few drops of ink or colour to make the water level easily visible ",
    "page": 107
   },
   {
    "label": "Activity 8.2: Let us experiment",
-   "description": "- Collect a piece of string around 150 cm long, a heavy metal ball with hook/ a stone (bob), a stopwatch/ watch, and a ruler. - Tie the bob at one end of the string. - Fix the other end of the string to a rigid support such that the length of the string in between support and bob is around 100 cm. - Wait for the bob to come to rest. Your pendulum is now ready. - Gently hold the bob, move it slightly to one side and release",
+   "description": "- Collect a piece of string around 150 cm long, a heavy metal ball with hook/ a stone (bob), a stopwatch/ watch, and a ruler. - Tie the bob at one end of the string. - Fix the other end of the string to a rigid support such that the length of the string in between support and bob is around 100 cm. - Wait for the bob to come to rest. Your pendulum is now ready. - Gently hold the bob, move it slightly to one side and release it. Take care not to push the bob while releasing it and that the string ",
    "page": 109
   },
   {
    "label": "Activity 8.3: Let us identify",
-   "description": "- Look at the wall clock shown in Fig. 8.9 carefully. What is the smallest interval of time you can measure with it? One second is the smallest interval of time that we can measure using this clock. Fig. 8.9: A wall clock",
+   "description": "- Look at the wall clock shown in Fig. 8.9 carefully. What is the smallest interval of time you can measure with it? One second is the smallest interval of time that we can measure using this clock.",
    "page": 112
   },
   {
    "label": "Activity 8.4: Let us calculate",
-   "description": "- Look up at the railway timetable on the internet. - Identify a train stopping at the railway station nearest to your place of stay. - Find out the name of the next station where this train stops. Also, find the distance to that station as given in the timetable. - Note the time at which the train departs from your station and arrives at the next station. Find the difference to calculate the time taken by the train to cover the distance till the next station.",
+   "description": "- Look up at the railway timetable on the internet. - Identify a train stopping at the railway station nearest to your place of stay. - Find out the name of the next station where this train stops. Also, find the distance to that station as given in the timetable. - Note the time at which the train departs from your station and arrives at the next station. Find the difference to calculate the time taken by the train to cover the distance till the next station. - Calculate the speed of the train ",
    "page": 114
   }
  ],
@@ -248,12 +148,17 @@
   },
   {
    "label": "Fig. 8.2",
-   "caption": "A water clock (a) Water flowing out-type",
+   "caption": "A water clock (a) Water flowing out-type (b) Floating bowl-type",
+   "page": 106
+  },
+  {
+   "label": "Fig. 8.3",
+   "caption": "An hourglass",
    "page": 106
   },
   {
    "label": "Fig. 8.4",
-   "caption": "A candle clock Fig. 8.3: An hourglass",
+   "caption": "A candle clock",
    "page": 106
   },
   {
@@ -263,7 +168,7 @@
   },
   {
    "label": "Fig. 8.6",
-   "caption": "Huygens’",
+   "caption": "Huygens' Pendulum clock",
    "page": 108
   },
   {
@@ -294,117 +199,107 @@
  ],
  "exercises": [
   {
-   "label": "Let Us Enhance Our Learning Q1",
+   "label": "Let us enhance our learning Q1",
    "text": "1. Calculate the speed of a car that travels 150 metres in 10 seconds. Express your answer in km/h.",
-   "type_hint": "short",
+   "type_hint": "numerical",
    "page": 118,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q2",
+   "label": "Let us enhance our learning Q2",
    "text": "2. A runner completes 400 metres in 50 seconds. Another runner completes the same distance in 45 seconds. Who has a greater speed and by how much?",
-   "type_hint": "short",
+   "type_hint": "numerical",
    "page": 118,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q3",
+   "label": "Let us enhance our learning Q3",
    "text": "3. A train travels at a speed of 25 m/s and covers a distance of 360 km. How much time does it take?",
-   "type_hint": "short",
+   "type_hint": "numerical",
    "page": 118,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q4",
+   "label": "Let us enhance our learning Q4",
    "text": "4. A train travels 180 km in 3 h. Find its speed in:\n(i) km/h\n(ii) m/s\n(iii) What distance will it travel in 4 h if it maintains the same\n\n> ENQUIRY\n\n> ?\n\n> WHY\n\n> WHAT IF\n\n> W\n\n> WHERE\n\n> H E N\n\n> H O W\n\n> WHAT COULD\n\nspeed throughout the journey?",
-   "type_hint": "long",
+   "type_hint": "numerical",
    "page": 118,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q5",
+   "label": "Let us enhance our learning Q5",
    "text": "5. The fastest galloping horse can reach the speed of approximately 18 m/s. How does this compare to the speed of a train moving at 72 km/h?",
-   "type_hint": "short",
+   "type_hint": "numerical",
    "page": 118,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q6",
+   "label": "Let us enhance our learning Q6",
    "text": "6. Distinguish between uniform and non-uniform motion using the example of a car moving on a straight highway with no traffic and a car moving in city traffic.",
-   "type_hint": "short",
+   "type_hint": "long",
    "page": 118,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q7",
-   "text": "7. Data for an object covering distances in different intervals of time are given in the following table. If the object is in uniform motion, fill in the gaps in the table.\n\n> CAN\n\n> L O N G\n\n> IT ?\n\n> W\n\n> H\n\n> I C H\n\n> WHOSE\n\n> ELSE\n\n> W HAT\n\n> WHAT WILL\n\n> HAPPEN\n\n> WHAT SHOULD WHY\n\n> NOT\n\nTime (s) 0 10 20 30 50 70\n\nDistance (m) 0 8 24 32 40 56\n\n<!-- page 119 -->",
-   "type_hint": "fill_blank",
+   "label": "Let us enhance our learning Q7",
+   "text": "7. Data for an object covering distances in different intervals of time are given in the following table. If the object is in uniform motion, fill in the gaps in the table.\n\n> CAN\n\n> L O N G\n\n> IT ?\n\n> W\n\n> H\n\n> I C H\n\n> WHOSE\n\n> ELSE\n\n> W HAT\n\n> WHAT WILL\n\n> HAPPEN\n\n> WHAT SHOULD WHY\n\n> NOT\n\nTime (s) 0 10 20 30 50 70\n\nDistance (m) 0 8 24 32 40 56",
+   "type_hint": "numerical",
    "page": 118,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q8",
+   "label": "Let us enhance our learning Q8",
    "text": "8. A car covers 60 km in the first hour, 70 km in the second hour, and 50 km in the third hour. Is the motion uniform? Justify your answer. Find the average speed of the car.",
+   "type_hint": "numerical",
+   "page": 119,
+   "source": "end"
+  },
+  {
+   "label": "Let us enhance our learning Q9",
+   "text": "9. Which type of motion is more common in daily life— uniform or non-uniform? Provide three examples from your experience to support your answer.",
    "type_hint": "long",
    "page": 119,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q9",
-   "text": "9. Which type of motion is more common in daily life— uniform or non-uniform? Provide three examples from your experience to support your answer.",
-   "type_hint": "short",
-   "page": 119,
-   "source": "end"
-  },
-  {
-   "label": "Let Us Enhance Our Learning Q10",
+   "label": "Let us enhance our learning Q10",
    "text": "10. Data for the motion of an object are given in the following table. State whether the speed of the object is uniform or non-uniform. Find the average speed.\n\nTime (s) | 0 10 20 | 40 30 60 70 50 100 90 80\n\nDistance (m) 0 6 21 29 35 42 45 60 55\n\n10 16",
-   "type_hint": "short",
+   "type_hint": "numerical",
    "page": 119,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q11",
-   "text": "11. A vehicle moves along a straight line and covers a distance of 2 km. In the first 500 m, it moves with a speed of 10 m/s and in the next 500 m, it moves with a speed of 5 m/s. With what speed should it move the remaining distance so that the journey is complete in 200 s? What is the average speed of the vehicle for the entire journey?\n\n> INNOVATION",
-   "type_hint": "short",
+   "label": "Let us enhance our learning Q11",
+   "text": "11. A vehicle moves along a straight line and covers a distance of 2 km. In the first 500 m, it moves with a speed of 10 m/s and in the next 500 m, it moves with a speed of 5 m/s. With what speed should it move the remaining distance so that the journey is complete in 200 s? What is the average speed of the vehicle for the entire journey?",
+   "type_hint": "numerical",
    "page": 119,
    "source": "end"
   }
  ],
  "topics": [
-  "Measurement of Time",
-  "A simple pendulum",
-  "SI unit of time",
-  "Slow or Fast",
-  "Speed",
-  "Relationship between speed, distance, and time",
-  "Uniform and Non-uniform Linear Motion",
-  "bob",
-  "mean position",
-  "periodic",
-  "one oscillation",
+  "measurement of time",
+  "sundial",
+  "water clock",
+  "Ghatika-yantra",
+  "hourglass",
+  "candle clock",
+  "pendulum clock",
+  "Galileo",
+  "Huygens",
+  "simple pendulum",
   "time period",
-  "calculate",
-  "second",
-  "symbol",
-  "minute",
-  "min",
-  "hour",
-  "decide",
+  "oscillation",
+  "SI unit of time",
   "speed",
-  "determine",
-  "SI unit of speed",
-  "metre/second",
-  "express",
-  "kilometre/hour",
-  "Example 8.1",
-  "Solution",
-  "Speed Example 8.2",
-  "Example 8.3",
-  "average speed"
+  "average speed",
+  "distance time speed relation",
+  "uniform linear motion",
+  "non-uniform linear motion",
+  "speedometer odometer",
+  "Samrat Yantra"
  ],
  "page_start": 105,
  "page_end": 120,
- "structured_by": "heuristic",
+ "structured_by": "llm:sonnet",
  "warnings": []
 }

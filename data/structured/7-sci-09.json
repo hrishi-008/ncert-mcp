@@ -6,11 +6,11 @@
  "part": 1,
  "chapter_no": 9,
  "title": "Life Processes in Animals",
- "summary": "- Life processes such as nutrition, circulation, respiration, excretion, and reproduction are essential for the survival of living beings. These processes are collectively called life processes. - The human digestive system consists of an alimentary canal which includes the mouth, oesophagus, stomach, small intestine, large intestine, and anus, and its associated parts, the liver and the pancreas. - The digested food is primarily absorbed through the walls of the small intestine. - The nutrients absorbed are distributed through the blood to different parts of the body where they are used for performing various functions. - The large intestine absorbs most of the remaining water and some salts from the undigested food. - Grass-eating animals such as cows and goats are called ruminants. They chew the food partially and swallow it. Later, the partially digested food is returned to the mouth, and the animal chews it thoroughly. - Breathing involves the movement of air into the lungs (inhalation) and out of the lungs (exhalation). - The exchange of oxygen and carbon dioxide occurs in the alveoli of the lungs. - Respiration uses oxygen from inhaled air to break down glucose into carbon dioxide and water. The process by which nutrients are converted into usable energy is called respiration. - The circulatory system transports nutrients and oxygen to all parts of the body. It includes the heart, which pumps blood through blood vessels, delivering oxygen and nutrients while also removing waste from the body. - Breathing is a physical process and respiration is a chemical process. - Different animals have different breathing mechanisms adapted to suit their habitats.",
+ "summary": "This chapter explains how animals digest food and breathe. In humans, food travels through the alimentary canal: mouth, food pipe, stomach, small intestine, large intestine, and anus. Saliva starts breaking down starch, the stomach digests proteins, and bile and pancreatic juice help digestion in the small intestine, where nutrients are absorbed into the blood. The large intestine absorbs water and the waste is egested. Ruminants like cows chew cud, and birds use a gizzard. Breathing brings in oxygen and removes carbon dioxide through the nose, windpipe, lungs and alveoli, helped by the diaphragm and ribs. Respiration is the chemical process in which glucose is broken down with oxygen to release energy. Different animals breathe using lungs, gills or skin to suit their habitats.",
  "sections": [
   {
    "section_id": "7-sci-09-s01",
-   "heading": "Chapter 9: Life Processes in Animals",
+   "heading": "Introduction: Life Processes in Animals",
    "text": "# Chapter 9: Life Processes in Animals\n\n<!-- page 121 -->\n\n## Life Processes\n\n## in Animals 9\n\nIf your food is fully digested before you eat again, you won’t need medicine for pain.\n\n(Thirukkural 942)\n\nIn the Grade 6 Science textbook Curiosity, chapter ‘Living Creatures: Exploring their Characteristics’, we learnt about processes essential for survival of living beings like nutrition, respiration, excretion, and reproduction. These are collectively called life processes. In this chapter, we will learn about life processes such as nutrition and respiration in detail.\n\n<!-- page 122 -->\n\n**Observe** your surroundings and **notice** what animals eat. Animals eat different types of food. Bees and sunbirds suck the nectar of flowers, while infants of humans and many other animals feed on their mother’s milk. Snakes, like python, swallow the animals they prey upon. Some aquatic animals filter tiny food particles floating nearby and feed upon them.\n\nAnimals, including humans, obtain energy from food, which enables them to carry out various life processes. Animals consume food that contains complex components, such as carbohydrate, protein, and fat. These complex food components have to be broken down into simpler forms before the body can use them. But how does this process happen?\n\n> Mouth\n\n> Oesophagus or Food pipe\n\nBreaking down of complex food components into simpler forms occurs in a long tube called the **alimentary canal**. This process starts in the mouth and ends at the anus (Fig. 9.1). As food moves through this canal, digestive juices secreted at different parts break it down into simpler forms. This simpler form of food is absorbed by different parts of our alimentary canal and transported to various parts of our body to carry out various functions.\n\n> Liver\n\n> Stomach\n\n> Pancreas\n\n> Small intestine\n\n> Large intestine\n\n> Rectum\n\n> Anus\n\nFig. 9.1: Human digestive system",
    "page_start": 121,
    "page_end": 122
@@ -38,7 +38,7 @@
   },
   {
    "section_id": "7-sci-09-s05",
-   "heading": "9.2 Respiration in Animals p",
+   "heading": "9.2 Respiration in Animals",
    "text": "### 9.2 Respiration in Animals p\n\nWe learnt in Grade 6 chapter ‘Living Creatures: Exploring their Characteristics’, that all living beings respire. Is the process of respiration the same in all animals? Let us first understand the process of respiration in humans.\n\n<!-- page 129 -->",
    "page_start": 128,
    "page_end": 129
@@ -52,7 +52,7 @@
   },
   {
    "section_id": "7-sci-09-s07",
-   "heading": "9.2.2 \u0007Do other animals breathe the same way as humans do?",
+   "heading": "9.2.2 Do other animals breathe the same way as humans do?",
    "text": "#### 9.2.2 \u0007Do other animals breathe the same way as humans do?\n\nYou have learnt that different animals live in different habitats. You may have observed birds flying and fish swimming. How do they breathe? Animals, such as birds, elephants, lions, cows, goats, lizards, and snakes, breathe through their lungs. Although all these animals have lungs, the structure of their lungs are quite different. Most aquatic animals like fish, have specialised structures known as **gills** (Fig. 9.14). These are richly supplied with blood vessels. The exchange of oxygen and carbon dioxide between the blood and the gases dissolved in water takes place across the gills.\n\nGills\n\nFig. 9.14: Body parts in a fish for breathing\n\nAmphibians, like frogs, live both on land and in water. They use different body parts for breathing at various stages of their life. For example, tadpoles breathe through gills, while adult frogs use lungs for breathing on land and skin for gas exchange when they stay in water. This adaptation helps them survive both in water and on land, showing how animals have adapted over time to different environments. Earthworms use their moist skin for the exchange of oxygen and carbon dioxide.\n\n<!-- page 134 -->\n\nThus, different animals have different breathing mechanisms to suit their unique habitats. Apart from the digestive system, the respiratory system, and the circulatory system, there are other systems which work in coordination with each other in the body and perform different functions to sustain life. You will study about them in higher grades.",
    "page_start": 133,
    "page_end": 134
@@ -81,115 +81,75 @@
  ],
  "key_terms": [
   {
-   "term": "notice",
-   "meaning": "Observe your surroundings and notice what animals eat.",
-   "page": 122
-  },
-  {
    "term": "alimentary canal",
-   "meaning": "Breaking down of complex food components into simpler forms occurs in a long tube called the alimentary canal.",
+   "meaning": "Breaking down of complex food components into simpler forms occurs in a long tube called the **alimentary canal**.",
    "page": 122
   },
   {
    "term": "mechanical digestion",
-   "meaning": "This process of initial breakdown of food into fine pieces is called mechanical digestion.",
+   "meaning": "This process of initial breakdown of food into fine pieces is called **mechanical digestion**.",
    "page": 122
   },
   {
-   "term": "saliva",
-   "meaning": "This happens because of more saliva that gets released when you recall your favourite food.",
-   "page": 123
-  },
-  {
-   "term": "indicates",
-   "meaning": "In test tube A, the appearance of the blue-black colour indicates the presence of starch.",
+   "term": "digestion",
+   "meaning": "This process of breaking complex food components into simpler forms in the body is called digestion.",
    "page": 124
-  },
-  {
-   "term": "oesophagus",
-   "meaning": "Your tongue helps in mixing chewed food with saliva and pushing this softened food into a long, flexible tube called the food pipe or oesophagus (Fig.",
-   "page": 124
-  },
-  {
-   "term": "liver",
-   "meaning": "The small intestine receives digestive secretions from three sources—the inner lining of the small intestine itself, and two more structures associated with the alimentary canal—the liver and the pancreas (Fig.",
-   "page": 125
-  },
-  {
-   "term": "pancreas",
-   "meaning": "The pancreas secretes pancreatic juice, which is also basic in nature and helps neutralise acids present in the food.",
-   "page": 126
   },
   {
    "term": "absorption",
-   "meaning": "This process is called absorption of nutrients.",
+   "meaning": "This process is called **absorption** of nutrients.",
    "page": 126
   },
   {
    "term": "stool",
-   "meaning": "This semi-solid waste is called stool.",
+   "meaning": "This semi-solid waste is called **stool**.",
    "page": 127
   },
   {
-   "term": "rectum",
-   "meaning": "The stool is then stored in the lower part of the large intestine, called the rectum, until the body is ready to get rid of it.",
-   "page": 127
-  },
-  {
-   "term": "egestion",
-   "meaning": "Finally, it is expelled through the anus—a process known as egestion.",
-   "page": 127
-  },
-  {
-   "term": "respiration",
-   "meaning": "The process by which nutrients are converted into usable energy is called respiration.",
+   "term": "rumination",
+   "meaning": "This process is called rumination, and these animals are called ruminants.",
    "page": 128
   },
   {
+   "term": "respiration",
+   "meaning": "The process by which nutrients are converted into usable energy is called **respiration**.",
+   "page": 128
+  },
+  {
+   "term": "breathing",
+   "meaning": "The process of inhaling and exhaling air is called breathing.",
+   "page": 129
+  },
+  {
    "term": "respiratory system",
-   "meaning": "This system is called respiratory system.",
+   "meaning": "This system is called **respiratory system.**",
    "page": 129
   },
   {
-   "term": "nostrils",
-   "meaning": "The respiratory system begins with a pair of nasal openings called nostrils through which we inhale and exhale air (Fig.",
-   "page": 129
-  },
-  {
-   "term": "nasal passages",
-   "meaning": "The inhaled air passes into a pair of small passages called the nasal passages.",
-   "page": 129
-  },
-  {
-   "term": "Breathing Practices for a Healthy Life",
-   "meaning": "Breathing Practices for a Healthy Life Breathing exercises have been practised across different cultures in India and worldwide for centuries.",
-   "page": 131
-  },
-  {
-   "term": "gills",
-   "meaning": "Most aquatic animals like fish, have specialised structures known as gills (Fig.",
+   "term": "circulatory system",
+   "meaning": "This system is called the circulatory system.",
    "page": 133
   },
   {
-   "term": "Name of the part Functions",
-   "meaning": "Name of the part Functions (i)Nostrils (a)fresh air from outside enters (ii)Nasal passages (b)exchange of gases occurs (iii)Windpipe (c)protects lungs (iv)Alveoli (d)tiny hair and mucus help to",
-   "page": 135
+   "term": "gills",
+   "meaning": "Most aquatic animals like fish, have specialised structures known as **gills** (Fig. 9.14).",
+   "page": 133
   }
  ],
  "activities": [
   {
    "label": "Activity 9.1: Let us investigate",
-   "description": "- Take two test tubes and label them as ‘A’ and ‘B’. - Take one teaspoonful of boiled rice in test tube A, and take a teaspoonful of boiled rice after chewing it for 30–60 seconds in test tube B. - Add 3–4 mL of water in both the test tubes. - Note the initial colour of the rice-water mixture in Table 9.1. - Add 3–4 drops of iodine solution into each test tube with the help of a dropper. Mix the content of each test tube separately and observe.",
+   "description": "- Take two test tubes and label them as ‘A’ and ‘B’. - Take one teaspoonful of boiled rice in test tube A, and take a teaspoonful of boiled rice after chewing it for 30–60 seconds in test tube B. - Add 3–4 mL of water in both the test tubes. - Note the initial colour of the rice-water mixture in Table 9.1. - Add 3–4 drops of iodine solution into each test tube with the help of a dropper. Mix the content of each test tube separately and observe. Record your observations in Table 9.1. Table 9.1: A",
    "page": 123
   },
   {
    "label": "Activity 9.2: Let us make a model",
-   "description": "- Take a wide transparent plastic bottle with a lid. Remove its bottom. - Make a hole in the lid of the bottle. - Take a Y-shaped hollow tube, as shown in Fig. 9.9. - Fix two deflated balloons to the forked end of the tube. Secure them with rubber bands to make them airtight. - Insert the straight end of the tube tightly through the lid from the open base of the bottle and seal the lid with clay to make it airtight. | (a) Inhalation (b) Exhalation",
+   "description": "- Take a wide transparent plastic bottle with a lid. Remove its bottom. - Make a hole in the lid of the bottle. - Take a Y-shaped hollow tube, as shown in Fig. 9.9. - Fix two deflated balloons to the forked end of the tube. Secure them with rubber bands to make them airtight. - Insert the straight end of the tube tightly through the lid from the open base of the bottle and seal the lid with clay to make it airtight. | (a) Inhalation (b) Exhalation Fig. 9.9: Model to show mechanisms of breathing ",
    "page": 130
   },
   {
    "label": "Activity 9.3: Let us explore",
-   "description": "To be demonstrated by the teacher - Take an equal amount of freshly prepared lime water in two test tubes, A and B, as given in Fig. 9.11. | Pichkari Straw - In test tube A, pass the air using | Straw a syringe/pichkari (Fig. 9.11a). This is the same air that you inhale. Test tube B Test tube A containing lime water containing lime water - In test tube B, repeatedly blow air through your mouth into the lime water using a straw (Fig. 9.11b). | (a) (b)",
+   "description": "To be demonstrated by the teacher - Take an equal amount of freshly prepared lime water in two test tubes, A and B, as given in Fig. 9.11. | Pichkari Straw - In test tube A, pass the air using | Straw a syringe/pichkari (Fig. 9.11a). This is the same air that you inhale. Test tube B Test tube A containing lime water containing lime water - In test tube B, repeatedly blow air through your mouth into the lime water using a straw (Fig. 9.11b). | (a) (b) Fig. 9.11: (a) Air is passed into lime water ",
    "page": 131
   }
  ],
@@ -205,8 +165,13 @@
    "page": 124
   },
   {
+   "label": "Fig. 9.3",
+   "caption": "Stomach",
+   "page": 125
+  },
+  {
    "label": "Fig. 9.4",
-   "caption": "Alimentary canal if it is",
+   "caption": "Alimentary canal if it is stretched out",
    "page": 125
   },
   {
@@ -221,7 +186,7 @@
   },
   {
    "label": "Fig. 9.7",
-   "caption": "Digestive system in birds Fig9 7: Digestive system in b",
+   "caption": "Digestive system in birds",
    "page": 128
   },
   {
@@ -251,7 +216,7 @@
   },
   {
    "label": "Fig. 9.13",
-   "caption": "The percentage of oxygen and carbon",
+   "caption": "The percentage of oxygen and carbon dioxide in inhaled and exhaled air",
    "page": 132
   },
   {
@@ -277,105 +242,104 @@
  ],
  "exercises": [
   {
-   "label": "Let Us Enhance Our Learning Q1",
+   "label": "Let us enhance our learning Q1",
    "text": "1. Complete the journey of food through the alimentary canal by filling up the boxes with appropriate parts—\n\nFood Mouth Stomach Anus",
-   "type_hint": "short",
+   "type_hint": "fill_blank",
    "page": 135,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q2",
+   "label": "Let us enhance our learning Q2",
    "text": "2. Sahil placed some pieces of chapati in test tube A. Neha placed chewed chapati in test tube B, and Santushti took boiled and mashed potato in test tube C. All of them added a few drops of iodine solution to their test tubes—A, B, and C, respectively. What would be their observations? Give reasons.",
-   "type_hint": "long",
-   "page": 135,
-   "source": "end"
-  },
-  {
-   "label": "Let Us Enhance Our Learning Q3",
-   "text": "3. What is the role of the diaphragm in breathing?\n(i) To filter the air\n\n(ii) To produce sound\n\n(iii) To help in inhalation and exhalation\n\n(iv) To absorb oxygen",
    "type_hint": "short",
    "page": 135,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q4",
-   "text": "4. Match the following\n\n**Name of the part Functions** (i)Nostrils (a)fresh air from outside enters (ii)Nasal passages (b)exchange of gases occurs (iii)Windpipe (c)protects lungs (iv)Alveoli (d)tiny hair and mucus help to\n\n> ENQUIRY\n\ntrap dust and dirt from the air we breathe (v)Ribcage (e)air reaches our lungs through\n\n> ?\n\nthis part\n\n> WHY\n\n> WHAT IF",
+   "label": "Let us enhance our learning Q3",
+   "text": "3. What is the role of the diaphragm in breathing?\n(i) To filter the air\n\n(ii) To produce sound\n\n(iii) To help in inhalation and exhalation\n\n(iv) To absorb oxygen",
    "type_hint": "mcq",
    "page": 135,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q5",
+   "label": "Let us enhance our learning Q4",
+   "text": "4. Match the following\n\n**Name of the part Functions** (i)Nostrils (a)fresh air from outside enters (ii)Nasal passages (b)exchange of gases occurs (iii)Windpipe (c)protects lungs (iv)Alveoli (d)tiny hair and mucus help to\n\n> ENQUIRY\n\ntrap dust and dirt from the air we breathe (v)Ribcage (e)air reaches our lungs through\n\n> ?\n\nthis part",
+   "type_hint": "match",
+   "page": 135,
+   "source": "end"
+  },
+  {
+   "label": "Let us enhance our learning Q5",
    "text": "5. Anil claims to his friend Sanvi that respiration and breathing are the same process. What question(s) can Sanvi ask him to make him understand that he is not correct?",
    "type_hint": "short",
    "page": 135,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q6",
+   "label": "Let us enhance our learning Q6",
    "text": "6. Which of the following statements is correct and why? Anu: We inhale air. Shanu: We inhale oxygen. Tanu: We inhale air rich in oxygen.",
-   "type_hint": "long",
+   "type_hint": "short",
    "page": 135,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q7",
+   "label": "Let us enhance our learning Q7",
    "text": "7. We often sneeze when we inhale a lot of dust-laden air. What can be possible explanations for this?",
    "type_hint": "short",
    "page": 135,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q8",
-   "text": "8. Paridhi and Anusha of Grade 7 started running for their morning workout. After they completed their running, they counted their breaths per minute. Anusha was breathing faster than Paridhi. Provide at least two possible explanations for why Anusha was breathing faster than Paridhi.\n\n> W\n\n> WHERE\n\n> H E N\n\n> H O W\n\n> WHAT COULD CAN\n\n> L O N G\n\n> IT ?\n\n> W\n\n> H\n\n> I C H\n\n> WHOSE\n\n> W HAT\n\n> ELSE\n\n> WHAT WILL\n\n> HAPPEN\n\n> WHAT SHOULD\n\n> WHY\n\n> NOT\n\n<!-- page 136 -->",
-   "type_hint": "long",
+   "label": "Let us enhance our learning Q8",
+   "text": "8. Paridhi and Anusha of Grade 7 started running for their morning workout. After they completed their running, they counted their breaths per minute. Anusha was breathing faster than Paridhi. Provide at least two possible explanations for why Anusha was breathing faster than Paridhi.",
+   "type_hint": "short",
    "page": 135,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q9",
+   "label": "Let us enhance our learning Q9",
    "text": "9. Yadu conducted an experiment to test his idea. He took two test tubes, A and B, and added a pinch of rice flour to the test tubes, half-filled with water and stirred them properly. To test tube B, he added a few drops of saliva. He left the two test tubes for 35–45 min. After that, he added iodine solution into both the test tubes. Experimental results are as shown in Fig. 9.15. What do you think he wants to test?",
    "type_hint": "short",
    "page": 136,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q10",
-   "text": "10. Rakshita designed an experiment taking two clean test tubes, A and B and filled them with lime water as shown in the figure. In test tube A, the surrounding air that we inhale was passed on by sucking air from the pipe, and in test tube B, the exhaled air was blown through the pipe (Fig. 9.16). What do you think she is trying to investigate? How can she confirm her findings?\n\nIodine solution\n\n> INNOVATION\n\n> DISCOVERY\n\n(A) (B)\n\n> ENQUIRY\n\nFig. 9.15: Experimental results\n\n> EXPLORATION\n\n> CURIOSITY\n\n(A) (B)\n\nFig. 9.16: Experimental set-up",
+   "label": "Let us enhance our learning Q10",
+   "text": "10. Rakshita designed an experiment taking two clean test tubes, A and B and filled them with lime water as shown in the figure. In test tube A, the surrounding air that we inhale was passed on by sucking air from the pipe, and in test tube B, the exhaled air was blown through the pipe (Fig. 9.16). What do you think she is trying to investigate? How can she confirm her findings?",
    "type_hint": "short",
    "page": 136,
    "source": "end"
   }
  ],
  "topics": [
-  "Nutrition in Animals",
-  "Digestion in human beings",
-  "Do all animals digest food the same way as humans do?",
-  "Respiration in Animals",
-  "Respiration in humans",
-  "\u0007Do other animals breathe the same way as humans do?",
-  "notice",
+  "life processes",
+  "nutrition in animals",
   "alimentary canal",
+  "digestion",
   "mechanical digestion",
-  "saliva",
-  "indicates",
+  "saliva and starch",
   "oesophagus",
-  "liver",
-  "pancreas",
-  "absorption",
-  "stool",
-  "rectum",
+  "stomach",
+  "small intestine",
+  "absorption of nutrients",
+  "large intestine",
   "egestion",
-  "respiration",
+  "ruminants and rumination",
+  "gizzard in birds",
+  "breathing",
   "respiratory system",
-  "nostrils",
-  "nasal passages",
-  "Breathing Practices for a Healthy Life",
+  "alveoli and gas exchange",
+  "diaphragm",
+  "respiration equation",
+  "lime water test",
   "gills",
-  "Name of the part Functions"
+  "circulatory system",
+  "oral hygiene",
+  "smoking"
  ],
  "page_start": 121,
  "page_end": 136,
- "structured_by": "heuristic",
+ "structured_by": "llm:sonnet",
  "warnings": []
 }
