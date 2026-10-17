@@ -4,139 +4,134 @@
  "pages": [
   {
    "page": "106",
-   "plain_words": 148,
+   "plain_words": 77,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "107",
-   "plain_words": 193,
+   "plain_words": 88,
    "missing": 1,
-   "missing_ratio": 0.005,
+   "missing_ratio": 0.011,
    "sample": [
     "parallel"
    ]
   },
   {
    "page": "108",
-   "plain_words": 241,
+   "plain_words": 119,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "109",
-   "plain_words": 109,
+   "plain_words": 53,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "110",
-   "plain_words": 93,
+   "plain_words": 58,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "111",
-   "plain_words": 154,
+   "plain_words": 71,
    "missing": 1,
-   "missing_ratio": 0.006,
+   "missing_ratio": 0.014,
    "sample": [
     "intersecting"
    ]
   },
   {
    "page": "112",
-   "plain_words": 95,
+   "plain_words": 61,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "113",
-   "plain_words": 77,
-   "missing": 3,
-   "missing_ratio": 0.039,
+   "plain_words": 43,
+   "missing": 1,
+   "missing_ratio": 0.023,
    "sample": [
-    "parallel",
-    "intersecting",
-    "lines"
+    "intersecting"
    ]
   },
   {
    "page": "114",
-   "plain_words": 95,
+   "plain_words": 62,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "115",
-   "plain_words": 178,
+   "plain_words": 74,
    "missing": 2,
-   "missing_ratio": 0.011,
+   "missing_ratio": 0.027,
    "sample": [
-    "parallel",
-    "intersecting"
+    "intersecting",
+    "parallel"
    ]
   },
   {
    "page": "116",
-   "plain_words": 114,
+   "plain_words": 60,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "117",
-   "plain_words": 160,
-   "missing": 1,
-   "missing_ratio": 0.006,
-   "sample": [
-    "intersecting"
-   ]
+   "plain_words": 63,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   },
   {
    "page": "118",
-   "plain_words": 140,
+   "plain_words": 57,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "119",
-   "plain_words": 162,
-   "missing": 2,
-   "missing_ratio": 0.012,
+   "plain_words": 78,
+   "missing": 1,
+   "missing_ratio": 0.013,
    "sample": [
-    "intersecting",
-    "lines"
+    "intersecting"
    ]
   },
   {
    "page": "120",
-   "plain_words": 145,
+   "plain_words": 57,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "121",
-   "plain_words": 115,
+   "plain_words": 40,
    "missing": 1,
-   "missing_ratio": 0.009,
+   "missing_ratio": 0.025,
    "sample": [
     "intersecting"
    ]
   },
   {
    "page": "122",
-   "plain_words": 171,
+   "plain_words": 72,
    "missing": 1,
-   "missing_ratio": 0.006,
+   "missing_ratio": 0.014,
    "sample": [
     "adis"
    ]
@@ -152,103 +147,96 @@
   },
   {
    "page": "124",
-   "plain_words": 24,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "125",
-   "plain_words": 47,
-   "missing": 2,
-   "missing_ratio": 0.043,
-   "sample": [
-    "intersecting",
-    "eais"
-   ]
-  },
-  {
-   "page": "126",
-   "plain_words": 135,
-   "missing": 7,
-   "missing_ratio": 0.052,
-   "sample": [
-    "the",
-    "answers",
-    "chapter",
-    "questions",
-    "from",
-    "book"
-   ]
-  },
-  {
-   "page": "answers 1",
-   "plain_words": 69,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "answers 2",
-   "plain_words": 88,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "answers 3",
-   "plain_words": 159,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "answers 4",
-   "plain_words": 119,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "answers 5",
    "plain_words": 17,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
-   "page": "answers 6",
-   "plain_words": 41,
+   "page": "125",
+   "plain_words": 29,
    "missing": 2,
-   "missing_ratio": 0.049,
+   "missing_ratio": 0.069,
+   "sample": [
+    "eais",
+    "intersecting"
+   ]
+  },
+  {
+   "page": "126",
+   "plain_words": 48,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 1",
+   "plain_words": 42,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 2",
+   "plain_words": 51,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 3",
+   "plain_words": 69,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 4",
+   "plain_words": 64,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 5",
+   "plain_words": 13,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 6",
+   "plain_words": 23,
+   "missing": 1,
+   "missing_ratio": 0.043,
    "sample": [
     "did"
    ]
   },
   {
    "page": "answers 7",
-   "plain_words": 65,
+   "plain_words": 43,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 8",
-   "plain_words": 61,
+   "plain_words": 35,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 9",
-   "plain_words": 113,
+   "plain_words": 67,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 10",
-   "plain_words": 49,
+   "plain_words": 31,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
@@ -262,20 +250,18 @@
   },
   {
    "page": "answers 12",
-   "plain_words": 28,
+   "plain_words": 19,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 13",
-   "plain_words": 33,
+   "plain_words": 22,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   }
  ],
- "flagged_pages": [
-  "126"
- ]
+ "flagged_pages": []
 }

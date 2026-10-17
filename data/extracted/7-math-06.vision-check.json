@@ -4,342 +4,252 @@
  "pages": [
   {
    "page": "127",
-   "plain_words": 60,
+   "plain_words": 40,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "128",
-   "plain_words": 133,
+   "plain_words": 73,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "129",
-   "plain_words": 162,
+   "plain_words": 77,
    "missing": 1,
-   "missing_ratio": 0.006,
+   "missing_ratio": 0.013,
    "sample": [
     "play"
    ]
   },
   {
    "page": "130",
-   "plain_words": 217,
+   "plain_words": 93,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "131",
-   "plain_words": 187,
-   "missing": 2,
-   "missing_ratio": 0.011,
+   "plain_words": 78,
+   "missing": 1,
+   "missing_ratio": 0.013,
    "sample": [
-    "number",
     "play"
    ]
   },
   {
    "page": "132",
-   "plain_words": 154,
-   "missing": 3,
-   "missing_ratio": 0.019,
+   "plain_words": 71,
+   "missing": 1,
+   "missing_ratio": 0.014,
    "sample": [
     "nth"
    ]
   },
   {
    "page": "133",
-   "plain_words": 164,
-   "missing": 5,
-   "missing_ratio": 0.03,
+   "plain_words": 76,
+   "missing": 2,
+   "missing_ratio": 0.026,
    "sample": [
     "nth",
-    "number",
     "play"
    ]
   },
   {
    "page": "134",
-   "plain_words": 257,
+   "plain_words": 122,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "135",
-   "plain_words": 211,
-   "missing": 2,
-   "missing_ratio": 0.009,
+   "plain_words": 89,
+   "missing": 1,
+   "missing_ratio": 0.011,
    "sample": [
-    "number",
     "play"
    ]
   },
   {
    "page": "136",
-   "plain_words": 181,
+   "plain_words": 93,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "137",
-   "plain_words": 178,
-   "missing": 3,
-   "missing_ratio": 0.017,
+   "plain_words": 97,
+   "missing": 2,
+   "missing_ratio": 0.021,
    "sample": [
-    "number",
-    "play",
-    "chau"
+    "chau",
+    "play"
    ]
   },
   {
    "page": "138",
-   "plain_words": 156,
+   "plain_words": 107,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "139",
-   "plain_words": 208,
-   "missing": 2,
-   "missing_ratio": 0.01,
+   "plain_words": 124,
+   "missing": 1,
+   "missing_ratio": 0.008,
    "sample": [
-    "number",
     "play"
    ]
   },
   {
    "page": "140",
-   "plain_words": 161,
+   "plain_words": 64,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "141",
-   "plain_words": 303,
-   "missing": 2,
-   "missing_ratio": 0.007,
+   "plain_words": 126,
+   "missing": 1,
+   "missing_ratio": 0.008,
    "sample": [
-    "number",
     "play"
    ]
   },
   {
    "page": "142",
-   "plain_words": 181,
+   "plain_words": 92,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "143",
-   "plain_words": 184,
-   "missing": 2,
+   "plain_words": 92,
+   "missing": 1,
    "missing_ratio": 0.011,
    "sample": [
-    "number",
     "play"
    ]
   },
   {
    "page": "144",
-   "plain_words": 214,
+   "plain_words": 99,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "145",
-   "plain_words": 119,
-   "missing": 7,
-   "missing_ratio": 0.059,
+   "plain_words": 76,
+   "missing": 1,
+   "missing_ratio": 0.013,
    "sample": [
-    "number",
-    "play",
-    "chapter",
-    "answers",
-    "questions",
-    "from",
-    "book"
+    "play"
    ]
   },
   {
    "page": "answers 1",
-   "plain_words": 89,
+   "plain_words": 48,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 2",
-   "plain_words": 158,
-   "missing": 13,
-   "missing_ratio": 0.082,
-   "sample": [
-    "the",
-    "from",
-    "cutouts",
-    "back",
-    "book",
-    "have",
-    "may",
-    "also",
-    "like",
-    "draw",
-    "this",
-    "way"
-   ]
+   "plain_words": 72,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   },
   {
    "page": "answers 3",
-   "plain_words": 113,
-   "missing": 16,
-   "missing_ratio": 0.142,
-   "sample": [
-    "the",
-    "lakpa",
-    "total",
-    "mistake",
-    "have",
-    "must",
-    "made",
-    "can",
-    "never",
-    "with",
-    "given",
-    "coin"
-   ]
+   "plain_words": 46,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   },
   {
    "page": "answers 4",
-   "plain_words": 90,
+   "plain_words": 46,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 5",
-   "plain_words": 73,
-   "missing": 2,
-   "missing_ratio": 0.027,
+   "plain_words": 40,
+   "missing": 1,
+   "missing_ratio": 0.025,
    "sample": [
     "nth"
    ]
   },
   {
    "page": "answers 6",
-   "plain_words": 148,
-   "missing": 57,
-   "missing_ratio": 0.385,
-   "sample": [
-    "magic",
-    "the",
-    "each",
-    "using",
-    "numbers",
-    "how",
-    "squares",
-    "made",
-    "ans",
-    "number",
-    "case",
-    "many"
-   ]
+   "plain_words": 48,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   },
   {
    "page": "answers 7",
-   "plain_words": 90,
-   "missing": 16,
-   "missing_ratio": 0.178,
-   "sample": [
-    "magic",
-    "square",
-    "numbers",
-    "ans",
-    "like",
-    "discuss",
-    "ways",
-    "creating",
-    "using",
-    "any",
-    "set",
-    "consecutive"
-   ]
+   "plain_words": 40,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   },
   {
    "page": "answers 8",
-   "plain_words": 105,
+   "plain_words": 51,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 9",
-   "plain_words": 71,
-   "missing": 8,
-   "missing_ratio": 0.113,
-   "sample": [
-    "magic",
-    "create",
-    "square",
-    "whose",
-    "sum",
-    "possible",
-    "yes"
-   ]
+   "plain_words": 39,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   },
   {
    "page": "answers 10",
-   "plain_words": 197,
+   "plain_words": 81,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 11",
-   "plain_words": 94,
+   "plain_words": 40,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 12",
-   "plain_words": 103,
-   "missing": 9,
-   "missing_ratio": 0.087,
-   "sample": [
-    "the",
-    "even",
-    "odd",
-    "what",
-    "parity",
-    "sum",
-    "numbers",
-    "from"
-   ]
+   "plain_words": 47,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   },
   {
    "page": "answers 13",
-   "plain_words": 67,
+   "plain_words": 31,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   }
  ],
- "flagged_pages": [
-  "145",
-  "answers 2",
-  "answers 3",
-  "answers 6",
-  "answers 7",
-  "answers 9",
-  "answers 12"
- ]
+ "flagged_pages": []
 }

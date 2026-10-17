@@ -4,101 +4,96 @@
  "pages": [
   {
    "page": "24",
-   "plain_words": 152,
+   "plain_words": 81,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "25",
-   "plain_words": 161,
-   "missing": 2,
-   "missing_ratio": 0.012,
+   "plain_words": 68,
+   "missing": 1,
+   "missing_ratio": 0.015,
    "sample": [
-    "arithmetic",
-    "expressions"
+    "arithmetic"
    ]
   },
   {
    "page": "26",
-   "plain_words": 159,
+   "plain_words": 88,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "27",
-   "plain_words": 233,
-   "missing": 2,
-   "missing_ratio": 0.009,
+   "plain_words": 104,
+   "missing": 1,
+   "missing_ratio": 0.01,
    "sample": [
-    "arithmetic",
-    "expressions"
+    "arithmetic"
    ]
   },
   {
    "page": "28",
-   "plain_words": 203,
+   "plain_words": 101,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "29",
-   "plain_words": 141,
-   "missing": 2,
-   "missing_ratio": 0.014,
+   "plain_words": 80,
+   "missing": 1,
+   "missing_ratio": 0.013,
    "sample": [
-    "arithmetic",
-    "expressions"
+    "arithmetic"
    ]
   },
   {
    "page": "30",
-   "plain_words": 199,
+   "plain_words": 80,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "31",
-   "plain_words": 260,
-   "missing": 2,
+   "plain_words": 133,
+   "missing": 1,
    "missing_ratio": 0.008,
    "sample": [
-    "arithmetic",
-    "expressions"
+    "arithmetic"
    ]
   },
   {
    "page": "32",
-   "plain_words": 173,
+   "plain_words": 111,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "33",
-   "plain_words": 147,
-   "missing": 2,
+   "plain_words": 72,
+   "missing": 1,
    "missing_ratio": 0.014,
    "sample": [
-    "arithmetic",
-    "expressions"
+    "arithmetic"
    ]
   },
   {
    "page": "34",
-   "plain_words": 176,
+   "plain_words": 92,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "35",
-   "plain_words": 153,
+   "plain_words": 83,
    "missing": 2,
-   "missing_ratio": 0.013,
+   "missing_ratio": 0.024,
    "sample": [
     "arithmetic",
     "expressions"
@@ -106,186 +101,132 @@
   },
   {
    "page": "36",
-   "plain_words": 239,
+   "plain_words": 115,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "37",
-   "plain_words": 107,
-   "missing": 2,
-   "missing_ratio": 0.019,
+   "plain_words": 58,
+   "missing": 1,
+   "missing_ratio": 0.017,
    "sample": [
-    "arithmetic",
-    "expressions"
+    "arithmetic"
    ]
   },
   {
    "page": "38",
-   "plain_words": 159,
+   "plain_words": 95,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "39",
-   "plain_words": 157,
-   "missing": 2,
-   "missing_ratio": 0.013,
+   "plain_words": 86,
+   "missing": 1,
+   "missing_ratio": 0.012,
    "sample": [
-    "arithmetic",
-    "expressions"
+    "arithmetic"
    ]
   },
   {
    "page": "40",
-   "plain_words": 102,
+   "plain_words": 56,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "41",
-   "plain_words": 75,
-   "missing": 2,
-   "missing_ratio": 0.027,
+   "plain_words": 50,
+   "missing": 1,
+   "missing_ratio": 0.02,
    "sample": [
-    "arithmetic",
-    "expressions"
+    "arithmetic"
    ]
   },
   {
    "page": "42",
-   "plain_words": 116,
+   "plain_words": 70,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "43",
-   "plain_words": 95,
-   "missing": 2,
-   "missing_ratio": 0.021,
+   "plain_words": 69,
+   "missing": 1,
+   "missing_ratio": 0.014,
    "sample": [
-    "arithmetic",
-    "expressions"
+    "arithmetic"
    ]
   },
   {
    "page": "44",
-   "plain_words": 165,
+   "plain_words": 96,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "45",
-   "plain_words": 74,
-   "missing": 7,
-   "missing_ratio": 0.095,
+   "plain_words": 44,
+   "missing": 1,
+   "missing_ratio": 0.023,
    "sample": [
-    "arithmetic",
-    "expressions",
-    "from",
-    "questions",
-    "answers",
-    "chapter",
-    "book"
+    "arithmetic"
    ]
   },
   {
    "page": "answers 1",
-   "plain_words": 98,
-   "missing": 11,
-   "missing_ratio": 0.112,
-   "sample": [
-    "the",
-    "expressions",
-    "fill",
-    "blanks",
-    "make",
-    "equal",
-    "both",
-    "sides",
-    "sign"
-   ]
+   "plain_words": 50,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   },
   {
    "page": "answers 2",
-   "plain_words": 149,
-   "missing": 34,
-   "missing_ratio": 0.228,
-   "sample": [
-    "ans",
-    "the",
-    "can",
-    "you",
-    "explain",
-    "why",
-    "this",
-    "examples",
-    "subtracting",
-    "number",
-    "same",
-    "adding"
-   ]
+   "plain_words": 66,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   },
   {
    "page": "answers 3",
-   "plain_words": 115,
-   "missing": 11,
-   "missing_ratio": 0.096,
-   "sample": [
-    "ans",
-    "yes",
-    "adding",
-    "any",
-    "order",
-    "same",
-    "gives"
-   ]
+   "plain_words": 54,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   },
   {
    "page": "answers 4",
-   "plain_words": 149,
-   "missing": 12,
-   "missing_ratio": 0.081,
-   "sample": [
-    "the",
-    "expression",
-    "ans",
-    "total",
-    "for",
-    "terms",
-    "cost",
-    "are"
-   ]
+   "plain_words": 74,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   },
   {
    "page": "answers 5",
-   "plain_words": 58,
+   "plain_words": 29,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 6",
-   "plain_words": 138,
+   "plain_words": 66,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 7",
-   "plain_words": 103,
-   "missing": 3,
-   "missing_ratio": 0.029,
-   "sample": [
-    "value",
-    "gold",
-    "coins"
-   ]
+   "plain_words": 60,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   },
   {
    "page": "answers 8",
@@ -296,52 +237,38 @@
   },
   {
    "page": "answers 9",
-   "plain_words": 62,
+   "plain_words": 41,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 10",
-   "plain_words": 60,
+   "plain_words": 33,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 11",
-   "plain_words": 96,
+   "plain_words": 63,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 12",
-   "plain_words": 85,
-   "missing": 1,
-   "missing_ratio": 0.012,
-   "sample": [
-    "ans"
-   ]
+   "plain_words": 48,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   },
   {
    "page": "answers 13",
-   "plain_words": 73,
-   "missing": 14,
-   "missing_ratio": 0.192,
-   "sample": [
-    "try",
-    "further",
-    "procedure",
-    "yes",
-    "this",
-    "quicker",
-    "than",
-    "the",
-    "multiplication",
-    "generally",
-    "use"
-   ]
+   "plain_words": 47,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   },
   {
    "page": "answers 14",
@@ -352,43 +279,32 @@
   },
   {
    "page": "answers 15",
-   "plain_words": 67,
+   "plain_words": 49,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 16",
-   "plain_words": 170,
+   "plain_words": 85,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 17",
-   "plain_words": 58,
+   "plain_words": 40,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 18",
-   "plain_words": 68,
-   "missing": 3,
-   "missing_ratio": 0.044,
-   "sample": [
-    "ans",
-    "iii",
-    "and"
-   ]
+   "plain_words": 42,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   }
  ],
- "flagged_pages": [
-  "45",
-  "answers 1",
-  "answers 2",
-  "answers 3",
-  "answers 4",
-  "answers 13"
- ]
+ "flagged_pages": []
 }

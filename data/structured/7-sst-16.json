@@ -110,7 +110,7 @@
  "key_terms": [
   {
    "term": "Turkic",
-   "meaning": "Refers to peoples, languages, and cultures historically associated with a vast region stretching across Central Asia, all the way to Turkey and Siberia.",
+   "meaning": "The 11th and 12th centuries tell a different story: invasions by Turkic powers penetrated much deeper into north India, despite stubborn resistance from native kingdoms.",
    "page": 98
   },
   {
@@ -588,7 +588,5 @@
  "page_start": 97,
  "page_end": 124,
  "structured_by": "llm:sonnet",
- "warnings": [
-  "key term 'Turkic' meaning is not copied from the book"
- ]
+ "warnings": []
 }

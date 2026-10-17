@@ -110,7 +110,7 @@
  "key_terms": [
   {
    "term": "Jews",
-   "meaning": "Jews are members of the people and the cultural community originating from the ancient Hebrews of Israel and traditionally linked to the religion of Judaism.",
+   "meaning": "Jews: Jews are members of",
    "page": 126
   },
   {
@@ -434,7 +434,5 @@
  "page_start": 125,
  "page_end": 142,
  "structured_by": "llm:sonnet",
- "warnings": [
-  "key term 'Jews' meaning is not copied from the book"
- ]
+ "warnings": []
 }

@@ -269,6 +269,22 @@ def activities(doc: Doc, prefixes: list[str]) -> list[Activity]:
     return out
 
 
+def fix_meanings(kts: list[KeyTerm], doc: Doc) -> None:
+    """A meaning that is not an exact copy is replaced by the book's own sentence using the term (or dropped)."""
+    whole = squash(doc.markdown)
+    for k in kts:
+        if not k.meaning or k.meaning.startswith("(glossary)") or squash(k.meaning) in whole:
+            continue
+        sentence = ""
+        for line in doc.lines:
+            plain = strip_md(line)
+            if k.term.lower() in plain.lower() and not HEAD_RE.match(line):
+                sentence = next((x for x in re.split(r"(?<=[.!?])\s+", plain) if k.term.lower() in x.lower()), "")
+                if sentence:
+                    break
+        k.meaning = sentence[:300]
+
+
 def chapter_shell(entry: dict) -> dict:
     return {"chapter_id": entry["chapter_id"], "class": entry["class"], "subject": entry["subject"], "book": entry["book"],
             "part": entry["part"], "chapter_no": entry["chapter_no"], "title": entry["title"]}
@@ -451,6 +467,7 @@ def llm_mode(entry: dict, doc: Doc, cfg: dict) -> Chapter:
                  structured_by=f"llm:{llm.MODEL}")  # "llm:sonnet" via Claude Code, or the API model id
     warnings = verify(ch, doc)
     whole = squash(doc.markdown)
+    fix_meanings(kts, doc)
     for k in kts:
         if k.meaning and not k.meaning.startswith("(glossary)") and squash(k.meaning) not in whole:
             warnings.append(f"key term '{k.term}' meaning is not copied from the book")

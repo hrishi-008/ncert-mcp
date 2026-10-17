@@ -4,311 +4,296 @@
  "pages": [
   {
    "page": "1",
-   "plain_words": 160,
+   "plain_words": 102,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "2",
-   "plain_words": 115,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "3",
-   "plain_words": 185,
-   "missing": 3,
-   "missing_ratio": 0.016,
-   "sample": [
-    "large",
-    "numbers",
-    "around"
-   ]
-  },
-  {
-   "page": "4",
-   "plain_words": 195,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "5",
-   "plain_words": 154,
-   "missing": 3,
-   "missing_ratio": 0.019,
-   "sample": [
-    "large",
-    "numbers",
-    "around"
-   ]
-  },
-  {
-   "page": "6",
-   "plain_words": 134,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "7",
-   "plain_words": 187,
-   "missing": 3,
-   "missing_ratio": 0.016,
-   "sample": [
-    "large",
-    "numbers",
-    "around"
-   ]
-  },
-  {
-   "page": "8",
-   "plain_words": 218,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "9",
-   "plain_words": 140,
-   "missing": 3,
-   "missing_ratio": 0.021,
-   "sample": [
-    "large",
-    "numbers",
-    "around"
-   ]
-  },
-  {
-   "page": "10",
-   "plain_words": 162,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "11",
-   "plain_words": 156,
-   "missing": 3,
-   "missing_ratio": 0.019,
-   "sample": [
-    "large",
-    "numbers",
-    "around"
-   ]
-  },
-  {
-   "page": "12",
    "plain_words": 58,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
-   "page": "13",
-   "plain_words": 103,
-   "missing": 3,
-   "missing_ratio": 0.029,
+   "page": "3",
+   "plain_words": 106,
+   "missing": 1,
+   "missing_ratio": 0.009,
    "sample": [
-    "large",
-    "numbers",
     "around"
    ]
   },
   {
+   "page": "4",
+   "plain_words": 123,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "5",
+   "plain_words": 76,
+   "missing": 3,
+   "missing_ratio": 0.039,
+   "sample": [
+    "around",
+    "large",
+    "numbers"
+   ]
+  },
+  {
+   "page": "6",
+   "plain_words": 80,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "7",
+   "plain_words": 97,
+   "missing": 2,
+   "missing_ratio": 0.021,
+   "sample": [
+    "around",
+    "large"
+   ]
+  },
+  {
+   "page": "8",
+   "plain_words": 84,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "9",
+   "plain_words": 72,
+   "missing": 2,
+   "missing_ratio": 0.028,
+   "sample": [
+    "around",
+    "large"
+   ]
+  },
+  {
+   "page": "10",
+   "plain_words": 94,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "11",
+   "plain_words": 60,
+   "missing": 1,
+   "missing_ratio": 0.017,
+   "sample": [
+    "around"
+   ]
+  },
+  {
+   "page": "12",
+   "plain_words": 47,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "13",
+   "plain_words": 73,
+   "missing": 3,
+   "missing_ratio": 0.041,
+   "sample": [
+    "around",
+    "large",
+    "numbers"
+   ]
+  },
+  {
    "page": "14",
-   "plain_words": 59,
+   "plain_words": 44,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "15",
-   "plain_words": 170,
-   "missing": 3,
-   "missing_ratio": 0.018,
+   "plain_words": 73,
+   "missing": 2,
+   "missing_ratio": 0.027,
    "sample": [
-    "large",
-    "numbers",
-    "around"
+    "around",
+    "large"
    ]
   },
   {
    "page": "16",
-   "plain_words": 132,
+   "plain_words": 87,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "17",
-   "plain_words": 111,
-   "missing": 3,
+   "plain_words": 75,
+   "missing": 2,
    "missing_ratio": 0.027,
    "sample": [
-    "large",
-    "numbers",
-    "around"
+    "around",
+    "large"
    ]
   },
   {
    "page": "18",
-   "plain_words": 145,
+   "plain_words": 102,
    "missing": 1,
-   "missing_ratio": 0.007,
+   "missing_ratio": 0.01,
    "sample": [
     "argentinosauras"
    ]
   },
   {
    "page": "19",
-   "plain_words": 198,
-   "missing": 2,
-   "missing_ratio": 0.01,
+   "plain_words": 122,
+   "missing": 1,
+   "missing_ratio": 0.008,
    "sample": [
-    "large",
     "numbers"
    ]
   },
   {
    "page": "20",
-   "plain_words": 193,
+   "plain_words": 99,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "21",
-   "plain_words": 162,
+   "plain_words": 114,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "22",
-   "plain_words": 104,
+   "plain_words": 75,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "23",
-   "plain_words": 168,
-   "missing": 5,
-   "missing_ratio": 0.03,
-   "sample": [
-    "questions",
-    "answers",
-    "chapter",
-    "from",
-    "book"
-   ]
-  },
-  {
-   "page": "answers 1",
-   "plain_words": 140,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "answers 2",
-   "plain_words": 95,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "answers 3",
    "plain_words": 68,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
+   "page": "answers 1",
+   "plain_words": 70,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 2",
+   "plain_words": 37,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 3",
+   "plain_words": 46,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
    "page": "answers 4",
-   "plain_words": 89,
+   "plain_words": 44,
    "missing": 1,
-   "missing_ratio": 0.011,
+   "missing_ratio": 0.023,
    "sample": [
     "chittihas"
    ]
   },
   {
    "page": "answers 5",
-   "plain_words": 67,
+   "plain_words": 30,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 6",
-   "plain_words": 141,
+   "plain_words": 57,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 7",
-   "plain_words": 142,
+   "plain_words": 74,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 8",
-   "plain_words": 127,
+   "plain_words": 65,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 9",
-   "plain_words": 76,
+   "plain_words": 50,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 10",
-   "plain_words": 126,
+   "plain_words": 54,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 11",
-   "plain_words": 151,
+   "plain_words": 84,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 12",
-   "plain_words": 177,
+   "plain_words": 80,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 13",
-   "plain_words": 113,
+   "plain_words": 57,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 14",
-   "plain_words": 110,
+   "plain_words": 72,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 15",
-   "plain_words": 158,
+   "plain_words": 82,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []

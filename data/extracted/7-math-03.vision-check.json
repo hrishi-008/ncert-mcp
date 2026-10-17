@@ -4,466 +4,449 @@
  "pages": [
   {
    "page": "46",
-   "plain_words": 134,
+   "plain_words": 80,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "47",
-   "plain_words": 124,
+   "plain_words": 67,
    "missing": 3,
-   "missing_ratio": 0.024,
+   "missing_ratio": 0.045,
    "sample": [
-    "peek",
     "beyond",
+    "peek",
     "point"
    ]
   },
   {
    "page": "48",
-   "plain_words": 50,
+   "plain_words": 33,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "49",
-   "plain_words": 87,
+   "plain_words": 47,
    "missing": 3,
-   "missing_ratio": 0.034,
+   "missing_ratio": 0.064,
    "sample": [
-    "peek",
     "beyond",
+    "peek",
     "point"
    ]
   },
   {
    "page": "50",
-   "plain_words": 103,
+   "plain_words": 41,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "51",
-   "plain_words": 86,
+   "plain_words": 55,
    "missing": 4,
-   "missing_ratio": 0.047,
+   "missing_ratio": 0.073,
    "sample": [
-    "peek",
     "beyond",
-    "point",
-    "headthorax"
+    "headthorax",
+    "peek",
+    "point"
    ]
   },
   {
    "page": "52",
-   "plain_words": 104,
+   "plain_words": 60,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "53",
-   "plain_words": 124,
+   "plain_words": 60,
    "missing": 3,
-   "missing_ratio": 0.024,
+   "missing_ratio": 0.05,
    "sample": [
-    "peek",
     "beyond",
+    "peek",
     "point"
    ]
   },
   {
    "page": "54",
-   "plain_words": 73,
+   "plain_words": 45,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "55",
-   "plain_words": 18,
+   "plain_words": 14,
    "missing": 3,
-   "missing_ratio": 0.167,
+   "missing_ratio": 0.214,
    "sample": [
-    "peek",
     "beyond",
+    "peek",
     "point"
    ]
   },
   {
    "page": "56",
-   "plain_words": 20,
+   "plain_words": 18,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "57",
-   "plain_words": 53,
-   "missing": 4,
-   "missing_ratio": 0.075,
+   "plain_words": 39,
+   "missing": 3,
+   "missing_ratio": 0.077,
    "sample": [
-    "peek",
     "beyond",
-    "the",
+    "peek",
     "point"
    ]
   },
   {
    "page": "58",
-   "plain_words": 79,
+   "plain_words": 57,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "59",
-   "plain_words": 173,
+   "plain_words": 84,
    "missing": 3,
-   "missing_ratio": 0.017,
+   "missing_ratio": 0.036,
    "sample": [
-    "peek",
     "beyond",
+    "peek",
     "point"
    ]
   },
   {
    "page": "60",
-   "plain_words": 41,
+   "plain_words": 29,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "61",
-   "plain_words": 173,
+   "plain_words": 95,
    "missing": 3,
-   "missing_ratio": 0.017,
+   "missing_ratio": 0.032,
    "sample": [
-    "peek",
     "beyond",
+    "peek",
     "point"
    ]
   },
   {
    "page": "62",
-   "plain_words": 75,
+   "plain_words": 45,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "63",
-   "plain_words": 147,
-   "missing": 3,
-   "missing_ratio": 0.02,
+   "plain_words": 67,
+   "missing": 2,
+   "missing_ratio": 0.03,
    "sample": [
-    "peek",
     "beyond",
-    "point"
+    "peek"
    ]
   },
   {
    "page": "64",
-   "plain_words": 46,
+   "plain_words": 31,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "65",
-   "plain_words": 101,
+   "plain_words": 74,
    "missing": 3,
-   "missing_ratio": 0.03,
+   "missing_ratio": 0.041,
    "sample": [
-    "peek",
     "beyond",
+    "peek",
     "point"
    ]
   },
   {
    "page": "66",
-   "plain_words": 30,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "67",
-   "plain_words": 103,
-   "missing": 4,
-   "missing_ratio": 0.039,
-   "sample": [
-    "peek",
-    "beyond",
-    "the",
-    "point"
-   ]
-  },
-  {
-   "page": "68",
-   "plain_words": 104,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "69",
-   "plain_words": 80,
-   "missing": 4,
-   "missing_ratio": 0.05,
-   "sample": [
-    "peek",
-    "beyond",
-    "the",
-    "point"
-   ]
-  },
-  {
-   "page": "70",
-   "plain_words": 114,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "71",
-   "plain_words": 102,
-   "missing": 2,
-   "missing_ratio": 0.02,
-   "sample": [
-    "peek",
-    "beyond"
-   ]
-  },
-  {
-   "page": "72",
-   "plain_words": 84,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "73",
-   "plain_words": 142,
-   "missing": 3,
-   "missing_ratio": 0.021,
-   "sample": [
-    "peek",
-    "beyond",
-    "the"
-   ]
-  },
-  {
-   "page": "74",
-   "plain_words": 107,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "75",
-   "plain_words": 57,
-   "missing": 3,
-   "missing_ratio": 0.053,
-   "sample": [
-    "peek",
-    "beyond",
-    "point"
-   ]
-  },
-  {
-   "page": "76",
-   "plain_words": 202,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "77",
-   "plain_words": 204,
-   "missing": 3,
-   "missing_ratio": 0.015,
-   "sample": [
-    "peek",
-    "beyond",
-    "point"
-   ]
-  },
-  {
-   "page": "78",
-   "plain_words": 222,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "79",
-   "plain_words": 152,
-   "missing": 2,
-   "missing_ratio": 0.013,
-   "sample": [
-    "peek",
-    "beyond"
-   ]
-  },
-  {
-   "page": "80",
-   "plain_words": 133,
-   "missing": 5,
-   "missing_ratio": 0.038,
-   "sample": [
-    "from",
-    "answers",
-    "chapter",
-    "questions",
-    "book"
-   ]
-  },
-  {
-   "page": "answers 1",
    "plain_words": 25,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
+   "page": "67",
+   "plain_words": 68,
+   "missing": 3,
+   "missing_ratio": 0.044,
+   "sample": [
+    "beyond",
+    "peek",
+    "point"
+   ]
+  },
+  {
+   "page": "68",
+   "plain_words": 64,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "69",
+   "plain_words": 57,
+   "missing": 3,
+   "missing_ratio": 0.053,
+   "sample": [
+    "beyond",
+    "peek",
+    "point"
+   ]
+  },
+  {
+   "page": "70",
+   "plain_words": 69,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "71",
+   "plain_words": 57,
+   "missing": 2,
+   "missing_ratio": 0.035,
+   "sample": [
+    "beyond",
+    "peek"
+   ]
+  },
+  {
+   "page": "72",
+   "plain_words": 50,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "73",
+   "plain_words": 77,
+   "missing": 2,
+   "missing_ratio": 0.026,
+   "sample": [
+    "beyond",
+    "peek"
+   ]
+  },
+  {
+   "page": "74",
+   "plain_words": 66,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "75",
+   "plain_words": 40,
+   "missing": 3,
+   "missing_ratio": 0.075,
+   "sample": [
+    "beyond",
+    "peek",
+    "point"
+   ]
+  },
+  {
+   "page": "76",
+   "plain_words": 116,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "77",
+   "plain_words": 139,
+   "missing": 2,
+   "missing_ratio": 0.014,
+   "sample": [
+    "beyond",
+    "peek"
+   ]
+  },
+  {
+   "page": "78",
+   "plain_words": 131,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "79",
+   "plain_words": 101,
+   "missing": 2,
+   "missing_ratio": 0.02,
+   "sample": [
+    "beyond",
+    "peek"
+   ]
+  },
+  {
+   "page": "80",
+   "plain_words": 73,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 1",
+   "plain_words": 19,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
    "page": "answers 2",
-   "plain_words": 61,
+   "plain_words": 40,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 3",
-   "plain_words": 44,
+   "plain_words": 23,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 4",
-   "plain_words": 52,
+   "plain_words": 32,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 5",
-   "plain_words": 28,
+   "plain_words": 20,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 6",
-   "plain_words": 8,
+   "plain_words": 2,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 7",
-   "plain_words": 7,
+   "plain_words": 3,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 8",
-   "plain_words": 37,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "answers 9",
-   "plain_words": 68,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "answers 10",
-   "plain_words": 41,
-   "missing": 0,
-   "missing_ratio": 0.0,
-   "sample": []
-  },
-  {
-   "page": "answers 11",
    "plain_words": 24,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
+   "page": "answers 9",
+   "plain_words": 26,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 10",
+   "plain_words": 19,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 11",
+   "plain_words": 14,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
    "page": "answers 12",
-   "plain_words": 62,
+   "plain_words": 37,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 13",
-   "plain_words": 34,
+   "plain_words": 21,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 14",
-   "plain_words": 27,
+   "plain_words": 19,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 15",
-   "plain_words": 55,
+   "plain_words": 30,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 16",
-   "plain_words": 38,
+   "plain_words": 24,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 17",
-   "plain_words": 38,
+   "plain_words": 26,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 18",
-   "plain_words": 110,
-   "missing": 4,
-   "missing_ratio": 0.036,
-   "sample": [
-    "using",
-    "digits",
-    "make",
-    "can"
-   ]
+   "plain_words": 55,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
   },
   {
    "page": "answers 19",
-   "plain_words": 111,
+   "plain_words": 61,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 20",
-   "plain_words": 23,
+   "plain_words": 20,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []

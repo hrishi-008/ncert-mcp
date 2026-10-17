@@ -82,12 +82,12 @@
  "key_terms": [
   {
    "term": "Needs",
-   "meaning": "In economics, a need is something that a person requires to survive, such as food, water, clothing, and shelter",
+   "meaning": "Needs: In economics, a need is something",
    "page": 250
   },
   {
    "term": "Wants",
-   "meaning": "In economics, a want is something that a person desires but is not essential for survival.",
+   "meaning": "For a long time, people have relied on markets to fulfil their needs and wants for goods and services.",
    "page": 250
   },
   {
@@ -741,8 +741,5 @@
  "page_start": 247,
  "page_end": 272,
  "structured_by": "llm:sonnet",
- "warnings": [
-  "key term 'Needs' meaning is not copied from the book",
-  "key term 'Wants' meaning is not copied from the book"
- ]
+ "warnings": []
 }

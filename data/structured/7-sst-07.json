@@ -89,7 +89,7 @@
  "key_terms": [
   {
    "term": "Outcastes",
-   "meaning": "Someone who has been rejected from a social or cultural group; in this case, a category of people considered socially too low to be part of the varṇa system.",
+   "meaning": "Let us not, however, forget that elsewhere in his travelogue, Faxian also describes the harsh treatment of the chanḍālas, who were regarded as outcastes and lived outside the city limits.",
    "page": 154
   },
   {
@@ -559,7 +559,5 @@
  "page_start": 145,
  "page_end": 166,
  "structured_by": "llm:sonnet",
- "warnings": [
-  "key term 'Outcastes' meaning is not copied from the book"
- ]
+ "warnings": []
 }

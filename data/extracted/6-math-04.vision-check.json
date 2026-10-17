@@ -4,266 +4,249 @@
  "pages": [
   {
    "page": "74",
-   "plain_words": 138,
+   "plain_words": 84,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "75",
-   "plain_words": 199,
-   "missing": 4,
-   "missing_ratio": 0.02,
+   "plain_words": 105,
+   "missing": 2,
+   "missing_ratio": 0.019,
    "sample": [
-    "data",
     "handling",
-    "and",
     "presentation"
    ]
   },
   {
    "page": "76",
-   "plain_words": 153,
+   "plain_words": 96,
    "missing": 3,
-   "missing_ratio": 0.02,
+   "missing_ratio": 0.031,
    "sample": [
     "ganita",
-    "prakash",
-    "grade"
+    "grade",
+    "prakash"
    ]
   },
   {
    "page": "77",
-   "plain_words": 164,
-   "missing": 4,
-   "missing_ratio": 0.024,
+   "plain_words": 92,
+   "missing": 2,
+   "missing_ratio": 0.022,
    "sample": [
-    "data",
     "handling",
-    "and",
     "presentation"
    ]
   },
   {
    "page": "78",
-   "plain_words": 169,
+   "plain_words": 91,
    "missing": 3,
-   "missing_ratio": 0.018,
+   "missing_ratio": 0.033,
    "sample": [
     "ganita",
-    "prakash",
-    "grade"
+    "grade",
+    "prakash"
    ]
   },
   {
    "page": "79",
-   "plain_words": 184,
-   "missing": 3,
-   "missing_ratio": 0.016,
+   "plain_words": 115,
+   "missing": 2,
+   "missing_ratio": 0.017,
    "sample": [
-    "data",
     "handling",
     "presentation"
    ]
   },
   {
    "page": "80",
-   "plain_words": 167,
+   "plain_words": 87,
    "missing": 3,
-   "missing_ratio": 0.018,
+   "missing_ratio": 0.034,
    "sample": [
     "ganita",
-    "prakash",
-    "grade"
+    "grade",
+    "prakash"
    ]
   },
   {
    "page": "81",
-   "plain_words": 80,
-   "missing": 3,
-   "missing_ratio": 0.037,
+   "plain_words": 49,
+   "missing": 2,
+   "missing_ratio": 0.041,
    "sample": [
-    "data",
     "handling",
     "presentation"
    ]
   },
   {
    "page": "82",
-   "plain_words": 96,
+   "plain_words": 61,
    "missing": 3,
-   "missing_ratio": 0.031,
+   "missing_ratio": 0.049,
    "sample": [
     "ganita",
-    "prakash",
-    "grade"
+    "grade",
+    "prakash"
    ]
   },
   {
    "page": "83",
-   "plain_words": 171,
-   "missing": 4,
-   "missing_ratio": 0.023,
+   "plain_words": 112,
+   "missing": 2,
+   "missing_ratio": 0.018,
    "sample": [
-    "data",
     "handling",
-    "and",
     "presentation"
    ]
   },
   {
    "page": "84",
-   "plain_words": 82,
+   "plain_words": 54,
    "missing": 3,
-   "missing_ratio": 0.037,
+   "missing_ratio": 0.056,
    "sample": [
     "ganita",
-    "prakash",
-    "grade"
+    "grade",
+    "prakash"
    ]
   },
   {
    "page": "85",
-   "plain_words": 142,
-   "missing": 3,
-   "missing_ratio": 0.021,
+   "plain_words": 100,
+   "missing": 2,
+   "missing_ratio": 0.02,
    "sample": [
-    "data",
     "handling",
     "presentation"
    ]
   },
   {
    "page": "86",
-   "plain_words": 97,
+   "plain_words": 66,
    "missing": 3,
-   "missing_ratio": 0.031,
+   "missing_ratio": 0.045,
    "sample": [
     "ganita",
-    "prakash",
-    "grade"
+    "grade",
+    "prakash"
    ]
   },
   {
    "page": "87",
-   "plain_words": 166,
+   "plain_words": 68,
    "missing": 4,
-   "missing_ratio": 0.024,
+   "missing_ratio": 0.059,
    "sample": [
+    "and",
     "data",
     "handling",
-    "and",
     "presentation"
    ]
   },
   {
    "page": "88",
-   "plain_words": 94,
+   "plain_words": 61,
    "missing": 3,
-   "missing_ratio": 0.032,
+   "missing_ratio": 0.049,
    "sample": [
     "ganita",
-    "prakash",
-    "grade"
+    "grade",
+    "prakash"
    ]
   },
   {
    "page": "89",
-   "plain_words": 191,
-   "missing": 4,
-   "missing_ratio": 0.021,
+   "plain_words": 105,
+   "missing": 2,
+   "missing_ratio": 0.019,
    "sample": [
-    "data",
     "handling",
-    "and",
     "presentation"
    ]
   },
   {
    "page": "90",
-   "plain_words": 128,
+   "plain_words": 78,
    "missing": 3,
-   "missing_ratio": 0.023,
+   "missing_ratio": 0.038,
    "sample": [
     "ganita",
-    "prakash",
-    "grade"
+    "grade",
+    "prakash"
    ]
   },
   {
    "page": "91",
-   "plain_words": 79,
-   "missing": 4,
-   "missing_ratio": 0.051,
+   "plain_words": 52,
+   "missing": 2,
+   "missing_ratio": 0.038,
    "sample": [
-    "data",
     "handling",
-    "and",
     "presentation"
    ]
   },
   {
    "page": "92",
-   "plain_words": 79,
+   "plain_words": 57,
    "missing": 3,
-   "missing_ratio": 0.038,
+   "missing_ratio": 0.053,
    "sample": [
     "ganita",
-    "prakash",
-    "grade"
+    "grade",
+    "prakash"
    ]
   },
   {
    "page": "93",
-   "plain_words": 128,
-   "missing": 4,
-   "missing_ratio": 0.031,
+   "plain_words": 85,
+   "missing": 2,
+   "missing_ratio": 0.024,
    "sample": [
-    "data",
     "handling",
-    "and",
     "presentation"
    ]
   },
   {
    "page": "94",
-   "plain_words": 158,
+   "plain_words": 56,
    "missing": 3,
-   "missing_ratio": 0.019,
+   "missing_ratio": 0.054,
    "sample": [
     "ganita",
-    "prakash",
-    "grade"
+    "grade",
+    "prakash"
    ]
   },
   {
    "page": "95",
-   "plain_words": 112,
-   "missing": 4,
-   "missing_ratio": 0.036,
+   "plain_words": 63,
+   "missing": 2,
+   "missing_ratio": 0.032,
    "sample": [
-    "data",
     "handling",
-    "and",
     "presentation"
    ]
   },
   {
    "page": "96",
-   "plain_words": 109,
+   "plain_words": 57,
    "missing": 3,
-   "missing_ratio": 0.028,
+   "missing_ratio": 0.053,
    "sample": [
     "ganita",
-    "prakash",
-    "grade"
+    "grade",
+    "prakash"
    ]
   },
   {
    "page": "97",
-   "plain_words": 61,
+   "plain_words": 37,
    "missing": 3,
-   "missing_ratio": 0.049,
+   "missing_ratio": 0.081,
    "sample": [
     "data",
     "handling",
@@ -272,201 +255,177 @@
   },
   {
    "page": "98",
-   "plain_words": 155,
+   "plain_words": 99,
    "missing": 3,
-   "missing_ratio": 0.019,
+   "missing_ratio": 0.03,
    "sample": [
     "ganita",
-    "prakash",
-    "grade"
+    "grade",
+    "prakash"
    ]
   },
   {
    "page": "99",
-   "plain_words": 179,
-   "missing": 4,
-   "missing_ratio": 0.022,
+   "plain_words": 100,
+   "missing": 2,
+   "missing_ratio": 0.02,
    "sample": [
-    "data",
     "handling",
-    "and",
     "presentation"
    ]
   },
   {
    "page": "100",
-   "plain_words": 183,
+   "plain_words": 118,
    "missing": 3,
-   "missing_ratio": 0.016,
+   "missing_ratio": 0.025,
    "sample": [
     "ganita",
-    "prakash",
-    "grade"
+    "grade",
+    "prakash"
    ]
   },
   {
    "page": "101",
-   "plain_words": 200,
-   "missing": 13,
-   "missing_ratio": 0.065,
+   "plain_words": 129,
+   "missing": 3,
+   "missing_ratio": 0.023,
    "sample": [
-    "data",
+    "europeantarctica",
     "handling",
-    "and",
-    "presentation",
-    "tallest",
-    "america",
-    "north",
-    "africa",
-    "australia",
-    "denali",
-    "kiliman",
-    "europeantarctica"
+    "mountaineverestaconcagua"
    ]
   },
   {
    "page": "102",
-   "plain_words": 103,
+   "plain_words": 66,
    "missing": 3,
-   "missing_ratio": 0.029,
+   "missing_ratio": 0.045,
    "sample": [
     "ganita",
-    "prakash",
-    "grade"
+    "grade",
+    "prakash"
    ]
   },
   {
    "page": "103",
-   "plain_words": 224,
-   "missing": 4,
-   "missing_ratio": 0.018,
+   "plain_words": 125,
+   "missing": 2,
+   "missing_ratio": 0.016,
    "sample": [
-    "data",
     "handling",
-    "and",
     "presentation"
    ]
   },
   {
    "page": "104",
-   "plain_words": 184,
+   "plain_words": 115,
    "missing": 3,
-   "missing_ratio": 0.016,
+   "missing_ratio": 0.026,
    "sample": [
     "ganita",
-    "prakash",
-    "grade"
+    "grade",
+    "prakash"
    ]
   },
   {
    "page": "105",
-   "plain_words": 86,
-   "missing": 4,
-   "missing_ratio": 0.047,
+   "plain_words": 62,
+   "missing": 2,
+   "missing_ratio": 0.032,
    "sample": [
-    "data",
     "handling",
-    "and",
     "presentation"
    ]
   },
   {
    "page": "106",
-   "plain_words": 147,
-   "missing": 10,
-   "missing_ratio": 0.068,
+   "plain_words": 91,
+   "missing": 3,
+   "missing_ratio": 0.033,
    "sample": [
-    "the",
     "ganita",
-    "prakash",
     "grade",
-    "answers",
-    "chapter",
-    "questions",
-    "from",
-    "book"
+    "prakash"
    ]
   },
   {
    "page": "answers 1",
-   "plain_words": 141,
+   "plain_words": 89,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 2",
-   "plain_words": 145,
+   "plain_words": 88,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 3",
-   "plain_words": 151,
+   "plain_words": 89,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 4",
-   "plain_words": 87,
+   "plain_words": 42,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 5",
-   "plain_words": 109,
+   "plain_words": 57,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 6",
-   "plain_words": 118,
+   "plain_words": 58,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 7",
-   "plain_words": 105,
+   "plain_words": 68,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 8",
-   "plain_words": 299,
+   "plain_words": 108,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 9",
-   "plain_words": 155,
+   "plain_words": 80,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 10",
-   "plain_words": 176,
+   "plain_words": 94,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   },
   {
    "page": "answers 11",
-   "plain_words": 214,
+   "plain_words": 100,
    "missing": 0,
    "missing_ratio": 0.0,
    "sample": []
   }
  ],
- "flagged_pages": [
-  "101",
-  "106"
- ]
+ "flagged_pages": []
 }
