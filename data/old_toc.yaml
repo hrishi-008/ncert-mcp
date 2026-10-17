@@ -1,0 +1,142 @@
+# OLD NCERT books (pre-2024), Class 6 and 7. Used ONLY to map old chapter names to new chapters,
+# never as content. Typed from memory of the old tables of contents: HK, please check against the old
+# books and fix any title (draft_old_map.py reads this file).
+6:
+  sci:
+    book: Science (old)
+    chapters:
+      - Food: Where Does It Come From?
+      - Components of Food
+      - Fibre to Fabric
+      - Sorting Materials into Groups
+      - Separation of Substances
+      - Changes Around Us
+      - Getting to Know Plants
+      - Body Movements
+      - The Living Organisms and Their Surroundings
+      - Motion and Measurement of Distances
+      - Light, Shadows and Reflections
+      - Electricity and Circuits
+      - Fun with Magnets
+      - Water
+      - Air Around Us
+      - Garbage In, Garbage Out
+  math:
+    book: Mathematics (old)
+    chapters:
+      - Knowing Our Numbers
+      - Whole Numbers
+      - Playing with Numbers
+      - Basic Geometrical Ideas
+      - Understanding Elementary Shapes
+      - Integers
+      - Fractions
+      - Decimals
+      - Data Handling
+      - Mensuration
+      - Algebra
+      - Ratio and Proportion
+      - Symmetry
+      - Practical Geometry
+  sst:
+    book: Our Pasts I / The Earth Our Habitat / Social and Political Life I (old)
+    chapters:
+      - What, Where, How and When?
+      - From Hunting-Gathering to Growing Food
+      - In the Earliest Cities
+      - What Books and Burials Tell Us
+      - Kingdoms, Kings and an Early Republic
+      - New Questions and Ideas
+      - Ashoka, The Emperor Who Gave Up War
+      - Vital Villages, Thriving Towns
+      - Traders, Kings and Pilgrims
+      - New Empires and Kingdoms
+      - Buildings, Paintings and Books
+      - The Earth in the Solar System
+      - "Globe: Latitudes and Longitudes"
+      - Motions of the Earth
+      - Maps
+      - Major Domains of the Earth
+      - Major Landforms of the Earth
+      - Our Country – India
+      - "India: Climate, Vegetation and Wildlife"
+      - Understanding Diversity
+      - Diversity and Discrimination
+      - What is Government?
+      - Key Elements of a Democratic Government
+      - Panchayati Raj
+      - Rural Administration
+      - Urban Administration
+      - Rural Livelihoods
+      - Urban Livelihoods
+7:
+  sci:
+    book: Science (old)
+    chapters:
+      - Nutrition in Plants
+      - Nutrition in Animals
+      - Fibre to Fabric
+      - Heat
+      - Acids, Bases and Salts
+      - Physical and Chemical Changes
+      - Weather, Climate and Adaptations of Animals to Climate
+      - Winds, Storms and Cyclones
+      - Soil
+      - Respiration in Organisms
+      - Transportation in Animals and Plants
+      - Reproduction in Plants
+      - Motion and Time
+      - Electric Current and Its Effects
+      - Light
+      - "Water: A Precious Resource"
+      - "Forests: Our Lifeline"
+      - Wastewater Story
+  math:
+    book: Mathematics (old)
+    chapters:
+      - Integers
+      - Fractions and Decimals
+      - Data Handling
+      - Simple Equations
+      - Lines and Angles
+      - The Triangle and its Properties
+      - Congruence of Triangles
+      - Comparing Quantities
+      - Rational Numbers
+      - Practical Geometry
+      - Perimeter and Area
+      - Algebraic Expressions
+      - Exponents and Powers
+      - Symmetry
+      - Visualising Solid Shapes
+  sst:
+    book: Our Pasts II / Our Environment / Social and Political Life II (old)
+    chapters:
+      - Tracing Changes Through a Thousand Years
+      - New Kings and Kingdoms
+      - The Delhi Sultans
+      - The Mughal Empire
+      - Rulers and Buildings
+      - Towns, Traders and Craftspersons
+      - Tribes, Nomads and Settled Communities
+      - Devotional Paths to the Divine
+      - The Making of Regional Cultures
+      - Eighteenth-Century Political Formations
+      - Environment
+      - Inside Our Earth
+      - Our Changing Earth
+      - Air
+      - Water
+      - Natural Vegetation and Wildlife
+      - Human Environment – Settlements, Transport and Communication
+      - "Human Environment Interactions: The Tropical and the Subtropical Region"
+      - Life in the Deserts
+      - On Equality
+      - Role of the Government in Health
+      - How the State Government Works
+      - Growing up as Boys and Girls
+      - Women Change the World
+      - Understanding Media
+      - Markets Around Us
+      - A Shirt in the Market
+      - Struggles for Equality

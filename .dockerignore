@@ -1,0 +1,9 @@
+.git
+.env
+data/pdfs
+data/extracted
+data/structured
+data/state.db*
+**/__pycache__
+.pytest_cache
+tests

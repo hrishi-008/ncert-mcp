@@ -1,0 +1,31 @@
+# One box: the MCP server + Caddy (automatic HTTPS for ncert.hrishk.com).
+#   docker compose up -d --build
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      STATE_DB_URL: sqlite:////data/state/state.db
+      BOOKS_DB_PATH: /app/data/books.db
+    volumes:
+      - ./state:/data/state          # teacher notes + paper log: lives on the VPS disk, survives redeploys
+    expose:
+      - "8000"
+
+  caddy:
+    image: caddy:2.8
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - app
+
+volumes:
+  caddy_data:
+  caddy_config:

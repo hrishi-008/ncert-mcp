@@ -1,0 +1,30 @@
+[project]
+name = "ncert-mcp"
+version = "1.0.0"
+description = "Remote MCP server with the new NCERT Class 6-7 books, teacher notes and a paper log"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp>=2.2,<3",          # FastMCP lives in the official SDK as mcp.server.mcpserver.MCPServer (renamed in mcp 2)
+    "uvicorn>=0.30",
+    "starlette>=0.40",
+    "pydantic>=2.7",
+]
+
+[project.optional-dependencies]
+ingest = [
+    "pymupdf>=1.24",
+    "fonttools>=4.50",      # recovers letters some NCERT PDFs store without Unicode
+    "pyyaml>=6",
+    "anthropic>=1.15",
+]
+dev = ["pytest>=8", "httpx>=0.27", "pyyaml>=6", "pymupdf>=1.24", "fonttools>=4.50"]
+
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["server*", "ingest*", "admin*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

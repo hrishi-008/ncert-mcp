@@ -1,0 +1,42 @@
+{
+ "chapter_id": "6-sst-12",
+ "pdf_pages": 10,
+ "printed_pages": [
+  173,
+  182
+ ],
+ "book_page_start": 173,
+ "start_page_ok": true,
+ "words_expected": 1673,
+ "words_in_markdown": 1704,
+ "missing_words": 0,
+ "missing_sample": [],
+ "dropped_as_noise": [
+  "[running header] 12 ― Grassroots Democracy – Part 3",
+  "[page number] 173",
+  "[running header] Exploring Society: India and Beyond",
+  "[running header] Governance and Democracy",
+  "[page number] 174",
+  "[running header] 12 ― Grassroots Democracy – Part 3",
+  "[page number] 175",
+  "[running header] Exploring Society: India and Beyond",
+  "[running header] Governance and Democracy",
+  "[page number] 176",
+  "[running header] 12 ― Grassroots Democracy – Part 3",
+  "[page number] 177",
+  "[page number] 178",
+  "[running header] 12 ― Grassroots Democracy – Part 3",
+  "[page number] 179",
+  "[running header] Exploring Society: India and Beyond",
+  "[running header] Governance and Democracy",
+  "[page number] 180",
+  "[running header] 12 ― Grassroots Democracy – Part 3",
+  "[page number] 181",
+  "[running header] Exploring Society: India and Beyond",
+  "[running header] Governance and Democracy",
+  "[page number] 182"
+ ],
+ "image_only_pages": [],
+ "glyphs_repaired": 0,
+ "glyphs_unknown": 0
+}

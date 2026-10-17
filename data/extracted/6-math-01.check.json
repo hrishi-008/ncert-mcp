@@ -1,0 +1,42 @@
+{
+ "chapter_id": "6-math-01",
+ "pdf_pages": 17,
+ "printed_pages": [
+  1,
+  17
+ ],
+ "book_page_start": 1,
+ "start_page_ok": true,
+ "words_expected": 3554,
+ "words_in_markdown": 3593,
+ "missing_words": 0,
+ "missing_sample": [],
+ "dropped_as_noise": [
+  "[footer] Reprint 2026-27",
+  "[footer] Reprint 2026-27",
+  "[page number] 2",
+  "[footer] Reprint 2026-27",
+  "[page number] 3",
+  "[footer] Reprint 2026-27",
+  "[page number] 4",
+  "[footer] Reprint 2026-27",
+  "[page number] 5",
+  "[footer] Reprint 2026-27",
+  "[page number] 6",
+  "[footer] Reprint 2026-27",
+  "[page number] 7",
+  "[footer] Reprint 2026-27",
+  "[page number] 8",
+  "[footer] Reprint 2026-27",
+  "[page number] 9",
+  "[footer] Reprint 2026-27",
+  "[page number] 10",
+  "[footer] Reprint 2026-27",
+  "[page number] 11",
+  "[footer] Reprint 2026-27",
+  "[page number] 12"
+ ],
+ "image_only_pages": [],
+ "glyphs_repaired": 0,
+ "glyphs_unknown": 6
+}

@@ -59,7 +59,7 @@ def _guard(fn):
 
 
 def register(mcp: Any, books: Books, state: State) -> None:
-    @mcp.tool(annotations=READ_ONLY)
+    @mcp.tool(annotations=READ_ONLY, structured_output=False)
     @_guard
     def find_chapter(
         query: Annotated[str, Field(description="Anything the teacher said about the chapter: 'ch 5', 'VII sci ch5', a title (typos ok), a nickname like 'the plants chapter', an OLD NCERT chapter name like 'Nutrition in Plants', or a topic like 'photosynthesis'.")],
@@ -94,7 +94,7 @@ def register(mcp: Any, books: Books, state: State) -> None:
             lines.append(f"\nNote: {n}")
         return "\n".join(lines)
 
-    @mcp.tool(annotations=READ_ONLY)
+    @mcp.tool(annotations=READ_ONLY, structured_output=False)
     @_guard
     def list_chapters(
         class_: Annotated[str | int, Field(description="6 or 7 (also 'VII', 'class 7', 'std 6')")],
@@ -115,7 +115,7 @@ def register(mcp: Any, books: Books, state: State) -> None:
             lines.append(f"{c['chapter_no']}. {c['title']} ({c['chapter_id']})" + (f": {c['one_line']}" if c["one_line"] else ""))
         return "\n".join(lines)
 
-    @mcp.tool(annotations=READ_ONLY)
+    @mcp.tool(annotations=READ_ONLY, structured_output=False)
     @_guard
     def get_chapter_pack(
         chapter_id: Annotated[str, Field(description="Chapter id from find_chapter, e.g. '7-sci-05'")],
@@ -131,7 +131,7 @@ def register(mcp: Any, books: Books, state: State) -> None:
         notes = state.notes_markdown()
         return _format_pack(p, notes)
 
-    @mcp.tool(annotations=READ_ONLY)
+    @mcp.tool(annotations=READ_ONLY, structured_output=False)
     @_guard
     def get_section(
         chapter_id: Annotated[str, Field(description="Chapter id, e.g. '7-sci-05'")],
@@ -146,7 +146,7 @@ def register(mcp: Any, books: Books, state: State) -> None:
             f"## {s['heading']}\n{s['chapter_id']} '{s['title']}', section {s['section_id']}, pages {s['pages']}\n\n{s['text']}"
         )
 
-    @mcp.tool(annotations=READ_ONLY)
+    @mcp.tool(annotations=READ_ONLY, structured_output=False)
     @_guard
     def search_books(
         query: Annotated[str, Field(description="Words to look for, e.g. 'photosynthesis', 'Harappan drains', 'latitude'")],
@@ -170,7 +170,7 @@ def register(mcp: Any, books: Books, state: State) -> None:
             lines.append(f"- {r['chapter_id']} '{r['chapter_title']}' > {strip_md(r['heading'])} ({r['section_id']}, p. {r['page']}): {r['snippet']}")
         return "\n".join(lines)
 
-    @mcp.tool(annotations=READ_ONLY)
+    @mcp.tool(annotations=READ_ONLY, structured_output=False)
     @_guard
     def get_teacher_notes() -> str:
         """The teacher's saved notes: her paper preferences, question types, format/layout, and corrections.
@@ -180,7 +180,7 @@ def register(mcp: Any, books: Books, state: State) -> None:
         """
         return state.notes_markdown()
 
-    @mcp.tool(annotations=WRITE)
+    @mcp.tool(annotations=WRITE, structured_output=False)
     @_guard
     def update_teacher_notes(
         section: Annotated[str, Field(description="One of: paper_preferences, question_types, format_layout, corrections")],
@@ -200,7 +200,7 @@ def register(mcp: Any, books: Books, state: State) -> None:
             return f"That note is already saved as note {res['note_id']} ({res['section']}). Nothing changed."
         return f"Note {res['note_id']} {res['status']} in {NOTE_SECTIONS[res['section']]}."
 
-    @mcp.tool(annotations=WRITE)
+    @mcp.tool(annotations=WRITE, structured_output=False)
     @_guard
     def log_paper(
         class_: Annotated[str | int, Field(description="6 or 7")],
@@ -218,7 +218,7 @@ def register(mcp: Any, books: Books, state: State) -> None:
         pid = state.log_paper(cls, subj, ids, total_marks, qs)
         return f"Saved as paper {pid}: Class {cls} {SUBJECT_NAMES[subj]}, {', '.join(ids)}, {total_marks:g} marks, {len(qs)} questions."
 
-    @mcp.tool(annotations=READ_ONLY)
+    @mcp.tool(annotations=READ_ONLY, structured_output=False)
     @_guard
     def get_past_questions(
         chapter_id: Annotated[str, Field(description="Chapter id, e.g. '7-sci-05'")],
@@ -242,11 +242,13 @@ def register(mcp: Any, books: Books, state: State) -> None:
 
 
 def _format_pack(p: dict, notes: str) -> str:
-    def build(preview_len: int | None, desc_len: int | None, max_figs: int | None) -> str:
+    def build(preview_len: int | None, desc_len: int | None, max_figs: int | None, ex_len: int | None = None) -> str:
         out = [
             f"# {p['chapter_id']}: Class {p['class']} {SUBJECT_NAMES[p['subject']]}, Ch {p['chapter_no']} '{p['title']}'",
             f"Book: {p['book']}" + (f" (Part {p['part']})" if p["part"] > 1 else "") + f" | pages {p['pages']}",
         ]
+        # Teacher notes come first so they are never cut.
+        out += ["", "## Teacher notes (follow these)", notes]
         if p["structured_by"] == "heuristic":
             out.append("(Structure was made automatically without an AI pass; headings and exercises may be rough. Use get_section for exact text.)")
         if p["summary"]:
@@ -276,11 +278,12 @@ def _format_pack(p: dict, notes: str) -> str:
             for e in p["exercises"]:
                 hint = f" [{e['type_hint']}]" if e["type_hint"] else ""
                 where = " (in-chapter box)" if e["source"] == "in_chapter" else ""
-                out.append(f"- {e['label']}{hint}{where}: {e['text']}")
-        out += ["", "## Teacher notes (follow these)", notes]
+                text = e["text"] if ex_len is None or len(e["text"]) <= ex_len else e["text"][:ex_len] + " … (full text: get_section)"
+                out.append(f"- {e['label']}{hint}{where}: {text}")
         return "\n".join(out)
 
-    for args in [(None, None, None), (160, 200, None), (100, 120, 25), (60, 60, 10), (0, 0, 0)]:
+    for args in [(None, None, None), (160, 200, None), (100, 120, 25), (60, 60, 10), (60, 60, 10, 400),
+                 (0, 0, 0, 250), (0, 0, 0, 150)]:
         text = build(*args)
         if len(text) <= PACK_CHAR_BUDGET:
             return text

@@ -1,0 +1,30 @@
+# Per-book heading names, read off the real PDFs (see data/extracted/*.md).
+# Matching ignores case, punctuation and spaces ("S u m m a r y" = "Summary").
+# Used by ingest/structure.py (both the heuristic and the LLM mode).
+
+sci:
+  end_exercises: ["Let us enhance our learning"]          # Class 6 and Class 7
+  in_chapter_exercises: []
+  summary: ["Summary", "In a Nutshell"]                    # Class 6 / Class 7
+  keywords: ["Keywords", "Key words"]
+  end_matter: ["Learning further", "Exploratory Projects"]
+  activity_prefix: ["Activity"]
+
+math:
+  end_exercises: []
+  in_chapter_exercises: ["Figure it Out", "Try This", "Think", "Math Talk"]
+  summary: ["Summary"]
+  keywords: []
+  end_matter: ["Learning Material Sheets"]
+  activity_prefix: ["Activity"]
+
+sst:
+  end_exercises: ["Questions, activities and projects", "Questions and activities", "Questions"]
+  in_chapter_exercises: ["Think about it", "Let's explore", "Let us explore"]
+  summary: ["Before we move on"]
+  keywords: []
+  end_matter: []
+  activity_prefix: ["Activity", "Project"]
+  intro_box: ["The Big Questions"]
+  section_level: 4          # SST sections are unnumbered level-4 headings ("What Is a Civilisation?")
+  boxes: ["Don't miss out", "The Big Questions"]

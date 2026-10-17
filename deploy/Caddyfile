@@ -1,0 +1,13 @@
+# Caddy gets and renews the HTTPS certificate by itself.
+# Point an A record for ncert.hrishk.com at the VPS IP before starting.
+ncert.hrishk.com {
+	encode gzip
+	# Don't log request paths: they contain the secret token.
+	log {
+		output discard
+	}
+	reverse_proxy app:8000 {
+		# MCP Streamable HTTP can hold a response open; don't buffer it.
+		flush_interval -1
+	}
+}

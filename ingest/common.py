@@ -45,15 +45,31 @@ def load_book_config() -> dict:
 LIGATURES = {"ﬀ": "ff", "ﬁ": "fi", "ﬂ": "fl", "ﬃ": "ffi", "ﬄ": "ffl", "ﬅ": "st", "ﬆ": "st"}
 
 
+LIG_GAP = re.compile(r"\b([A-Za-z]*(?:ffi|ffl|fi|fl|ff)) ([a-z]+)")
+# Real words ending in these letters, which must not be joined to the next word ("off and", "staff room").
+_LIG_WORDS = {"off", "staff", "cliff", "stuff", "cuff", "puff", "sniff", "stiff", "buff", "chaff", "tariff",
+              "bluff", "gruff", "scoff", "scuff", "huff", "fluff", "whiff", "wifi", "hifi", "scifi", "kickoff", "takeoff", "layoff", "playoff", "standoff",
+              "sheriff", "plaintiff", "mastiff", "pontiff", "rebuff", "dandruff", "handcuff", "snuff", "bailiff"}
+
+
+def _join_ligature(m: re.Match) -> str:
+    left, right = m.group(1), m.group(2)
+    if left.lower() in _LIG_WORDS:
+        return m.group(0)
+    return left + right
+
+
 def clean_text(text: str) -> str:
     """Fix PDF quirks: ligatures (and the stray space NCERT PDFs put after them), odd spaces."""
     for lig, rep in LIGATURES.items():
         # "diﬀ erent" -> "different", "ﬁ eld" -> "field"
         text = re.sub(re.escape(lig) + r" (?=[a-z])", rep, text)
         text = text.replace(lig, rep)
-    text = text.replace("­", "")  # soft hyphen
-    text = re.sub(r"[ -   　 ]", " ", text)  # thin/odd spaces
-    text = text.replace("​", "").replace("﻿", "")
+    text = text.replace("\u00ad", "")  # soft hyphen
+    text = re.sub(r"[\u2000-\u200a\u202f\u205f\u3000\u00a0]", " ", text)  # thin/odd spaces
+    text = text.replace("\u200b", "").replace("\ufeff", "")  # zero-width space, BOM
+    # The PDFs also print ligatures as plain letters followed by a gap: "fl ower", "refl ect", "diffi cult".
+    text = LIG_GAP.sub(_join_ligature, text)
     return text
 
 

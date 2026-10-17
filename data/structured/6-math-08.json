@@ -1,0 +1,233 @@
+{
+ "chapter_id": "6-math-08",
+ "class": 6,
+ "subject": "math",
+ "book": "Ganita Prakash",
+ "part": 1,
+ "chapter_no": 8,
+ "title": "Playing with Constructions",
+ "summary": "- All the points of a circle are at the same distance from its centre. This distance is called the radius of the circle. - A compass can be used to construct circles and their parts. - A rough diagram can be useful in planning how to construct a given figure. - A rectangle can be constructed given the lengths of its sides or that of one of its sides and a diagonal. CHAPTER 8 — SOLUTIONS Playing with Constructions Page no. 188 Section 8.1 Think: Imagine marking all the points of 4 cm distance from the point P. How would they look? Ans. On joining, they are forming a circle. Page no. 191 Section 8.1 Figure it out 4 cm Q.1. What radius should be taken in the compass to get this half circle? What should be the length of AX? Ans.2 cm. AX = 4 cm. Q.2. Take a central line of a different length and try to draw the wave on it. Ans. Q.3. Try to recreate the figure where the waves are smaller than a half circle (as appearing in the neck of the figure ‘A Person’). The challenge here is to get both the waves to be identical. This may be tricky! Ans. Page no. 193 Section 8.2 Q. Which of the following is not a name for this square? 1. PQSR 2. SPQR [1] 3. RSPQ 4. QRSP Ans. PQSR is not a name for the given square. Page no. 194 Section 8.2 Figure it out Draw a rectangle & then leave one dot distance diagonally to place the four smaller squares. Q.2. Identify if there are any squares in this collection. Use measurements if needed. Ans. A is a square. Think: Is it possible to reason out if the sides are equal or not, and if the angles are right or not without using any measuring instruments in the above figure? Can we do this by only looking at the position of corners in the dot grid? Ans. Yes, In the above figure without measuring one can reason out for equal sides & right angles. Yes, the position of the points on the grid paper makes it possible Q.3. Draw at least 3 rotated squares and rectangles on a dot grid. Draw them such that their corners are on the dots. Verify if the squares and rectangles that you have drawn satisfy their respective properties. Ans. [2] Page no. 197 Section 8.3 Construct Q.1. Draw a rectangle with sides of length 4 cm and 6 cm. After drawing, check if it satisfies both the rectangle properties. Ans. A = B = C = D = 90 AB = CD = 4 cm & AD = BC = 6 cm. Q.2. Draw a rectangle of sides 2 cm and 10 cm. After drawing, check if it satisfies both the rectangle properties. Ans. - P = Q = R = S = 90 PQ = SR = 10 cm & PS = QR = 2 cm Q.3. Is it possible to construct a 4-sided figure in which— - all the angles are equal to 90º but - opposite sides are not equal? Ans. No. Page no. 198 Section 8.4 | | Q. Is there a shorthand way of writing it down? In all the sentences, only the position of X, Y and the length XY changes. So we could write this as: | | | --- | --- | --- | | Distance of X from A | Distance of Y from B | Length of XY | | | | | Ans. | Distance of X from A | Distance of Y from B | Length of XY | | --- | --- | --- | | 5 mm 1 cm 2 cm | 3 cm 1 cm 4 cm | 7.4 cm 7 cm 7.3 cm | [3] | Page No. 199 | Q. Have you checked what happens to the length XY when X and Y are placed at the same distance away from A and B, respectively? For example, as in the cases like these: | | | --- | --- | --- | | Distance of X from A | Distance of Y from B | Length of XY | | 5 mm 1 cm 1 cm 5 mm | 5 cm 1 cm 4 cm | | And so on. Ans. | Distance of X from A | Distance of Y from B | Length of XY | | --- | --- | --- | | 5 mm 1 cm 1 cm 5 mm | 5 mm 1 cm 1 cm 5 mm | 7 cm 7 cm 7 cm | Page no. 199 Q. In each of these cases, observe i. how the length XY compares to that of AB and ii. the shape of the 4-sided figure ABYX. Ans. i. XY = AB ii. ABYX is a rectangle Q. How does the farthest distance between X and Y compare with the length of AC? BD? Ans. The farthest distance between X and Y is equal to AC or BD. Construct Q.Construct a rectangle that can be divided into 3 identical squares as shown in the figure. Ans. Hint:Take the length of the rectangle three times its breadth. Page no. 201 Give the lengths of the sides of a rectangle that cannot be divided into — - two identical squares; - three identical squares Ans. - Lengths of sides of a rectangle that cannot be divided into two identical squares: Length = 4 cm and Breadth = 2.5cm (Try for more!) - Length of sides of a rectangle that cannot be divided into three identical squares: Length = 7cm and Breadth = 2cm (Try for other possibilities.) [4] Page no. 201 Q.4. Square with a Hole Ans. The centre of the circle should be at the meeting point of two line segments connecting opposite vertices. Page no. 204 Section 8.5 Explore Q. How should the rectangle be constructed so that the diagonal divides the opposite angles into equal parts? Ans. The rectangle should be constructed in such a manner that the two adjacent sides are equal i.e. the rectangle becomes a square. Page no. 211 Construct Q.1. Construct a rectangle in which one of the diagonals divides the opposite angles into 50°and 40°. Ans. Q.2. Construct a rectangle in which one of the diagonals divides the opposite angles into 45° and 45°. What do you observe about the sides? Ans. [5] Q.3. Construct a rectangle one of whose sides is 4 cm and the diagonal is of length 8 cm. Ans. Q.4. Construct a rectangle one of whose sides is 3 cm and the diagonal is of length 7 cm. Ans. [6] Page no. 215 Construct Q.1. Construct a bigger house in which all the sides are of length 7 cm. Ans. [7] Q.2. Try to recreate ‘A Person’, ‘Wavy Wave’ and ‘Eyes’ from the section Artwork, using ideas involved in the ‘House’ construction. Ans. Q.3. Is there a 4-sided figure in which all the sides are equal in length but is not a square? If such a figure exists, can you construct it? Ans. [8]",
+ "sections": [
+  {
+   "section_id": "6-math-08-s01",
+   "heading": "8.1 Artwork",
+   "text": "# Chapter 8: Playing with Constructions\n\n<!-- page 187 -->\n\n## Playing with Constructions 8\n\n#### 8.1 Artwork\n\nObserve the following figures and try drawing them freehand.\n\nFig. 8.1\n\n<!-- page 188 -->\n\nGanita Prakash | Grade 6\n\nNow, arm yourself with a ruler and a compass. Let us explore if we can draw these figures with these tools and get familiar with a compass.\n\nObserve the way a compass is made. What can one draw with the compass? Explore!\n\nDo you know what curves are? They are any shapes that can be drawn on paper with a pencil, and include straight lines, circles and other figures as shown below:\n\nMark a point ‘P’ in your notebook. Then, mark as many points as possible, in different directions, that are 4 cm away from P.\n\nThink: Imagine marking all the points of 4 cm distance from the point P. How would they look?\n\nTry to draw it and verify if it is correct by taking some points on the curve and checking if their distances from P are indeed 4 cm.\n\nExplore, if you have not already done so, and see if a compass can be used for this purpose.\n\nR\n\n4 cm\n\nYou can start by marking a few points of distance 4 cm from P using the compass. How can this be done?\n\n4 cm P Q\n\n<!-- page 189 -->\n\nPlaying with Constructions\n\nYou will have to open up the compass against a ruler (see Fig. 8.2) such that the distance between the tip of the compass and the pencil is 4 cm.\n\n\u0007Now, try to get the full curve.\n\nHint: Keep the point of the compass fixed moving only the pencil.\n\nWhat is the shape of the curve? It is a circle!\n\nTake a point on the circle. What will be its distance from P—equal to 4 cm, less than 4 cm or greater than 4 cm? Similarly, what will be the distance between P and another point on the circle?\n\nAs shown in the figure, the point P is called the **centre** of the circle and the distance between the centre and any point on the circle is called the **radius** of the circle.\n\nradius | centre\n\nP\n\n1 0 2 3 4 5 6 7\n\nFig. 8.2\n\nHaving explored the use of a compass, go ahead and recreate the images in Fig. 8.1.\n\nCan you make the figures look as good as the figures shown there? Try again if you want to!\n\nAlso, has the use of instruments made the construction easier? Now try constructing the following figures.\n\n<!-- page 190 -->\n\nGanita Prakash | Grade 6\n\n##### Construct\n\n##### 1. A Person\n\nHow will you draw this?\n\nThis figure has two components.\n\nYou might have figured out a way of drawing the first part. For drawing the second part, see this.\n\nThe challenge here is to find out where to place the tip of the compass and the radius to be taken for drawing this curve. You can fix a radius in the compass and try placing the tip of the\n\n<!-- page 191 -->\n\nPlaying with Constructions\n\ncompass in different locations to see which point works for getting the curve. Use your estimate where to keep the tip.\n\n##### 2. Wavy Wave\n\nConstruct this.\n\nAs the length of the central line is not specified, we can take it to be of any length.\n\n\u0007Let us take AB to be the central line such that the length of AB is 8 cm. We write this as AB = 8 cm.\n\nHere, the first wave is drawn as a half circle.\n\nA X ? | B\n\n? | 8 cm\n\n##### Figure it Out\n\n1. What radius should be taken in the compass to get this half circle? What should be the length of AX?\n\n2. Take a central line of a different length and try to draw the wave on it.\n\n3. Try to recreate the figure where the waves are smaller than a half circle (as appearing in the neck of the figure, ‘A Person’). The challenge here is to get both the waves to be identical. This may be tricky!\n\nTry This\n\n<!-- page 192 -->\n\nGanita Prakash | Grade 6\n\n##### 3. Eyes\n\nHow do you draw these eyes with a compass?\n\nFor a hint, go to the end of the chapter.\n\nMake other artwork of your choice with a ruler and a compass.",
+   "page_start": 187,
+   "page_end": 192
+  },
+  {
+   "section_id": "6-math-08-s02",
+   "heading": "8.2 Squares and Rectangles",
+   "text": "#### 8.2 Squares and Rectangles\n\nNow, let us look at some basic figures having straight lines in their boundary.\n\nFig. 8.3\n\nWhat shapes are these? Yes, these are our familiar squares and rectangles. But what makes them squares and rectangles?\n\nConsider this rectangle ABCD. The points A, B, C and D are the corners of the rectangle. Lines AB, BC, CD and DA are its sides. Its angles are A, B, C and D.\n\n> A\n\n> B\n\nThe blue sides AB and CD are called **opposite sides**, as they lie opposite to each other. Likewise, AD and BC is the other pair of opposite sides.\n\n> D\n\n> C Fig. 8.4\n\n<!-- page 193 -->\n\nPlaying with Constructions\n\nRecall that, in a rectangle: R1) The opposite sides are equal in length, and R2) All the angles are 90 . As in the case of rectangles, the corners and sides are defined for a square in the same manner.\n\nA square satisfies the following two properties: S1) All the sides are equal, and S2) All the angles are 90\n\no. See the rectangle in Fig. 8.4 and the name given to it: ABCD. This rectangle can also be named in other ways — BCDA, CDAB, DABC, ADCB, DCBA, CBAD and BADC. So, can a rectangle be named using any combination of the labels around its corners? No! For example, it cannot be named ABDC or ACBD. Can you see what names are allowed and what names are not?\n\nIn a valid name, the corners occur in an order of travel around the rectangle, starting from any corner.\n\nWhich of the following is not a name for this square?\n\n1. PQSR | S | P\n\n2. SPQR\n\n3. RSPQ\n\n4. QRSP | R | Q\n\n##### Rotated Squares and Rectangles\n\nHere is a square piece of paper having all its sides equal in length and all angles equal to 90 . It is rotated as shown in the figure. Is it still a square?\n\nLet us check if the rotated paper still satisfies the properties of a square.\n\n- Are all the sides still equal? Yes.\n- Are all the angles still 90 ? Yes.\n\n<!-- page 194 -->\n\nGanita Prakash | Grade 6\n\nRotating a square does not change its lengths and angles.\n\nTherefore, this rotated figure satisfies both the properties of a square and so, it is a square.\n\nBy the same reasoning, a rotated rectangle is still a rectangle.\n\n##### Figure it Out\n\n1. Draw the rectangle and four squares configuration (shown in Fig. 8.3) on a dot paper.\n\nWhat did you do to recreate this figure so that the four squares are placed symmetrically around the rectangle? Discuss with your classmates.\n\n2. Identify if there are any squares in this collection. Use measurements if needed.\n\nA D C B\n\n**Think:** Is it possible to reason out if the sides are equal or\n\nnot, and if the angles are right or not without using any measuring instruments in the above figure? Can we do this by only looking at the position of corners in the dot grid?\n\n3. Draw at least 3 rotated squares and rectangles on a dot grid. Draw them such that their corners are on the dots. Verify if the squares and rectangles that you have drawn satisfy their respective properties.\n\n<!-- page 195 -->\n\nPlaying with Constructions",
+   "page_start": 192,
+   "page_end": 195
+  },
+  {
+   "section_id": "6-math-08-s03",
+   "heading": "8.3 Constructing Squares and Rectangles",
+   "text": "#### 8.3 Constructing Squares and Rectangles\n\nNow, let us start constructing squares and rectangles. How would you construct a square with a side of 6 cm? For help, you can see the following figures. A square PQRS of side length 6 cm is constructed.\n\nStep 1 Step 2\n\nP Q 6 cm P Q 6 cm\n\nMark a point to draw a perpendicular to PQ through P.\n\nStep 3 Method 1\n\nS\n\nMark S on the perpendicular such that\n\nPS = 6 cm using a ruler.\n\n6 cm\n\n90\n\nP Q 6 cm\n\n**Method 2** This can also be done using a compass.\n\n<!-- page 196 -->\n\n> Ganita Prakash | Grade 6\n\nS\n\n6 cm\n\nP Q 6 cm\n\nCan you see why PS should be\n\n6 cm long?\n\n> Step 4 Draw a perpendicular to line segment PQ through Q.\n\n**Step 5** If we had used the compass, then the next point can easily be marked using it!\n\n> R\n\nR\n\nS\n\n> P Q 6 cm\n\nP Q\n\n> Step 6\n\n> R S\n\n6 cm 6 cm | How long is the side RS and what are the measures of R and S?\n\n> 90º 90º\n\n> P Q 6 cm\n\n<!-- page 197 -->\n\nPlaying with Constructions\n\n##### Construct\n\n1. Draw a rectangle with sides of length 4 cm and 6 cm. After drawing, check if it satisfies both the rectangle properties.\n\n2. Draw a rectangle of sides 2 cm and 10 cm. After drawing, check if it satisfies both the rectangle properties.\n\n3. Is it possible to construct a 4-sided figure in which—\n- all the angles are equal to 90º but\n- opposite sides are not equal?\n\nTry This",
+   "page_start": 195,
+   "page_end": 197
+  },
+  {
+   "section_id": "6-math-08-s04",
+   "heading": "8.4 An Exploration in Rectangles",
+   "text": "#### 8.4 An Exploration in Rectangles\n\nConstruct a rectangle ABCD with AB = 7 cm and BC = 4 cm.\n\nImagine X to be a point that can be moved anywhere along the side AD. Similarly, imagine Y to be a point that can be moved anywhere along the side BC. Note that X can also be placed on the end point A or D. Similarly, Y can also be placed on the end point B or C.\n\nA | B | A | B\n\n5 mm | 2 cm 1 cm\n\nX\n\nX\n\nY | Y\n\n1 cm\n\nD | C | D | C\n\nA | B = Y | A = X | B = Y\n\n4 cm\n\nD = X | C | D | C\n\n<!-- page 198 -->\n\nGanita Prakash | Grade 6\n\nAt which positions will the points X and Y be at their closest? When do you think they will be the farthest? What does your intuition say? Discuss with your classmates.\n\nMath\n\nTalk\n\nNow, verify your guesses by placing the points X and Y on the sides and measure how near or far they are.\n\nThe distance betweenXandY can be obtained by measuring the length of the line XY.\n\nHow does the minimum distance between the pointsXandY compare to the length of AB?\n\nChange the positions of X and Y to check if there are other positions where they are at their nearest or farthest. You could construct multiple copies of the rectangle and try out various positions of X and Y.\n\nHow will you keep track of the lengths XY for different positions of X and Y?\n\nHere is one way of doing it. Suppose here are some of the positions of X and Y that you have considered:\n\n- When X is 5 mm away from A and Y is 3 cm away from B, XY = ___ cm __ mm\n- When X is 1 cm away from A and Y is 1 cm away from B, XY = ___ cm ___ mm\n- When X is 2 cm away from A and Y is 4 cm away from B, XY = ___ cm ___ mm and so on. Is there a shorthand way of writing it down? In all the sentences, only the position of X,Yand the lengthXYchanges. So we could write this as:\n\n| Distance of X from A | Distance of Y from B | Length of XY |\n| --- | --- | --- |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n\n<!-- page 199 -->\n\nPlaying with Constructions\n\nHave you checked what happens to the lengthXYwhen X and Y are placed at the same distance away from A and B, respectively? For example, as in the cases like these:\n\n| Distance of X from A | Distance of Y from B | Length of XY |\n| --- | --- | --- |\n|  |  |  |\n| 5 mm | 5 mm |  |\n| 1 cm | 1 cm |  |\n| 1 cm 5 mm | 1 cm 5 mm |  |\n\nand so on.\n\nIn each of these cases, observe\n1. how the length XY compares to that of AB and\n2. the shape of the 4-sided figure ABYX.\n\nHow does the farthest distance between X and Y compare with the length of AC? BD?\n\n##### Construct\n\n##### Breaking Rectangles\n\nConstruct a rectangle that can be divided into 3 identical squares as shown in the figure.\n\n##### Solution\n\nIf this seem difficult, let us simplify the problem.\n\nExplore\n\n\u0007What about constructing a rectangle that can be divided into two identical squares? Can you try it?\n\n\u0007It is wise to first plan and then construct. But how do we plan? Can you think of a way?\n\n<!-- page 200 -->\n\nGanita Prakash | Grade 6\n\n\u0007One way is to visualise the final figure by drawing a rough diagram of it.\n\nA B C\n\nF E D\n\nWhat can we infer from this figure?\n\nCan you identify the equal sides?\n\nSince, the two squares are identical,\n\nAB = BC and FE = ED\n\n\u0007Since ABEF and BCDE are squares, all the sides in each of the squares are equal. This is written as —\n\nAF = AB = BE = FE BE = BC = CD = ED\n\nSo, all the shorter lines are equal!\n\n\u0007A convention is followed to represent equal sides. It is done by putting a ‘|’ on the line. Refer to the rough figure.\n\n\u0007Using this analysis, can you try constructing it? Remember, all that was asked for is a rectangle that can be divided into two identical squares and with no measurements imposed. \u0007To draw the rectangle ACDF, one could assign any length to AF. For example, if we assign AF = 4 cm, then what must the length of AC be?\n\nExplore: Can the rectangle now be completed?\n\n\u0007In fact, one could proceed by drawing AF without even measuring its length using a ruler. We could then construct a line perpendicular to AF that is long enough to contain the other side. As, AB = AF, we need to somehow transfer the length of AF\n\n<!-- page 201 -->\n\nPlaying with Constructions\n\nto get the point B. How do we do it without a ruler? Can it be done using a compass? Observe, how the length of AF is measured using a compass.\n\nA | A | B\n\nF | F\n\nUse it to mark out the points B and C, and complete the rectangle.\n\nWith this idea, try constructing a rectangle that can be divided into three identical squares.\n\n\u0007 Give the lengths of the sides of a rectangle that cannot be divided into —\n\n- two identical squares;\n- three identical squares.\n\n##### Construct\n\n1. A Square within a Rectangle\n\nConstruct a rectangle of sides 8 cm and 4 cm. How will you construct a square inside, as shown in the figure, such that the centre of the square is the same as the centre of the rectangle?\n\n8 cm\n\n4 cm\n\n<!-- page 202 -->\n\nGanita Prakash | Grade 6\n\nHint: \u0007Draw a rough figure. What will be the sidelength of the\n\nsquare? What will be the distance between the corners of the square and the outer rectangle?\n\n2. Falling Squares\n\n4 cm\n\nMake sure that the squares are aligned\n\n4 cm\n\nEach is a Square of | the way they are\n\nshown.\n\n4 cm | side 4 cm\n\nNow, try this.\n\nSquare of\n\nside 3 cm\n\nSquare of\n\nside 5 cm\n\nSquare of\n\nside 7 cm\n\n##### 3. Shadings\n\nConstruct this. Choose measurements of your choice. Note that the larger 4-sided figure is a square and so are the smaller ones.\n\n<!-- page 203 -->\n\n> Playing with Constructions\n\n4. Square with a Hole\n\n> Observe that the circular\n\n> hole is the same as the\n\n> centre of the square.\n\nHint:Think where the centre of the circle should be.\n\n5. Square with more Holes\n\n6. Square with Curves\n\n> Try This\n\nThis is a square with 8 cm sidelengths.\n\nHint: \u0007Think where the tip of the compass\n\ncan be placed to get all the 4 arcs to bulge uniformly from each of the sides. Try it out!",
+   "page_start": 197,
+   "page_end": 203
+  },
+  {
+   "section_id": "6-math-08-s05",
+   "heading": "8.5 Exploring Diagonals of Rectangles and Squares",
+   "text": "#### 8.5 Exploring Diagonals of Rectangles and Squares\n\nConsider a rectangle PQRS. Join PR and QS. These two lines are called the **diagonals** of the rectangle.\n\n> Q\n\n> P\n\n> c d e\n\n> f\n\nCompare the lengths of the diagonals. First predict the answer. Then construct a\n\n> g h\n\n> R a b\n\n> S\n\n<!-- page 204 -->\n\nGanita Prakash | Grade 6\n\nrectangle marking the points as shown and measure the diagonals. In rectangle PQRS, the right angles at P and R are referred to as opposite angles. The other pair of opposite angles are the right angles at Q and S.\n\nObserve that a diagonal divides each of the pair of opposite angles into two smaller angles. In the figure, the diagonal PR divides angleR into two smaller angles which we simply call g and h. The diagonal also divides angle P into c and d. Are g and h equal? Are c and d equal?\n\nFirst predict the answers, and then measure the angles. What do you observe? Identify pairs of angles that are equal.\n\nExplore\n\nHow should the rectangle be constructed so that the diagonal divides the opposite angles into equal parts?\n\nHow will you record your observations? First, identify the parameters that need to be tracked. They are the sides of the rectangle and the 8 angles formed by the two diagonals. Are there any other measurements that you would want to keep track of?\n\n| Sides | A | B | C | D | E | F | G | H |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n\nIn your experimentation, did you consider the case when all four sides of the rectangle are equal? That is, did you consider the case of a square? See what happens in this special case!\n\n\u0007 \u0007What general laws did you observe with respect to the\n\nangles and sides? Try to frame and discuss them with your classmates. | Math\n\nTalk\n\n\u0007How can one be sure if the laws that you have observed will always be true?\n\n<!-- page 205 -->\n\nPlaying with Constructions\n\n##### Construct\n\n1. Construct a rectangle in which one of the diagonals divides the opposite angles into 60 and 30 .\n\nSolution\n\nLet us start with a rough diagram.\n\nD | C\n\nA B\n\nIn what order should its parts be drawn?\n\nWe will briefly sketch a possible order of construction.\n\n##### Step 1\n\nA B A B\n\nAB is drawn with an arbitrary length. What is the next point that can be located?\n\n<!-- page 206 -->\n\nGanita Prakash | Grade 6\n\n##### Step 2\n\nC\n\n60o\n\nA | B\n\n##### Step 3\n\nWe know the line on which D lies. Draw a line through A perpendicular to AB.\n\nC\n\n60o\n\nA | B\n\nNow A is divided into two angles. One measures 60 . Check what the other angle is.\n\nThere are at least two ways of finding the point D —\n- \u0007One uses the fact that all the angles of a rectangle are right angles.\n- The other uses the fact that opposite sides are equal.\n\n<!-- page 207 -->\n\nPlaying with Constructions\n\n##### Step 4 Method 1\n\nD | C\n\n30o\n\n60o\n\nA | B\n\nDraw a line perpendicular to BC at C to get the point D.\n\n##### Method 2\n\nD\n\nC C\n\n60o 60o\n\nA A\n\nB B\n\nUsing a compass, mark the point D such that AD = BC. Join CD to get the required rectangle.\n\nWe have seen how to construct rectangles when their sides are given. But what do we do if a side and a diagonal is given?\n\n<!-- page 208 -->\n\nGanita Prakash | Grade 6\n\n2. Construct a rectangle where one of its sides is 5 cm and the length of a diagonal is 7 cm.\n\nSolution\n\nA B\n\nLet us draw a rough diagram.\n\nLet us decide the steps of construction. | 7 cm\n\nWhich line can be drawn first?\n\nC D 5 cm\n\n##### Step 1\n\nThe base CD measuring length 5 cm can be easily constructed.\n\nD C 5 cm\n\nNext?\n\n##### Step 2\n\nDraw a perpendicular to line DC at the point C. Let us call this line l.\n\nl\n\nD C\n\n5 cm\n\nThis is easy as we know that this line is perpendicular to the base. The point B should be somewhere on this line l.\n\nHow do we spot it? What else do we know about the position of B?\n\nWe know that it is at a distance of 7 cm from the point D.\n\n<!-- page 209 -->\n\nPlaying with Constructions\n\nOne of the ways of marking B is by taking a ruler and trying to move it around to get a point on line l that is 7 cm from point D. However, this requires trial and error. There is another efficient method which doesn’t involve trial and error.\n\nFor this, instead of trying to get that one required point of distance 7 cm from D, let us explore a way of getting all the points of distance 7 cm from D.\n\nWe know what this shape is!\n\n##### Step 3 Method 1\n\nl\n\nD C\n\nConstruct a circle of radius 7 cm with point D as the centre.\n\nCan you spot the point B here? Remember that it is 7 cm away from point D and on the line l.\n\nConsider the point at which the circle and the line intersect. What is its distance from point D? If needed, check your figure. What do you observe?\n\nThe point where the circle intersects the line l is the required point B.\n\n<!-- page 210 -->\n\nGanita Prakash | Grade 6\n\n**Method 2** To locate the point B, was it necessary to draw the entire circle? We can see that only the arc near the line l is needed. So, the third step can also be done as shown in the figure below.\n\nl\n\nD C\n\nHaving marked the three points of the rectangle, we only need to complete it. Recall that we were in a similar situation in the previous problem also. We saw two methods of completing the rectangle from here. We could follow any one of those methods.\n\n##### Step 4\n\nA | B\n\n90°\n\n90°\n\nD | C\n\nConstruct perpendiculars to DC and BC passing through D and B, respectively. The point where these lines intersect is the fourth point A.\n\nCheck if ABCD is indeed a rectangle satisfying properties R1 and R2.\n\n<!-- page 211 -->\n\n> Playing with Constructions\n\n##### Construct\n\n1. Construct a rectangle in which one of the diagonals divides the opposite angles into 50 and 40 .\n\n2. Construct a rectangle in which one of the diagonals divides the opposite angles into 45 and 45 . What do you observe about the sides?\n\n3. Construct a rectangle one of whose sides is 4 cm and the diagonal is of length 8 cm.\n\n4. Construct a rectangle one of whose sides is 3 cm and the diagonal is of length 7 cm.",
+   "page_start": 203,
+   "page_end": 211
+  },
+  {
+   "section_id": "6-math-08-s06",
+   "heading": "8.6 Points Equidistant from Two Given Points",
+   "text": "#### 8.6 Points Equidistant from Two Given Points\n\n##### Construct\n\n> A\n\n##### House\n\n> 5 cm 5 cm\n\nRecreate this figure. Note that all the lines forming the border of the house are of length 5 cm.\n\n> B\n\n> C\n\nSolution\n\n> 5 cm\n\n> 5 cm\n\nThe first task is to identify in what sequence the lines and curve will have to be drawn.\n\n> 1 cm\n\n> 2 cm\n\n> E\n\n> D\n\n> 5 cm\n\n##### Step 1\n\nB | C\n\n5 cm 5 cm\n\n1 cm\n\n2 cm\n\n> E\n\nD\n\n5 cm\n\n<!-- page 212 -->\n\nGanita Prakash | Grade 6\n\nCan you complete the figure? Try!\n\nWe need to locate the point A that is of distance 5 cm from the points B and C. You might have realised that this can be done using a ruler. However, this leads to a lot of trial and error. This construction can be further simplified. How?\n\nIf you have guessed that this can be done by the use of compass, you are right! Go ahead and explore how the point A can be located without trial and error.\n\nThere is a similarity between the problem of finding point A in this problem and point B at step 3 of the second solved example of the previous section (see page 209).\n\n##### Step 2\n\nB | C\n\n5 cm 5 cm\n\n1 cm\n\nD | 2 cm | E\n\n5 cm\n\nDraw a curve that has all its points of 5 cm from the point B; the circle centred at B should be with 5 cm radius.\n\nDoes this help in spotting the point A? Construct and explore in the figure.\n\nThe point A can be located by finding the correct point on the circle that is of distance 5 cm from the point C. Again, this can be done using a ruler. But can we use a compass for this?\n\n<!-- page 213 -->\n\nPlaying with Constructions\n\n##### Step 3 Method 1\n\nTake a radius of 5 cm in the compass and with C as the centre, draw a circle.\n\nB | C\n\n5 cm 5 cm\n\n1 cm\n\nD | 2 cm | E\n\n5 cm\n\nAre you able to spot the point A? Check the figure in your notebook. What do you observe?\n\nSee the point at which both the circles intersect. How far is it from the point B?\n\nHow far is it from C?\n\nThus, this is the point A!\n\n\u0007Think\n\n\u0007Was it necessary to draw two full circles to get the point A? We only needed part of both the circles.\n\n**Method 2** \u0007So the point A could have been obtained just by drawing arcs of radius 5 cm from points B and C.\n\n<!-- page 214 -->\n\nGanita Prakash | Grade 6\n\nA\n\nB | C\n\n5 cm 5 cm\n\n1 cm\n\n2 cm\n\nD | E\n\n5 cm\n\n\u0007Join A to B and A to C by straight lines.\n\n\u0007 Having obtained point A, what remains is the construction of the remaining arc. How do we do it?\n\nCan we use the fact that A is of distance 5 cm from both B and C?\n\n##### Step 4\n\nTake 5 cm radius in the compass and from A, draw the arc touching B and C as shown in the figure.\n\nA\n\n5 cm 5 cm\n\nB | C\n\n5 cm | 5 cm\n\n1 cm\n\n2 cm\n\nD | E\n\n5 cm\n\nThe house is ready!\n\n<!-- page 215 -->\n\nPlaying with Constructions\n\n##### Construct\n\n1. Construct a bigger house in which all the sides are of length 7 cm.\n\n2. Try to recreate ‘A Person’, ‘Wavy Wave’, and ‘Eyes’ from the section ‘Artworkʼ, using ideas involved in the ‘House’ construction.\n\n3. Is there a 4-sided figure in which all the sides are equal in length but is not a square? If such a figure exists, can you construct it? Hints\n\n**A) Eyes** (from 8.1 Artwork and Construct above (page no. 215).\n\nPart of the construction is shown earlier. Observe it carefully. You will see two horizontal lines drawn lightly. In geometric constructions, one often constructs supporting curves or figures that are not part of the given figure but help in constructing it.\n\nA\n\nB\n\nThe technique to draw the upper and the lower curves of the eye is the same as that used in the figure, ‘A Personʼ. Points A and B are the locations where the tip of the compass is placed when drawing the curves of the eye. Note that the upper curve and the lower curve should together form a symmetrical figure. For this to happen, where should these points A and B be placed? Make a good estimate.\n\n<!-- page 216 -->\n\nGanita Prakash | Grade 6\n\nTry to get the eyes as symmetrical and identical as possible. This might need many trials.\n\n**B)** (From Construct above (page no. 211).\n\n\u0007For the purpose of construction, let us take the side lengths to be of 5 cm. Consider this figure.\n\nB\n\n5 cm\n\nA | 5 cm C\n\nWe need to identify only one more point to make this a 4-sided figure. That point, let us call it D, should be 5 cm from both B and C. How can such a point be found? Can any of the ideas used in the ‘House’ problem be used here?",
+   "page_start": 211,
+   "page_end": 216
+  },
+  {
+   "section_id": "6-math-08-s07",
+   "heading": "S u m m a r y",
+   "text": "### S u m m a r y\n\n- All the points of a circle are at the same distance from its **centre**. This distance is called the **radius** of the circle.\n- A compass can be used to construct circles and their parts.\n- A rough diagram can be useful in planning how to construct a given figure.\n- A rectangle can be constructed given the lengths of its sides or that of one of its sides and a diagonal.\n\n<!-- page 217 -->\n\n##### CHAPTER 8 — SOLUTIONS\n\nPlaying with Constructions\n\nPage no. 188 Section 8.1\n\nThink: Imagine marking all the points of 4 cm distance from the point P. How would\n\n**they look?** Ans. On joining, they are forming a circle. **Page no. 191 Section 8.1 Figure it out**\n\n4 cm\n\nQ.1. What radius should be taken in the compass to get this half circle? What should be the length of AX? Ans.2 cm. AX = 4 cm. Q.2. Take a central line of a different length and try to draw the wave on it. Ans.\n\nQ.3. Try to recreate the figure where the waves are smaller than a half circle (as appearing in the neck of the figure ‘A Person’). The challenge here is to get both the waves to be identical. This may be tricky! Ans.\n\nPage no. 193 Section 8.2\n\nQ. Which of the following is not a name for this square?\n\n1. PQSR\n2. SPQR\n\n[1]\n\n<!-- page 218 -->\n\n**3. RSPQ 4. QRSP Ans.** PQSR is not a name for the given square. **Page no. 194 Section 8.2 Figure it out**\n\nDraw a rectangle & then leave one dot distance diagonally to place the four smaller squares.\n\nQ.2. Identify if there are any squares in this collection. Use measurements if needed. Ans. A is a square.\n\nThink: Is it possible to reason out if the sides are equal or not, and if the angles are\n\nright or not without using any measuring instruments in the above figure? Can we do this by only looking at the position of corners in the dot grid?\n\n**Ans.** Yes, In the above figure without measuring one can reason out for equal sides & right\n\nangles.\n\nYes, the position of the points on the grid paper makes it possible\n\nQ.3. Draw at least 3 rotated squares and rectangles on a dot grid. Draw them such that\n\ntheir corners are on the dots. Verify if the squares and rectangles that you have drawn satisfy their respective properties.\n\nAns.\n\n[2]\n\n<!-- page 219 -->\n\nPage no. 197 Section 8.3\n\nConstruct Q.1. Draw a rectangle with sides of length 4 cm and 6 cm. After drawing, check if it\n\nsatisfies both the rectangle properties.\n\n**Ans.** A = B = C = D = 90\n\nAB = CD = 4 cm & AD = BC = 6 cm.\n\nQ.2. Draw a rectangle of sides 2 cm and 10 cm. After drawing, check if it satisfies both\n\nthe rectangle properties.\n\nAns.\n\n- P = Q = R = S = 90 PQ = SR = 10 cm & PS = QR = 2 cm\n\nQ.3. Is it possible to construct a 4-sided figure in which—\n\n- all the angles are equal to 90º but\n- opposite sides are not equal?\n\nAns. No.\n\nPage no. 198 Section 8.4\n\n|  | Q. Is there a shorthand way of writing it down? In all the sentences, only the position of X, Y and the length XY changes. So we could write this as: |  |\n| --- | --- | --- |\n| Distance of X from A | Distance of Y from B | Length of XY |\n|  |  |  |\n\nAns.\n\n| Distance of X from A | Distance of Y from B | Length of XY |\n| --- | --- | --- |\n| 5 mm 1 cm 2 cm | 3 cm 1 cm 4 cm | 7.4 cm 7 cm 7.3 cm |\n\n[3]\n\n<!-- page 220 -->\n\n| Page No. 199 | Q. Have you checked what happens to the length XY when X and Y are placed at the same distance away from A and B, respectively? For example, as in the cases like these: |  |\n| --- | --- | --- |\n| Distance of X from A | Distance of Y from B | Length of XY |\n| 5 mm 1 cm 1 cm 5 mm | 5 cm 1 cm 4 cm |  |\n\nAnd so on.\n\nAns.\n\n| Distance of X from A | Distance of Y from B | Length of XY |\n| --- | --- | --- |\n| 5 mm 1 cm 1 cm 5 mm | 5 mm 1 cm 1 cm 5 mm | 7 cm 7 cm 7 cm |\n\nPage no. 199\n\nQ. In each of these cases, observe\n\ni. how the length XY compares to that of AB and ii. the shape of the 4-sided figure ABYX. Ans. i. XY = AB ii. ABYX is a rectangle Q. How does the farthest distance between X and Y compare with the length of AC?\n\n**BD?** Ans. The farthest distance between X and Y is equal to AC or BD. **Construct Q.Construct a rectangle that can be divided into 3 identical squares as shown in the**\n\n**figure. Ans.** Hint:Take the length of the rectangle three times its breadth. **Page no. 201**\n\nGive the lengths of the sides of a rectangle that cannot be divided into —\n\n- two identical squares;\n- three identical squares Ans.\n\n- Lengths of sides of a rectangle that cannot be divided into two identical squares: Length = 4 cm and Breadth = 2.5cm (Try for more!)\n- Length of sides of a rectangle that cannot be divided into three identical squares: Length = 7cm and Breadth = 2cm (Try for other possibilities.)\n\n[4]\n\n<!-- page 221 -->\n\n**Page no. 201 Q.4. Square with a Hole** Ans. The centre of the circle should be at the meeting point of two line segments connecting\n\nopposite vertices. **Page no. 204 Section 8.5**\n\nExplore Q. How should the rectangle be constructed so that the diagonal divides the opposite\n\nangles into equal parts?\n\n**Ans.** The rectangle should be constructed in such a manner that the two adjacent sides are\n\nequal i.e. the rectangle becomes a square.\n\nPage no. 211 Construct\n\nQ.1. Construct a rectangle in which one of the diagonals divides the opposite angles into\n\n50°and 40°.\n\nAns.\n\nQ.2. Construct a rectangle in which one of the diagonals divides the opposite angles into\n\n45° and 45°. What do you observe about the sides?\n\nAns.\n\n[5]\n\n<!-- page 222 -->\n\nQ.3. Construct a rectangle one of whose sides is 4 cm and the diagonal is of length 8 cm.\n\nAns.\n\nQ.4. Construct a rectangle one of whose sides is 3 cm and the diagonal is of length 7 cm.\n\nAns.\n\n[6]\n\n<!-- page 223 -->\n\nPage no. 215 Construct\n\nQ.1. Construct a bigger house in which all the sides are of length 7 cm.\n\nAns.\n\n[7]\n\n<!-- page 224 -->\n\nQ.2. Try to recreate ‘A Person’, ‘Wavy Wave’ and ‘Eyes’ from the section Artwork,\n\nusing ideas involved in the ‘House’ construction.\n\nAns.\n\nQ.3. Is there a 4-sided figure in which all the sides are equal in length but is not a\n\nsquare? If such a figure exists, can you construct it?\n\nAns.\n\n[8]",
+   "page_start": 216,
+   "page_end": 224
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "centre",
+   "meaning": "As shown in the figure, the point P is called the centre of the circle and the distance between the centre and any point on the circle is called the radius of the circle.",
+   "page": 189
+  },
+  {
+   "term": "radius",
+   "meaning": "As shown in the figure, the point P is called the centre of the circle and the distance between the centre and any point on the circle is called the radius of the circle.",
+   "page": 189
+  },
+  {
+   "term": "opposite sides",
+   "meaning": "The blue sides AB and CD are called opposite sides, as they lie opposite to each other.",
+   "page": 192
+  },
+  {
+   "term": "Method 2",
+   "meaning": "Method 2 This can also be done using a compass.",
+   "page": 195
+  },
+  {
+   "term": "Step 5",
+   "meaning": "Step 5 If we had used the compass, then the next point can easily be marked using it!",
+   "page": 196
+  },
+  {
+   "term": "diagonals",
+   "meaning": "These two lines are called the diagonals of the rectangle.",
+   "page": 203
+  },
+  {
+   "term": "A) Eyes",
+   "meaning": "A) Eyes (from 8.1 Artwork and Construct above (page no.",
+   "page": 215
+  },
+  {
+   "term": "they look?",
+   "meaning": "they look?",
+   "page": 217
+  },
+  {
+   "term": "Page no. 191 Section 8.1 Figure it out",
+   "meaning": "they look? Ans. On joining, they are forming a circle. Page no. 191 Section 8.1 Figure it out",
+   "page": 217
+  },
+  {
+   "term": "3. RSPQ 4. QRSP Ans",
+   "meaning": "3. RSPQ 4. QRSP Ans. PQSR is not a name for the given square. Page no. 194 Section 8.2 Figure it out",
+   "page": 218
+  },
+  {
+   "term": "Page no. 194 Section 8.2 Figure it out",
+   "meaning": "3. RSPQ 4. QRSP Ans. PQSR is not a name for the given square. Page no. 194 Section 8.2 Figure it out",
+   "page": 218
+  },
+  {
+   "term": "Ans",
+   "meaning": "Ans.",
+   "page": 218
+  },
+  {
+   "term": "figure. Ans",
+   "meaning": "figure. Ans. Hint:Take the length of the rectangle three times its breadth. Page no. 201",
+   "page": 220
+  },
+  {
+   "term": "Page no. 201",
+   "meaning": "figure. Ans. Hint:Take the length of the rectangle three times its breadth. Page no. 201",
+   "page": 220
+  },
+  {
+   "term": "Page no. 201 Q.4. Square with a Hole",
+   "meaning": "Page no. 201 Q.4. Square with a Hole Ans. The centre of the circle should be at the meeting point of two line segments connecting",
+   "page": 221
+  },
+  {
+   "term": "Page no. 204 Section 8.5",
+   "meaning": "opposite vertices. Page no. 204 Section 8.5",
+   "page": 221
+  }
+ ],
+ "activities": [],
+ "figures": [
+  {
+   "label": "Fig. 8.1",
+   "caption": "",
+   "page": 187
+  },
+  {
+   "label": "Fig. 8.2",
+   "caption": "",
+   "page": 189
+  },
+  {
+   "label": "Fig. 8.3",
+   "caption": "",
+   "page": 192
+  }
+ ],
+ "exercises": [
+  {
+   "label": "Figure it Out (p. 191) Q1",
+   "text": "1. What radius should be taken in the compass to get this half circle? What should be the length of AX?",
+   "type_hint": "short",
+   "page": 191,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (p. 191) Q2",
+   "text": "2. Take a central line of a different length and try to draw the wave on it.",
+   "type_hint": "diagram",
+   "page": 191,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (p. 191) Q3",
+   "text": "3. Try to recreate the figure where the waves are smaller than a half circle (as appearing in the neck of the figure, ‘A Person’). The challenge here is to get both the waves to be identical. This may be tricky!\n\nTry This\n\n<!-- page 192 -->\n\nGanita Prakash | Grade 6",
+   "type_hint": "short",
+   "page": 191,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (p. 194) Q1",
+   "text": "1. Draw the rectangle and four squares configuration (shown in Fig. 8.3) on a dot paper.\n\nWhat did you do to recreate this figure so that the four squares are placed symmetrically around the rectangle? Discuss with your classmates.",
+   "type_hint": "diagram",
+   "page": 194,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (p. 194) Q2",
+   "text": "2. Identify if there are any squares in this collection. Use measurements if needed.\n\nA D C B\n\n**Think:** Is it possible to reason out if the sides are equal or\n\nnot, and if the angles are right or not without using any measuring instruments in the above figure? Can we do this by only looking at the position of corners in the dot grid?",
+   "type_hint": "short",
+   "page": 194,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (p. 194) Q3",
+   "text": "3. Draw at least 3 rotated squares and rectangles on a dot grid. Draw them such that their corners are on the dots. Verify if the squares and rectangles that you have drawn satisfy their respective properties.\n\n<!-- page 195 -->\n\nPlaying with Constructions",
+   "type_hint": "diagram",
+   "page": 194,
+   "source": "in_chapter"
+  }
+ ],
+ "topics": [
+  "Artwork",
+  "Squares and Rectangles",
+  "Constructing Squares and Rectangles",
+  "An Exploration in Rectangles",
+  "Exploring Diagonals of Rectangles and Squares",
+  "Points Equidistant from Two Given Points",
+  "centre",
+  "radius",
+  "opposite sides",
+  "Method 2",
+  "Step 5",
+  "diagonals",
+  "A) Eyes",
+  "they look?",
+  "Page no. 191 Section 8.1 Figure it out",
+  "3. RSPQ 4. QRSP Ans",
+  "Page no. 194 Section 8.2 Figure it out",
+  "Ans",
+  "figure. Ans",
+  "Page no. 201",
+  "Page no. 201 Q.4. Square with a Hole",
+  "Page no. 204 Section 8.5"
+ ],
+ "page_start": 187,
+ "page_end": 224,
+ "structured_by": "heuristic",
+ "warnings": []
+}

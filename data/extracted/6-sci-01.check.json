@@ -1,0 +1,42 @@
+{
+ "chapter_id": "6-sci-01",
+ "pdf_pages": 8,
+ "printed_pages": [
+  1,
+  8
+ ],
+ "book_page_start": 1,
+ "start_page_ok": true,
+ "words_expected": 1508,
+ "words_in_markdown": 1531,
+ "missing_words": 0,
+ "missing_sample": [],
+ "dropped_as_noise": [
+  "[running header] Chapter",
+  "[footer] Reprint 2026-27",
+  "[running header] Curiosity | Textbook of Science | Grade 6",
+  "[footer] Reprint 2026-27",
+  "[page number] 2",
+  "[running header] The Wonderful World of Science",
+  "[footer] Reprint 2026-27",
+  "[page number] 3",
+  "[running header] Curiosity | Textbook of Science | Grade 6",
+  "[footer] Reprint 2026-27",
+  "[page number] 4",
+  "[running header] The Wonderful World of Science",
+  "[footer] Reprint 2026-27",
+  "[page number] 5",
+  "[running header] Curiosity | Textbook of Science | Grade 6",
+  "[footer] Reprint 2026-27",
+  "[page number] 6",
+  "[running header] The Wonderful World of Science",
+  "[footer] Reprint 2026-27",
+  "[page number] 7",
+  "[running header] Curiosity | Textbook of Science | Grade 6",
+  "[footer] Reprint 2026-27",
+  "[page number] 8"
+ ],
+ "image_only_pages": [],
+ "glyphs_repaired": 0,
+ "glyphs_unknown": 5
+}

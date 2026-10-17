@@ -86,7 +86,7 @@ class Books:
     def stats(self) -> dict:
         rows = self.db.execute("SELECT class, subject, COUNT(*) n FROM chapters GROUP BY class, subject").fetchall()
         meta = dict(self.db.execute("SELECT key, value FROM meta").fetchall())
-        return {"chapters": {f"{r['class']}-{r['subject']}": r["n"] for r in rows}, **meta}
+        return {"chapters": {f"{r['class']}-{r['subject']}": r["n"] for r in rows}, "built_at": meta.get("built_at")}
 
     def _chapter_rows(self, cls: int | None = None, subject: str | None = None) -> list[sqlite3.Row]:
         q, args = "SELECT * FROM chapters WHERE 1=1", []
@@ -290,6 +290,13 @@ class Books:
             ):
                 merged[key] = r
         ranked = sorted(merged.values(), key=lambda r: (-CONF_RANK[r["confidence"]], -r.get("score", 0)))[:3]
+        # One clear winner: weaker topic matches below it are only "medium".
+        strong = ("title match", "matched old chapter name", "chapter number")
+        if ranked and ranked[0]["confidence"] == "high" and ranked[0]["match_reason"].startswith(strong):
+            for r in ranked[1:]:
+                if r["confidence"] == "high" and not r["match_reason"].startswith(strong):
+                    r["confidence"] = "medium"
+        notes = list(dict.fromkeys(notes))
         for r in ranked:
             r.pop("score", None)
         if not ranked or all(r["confidence"] == "low" for r in ranked):

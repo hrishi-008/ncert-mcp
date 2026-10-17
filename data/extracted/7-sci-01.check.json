@@ -1,0 +1,36 @@
+{
+ "chapter_id": "7-sci-01",
+ "pdf_pages": 6,
+ "printed_pages": [
+  1,
+  6
+ ],
+ "book_page_start": 1,
+ "start_page_ok": true,
+ "words_expected": 1529,
+ "words_in_markdown": 1549,
+ "missing_words": 0,
+ "missing_sample": [],
+ "dropped_as_noise": [
+  "[running header] The Ever-Evolving World of Science",
+  "[footer] Reprint 2026-27",
+  "[running header] Curiosity | Textbook of Science | Grade 7",
+  "[footer] Reprint 2026-27",
+  "[page number] 2",
+  "[running header] The Ever-Evolving World of Science",
+  "[footer] Reprint 2026-27",
+  "[page number] 3",
+  "[running header] Curiosity | Textbook of Science | Grade 7",
+  "[footer] Reprint 2026-27",
+  "[page number] 4",
+  "[running header] The Ever-Evolving World of Science",
+  "[footer] Reprint 2026-27",
+  "[page number] 5",
+  "[running header] Curiosity | Textbook of Science | Grade 7",
+  "[footer] Reprint 2026-27",
+  "[page number] 6"
+ ],
+ "image_only_pages": [],
+ "glyphs_repaired": 0,
+ "glyphs_unknown": 0
+}

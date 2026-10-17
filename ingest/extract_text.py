@@ -29,6 +29,7 @@ from dataclasses import dataclass, field
 import pymupdf
 
 from ingest.common import DATA, EXTRACTED, clean_text, load_manifest, select, words
+from ingest.glyphs import GlyphRepair
 
 BOLD_FLAG = 16
 NOISE_PATTERNS = [
@@ -60,6 +61,7 @@ class PageResult:
     printed_no: int | None
     blocks: list[Block] = field(default_factory=list)
     expected: Counter = field(default_factory=Counter)
+    candidates: list = field(default_factory=list)
     dropped: list[str] = field(default_factory=list)
 
 
@@ -86,39 +88,62 @@ def block_from_dict(b: dict) -> Block | None:
             if s["flags"] & BOLD_FLAG or "bold" in s["font"].lower() or "black" in s["font"].lower():
                 bold_chars += n
     size = chars.most_common(1)[0][0]
-    text = " ".join("".join(span_text(s) for s in line["spans"]).strip() for line in lines)
+    text = clean_text(" ".join(clean_text("".join(span_text(s) for s in line["spans"])).strip() for line in lines))
     x0, y0, x1, y1 = b["bbox"]
     blk = Block(x0, y0, x1, y1, [line["spans"] for line in lines], size, bold_chars > total * 0.6, text.strip())
     blk.rotated = any(abs(line["dir"][0]) < 0.9 for line in lines)  # type: ignore[attr-defined]
     return blk
 
 
-def is_noise(blk: Block, page_w: float, page_h: float, book_words: set[str]) -> str | None:
+SST_THEMES = [
+    "India and the World: Land and the People", "Tapestry of the Past",
+    "Our Cultural Heritage and Knowledge Traditions", "Governance and Democracy", "Economic Life Around Us",
+]
+
+
+def _letters(text: str) -> str:
+    return re.sub(r"[^a-z]", "", clean_text(text).lower())
+
+
+def is_header_text(t: str, phrases: list[str]) -> bool:
+    """Is this margin text the book name, chapter title (or a piece of it), a theme name, or garbage?"""
+    if "|" in t or "\ufffd" in t:
+        return True
+    core = _letters(re.sub(r"^\s*\d{1,2}\s*[–―—-]\s*", "", t))  # "6 ― The Beginnings ..." -> title
+    if not core:
+        return False
+    return any(core in p or (len(p) > 4 and p in core) for p in phrases)
+
+
+def is_noise(blk: Block, page_w: float, page_h: float, book_words: set[str], header_phrases: list[str] = ()) -> str | None:
     """Return why this block is noise, or None if it is real content."""
     t = blk.text.strip()
     if any(p.search(t) for p in NOISE_PATTERNS):
         return "footer"
-    if getattr(blk, "rotated", False):
-        # Running header printed sideways in the margin, e.g. "Curiosity | Textbook of Science | Grade 6"
-        # or the chapter name. Only drop it if it is short.
-        if len(t) < 90:
-            return "running header"
     in_margin = blk.x1 < page_w * 0.13 or blk.x0 > page_w * 0.87 or blk.y1 < page_h * 0.07 or blk.y0 > page_h * 0.93
-    if re.fullmatch(r"\d{1,3}", t) and in_margin:
-        return "page number"
+    if getattr(blk, "rotated", False):
+        # Running header printed sideways in the side margin, e.g. "Curiosity | Textbook of Science | Grade 6",
+        # the chapter name or the SST theme. Sideways text inside the page (map and figure labels) is content.
+        side = blk.x1 < page_w * 0.15 or blk.x0 > page_w * 0.85
+        if side and len(t) < 90 and not re.fullmatch(r"\d{1,3}", t) and is_header_text(t, header_phrases):
+            return "running header"
+        if side and re.fullmatch(r"\d{1,3}", t):
+            return None  # may be the page number; decided later by the page-number vote
     low = t.lower()
     if in_margin and len(t) < 90 and ("|" in t or "grade" in low) and book_words & set(re.findall(r"[a-z]+", low)):
         return "running header"
     return None
 
 
-def detect_page_number(blocks: list[Block], page_w: float, page_h: float) -> int | None:
+def number_candidates(blocks: list[Block], page_w: float, page_h: float) -> list[tuple[int, Block]]:
+    """Digit-only blocks near the page edge: one of them is usually the printed page number."""
+    out = []
     for blk in blocks:
         t = blk.text.strip()
-        in_margin = blk.x1 < page_w * 0.13 or blk.x0 > page_w * 0.87 or blk.y1 < page_h * 0.07 or blk.y0 > page_h * 0.9
-        if re.fullmatch(r"\d{1,3}", t) and in_margin:
-            return int(t)
-    return None
+        near_edge = blk.x1 < page_w * 0.2 or blk.x0 > page_w * 0.8 or blk.y1 < page_h * 0.12 or blk.y0 > page_h * 0.85
+        if re.fullmatch(r"\d{1,3}", t) and near_edge:
+            out.append((int(t), blk))
+    return out
 
 
 def render_block(blk: Block) -> str:
@@ -128,15 +153,22 @@ def render_block(blk: Block) -> str:
     out_lines = []
     for spans in blk.lines:
         parts = []
-        for s in spans:
-            txt = span_text(s)
+        # Symbol fonts (Wingdings) draw bullets and arrows; their letters ("Æ", "Ø") are not text.
+        texts = ["•" if re.search(r"wingding|symbol|dingbat", s["font"], re.I) and len(s["text"].strip()) <= 2
+                 else span_text(s) for s in spans]
+        for n, s in enumerate(spans):
+            txt = texts[n]
             is_bold = s["flags"] & BOLD_FLAG or "bold" in s["font"].lower()
-            if is_bold and not blk.bold and blk.kind == "body" and txt.strip() and re.search(r"[A-Za-z]", txt):
+            # Only mark whole words bold: "**u**nmarked" would split one word in two.
+            before = texts[n - 1][-1:] if n else ""
+            after = texts[n + 1][:1] if n + 1 < len(texts) else ""
+            whole_word = not (before.isalnum() and txt[:1].isalnum()) and not (after.isalnum() and txt[-1:].isalnum())
+            if is_bold and whole_word and not blk.bold and blk.kind == "body" and txt.strip() and re.search(r"[A-Za-z]", txt):
                 lead = txt[: len(txt) - len(txt.lstrip())]
                 trail = txt[len(txt.rstrip()):]
                 txt = f"{lead}**{txt.strip()}**{trail}"
             parts.append(txt)
-        line = "".join(parts).strip()
+        line = clean_text("".join(parts)).strip()  # again on the whole line: ligature halves can sit in two spans
         line = PUA.sub("•", line)
         out_lines.append(line)
     # Join lines into one paragraph; keep bullets / numbered items on their own lines.
@@ -155,18 +187,20 @@ def render_block(blk: Block) -> str:
             text += " " + line
     text = re.sub(r"(^|\n)\s*(?:•\s*)+", r"\1- ", text)
     text = re.sub(r"\s*•\s*", " ", text)
-    text = re.sub(r"\*\*\s*\*\*", "", text)
+    text = re.sub(r"\*\*(\s*)\*\*", r"\1", text)  # "**a** **b**" -> "**a b**", keeping the space
     text = re.sub(r"[ \t]+", " ", text)
-    return text.strip()
+    return clean_text(text).strip()  # once more: a ligature word can be split across two printed lines
 
 
-def analyse_page(page: pymupdf.Page, book_words: set[str]) -> PageResult:
+def analyse_page(page: pymupdf.Page, book_words: set[str], header_phrases: list[str], repair: GlyphRepair) -> PageResult:
     w, h = page.rect.width, page.rect.height
-    raw = page.get_text("dict", flags=pymupdf.TEXT_PRESERVE_WHITESPACE | pymupdf.TEXT_MEDIABOX_CLIP)["blocks"]
+    raw = page.get_text("rawdict", flags=pymupdf.TEXT_PRESERVE_WHITESPACE | pymupdf.TEXT_MEDIABOX_CLIP)["blocks"]
+    repair.fix_page(page, raw)  # letters the PDF has no Unicode for, recovered from the embedded font
     blocks = [b for b in (block_from_dict(r) for r in raw if r["type"] == 0) if b]
-    res = PageResult(printed_no=detect_page_number(blocks, w, h))
+    res = PageResult(printed_no=None)
+    res.candidates = number_candidates(blocks, w, h)
     for blk in blocks:
-        why = is_noise(blk, w, h, book_words)
+        why = is_noise(blk, w, h, book_words, header_phrases)
         if why:
             res.dropped.append(f"[{why}] {blk.text}")
         else:
@@ -315,18 +349,37 @@ def extract_chapter(entry: dict) -> tuple[str, dict]:
     pdf = DATA / entry["file"]
     doc = pymupdf.open(pdf)
     book_words = set(re.findall(r"[a-z]+", entry["book"].lower())) | {"textbook", "grade", "science", "mathematics"}
-    pages = [analyse_page(p, book_words) for p in doc]
+    phrases = [_letters(x) for x in [entry["book"], entry["title"], "chapter", "Introduction Why Social Science",
+                                       "Textbook of Science", *SST_THEMES]]
+    repair = GlyphRepair(doc)
+    pages = [analyse_page(p, book_words, phrases, repair) for p in doc]
 
-    # Fill in printed page numbers that weren't found, from neighbours.
-    known = [(i, p.printed_no) for i, p in enumerate(pages) if p.printed_no]
-    offset = Counter(n - i for i, n in known).most_common(1)[0][0] if known else 1
+    # Printed page numbers: the offset (printed number - PDF page index) that most pages agree on.
+    votes = Counter(n - i for i, p in enumerate(pages) for n, _ in p.candidates)
+    start = entry.get("book_page_start")
+    offset = votes.most_common(1)[0][0] if votes else None
+    if offset is None or (start and not (offset <= start <= offset + len(pages) - 1)):
+        offset = start or 1  # fall back to the contents page: the PDF starts at the chapter's first page
     for i, p in enumerate(pages):
-        if p.printed_no is None or p.printed_no - i != offset:
-            p.printed_no = i + offset
+        p.printed_no = i + offset
+        # Drop the page number itself (now that we know it); keep every other number.
+        for n, blk in p.candidates:
+            if n == p.printed_no and blk in p.blocks:
+                p.blocks.remove(blk)
+                p.dropped.append(f"[page number] {n}")
+                p.expected -= Counter(words(blk.text))
 
     classify(pages)
-    md = [f"# Chapter {entry['chapter_no']}: {entry['title']}", ""]
+    title_line = f"# Chapter {entry['chapter_no']}: {entry['title']}"
+    has_front = bool(start) and pages[0].printed_no < start <= pages[-1].printed_no
+    if has_front:
+        # e.g. Class 6 SST: fees101.pdf opens with the book's "Introduction: Why Social Science?"
+        md = [f"# Book introduction (pages {pages[0].printed_no}-{start - 1}, printed before Chapter {entry['chapter_no']}; not part of the chapter)", ""]
+    else:
+        md = [title_line, ""]
     for p in pages:
+        if has_front and p.printed_no == start:
+            md += [title_line, ""]
         md.append(f"<!-- page {p.printed_no} -->")
         md.append("")
         for row in order_blocks(p.blocks):
@@ -352,16 +405,24 @@ def extract_chapter(entry: dict) -> tuple[str, dict]:
         expected.update(p.expected)
     got = Counter(words(markdown))
     missing = expected - got
+    # Words the PDF glues together ("aswitch" = "a" + bold "switch") are split in the Markdown;
+    # they are not lost if they appear once spaces are ignored.
+    joined = "".join(words(markdown))
+    missing = Counter({w: n for w, n in missing.items() if w not in joined})
     report = {
         "chapter_id": entry["chapter_id"],
         "pdf_pages": doc.page_count,
         "printed_pages": [pages[0].printed_no, pages[-1].printed_no],
+        "book_page_start": start,
+        "start_page_ok": (start is None) or (pages[0].printed_no <= start <= pages[-1].printed_no),
         "words_expected": sum(expected.values()),
         "words_in_markdown": sum(got.values()),
         "missing_words": sum(missing.values()),
         "missing_sample": sorted(missing.items(), key=lambda kv: -kv[1])[:30],
         "dropped_as_noise": [d for p in pages for d in p.dropped],
         "image_only_pages": [p.printed_no for p in pages if not p.blocks],
+        "glyphs_repaired": repair.fixed,
+        "glyphs_unknown": repair.unknown,
     }
     return markdown, report
 
@@ -388,8 +449,9 @@ def main() -> int:
             markdown, report = extract_chapter(e)
             out.write_text(markdown, encoding="utf-8")
             check.write_text(json.dumps(report, indent=1, ensure_ascii=False), encoding="utf-8")
-        status = "OK " if report["missing_words"] == 0 else "ERR"
-        bad += report["missing_words"] > 0
+        problem = report["missing_words"] > 0 or not report.get("start_page_ok", True)
+        status = "ERR" if problem else "OK "
+        bad += problem
         extra = f", image-only pages {report['image_only_pages']}" if report["image_only_pages"] else ""
         print(
             f"{status} {e['chapter_id']:<10} pages {report['printed_pages'][0]}-{report['printed_pages'][1]}  "
