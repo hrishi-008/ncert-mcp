@@ -1,0 +1,191 @@
+{
+ "chapter_id": "7-math-10",
+ "model": "backend=claude-cli model=sonnet",
+ "pages": [
+  {
+   "page": "24",
+   "plain_words": 67,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "25",
+   "plain_words": 87,
+   "missing": 1,
+   "missing_ratio": 0.011,
+   "sample": [
+    "operations"
+   ]
+  },
+  {
+   "page": "26",
+   "plain_words": 67,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "27",
+   "plain_words": 54,
+   "missing": 2,
+   "missing_ratio": 0.037,
+   "sample": [
+    "integers",
+    "operations"
+   ]
+  },
+  {
+   "page": "28",
+   "plain_words": 80,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "29",
+   "plain_words": 74,
+   "missing": 1,
+   "missing_ratio": 0.014,
+   "sample": [
+    "operations"
+   ]
+  },
+  {
+   "page": "30",
+   "plain_words": 56,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "31",
+   "plain_words": 79,
+   "missing": 1,
+   "missing_ratio": 0.013,
+   "sample": [
+    "operations"
+   ]
+  },
+  {
+   "page": "32",
+   "plain_words": 60,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "33",
+   "plain_words": 55,
+   "missing": 1,
+   "missing_ratio": 0.018,
+   "sample": [
+    "operations"
+   ]
+  },
+  {
+   "page": "34",
+   "plain_words": 86,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "35",
+   "plain_words": 102,
+   "missing": 2,
+   "missing_ratio": 0.02,
+   "sample": [
+    "operations",
+    "with"
+   ]
+  },
+  {
+   "page": "36",
+   "plain_words": 67,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "37",
+   "plain_words": 60,
+   "missing": 1,
+   "missing_ratio": 0.017,
+   "sample": [
+    "operations"
+   ]
+  },
+  {
+   "page": "38",
+   "plain_words": 58,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "39",
+   "plain_words": 78,
+   "missing": 1,
+   "missing_ratio": 0.013,
+   "sample": [
+    "operations"
+   ]
+  },
+  {
+   "page": "40",
+   "plain_words": 94,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "41",
+   "plain_words": 74,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "42",
+   "plain_words": 70,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "43",
+   "plain_words": 88,
+   "missing": 1,
+   "missing_ratio": 0.011,
+   "sample": [
+    "integers"
+   ]
+  },
+  {
+   "page": "44",
+   "plain_words": 56,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "45",
+   "plain_words": 67,
+   "missing": 2,
+   "missing_ratio": 0.03,
+   "sample": [
+    "operations",
+    "with"
+   ]
+  },
+  {
+   "page": "46",
+   "plain_words": 77,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  }
+ ],
+ "flagged_pages": []
+}
