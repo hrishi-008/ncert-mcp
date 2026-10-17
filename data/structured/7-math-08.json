@@ -6,416 +6,430 @@
  "part": 1,
  "chapter_no": 8,
  "title": "Working with Fractions",
- "summary": "- Brahmagupta’s formula for multiplication of fractions: a b× c d = a × c b × d. - When multiplying fractions, if the numerators and denominators have some common factors, we can cancel them first before multiplying the numerators and denominators. - In multiplication — when one of the numbers being multiplied is between 0 and 1, the product is less than the other number. If one of the numbers being multiplied is greater than 1, then the product is greater than the other number. - The reciprocal of a fraction a b is b a. When we multiply a fraction by its reciprocal, the product is 1. - Brahmagupta’s formula for division of fractions: a b÷ c d= a b× d c= a × d b × c. - In division — when the divisor is between 0 and 1, the quotient is greater than the dividend. When the divisor is greater than 1, the quotient is less than the dividend. Working with Fractions Chess Puzzles — Non-attacking Queens Chess is a popular 2-player strategy game. This game has its origins in India. It is played on an 8 × 8 chequered grid. There are 2 sets of pieces — black and white — one set for each player. Find out how each piece should move and the rules of the game. Here is a famous chess-based puzzle. From its current position, a Queen piece can move along the horizontal, vertical or diagonal. Place 4 Queens such that no 2 queens attack each other. For example, the arrangement below is not valid as the queens are in the line of attack of each other. Now, place 8 queens on this 8 × 8 grid so that no 2 queens attack each other!",
+ "summary": "This chapter teaches how to multiply and divide fractions. Multiplication of a fraction by a whole number or another fraction is explained using number lines and a unit square, and linked to the area of a rectangle. Brahmagupta's formulas are stated: a/b × c/d = ac/bd and a/b ÷ c/d = a/b × d/c. Students learn to cancel common factors, find reciprocals, and see when a product or quotient is bigger or smaller than the numbers used. Word problems, historical examples (Shulbasutra bricks, fountains, Lilavati's dramma) and a history note on fractions in India are included.",
  "sections": [
   {
    "section_id": "7-math-08-s01",
-   "heading": "8.1 Multiplication of Fractions",
-   "text": "# Chapter 8: Working with Fractions\n\n<!-- page 173 -->\n\n## WORKING WITH FRACTIONS 8\n\n#### 8.1 Multiplication of Fractions\n\nAaron walks 3 kilometres in 1 hour. How far can he walk in 5 hours?\n\nThis is a simple question. We know that to find the distance, we need to find the product of 5 and 3, i.e., we multiply 5 and 3.\n\nDistance covered in 1 hour = 3 km.\n\nTherefore,\n\nDistance covered in 5 hours\n\n= 5 × 3 km\n\n= 3 + 3 + 3 + 3 + 3 km\n\n= 15 km.\n\nAaron’s pet tortoise walks at a much slower pace. It can walk only 1\n\n4 kilometre in 1 hour. How far can it walk in 3 hours?\n\nHere, the distance covered in an hour is a fraction. This does not matter. The total distance covered is calculated in the same way, as multiplication.\n\nDistance in\n\n| 1 hour |  |\n| --- | --- |\n| 1 km 4 |  |\n|  |  |\n|  | Distance in 3 hour |\n\n0\n\nDistance covered in 1 hour = 1\n\n4 km.\n\n<!-- page 174 -->\n\nTherefore, distance covered in 3 hours = 3 × 1\n\n4 km\n\n= 1\n\n4 + 1 4 + 1 4 km\n\n= 3\n\n4 km.\n\nThe tortoise can walk 3\n\n4 km in 3 hours.\n\nLet us consider a case where the time spent walking is a fraction of an hour.\n\nWe saw that Aaron can walk 3 kilometres in 1 hour. How far can he\n\nwalk in 1\n\n5 hours?\n\nWe continue to calculate the total distance covered through multiplication.\n\nDistance in 1 hour\n\n0 3 km\n\nDistance in 1\n\n5 hour\n\nDistance covered in 1\n\n5 hours = 1 5 × 3 km.\n\n##### Finding the product:\n\nDistance covered in 1 hour = 3 km.\n\nIn 1\n\n5 hours, distance covered is equal to the length we get by dividing\n\n3 km into 5 equal parts, which is 3 5 km.\n\nThis tells us that 1\n\n5 × 3 = 3 5 .\n\nHow far can Aaron walk in 2\n\n5 hours?\n\n<!-- page 175 -->\n\n> Working with Fractions\n\nOnce again, we have —\n\nDistance covered = 2\n\n5 × 3 km.\n\n| Distance in 1 hour |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| Distance in |  |  |  |  |  |  |\n|  | Distance in |  |  |  |  |  |\n|  | 1 hour |  |  |  |  |  |\n| 5 2 | 5 |  |  |  |  |  |\n\n5 hour\n\n##### Finding the product:\n\n1. We can first find the distance covered in 1 5 hours.\n\n2. Since, the duration 2 5 is twice 1 5, we multiply this distance by 2 to\n\nget the total distance covered.\n\nHere is the calculation.\n\nDistance covered in 1 hour = 3 km.\n\n1. Distance covered in 1 5 hour\n\n= The length we get by dividing 3 km in 5 equal parts\n\n= 3\n\n5 km.\n\n2. Multiplying this distance by 2, we get\n\n2 × 3 5 = 6 5 km.\n\nFrom this we can see that\n\n2 5 × 3 = 6 5.\n\n#### Discussion\n\n> Multiplier Multiplicand\n\nWe did this multiplication as follows:\n\n> 2 5 × 3\n\n- First, we divided the multiplicand, 3 , by the denominator of the multiplier, 5, to get 3\n\n5.\n\n<!-- page 176 -->\n\n- We then multiplied the result by the numerator of the multiplier,\n\nthat is 2, to get 6\n\n5.\n\nMultiplier Multiplicand\n\nThus, whenever we need to multiply a fraction and a whole number, we follow the steps above.\n\n2 5 × 3\n\n2 5 | 3 ÷ 5 = 3 5\n\n**Example** 1: A farmer had 5\n\ngrandchildren. She distributed 2 | 2 5 | 2 × 3 5 = 6 5\n\n3 acre\n\nof land to each of her grandchildren.\n\nHow much land in all did she give to her grandchildren?\n\n5 × 2 3 = 2 3 + 2 3 + 2 3 + 2 3 + 2 3 = 10 3.\n\n**Example 2:** 1 hour of internet time costs ₹8. How much will 1 1\n\n4 hours\n\nof internet time cost?\n\n1 1 4 hours is 5 4 hours (converting from a mixed fraction).\n\nCost of 5\n\n4 hour of internet time = 5 4 × 8\n\n= 5 × 8\n\n4\n\n= 5 × 2\n\n= 10.\n\nIt costs ₹10 for 1 1\n\n4 hours of internet time.\n\n##### Figure it Out\n\n1. Tenzin drinks 1 2 glass of milk every day. How many glasses of milk\n\ndoes he drink in a week? How many glasses of milk did he drink in the month of January?\n\n2. A team of workers can make 1 km of a water canal in 8 days. So, in one day, the team can make ___ km of the water canal. If they work 5 days a week, they can make ___ km of the water canal in a week.\n\n3. Manju and two of her neighbours buy 5 litres of oil every week and share it equally among the 3 families. How much oil does each family get in a week? How much oil will one family get in 4 weeks?\n\n4. Safia saw the Moon setting on Monday at 10 pm. Her mother, who is\n\na scientist, told her that every day the Moon sets 5\n\n6 hour later than\n\n<!-- page 177 -->\n\nWorking with Fractions\n\nthe previous day. How many hours after 10 pm will the moon set on Thursday?\n\n5. Multiply and then convert it into a mixed fraction:\n\n(a) 7 × 3\n\n5\n\n(b) 4 × 1\n\n3\n\n(c) 9\n\n7 × 6\n\n(d) 13\n\n11 × 6\n\nSo far, we have learnt multiplication of a whole number with a fraction, and a fraction with a whole number. What happens when both numbers in the multiplication are fractions?\n\n#### Multiplying Two Fractions\n\nWe know, that Aaron’s pet tortoise can walk only 1\n\n4 km in 1 hour. How far can it walk in half an hour?\n\n| Hour | Distance |\n| --- | --- |\n| 1 | 1 4 |\n| 1 2 | ? |\n\nFollowing our approach of using multiplication to solve such problems, we have,\n\nDistance covered in 1\n\n2 hour = 1 2 × 1 4 km.\n\n##### Finding the product:\n\nDistance covered in 1 hour = 1\n\n4 km.\n\nTherefore, the distance covered in 1\n\n2 an hour is the length we get by\n\ndividing 1\n\n4 into 2 equal parts.\n\nTo find this, it is useful to represent fractions using the unit square to stand for a “whole”.\n\n1 4\n\nUnit square as a “whole” 1 4 of the whole\n\n<!-- page 178 -->\n\nNow we divide this 1\n\n4 into 2 equal parts. What do we get?\n\nWhat fraction of the whole is shaded?\n\nSince the whole is divided into 8 equal parts\n\nand one of the parts is shaded, we can say that 1\n\n> 8\n\n> ?\n\nof the whole is shaded. So, the distance covered\n\nby the tortoise in half an hour is 1\n\n> 8 km.\n\n> This tells us that 1\n\n> 2 × 1 4 = 1 8.\n\n1 4 divided into 2 equal parts\n\nIf the tortoise walks faster and it can cover 2\n\n5 km in 1 hour, how far will\n\nit walk in 3\n\n4 of an hour?\n\nDistance covered = 3\n\n4 × 2 5.\n\n##### Finding the product:\n\n(i) First find the distance covered in 1\n\n> 4 of an hour.\n\n(ii) Multiply the result by 3, to get the distance covered in 3\n\n> 4 of an\n\nhour.\n\n(i) Distance in km covered in 1\n\n> 4 of an hour\n\n> whole\n\n= The quantity we get by dividing 2\n\n5 into 4 equal parts.\n\n> 2 5\n\nTaking the unit square as the whole, the\n\nshaded part (in Fig. 8.1) is a region we get\n\nwhen we divide 2\n\n5 into 4 equal parts.\n\nHow much of the whole is it?\n\n> Fig. 8.1\n\nThe whole is divided into 5 rows and 4 columns, creating 5 × 4 = 20 equal parts.\n\nNumber of these parts shaded = 2.\n\nSo, the distance covered in 1\n\n> 4 of an hour = 2 20 .\n\n<!-- page 179 -->\n\n> Working with Fractions\n\n(ii) Now, we need to multiply 2\n\n20 by 3.\n\nDistance covered in 3\n\n4 of an hour = 3 × 2 20\n\n= 6\n\n20 .\n\nSo, 3\n\n4 × 2 5 = 6 20 = 3 10.\n\n#### Discussion\n\nIn the case of a fraction multiplied by another fraction, we follow a method similar to the one we used, when we multiplied a fraction by a whole number. We multiplied as follows:\n\n> Multiplier Multiplicand\n\n> 3 4 × 2 5\n\n2 5 ÷ 4 = 2 20 Divide the multiplicand by 4. 3 4\n\n3 × 2 20 = 6 20 = Divide the multiplicand by 3. 3 4\n\n> Math\n\nUsing this understanding, multiply 5\n\n4 × 3 2.\n\n> Talk\n\nFirst, let us represent 3\n\n2, taking the unit square as\n\n> whole\n\nthe whole. Since, the fraction 3\n\n2 is one whole and a\n\nhalf, it can be seen as follows:\n\n> 3 2\n\nFollowing the steps of multiplication, we need to\n\nfirst divide this fraction 3\n\n2 into 4 equal parts. It can\n\nbe done as shown in the Fig. 8.2 with the yellow\n\nshaded region representing the fraction obtained\n\n> Fig. 8.2\n\nby dividing 3\n\n2 into 4 equal parts. What is its value?\n\nWe see that the whole is divided into — 2 rows and 4 columns, creating 2 × 4 = 8 equal parts. Number of parts shaded = 3.\n\nSo the yellow shaded part = 3\n\n8.\n\n<!-- page 180 -->\n\nNow, the next step is multiplying this result by 5. This gives the\n\nproduct of 5\n\n4 and 3 2:\n\n5 4 × 3 2 = 5 × 3 8 = 15 8.\n\n#### Connection between the Area of a Rectangle and Fraction Multiplication\n\nIn the Fig. 8.3, what is the length and breadth of the shaded rectangle? Since we started with a unit square (of side 1 unit), the length and\n\nbreadth are 1\n\n2 unit and 1 4 unit.\n\nWhat is the area of this rectangle? We see that 8 such rectangles give the square of area 1 square unit. So, the area of each rectangle | 1 8\n\nis 1\n\n8 square units.\n\nDo you see any relation between the area and the product of length and breadth?\n\nFig. 8.3\n\nThe area of a rectangle of fractional sides equals the product of its sides.\n\nIn general, if we want to find the product of two fractions, we can find the area of the rectangle formed with the two fractions as its sides.\n\n##### Figure it Out\n\n1. Find the following products. Use a unit square as a whole for representing the fractions:\n\n(a) 1\n\n3 × 1 5\n\n(b) 1\n\n4 × 1 3\n\n(c) 1\n\n5 × 1 2\n\n(d) 1\n\n6 × 1 5\n\nNow, find 1\n\n12 × 1 18.\n\n<!-- page 181 -->\n\nWorking with Fractions\n\nDoing this by representing the fractions using a unit square is cumbersome. Let us find the product by observing what we did in the above cases.\n\nIn each case, the whole is divided into rows and columns. The number of rows is the denominator of the multiplicand, which is 18 in this case.\n\nThe number of columns is the denominator of the multiplier, which is 12 in this case. | 1 18\n\nThus, the whole is divided into 18 × 12 equal parts.\n\n18 parts\n\nSo, 1\n\n18 × 1 12 = 1 (18×12) = 1\n\n216.\n\nThus, when two fractional units are | 12 parts\n\nmultiplied, their product is\n\n1 (product of denominators).\n\nWe express this as:\n\n1 b × 1\n\nd = 1 b × d .\n\n2. Find the following products. Use a unit square as a whole for representing the fractions and carrying out the operations.\n\n(a) 2\n\n3 × 4 5\n(b) 1\n\n4 × 2 3\n\n(c) 3\n\n5 × 1 2 (d) 4 6 × 3 5\n\n#### Multiplying Numerators and Denominators\n\nNow, find 5\n\n12 × 7 18.\n\nLike the previous case, let us find the product by performing the multiplication, step by step. First, the whole is divided into 18 rows and 12 columns creating 12 × 18 equal parts.\n\n7 18\n\n18 parts\n\nThe value we get by dividing 7\n\n18 into 12 equal\n\nparts is 7 (12 × 18) .\n\n12 parts\n\n<!-- page 182 -->\n\nThen, we multiply this result by 5 to get | 5\n\nthe product. This is (5 × 7) | 7 18\n\n(12 × 18).\n\nSo, 5\n\n12 × 7 8 = (5 × 7) (12 × 18) = 35 | 18 parts\n\n216.\n\nFrom this we can see that, in general,\n\na b × c | 12 parts\n\nd = a × c\n\nb × d .\n\nThis formula was first stated in this general form by Brahmagupta in his Brāhmasphuṭasiddhānta in 628 CE.\n\nThe formula above works even when the multiplier or multiplicand is a whole number. We can simply rewrite the whole number as a fraction with denominator 1. For example,\n\n3 × 3 4 can be written 3 1 × 3 4\n\n= 3×3\n\n1×4 = 9 4.\n\nAnd,\n\n3 5 × 4 can be written 3 5 × 4 1\n\n= 3 × 4\n\n5 × 1 = 12 5.\n\n#### Multiplication of Fractions — Simplifying to Lowest Form\n\nMultiply the following fractions and express the product in its lowest form:\n\n12 7 × 5 24\n\nInstead of multiplying the numerators (12 and 5) and denominators (7 and 24) first and then simplifying, we could do the following:\n\n12 7 × 5 24 = 12 × 5 7 × 24\n\nWe see that both the circled numbers have a common factor of 12. We know that a fraction remains the same when the numerator and denominator are divided by the common factor. In this case, we can divide them by 12.\n\n<!-- page 183 -->\n\nWorking with Fractions\n\n1\n\n12 × 5 7 × 24 = 1 × 5 7 × 2 = 5 14 | .\n\n2\n\nLet us use the same technique to do one more multiplication.\n\n14 15 × 25 42\n\n1 | 5\n\n14 × 25 15 × 42 = 1 × 5 3 × 3 = 5 9 .\n\n3 3\n\nWhen multiplying fractions, we can first divide the numerator and denominator by their common factors before multiplying the numerators and denominators. This is called cancelling the common factors.\n\n#### A Pinch of History\n\nIn India, the process of reducing a fraction to its lowest terms — known as apavartana — is so well known that it finds mention even in a non-mathematical work. A Jaina scholar Umasvati (c. 150 CE) used it as a simile in a philosophical work.\n\n##### Figure it Out\n\n1. A water tank is filled from a tap. If the tap is open for 1 hour, 7 10 of\n\nthe tank gets filled. How much of the tank is filled if the tap is open for\n\n(a) 1\n\n3 hour ____________\n\n(b) 2\n\n3 hour ____________\n\n(c) 3\n\n4 hour ____________\n\n(d) 7\n\n10 hour ____________\n\n> Try This\n\n(e) For the tank to be full, how long should the tap be running?\n\n2. The government has taken 1 6 of Somu’s land to build a road.\n\nWhat part of the land remains with Somu now? She gives half of\n\n<!-- page 184 -->\n\nthe remaining part of the land to her daughter Krishna and 1\n\n3 of\n\nit to her son Bora. After giving them their shares, she keeps the\n\nremaining land for herself.\n\n(a) What part of the original land did Krishna get?\n\n(b) What part of the original land did Bora get?\n\n(c) What part of the original land did Somu keep for herself?\n\n3. Find the area of a rectangle of sides 3 3 4 ft and 9 3 5 ft.\n\n4. Tsewang plants four saplings in a row in his garden. The distance\n\nbetween two saplings is 3\n\n4 m. Find the distance between the first\n\nand last sapling. [**Hint:** Draw a rough diagram with four saplings\n\nwith distance between two saplings as 3\n\n4 m]\n\n5. Which is heavier: 12 15 of 500 grams or 3 20 of 4 kg?\n\n#### Is the Product Always Greater than the Numbers Multiplied?\n\nSince, we know that when a number is multiplied by 1, the product remains unchanged, we will look at multiplying pairs of numbers where neither of them is 1.\n\nWhen we multiply two counting numbers greater than 1, say 3 and 5, the product is greater than both the numbers being multiplied.\n\n3 × 5 = 15\n\nThe product, 15, is more than both 3 and 5.\n\nBut what happens when we multiply 1\n\n4 and 8?\n\n1 4 × 8 = 2\n\nIn the above multiplication the product, 2, is greater than 1\n\n4, but less\n\nthan 8.\n\nWhat happens when we multiply 3\n\n4 and 2 5 ?\n\n3 4 × 2 5 = 6 20\n\nLet us compare this product 6\n\n20 with the numbers 3 4 and 2\n5. For this,\n\n<!-- page 185 -->\n\nWorking with Fractions\n\nlet us express 3\n\n4 as 15 20 and 2 5 as 8 20.\n\nFrom this we can see that the product is less than both the numbers. When do you think the product is greater than both the numbers multiplied, when is it in between the two numbers, and when is it smaller than both?\n\n[**Hint:** The relationship between the product and the numbers multiplied depends on whether they are between 0 and 1 or they are greater than 1. Take different pairs of numbers and observe their product. For each multiplication, consider the following questions.]\n\n| Situation | Multiplication | Relationship |\n| --- | --- | --- |\n| Situation 1 | Both numbers are greater than 1 4 (e.g., × 4) 3 | 16 The product ( ) is 3 greater than both the numbers |\n| Situation 2 | Both numbers are between 0 and 1 3 2 (e.g., × ) 4 5 | 3 The product ( ) is 10 less than both the numbers |\n| Situation 3 | One number is between 0 and 1, and one number is greater than 1 3 (e.g., × 5) 4 | 15 The product ( ) is 4 less than the number greater than 1 and greater than the number between 0 and 1 |\n\nCreate more such examples for each situation and observe the relationship between the product and the numbers being multiplied.\n\nWhat can you conclude about the relationship between the numbers multiplied and the product? Fill in the blanks:\n\n- When one of the numbers being multiplied is between 0 and 1, the product is ____________ (greater/less) than the other number.\n\n- When one of the numbers being multiplied is greater than 1, the product is _____________ (greater/less) than the other number.\n\n<!-- page 186 -->\n\n#### Order of Multiplication\n\n1 2\n\n1 4 1 8\n\nWe know that 1\n\n2 × 1 4 = 1 8.\n\n1 4\n\n1 2 1 8\n\nNow, what is 1\n\n4 × 1 2 ?\n\nThat is 1\n\n8 too.\n\nIn general, note that the area of a rectangle remains the same even if the length and breadth are interchanged.\n\nThe order of multiplication does not matter. Thus,\n\na b × c\n\nd = c\n\nd × a\n\nb.\n\nThis can also be seen from Brahmagupta’s formula for multiplying fractions.",
+   "heading": "Chapter intro",
+   "text": "# Chapter 8: Working with Fractions\n\n<!-- page 173 -->\n\n# 8 Working with Fractions\n\n[Figure: QR code labelled 0774CH08]",
    "page_start": 173,
-   "page_end": 186
+   "page_end": 173
   },
   {
    "section_id": "7-math-08-s02",
-   "heading": "8.2 Division of Fractions",
-   "text": "#### 8.2 Division of Fractions\n\nWhat is 12 ÷ 4? You know this already. But can this problem be restated as a multiplication problem? What should be multiplied by 4 to get 12? That is,\n\nDividend Divisor\n\n12 ÷ 4 = 3\n\nQuotient\n\n4 × ? = 12\n\n<!-- page 187 -->\n\nWorking with Fractions\n\nWe can use this technique of converting division into multiplication problems to divide fractions.\n\nWhat is 1 ÷ 2\n\n3 ?\n\nLet us rewrite this as a multiplication problem\n\n2 3 × ? = 1\n\nWhat should be multiplied by 2\n\n3 to get the product 1?\n\nIf we somehow cancel out the 2 and the 3, we are left with 1.\n\n2 3 × 3 2 = 1\n\nAnswer\n\nSo,\n\n1 ÷ 2 3 = 3 2.\n\nLet us try another problem:\n\n3 ÷ 2 3.\n\nThis is the same as\n\n2 3 × ? = 3.\n\nCan you find the answer?\n\nWe know what to multiply 2\n\n3 by to get 1. We just need to multiply that\n\nby 3 to get 3. So,\n\n2 3 × 3 2 × 3 = 3\n\nAnswer\n\nSo,\n\n3 ÷ 2 3 = 3 2 × 3 = 9 2.\n\nWhat is 1\n\n5 ÷ 1 2 ?\n\nRewriting it as a multiplication problem, we have\n\n1 2 × ? = 1 5.\n\n<!-- page 188 -->\n\nHow do we solve this?\n\n1 2 × 2 × 1 5 = 1 5\n\nAnswer\n\nSo,\n\n1 5 ÷ 1 2 = 2 × 1 5 = 2 5.\n\nWhat is 2\n\n3 ÷ 3 5 ?\n\nRewriting this as multiplication, we have\n\n3 5 × ? = 2 3.\n\nHow will we solve this?\n\n3 5 × 5 3 × 2 3 = 2 3\n\nAnswer\n\nSo,\n\n2 3 ÷ 3 5 = 5 3 × 2 3 = 10 9 .\n\n#### Discussion\n\nIn each of the division problems above, observe how we found the answer. Can we frame a rule that tells us how to divide two fractions? Let us consider the previous problem.\n\nIn every division problem we have a dividend, divisor and quotient. The technique we have been using to get the quotient is: | 2 3 ÷ 3 5\n\nDividend | Divisor\n\n= 5\n\n3 × 2 3 = 10 9\n\n1. First, find the number which gives 1 when multiplied by the divisor. We see that the resulting number is a fraction whose numerator is the divisor’s denominator and denominator is the divisor’s numerator.\n\nQuotient\n\nFor the divisor 3\n\n5 this fraction is 5\n3. We call 5 3 the **reciprocal** of 3 5.\n\nWhen we multiply a fraction by its reciprocal, we get 1. So, the first step in our technique is to find the divisor’s reciprocal.\n\n<!-- page 189 -->\n\nWorking with Fractions\n\n2. We then multiply the dividend with this reciprocal to get the quotient.\n\nSummarising, to divide two fractions:\n\n- Find the reciprocal of the divisor\n\n- Multiply this by the dividend to get the quotient.\n\nSo, a\n\nb ÷ c\n\nd = d\n\nc × a\n\nb = d × a\n\nc × b.\n\nThis can be rewritten as:\n\na b ÷ c\n\nd = a\n\nb × d\n\nc = a × d\n\nb × c.\n\nAs with methods and formulas for addition, subtraction, and multiplication of fractions that you learnt earlier, this method and formula for division of fractions, in this general form, was first explicitly stated by Brahmagupta in his Brāhmasphuṭasiddhānta (628 CE).\n\nSo, to evaluate, for example, 2\n\n3 ÷ 3 5 using Brahmagupta’s formula\n\nabove, we write:\n\n2 3 ÷ 3 5 = 2 3 × 5 3 = 2 × 5 3 × 3 = 10 9 .\n\n#### Dividend, Divisor and the Quotient\n\nWhen we divide two whole numbers, say 6 ÷ 3, we get the quotient 2. Here the quotient is less than the dividend.\n\n6 ÷ 3 = 2, 2 < 6\n\nBut what happens when we divide 6 by 1\n\n4 ?\n\n6 ÷ 1 4 = 24.\n\nHere the quotient is greater than the dividend!\n\nWhat happens when we divide 1\n\n8 by 1 4 ?\n\n1 8 ÷ 1 4 = 1 2.\n\nHere too the quotient is greater than the dividend.\n\nWhen do you think the quotient is less than the dividend and when is it greater than the dividend?\n\nIs there a similar relationship between the divisor and the quotient?\n\n<!-- page 190 -->\n\nUse your understanding of such relationships in multiplication to answer the questions above.",
-   "page_start": 186,
-   "page_end": 190
+   "heading": "8.1 Multiplication of Fractions",
+   "text": "## 8.1 Multiplication of Fractions\n\nAaron walks 3 kilometres in 1 hour. How far can he walk in 5 hours?\n\n> [Figure: Illustration of a boy with a backpack walking down steps, with a dog sitting and a tortoise on the steps beside him]\n\nThis is a simple question. We know that to find the distance, we need to find the product of 5 and 3, i.e., we multiply 5 and 3.\n\nDistance covered in 1 hour = 3 km.\n\nTherefore,\n\nDistance covered in 5 hours\n\n= 5 × 3 km\n\n= 3 + 3 + 3 + 3 + 3 km\n\n= 15 km.\n\n### Think\n\nAaron's pet tortoise walks at a much slower pace. It can walk only $\\frac{1}{4}$ kilometre in 1 hour. How far can it walk in 3 hours?\n\nHere, the distance covered in an hour is a fraction. This does not matter. The total distance covered is calculated in the same way, as multiplication.\n\n[Figure: A number line starting at 0 with tick marks dividing it into three equal parts; the first part is labelled \"Distance in 1 hour\" with arrows at both ends and \"$\\frac{1}{4}$ km\" below it; a long double-headed arrow below the whole line is labelled \"Distance in 3 hour\"]\n\nDistance covered in 1 hour = $\\frac{1}{4}$ km.\n\n<!-- page 174 -->\n\nTherefore, distance covered in 3 hours = $3 \\times \\frac{1}{4}$ km\n\n$= \\frac{1}{4} + \\frac{1}{4} + \\frac{1}{4}$ km\n\n$= \\frac{3}{4}$ km.\n\nThe tortoise can walk $\\frac{3}{4}$ km in 3 hours.\n\nLet us consider a case where the time spent walking is a fraction of an hour.\n\n> **?** We saw that Aaron can walk 3 kilometres in 1 hour. How far can he walk in $\\frac{1}{5}$ hours?\n\nWe continue to calculate the total distance covered through multiplication.\n\n[Figure: A number line from 0 to 3 km with an arrow above labelled \"Distance in 1 hour\" spanning the whole line. Tick marks divide the line into 5 equal parts. The first part, from 0, is labelled \"Distance in $\\frac{1}{5}$ hour\". The left end is labelled \"0\" and the right end \"3 km\".]\n\nDistance covered in $\\frac{1}{5}$ hours $= \\frac{1}{5} \\times 3$ km.\n\n**Finding the product:**\n\nDistance covered in 1 hour = 3 km.\n\nIn $\\frac{1}{5}$ hours, distance covered is equal to the length we get by dividing 3 km into 5 equal parts, which is $\\frac{3}{5}$ km.\n\nThis tells us that $\\frac{1}{5} \\times 3 = \\frac{3}{5}$.\n\n> **?** How far can Aaron walk in $\\frac{2}{5}$ hours?\n\n<!-- page 175 -->\n\nOnce again, we have—\n\nDistance covered $= \\frac{2}{5} \\times 3$ km.\n\n[Figure: A number-line style diagram. A top arrow spanning the whole length is labelled \"Distance in 1 hour\". Below it a horizontal line is divided by vertical ticks into 5 equal parts. An arrow spanning the first part is labelled \"Distance in $\\frac{1}{5}$ hour\"; an arrow spanning the first two parts is labelled \"Distance in $\\frac{2}{5}$ hour\".]\n\n**Finding the product:**\n\n1. We can first find the distance covered in $\\frac{1}{5}$ hours.\n2. Since, the duration $\\frac{2}{5}$ is twice $\\frac{1}{5}$, we multiply this distance by 2 to get the total distance covered.\n\nHere is the calculation.\n\nDistance covered in 1 hour = 3 km.\n\n1. Distance covered in $\\frac{1}{5}$ hour\n\n   = The length we get by dividing 3 km in 5 equal parts\n\n   $= \\frac{3}{5}$ km.\n\n2. Multiplying this distance by 2, we get\n\n$$2 \\times \\frac{3}{5} = \\frac{6}{5} \\text{ km.}$$\n\nFrom this we can see that\n\n$$\\frac{2}{5} \\times 3 = \\frac{6}{5}.$$\n\n## Discussion\n\nWe did this multiplication as follows:\n\n> [Figure: Two speech bubbles pointing at the expression $\\frac{2}{5} \\times 3$. The left bubble, pointing to $\\frac{2}{5}$, says \"Multiplier\"; the right bubble, pointing to 3, says \"Multiplicand\".]\n\n- First, we divided the multiplicand, 3 , by the denominator of the multiplier, 5, to get $\\frac{3}{5}$.\n\n<!-- page 176 -->\n\n• We then multiplied the result by the numerator of the multiplier, that is 2, to get $\\frac{6}{5}$.\n\nThus, whenever we need to multiply a fraction and a whole number, we follow the steps above.\n\n> [Figure: Diagram with two speech bubbles labelled \"Multiplier\" and \"Multiplicand\" above $\\frac{2}{5} \\times 3$. An arrow from $\\frac{2}{5}$ (with the denominator 5 circled) goes to $3 \\div 5 = \\frac{3}{5}$; another arrow from $\\frac{2}{5}$ (with the numerator 2 circled) goes to $2 \\times \\frac{3}{5} = \\frac{6}{5}$, and an arrow from $\\frac{3}{5}$ leads to this last expression.]\n\n### Example 1:\nA farmer had 5 grandchildren. She distributed $\\frac{2}{3}$ acre of land to each of her grandchildren. How much land in all did she give to her grandchildren?\n\n$$5 \\times \\frac{2}{3} = \\frac{2}{3} + \\frac{2}{3} + \\frac{2}{3} + \\frac{2}{3} + \\frac{2}{3} = \\frac{10}{3}.$$\n\n### Example 2:\n1 hour of internet time costs ₹8. How much will $1\\frac{1}{4}$ hours of internet time cost?\n\n$1\\frac{1}{4}$ hours is $\\frac{5}{4}$ hours (converting from a mixed fraction).\n\nCost of $\\frac{5}{4}$ hour of internet time $= \\frac{5}{4} \\times 8$\n\n$$= 5 \\times \\frac{8}{4}$$\n\n$$= 5 \\times 2$$\n\n$$= 10.$$\n\nIt costs ₹10 for $1\\frac{1}{4}$ hours of internet time.\n\n### Figure it Out\n\n1. Tenzin drinks $\\frac{1}{2}$ glass of milk every day. How many glasses of milk does he drink in a week? How many glasses of milk did he drink in the month of January?\n2. A team of workers can make 1 km of a water canal in 8 days. So, in one day, the team can make ___ km of the water canal. If they work 5 days a week, they can make ___ km of the water canal in a week.\n3. Manju and two of her neighbours buy 5 litres of oil every week and share it equally among the 3 families. How much oil does each family get in a week? How much oil will one family get in 4 weeks?\n4. Safia saw the Moon setting on Monday at 10 pm. Her mother, who is a scientist, told her that every day the Moon sets $\\frac{5}{6}$ hour later than\n\n<!-- page 177 -->\n\nthe previous day. How many hours after 10 pm will the moon set on Thursday?\n\n5. Multiply and then convert it into a mixed fraction:\n\n    (a) $7 \\times \\frac{3}{5}$\n\n    (b) $4 \\times \\frac{1}{3}$\n\n    (c) $\\frac{9}{7} \\times 6$\n\n    (d) $\\frac{13}{11} \\times 6$\n\nSo far, we have learnt multiplication of a whole number with a fraction, and a fraction with a whole number. What happens when both numbers in the multiplication are fractions?",
+   "page_start": 173,
+   "page_end": 177
   },
   {
    "section_id": "7-math-08-s03",
-   "heading": "8.3 Some Problems Involving Fractions",
-   "text": "#### 8.3 Some Problems Involving Fractions\n\n**Example 3:** Leena made 5 cups of tea. She used 1\n\n4 litre of milk for this.\n\nHow much milk is there in each cup of tea?\n\n1 4 litres of 5 cups\n\nMilk in\n\n1 cup\n\nLeena used 1\n\n4 litres of milk in 5 cups of tea. So, in 1 cup of tea the\n\nvolume of milk should be:\n\n1 4 ÷ 5.\n\nWriting this as multiplication, we have:\n\n5 × (milk per cup) = 1 4.\n\nWe perform the division as follows as per Brahmagupta’s method:\n\nThe reciprocal of 5 (the divisor) is 1\n\n5.\n\nMultiplying this reciprocal by the dividend ( 1\n\n4 ), we get\n\n1 5 × 1 4 = 1 20.\n\nSo, each cup of tea has 1\n\n20 litre of milk.\n\n**Example 4:** Some of the oldest examples of working with non-unit fractions occur in humanity’s oldest geometry texts, the Śhulbasūtra. Here is an example from Baudhāyana’s Śhulbasūtra (c. 800 BCE).\n\nCover an area of 7 1\n\n2 square units with square bricks each of whose\n\nsides is 1\n\n5 units.\n\n<!-- page 191 -->\n\nWorking with Fractions\n\nHow many such square bricks are needed?\n\nEach square brick has an area of 1\n\n5 × 1 5 = 1 25 square units.\n\nThe total area to be covered is 7 1\n\n2 sq. units = 15 2 sq. units.\n\nAs (Number of bricks) × (Area of a brick) = Total Area,\n\nNumber of bricks = 15\n\n2 ÷ 1 25.\n\nThe reciprocal of the divisor is 25. Multiplying the reciprocal by the dividend, we get\n\n25 × 15 2 = 25 × 15 2 = 375\n\n2.\n\n**Example 5:** This problem was posed by Chaturveda Pṛithūdakasvāmī (c. 860 CE) in his commentary on Brahmagupta’s book Brāhmasphuṭasiddhānta.\n\nFour fountains fill a cistern. The first fountain can fill the cistern in a day. The second can fill it in half a day. The third can fill it in a quarter of a day. The fourth can fill the cistern in one fifth of a day. If they all flow together, in how much time will they fill the cistern?\n\nLet us solve this problem step by step. In a day, the number of times —\n\n- the first fountain will fill the cistern is 1÷ 1 = 1\n\n- the second fountain will fill the cistern is 1 ÷ 1 2 = _____\n\n- the third fountain will fill the cistern is 1 ÷ 1 4= _____\n\n- the fourth fountain will fill the cistern is 1 ÷ 1 5 = _____\n\nThe number of times the four fountains together will fill the cistern in a day is ___ + ____ + ___ + ____ = 12.\n\nThus, the total time needed by the four fountains to fill the cistern\n\ntogether is 1\n\n12 days.\n\n<!-- page 192 -->\n\n#### Fractional Relations\n\nHere is a square with some lines drawn inside.\n\nFig. 8.4\n\n> Math\n\nWhat fraction of area of the whole square does the shaded region occupy?\n\n> Talk\n\nThere are different ways to solve this problem. Here is one of them: Let the area of the whole square be 1 square unit.\n\nWe can see that the top right square (in Fig. 8.5), occupies 1\n\n> 4 of the\n\narea of the whole square.\n\nFig. 8.5\n\nArea of red square = 1\n\n4 square units.\n\nFig, 8.6\n\n<!-- page 193 -->\n\nWorking with Fractions\n\nLet us look at this red square. The area of the triangle inside it (coloured yellow) is half the area of the red square. So,\n\nthe area of the yellow triangle = 1\n\n2 × 1 4 = 1 8 square units.\n\nWhat fraction of this yellow triangle is shaded?\n\nThe shaded region occupies 3\n\n4 of the area of the\n\nyellow triangle. Are you able to see why?\n\nThe area of shaded part = 3\n\n4 × 1 8 = 3 32 square units.\n\nThus, the shaded region occupies 3\n\n32 of the area of the whole square.\n\nIn each of the figures given below, find the fraction of the big square that the shaded region occupies.\n\nWe will solve more interesting problems of this kind in a later chapter.\n\n#### A Dramma-tic Donation\n\nThe following problem is translated from Bhāskarāchārya’s (Bhāskara II’s) book, Līlāvatī, written in 1150 CE.\n\n“O wise one! A miser gave to a beggar 1\n\n5 of 1 16 of 1 4 of 1 2 of 2 3 of 3 4 of\n\na dramma. If you know the mathematics of fractions well, tell me O\n\nchild, how many cowrie shells were given by the miser to the beggar.”\n\nDramma refers to a silver coin used in those times. The tale says that 1 dramma was equivalent to 1280 cowrie shells. Let’s see what fraction of a dramma the person gave:\n\n( | 1 2 × 2 3 × 3 4 × 1 5 × 1 16 × 1 4)\n\nth | part of a dramma.\n\n<!-- page 194 -->\n\nEvaluating it gives 6 7680 .\n\nUpon simplifying to its lowest form, we get\n\n6 7680 = 1 1280.\n\nSo, one cowrie shell was given to the beggar.\n\nYou can see in the answer Bhāskarāchārya’s humour! The miser had given the beggar only one coin of the least value (cowrie).\n\nAround the 12th century, several types of coins were in use in different kingdoms of the Indian subcontinent. Most commonly used were gold coins (called dinars/gadyanas and hunas), silver coins (called drammas/tankas), copper coins (called kasus/panas and mashakas), and cowrie shells. The exact conversion rates between these coins varied depending on the region, time period, economic conditions, weights of coins and their purity.\n\nGold coins had high-value and were used in large transactions and to store wealth. Silver coins were more commonly used in everyday transactions. Copper coins had low-value and were used in smaller transactions. Cowrie shells were the lowest denomination and were used in very small transactions and as change.\n\nIf we assume 1 gold dinar = 12 silver drammas, 1 silver dramma = 4 copper panas, 1 copper pana = 6 mashakas, and 1 pana = 30 cowrie shells,\n\n1 copper pana = 1 48 gold dinar ( 1 12 × 1 4)\n\n1 cowrie shell =____ copper panas\n\n1 cowrie shell =____ gold dinar.\n\n#### A Pinch of History\n\nAs you have seen, fractions are an important type of number, playing a critical role in a variety of everyday problems that involve sharing and dividing quantities equally. The general notion of non-unit fractions as we use them today — equipped with the arithmetic operations of addition, subtraction, multiplication, and division — developed largely in India. The ancient Indian geometry texts called the Śhulbasūtra — which go back as far as 800 BCE, and were concerned with the construction of fire altars for rituals — used general non-unit fractions extensively, including performing division of such fractions as we saw in Example 3.\n\nFractions even became commonplace in the popular culture of India as far back as 150 BCE, as evidenced by an offhand reference to the reduction of fractions to lowest terms in the philosophical work of the revered Jain scholar Umasvati.\n\n<!-- page 195 -->\n\nWorking with Fractions\n\nGeneral rules for performing arithmetic operations on fractions — in essentially the modern form in which we carry them out today — were first codified by Brahmagupta in his Brāhmasphuṭasiddhānta in 628 CE. We have already seen his methods for adding and subtracting general fractions. For multiplying general fractions, Brahmagupta wrote:\n\n“Multiplication of two or more fractions is obtained by taking the product of the numerators divided by the product of the denominators.” (Brāhmasphuṭasiddhānta, Verse 12.1.3)\n\na b× c\n\nThat is, | d= a × c\n\nb × d.\n\nFor division of general fractions, Brahmagupta wrote:\n\n“The division of fractions is performed by interchanging the numerator and denominator of the divisor; the numerator of the dividend is then multiplied by the (new) numerator, and the denominator by the (new) denominator.”\n\nBhāskara II in his book Līlāvatī in 1150 CE clarifies Brahmagupta‘s statement further in terms of the notion of reciprocal:\n\n“Division of one fraction by another is equivalent to multiplication of the first fraction by the reciprocal of the second.” (Līlāvatī, Verse 2.3.40)\n\nBoth of these verses are equivalent to the formula:\n\na b÷ c\n\nd=a\n\nb×d\n\nc=a × d\n\nb × c.\n\nBhāskara I, in his 629 CE commentary Āryabhaṭīyabhāṣhya on Aryabhata’s 499 CE work, described the geometric interpretation of multiplication of fractions (that we saw earlier) in terms of the division of a square into rectangles via equal divisions along the length and breadth.\n\nMany other Indian mathematicians, such as Śhrīdharāchārya (c. 750 CE), Mahāvīrāchārya (c. 850 CE), Caturveda Pṛithūdakasvāmī (c. 860 CE), and Bhāskara II (c. 1150 CE) developed the usage of arithmetic of fractions significantly further.\n\n1 4 | 1 20\n\n1 5\n\nBhāskara I’s visual explanation that\n\n1 5 1 4 =1 20\n\nThe Indian theory of fractions and arithmetic operations on them was transmitted to, and its usage developed further, by Arab and African mathematicians such as al-Hassâr (c. 1192 CE) of Morocco. The theory was then transmitted to Europe via the Arabs over the next few\n\n<!-- page 196 -->\n\ncenturies, and came into general use in Europe in only around the 17th century, after which it spread worldwide. The theory is indeed indispensable today in modern mathematics.\n\n##### Figure it Out\n\n1. Evaluate the following:\n\n| 7 | 14 | 2 2 | 14 7 |\n| --- | --- | --- | --- |\n| 3 ÷ 9 | ÷ 2 4 | ÷ 3 3 | ÷ 6 3 |\n| 4 3 ÷ 3 4 | 7 1 ÷ 4 7 | 8 4 ÷ 2 15 |  |\n| 1 1 ÷ 5 9 | 1 11 ÷ 6 12 | 2 3 3 ÷ 1 3 8 |  |\n\n2. For each of the questions below, choose the expression that describes the solution. Then simplify it.\n\n(a) Maria bought 8 m of lace to decorate the bags she made for\n\nschool. She used 1\n\n4 m for each bag and finished the lace. How\n\nmany bags did she decorate?\n\n(i) 8 × 1 4 (ii) 1 8 × 1 4\n\n(iii) 8 ÷ 1\n\n4 (iv) 1 4 ÷ 8\n\n(b) 1\n\n2 meter of ribbon is used to make 8 badges. What is the\n\nlength of the ribbon used for each badge?\n\n(i) 8 × 1 2 (ii) 1 2 ÷ 1 8\n\n(iii) 8 ÷ 1\n\n2 (iv) 1 2 ÷ 8\n\n(c) A baker needs 1\n\n6 kg of flour to make one loaf of bread. He has\n\n5 kg of flour. How many loaves of bread can he make?\n\n(i) 5 × 1 6 (ii) 1 6 ÷ 5\n\n(iii) 5 ÷ 1\n\n6 (iv) 5 × 6\n\n<!-- page 197 -->\n\nWorking with Fractions\n\n3. If 1 4 kg of flour is used to make 12 rotis, how much flour is used to\n\nmake 6 rotis?\n\n4. Pāṭīgaṇita, a book written by Sridharacharya in the 9th century\n\nCE, mentions this problem: “Friend, after thinking, what sum will\n\nbe obtained by adding together 1 ÷ 1\n\n6 , 1 ÷ 1 10 , 1 ÷ 1 13 , 1 ÷ 1 9 , and\n\n1 ÷ 1 2 ”. What should the friend say?\n\n5. Mira is reading a novel that has 400 pages. She read 1 5 of the pages\n\nyesterday and 3\n\n10 of the pages today. How many more pages does\n\nshe need to read to finish the novel?\n\n6. A car runs 16 km using 1 litre of petrol. How far will it go using 2 3 4 litres of petrol?\n\n7. Amritpal decides on a destination for his vacation. If he takes a\n\ntrain, it will take him 5 1\n\n6 hours to get there. If he takes a plane, it\n\nwill take him 1\n\n2 hour. How many hours does the plane save?\n\n8. Mariam’s grandmother baked a cake. Mariam and her cousins\n\nfinished 4\n\n5 of the cake. The remaining cake was shared equally by\n\nMariam’s three friends. How much of the cake did each friend get?\n\n9. Choose the option(s) describing the product of ( 565 465 × 707 676):\n\n(a) > 565\n\n465 (b) < 565\n\n465\n\n(c) > 707\n\n676 (d) < 707\n\n676\n(e) > 1 (f) < 1\n\n10. What fraction of the whole square is shaded?\n\n<!-- page 198 -->\n\n11. A colony of ants set out in search of food. As they search, they keep splitting equally at each point (as shown in the Fig. 8.7) and reach two food sources, one near a mango tree and another near a sugarcane field. What fraction of the original group reached each food source?\n\n12. What is 1 – 1 2 ?\n\n(1 – 1\n\n2) × (1 – 1\n3) ?\n\n> Fig. 8.7\n\n(1 – 1\n\n2) × (1 – 1\n3) × (1 – 1\n4) × (1 – 1\n5) ?\n\n(1 – 1\n\n2) × (1 – 1\n3) × (1 – 1\n4) × (1 – 1\n5) × (1 – 1\n6) × (1 – 1\n7) × (1 – 1\n8) × (1 – 1\n9) × (1 – 1\n10) ?\n\nMake a general statement and explain.",
-   "page_start": 190,
-   "page_end": 198
+   "heading": "Multiplying Two Fractions",
+   "text": "## Multiplying Two Fractions\n\n> [Figure: a question mark inside an orange circle, marking a question]\n\nWe know, that Aaron's pet tortoise can walk only $\\frac{1}{4}$ km in 1 hour. How far can it walk in half an hour?\n\nFollowing our approach of using multiplication to solve such problems, we have,\n\nDistance covered in $\\frac{1}{2}$ hour $= \\frac{1}{2} \\times \\frac{1}{4}$ km.\n\n| Hour | Distance |\n|---|---|\n| 1 | $\\frac{1}{4}$ |\n| $\\frac{1}{2}$ | ? |\n\n**Finding the product:**\n\nDistance covered in 1 hour $= \\frac{1}{4}$ km.\n\nTherefore, the distance covered in $\\frac{1}{2}$ an hour is the length we get by dividing $\\frac{1}{4}$ into 2 equal parts.\n\nTo find this, it is useful to represent fractions using the unit square to stand for a \"whole\".\n\n[Figure: A square with a thick border, labelled \"Unit square as a \"whole\"\"]\n\n[Figure: A square divided into 4 equal horizontal strips, the top strip shaded yellow and marked with a brace labelled $\\frac{1}{4}$; caption \"$\\frac{1}{4}$ of the whole\"]\n\n<!-- page 178 -->\n\nNow we divide this $\\frac{1}{4}$ into 2 equal parts. What do we get?\n\nWhat fraction of the whole is shaded?\n\n[Figure: A rectangle divided into 4 rows and 2 columns (8 equal parts). The top-left part is shaded with hatching, the top-right part of the top row is shaded yellow, and an arrow with \"?\" points to the hatched part. Dashed line divides the column. Caption: \"$\\frac{1}{4}$ divided into 2 equal parts\"]\n\n> Since the whole is divided into 8 equal parts and one of the parts is shaded, we can say that $\\frac{1}{8}$ of the whole is shaded. So, the distance covered by the tortoise in half an hour is $\\frac{1}{8}$ km.\n>\n> This tells us that $\\frac{1}{2} \\times \\frac{1}{4} = \\frac{1}{8}$.\n\n**?** If the tortoise walks faster and it can cover $\\frac{2}{5}$ km in 1 hour, how far will it walk in $\\frac{3}{4}$ of an hour?\n\nDistance covered = $\\frac{3}{4} \\times \\frac{2}{5}$.\n\n**Finding the product:**\n\n(i) First find the distance covered in $\\frac{1}{4}$ of an hour.\n\n(ii) Multiply the result by 3, to get the distance covered in $\\frac{3}{4}$ of an hour.\n\n(i) Distance in km covered in $\\frac{1}{4}$ of an hour\n\n= The quantity we get by dividing $\\frac{2}{5}$ into 4 equal parts.\n\nTaking the unit square as the whole, the shaded part (in Fig. 8.1) is a region we get when we divide $\\frac{2}{5}$ into 4 equal parts.\n\n> [Figure: Fig. 8.1 — A unit square divided into 5 rows and 4 columns (20 equal parts). The top two rows are outlined in bold and shaded yellow, with the first part of each of those rows hatched. A bracket on the right marks the two rows as $\\frac{2}{5}$. An arrow labelled \"whole\" points to the square. Caption: \"Fig. 8.1\"]\n\nHow much of the whole is it?\n\nThe whole is divided into\n5 rows and 4 columns,\ncreating $5 \\times 4 = 20$ equal parts.\n\nNumber of these parts shaded = 2.\n\nSo, the distance covered in $\\frac{1}{4}$ of an hour = $\\frac{2}{20}$.\n\n<!-- page 179 -->\n\n(ii) Now, we need to multiply $\\frac{2}{20}$ by 3.\n\nDistance covered in $\\frac{3}{4}$ of an hour $= 3 \\times \\frac{2}{20}$\n\n$= \\frac{6}{20}$.\n\nSo, $\\frac{3}{4} \\times \\frac{2}{5} = \\frac{6}{20} = \\frac{3}{10}$.\n\n> [Figure: A grid of 4 columns and 5 rows of squares. The top 2 rows are outlined in bold and coloured yellow; in these rows, the first 3 squares of each row are hatched with diagonal lines, and the 4th square of each row is plain yellow. The lower 3 rows are empty.]\n\n## Discussion\n\nIn the case of a fraction multiplied by another fraction, we follow a method similar to the one we used, when we multiplied a fraction by a whole number. We multiplied as follows:\n\n> [Figure: Two speech bubbles labelled \"Multiplier\" and \"Multiplicand\" pointing to the expression $\\frac{3}{4} \\times \\frac{2}{5}$.]\n\n[Figure: Diagram with $\\frac{3}{4}$ at the top left and an arrow curving to $\\frac{2}{5}$ in \"$\\frac{2}{5} \\div 4 = \\frac{2}{20}$\", with the text \"Divide the multiplicand by 4.\" Below it, $\\frac{3}{4}$ with an arrow curving to \"$3 \\times \\frac{2}{20} = \\frac{6}{20} =$\", with the text \"Divide the multiplicand by 3.\"]\n\n$\\frac{2}{5} \\div 4 = \\frac{2}{20}$ Divide the multiplicand by 4.\n\n$3 \\times \\frac{2}{20} = \\frac{6}{20} =$ Divide the multiplicand by 3.\n\n### Math Talk\n\nUsing this understanding, multiply $\\frac{5}{4} \\times \\frac{3}{2}$.\n\nFirst, let us represent $\\frac{3}{2}$, taking the unit square as the whole. Since, the fraction $\\frac{3}{2}$ is one whole and a half, it can be seen as follows:\n\n> [Figure: Fig. 8.2 — A dashed-outline square labelled \"whole\", divided into a grid of 3 columns and 2 rows, with the first cell of each row yellow and hatched. Below it, a second rectangle of 3 cells with the first cell yellow and hatched. A curly brace on the right labels the whole as $\\frac{3}{2}$.]\n>\n> *Fig. 8.2*\n\nFollowing the steps of multiplication, we need to first divide this fraction $\\frac{3}{2}$ into 4 equal parts. It can be done as shown in the Fig. 8.2 with the yellow shaded region representing the fraction obtained by dividing $\\frac{3}{2}$ into 4 equal parts. What is its value?\n\nWe see that the whole is divided into —\n\n2 rows and 4 columns,\n\ncreating $2 \\times 4 = 8$ equal parts.\n\nNumber of parts shaded $= 3$.\n\nSo the yellow shaded part $= \\frac{3}{8}$.\n\n<!-- page 180 -->\n\nNow, the next step is multiplying this result by 5. This gives the product of $\\frac{5}{4}$ and $\\frac{3}{2}$:\n\n$$\\frac{5}{4} \\times \\frac{3}{2} = 5 \\times \\frac{3}{8} = \\frac{15}{8}.$$",
+   "page_start": 177,
+   "page_end": 180
   },
   {
    "section_id": "7-math-08-s04",
-   "heading": "SUMMARY",
-   "text": "#### SUMMARY\n\n- Brahmagupta’s formula for multiplication of fractions:\n\na b× c\n\nd = a × c\n\nb × d.\n\n- When multiplying fractions, if the numerators and denominators have some common factors, we can cancel them first before multiplying the numerators and denominators.\n- In multiplication — when one of the numbers being multiplied is between 0 and 1, the product is less than the other number. If one of the numbers being multiplied is greater than 1, then the product is greater than the other number.\n\n- The reciprocal of a fraction a b is b\n\na. When we multiply a fraction by its reciprocal, the product is 1.\n- Brahmagupta’s formula for division of fractions: a b÷ c\n\nd= a\n\nb× d\n\nc= a × d\n\nb × c.\n\n- In division — when the divisor is between 0 and 1, the quotient is greater than the dividend. When the divisor is greater than 1, the quotient is less than the dividend.\n\n<!-- page 199 -->\n\nWorking with Fractions\n\n##### Chess Puzzles — Non-attacking Queens\n\nChess is a popular 2-player strategy game. This game has its origins in India. It is played on an 8 × 8 chequered grid. There are 2 sets of pieces — black and white — one set for each player. Find out how each piece should move and the rules of the game.\n\nHere is a famous chess-based puzzle. From its current position, a Queen piece can move along the horizontal, vertical or diagonal. Place 4 Queens such that no 2 queens attack each other. For example, the arrangement below is not valid as the queens are in the line of attack of each other.\n\nNow, place 8 queens on this 8 × 8 grid so that no 2 queens attack each other!\n\n<!-- page 200 -->",
-   "page_start": 198,
-   "page_end": 200
+   "heading": "Connection between the Area of a Rectangle and Fraction Multiplication",
+   "text": "## Connection between the Area of a Rectangle and Fraction Multiplication\n\nIn the Fig. 8.3, what is the length and breadth of the shaded rectangle? Since we started with a unit square (of side 1 unit), the length and breadth are $\\frac{1}{2}$ unit and $\\frac{1}{4}$ unit.\n\n> [Figure: Fig. 8.3 — a unit square divided into 2 columns and 4 rows; the top-left rectangle is shaded with hatching, the top-right rectangle is shaded yellow; an arrow points to the hatched rectangle labelled $\\frac{1}{8}$.]\n\nWhat is the area of this rectangle? We see that 8 such rectangles give the square of area 1 square unit. So, the area of each rectangle is $\\frac{1}{8}$ square units.\n\n### Math Talk\n\nDo you see any relation between the area and the product of length and breadth?\n\nThe area of a rectangle of fractional sides equals the product of its sides.\n\nIn general, if we want to find the product of two fractions, we can find the area of the rectangle formed with the two fractions as its sides.\n\n### Figure it Out\n\n1. Find the following products. Use a unit square as a whole for representing the fractions:\n   - (a) $\\frac{1}{3} \\times \\frac{1}{5}$\n   - (b) $\\frac{1}{4} \\times \\frac{1}{3}$\n   - (c) $\\frac{1}{5} \\times \\frac{1}{2}$\n   - (d) $\\frac{1}{6} \\times \\frac{1}{5}$\n\n   Now, find $\\frac{1}{12} \\times \\frac{1}{18}$.\n\n<!-- page 181 -->\n\nDoing this by representing the fractions using a unit square is cumbersome. Let us find the product by observing what we did in the above cases.\n\nIn each case, the whole is divided into rows and columns.\n\nThe number of rows is the denominator of the multiplicand, which is 18 in this case.\n\n> [Figure: A unit square grid divided into 18 rows and 12 columns, with the top-left small cell shaded (hatched). Label on the right of the top row: $\\frac{1}{18}$. A vertical arrow labelled \"18 parts\" along the right side and a horizontal arrow labelled \"12 parts\" along the bottom.]\n\nThe number of columns is the denominator of the multiplier, which is 12 in this case.\n\nThus, the whole is divided into $18 \\times 12$ equal parts.\n\nSo, $\\frac{1}{18} \\times \\frac{1}{12} = \\frac{1}{(18 \\times 12)} = \\frac{1}{216}$.\n\nThus, when two fractional units are multiplied, their product is\n\n$$\\frac{1}{(\\text{product of denominators})}.$$\n\nWe express this as:\n\n$$\\frac{1}{b} \\times \\frac{1}{d} = \\frac{1}{b \\times d}.$$\n\n2. Find the following products. Use a unit square as a whole for representing the fractions and carrying out the operations.\n\n   (a) $\\frac{2}{3} \\times \\frac{4}{5}$\n\n   (b) $\\frac{1}{4} \\times \\frac{2}{3}$\n\n   (c) $\\frac{3}{5} \\times \\frac{1}{2}$\n\n   (d) $\\frac{4}{6} \\times \\frac{3}{5}$",
+   "page_start": 180,
+   "page_end": 181
   },
   {
    "section_id": "7-math-08-s05",
+   "heading": "Multiplying Numerators and Denominators",
+   "text": "## Multiplying Numerators and Denominators\n\nNow, find $\\frac{5}{12} \\times \\frac{7}{18}$.\n\nLike the previous case, let us find the product by performing the multiplication, step by step. First, the whole is divided into 18 rows and 12 columns creating $12 \\times 18$ equal parts.\n\n> [Figure: A unit square grid divided into 18 rows and 12 columns, with the first column's top 7 cells shaded (hatched). A brace on the right of the shaded part is labelled $\\frac{7}{18}$. A vertical arrow labelled \"18 parts\" along the right side and a horizontal arrow labelled \"12 parts\" along the bottom.]\n\nThe value we get by dividing $\\frac{7}{18}$ into 12 equal parts is $\\frac{7}{(12 \\times 18)}$.\n\n<!-- page 182 -->\n\nThen, we multiply this result by 5 to get the product. This is $\\frac{(5 \\times 7)}{(12 \\times 18)}$.\n\n> [Figure: A grid of 12 parts wide (labelled \"12 parts\" at the bottom) and 18 parts tall (labelled \"18 parts\" on the right). A shaded yellow rectangle in the top-left corner is 5 columns wide (labelled \"5\" at the top) and 7 rows tall, labelled $\\frac{7}{18}$ on the right.]\n\nSo, $\\frac{5}{12} \\times \\frac{7}{8} = \\frac{(5 \\times 7)}{(12 \\times 18)} = \\frac{35}{216}$.\n\nFrom this we can see that, in general,\n\n$$\\frac{a}{b} \\times \\frac{c}{d} = \\frac{a \\times c}{b \\times d}.$$\n\nThis formula was first stated in this general form by Brahmagupta in his *Brāhmasphuṭasiddhānta* in 628 CE.\n\nThe formula above works even when the multiplier or multiplicand is a whole number. We can simply rewrite the whole number as a fraction with denominator 1. For example,\n\n$$3 \\times \\frac{3}{4} \\text{ can be written } \\frac{3}{1} \\times \\frac{3}{4}$$\n\n$$= \\frac{3 \\times 3}{1 \\times 4} = \\frac{9}{4}.$$\n\nAnd,\n\n$$\\frac{3}{5} \\times 4 \\text{ can be written } \\frac{3}{5} \\times \\frac{4}{1}$$\n\n$$= \\frac{3 \\times 4}{5 \\times 1} = \\frac{12}{5}.$$",
+   "page_start": 181,
+   "page_end": 182
+  },
+  {
+   "section_id": "7-math-08-s06",
+   "heading": "Multiplication of Fractions—Simplifying to Lowest Form",
+   "text": "## Multiplication of Fractions—Simplifying to Lowest Form\n\nMultiply the following fractions and express the product in its lowest form:\n\n$$\\frac{12}{7} \\times \\frac{5}{24}$$\n\nInstead of multiplying the numerators (12 and 5) and denominators (7 and 24) first and then simplifying, we could do the following:\n\n$$\\frac{12}{7} \\times \\frac{5}{24} = \\frac{\\textcircled{12} \\times 5}{7 \\times \\textcircled{24}}$$\n\n[Figure: In the expression, the numbers 12 in the numerator and 24 in the denominator are circled.]\n\nWe see that both the circled numbers have a common factor of 12. We know that a fraction remains the same when the numerator and denominator are divided by the common factor. In this case, we can divide them by 12.\n\n<!-- page 183 -->\n\n$$\\frac{\\overset{1}{\\cancel{12}} \\times 5}{7 \\times \\underset{2}{\\cancel{24}}} = \\frac{1 \\times 5}{7 \\times 2} = \\frac{5}{14}.$$\n\n[Figure: Worked cancellation of $\\frac{12 \\times 5}{7 \\times 24}$, with 12 crossed out and replaced by 1, and 24 crossed out and replaced by 2.]\n\nLet us use the same technique to do one more multiplication.\n\n$$\\frac{14}{15} \\times \\frac{25}{42}$$\n\n$$\\frac{\\overset{1}{\\cancel{14}} \\times \\overset{5}{\\cancel{25}}}{\\underset{3}{\\cancel{15}} \\times \\underset{3}{\\cancel{42}}} = \\frac{1 \\times 5}{3 \\times 3} = \\frac{5}{9}.$$\n\n[Figure: Worked cancellation of $\\frac{14}{15} \\times \\frac{25}{42}$. 14 and 42 are circled in black and crossed out, giving 1 above 14 and 3 below 42. 25 and 15 are circled in red and crossed out, giving 5 above 25 and 3 below 15.]\n\nWhen multiplying fractions, we can first divide the numerator and denominator by their common factors before multiplying the numerators and denominators. This is called cancelling the common factors.\n\n### A Pinch of History\n\nIn India, the process of reducing a fraction to its lowest terms — known as *apavartana* — is so well known that it finds mention even in a non-mathematical work. A Jaina scholar Umasvati (c. 150 CE) used it as a simile in a philosophical work.\n\n### Figure it Out\n\n1. A water tank is filled from a tap. If the tap is open for 1 hour, $\\frac{7}{10}$ of the tank gets filled. How much of the tank is filled if the tap is open for\n\n   (a) $\\frac{1}{3}$ hour ____________\n\n   (b) $\\frac{2}{3}$ hour ____________\n\n   (c) $\\frac{3}{4}$ hour ____________\n\n   (d) $\\frac{7}{10}$ hour ____________\n\n   (e) For the tank to be full, how long should the tap be running?\n\n   > [Try This]\n\n2. The government has taken $\\frac{1}{6}$ of Somu's land to build a road. What part of the land remains with Somu now? She gives half of\n\n<!-- page 184 -->\n\nthe remaining part of the land to her daughter Krishna and $\\frac{1}{3}$ of it to her son Bora. After giving them their shares, she keeps the remaining land for herself.\n\n(a) What part of the original land did Krishna get?\n\n(b) What part of the original land did Bora get?\n\n(c) What part of the original land did Somu keep for herself?\n\n3. Find the area of a rectangle of sides $3\\frac{3}{4}$ ft and $9\\frac{3}{5}$ ft.\n\n4. Tsewang plants four saplings in a row in his garden. The distance between two saplings is $\\frac{3}{4}$ m. Find the distance between the first and last sapling. [**Hint:** Draw a rough diagram with four saplings with distance between two saplings as $\\frac{3}{4}$ m]\n\n5. Which is heavier: $\\frac{12}{15}$ of 500 grams or $\\frac{3}{20}$ of 4 kg?",
+   "page_start": 182,
+   "page_end": 184
+  },
+  {
+   "section_id": "7-math-08-s07",
+   "heading": "Is the Product Always Greater than the Numbers Multiplied?",
+   "text": "## Is the Product Always Greater than the Numbers Multiplied?\n\nSince, we know that when a number is multiplied by 1, the product remains unchanged, we will look at multiplying pairs of numbers where neither of them is 1.\n\nWhen we multiply two counting numbers greater than 1, say 3 and 5, the product is greater than both the numbers being multiplied.\n\n$$3 \\times 5 = 15$$\n\nThe product, 15, is more than both 3 and 5.\n\nBut what happens when we multiply $\\frac{1}{4}$ and 8?\n\n$$\\frac{1}{4} \\times 8 = 2$$\n\nIn the above multiplication the product, 2, is greater than $\\frac{1}{4}$, but less than 8.\n\nWhat happens when we multiply $\\frac{3}{4}$ and $\\frac{2}{5}$?\n\n$$\\frac{3}{4} \\times \\frac{2}{5} = \\frac{6}{20}$$\n\nLet us compare this product $\\frac{6}{20}$ with the numbers $\\frac{3}{4}$ and $\\frac{2}{5}$. For this,\n\n<!-- page 185 -->\n\nlet us express $\\frac{3}{4}$ as $\\frac{15}{20}$ and $\\frac{2}{5}$ as $\\frac{8}{20}$.\n\nFrom this we can see that the product is less than both the numbers.\n\nWhen do you think the product is greater than both the numbers multiplied, when is it in between the two numbers, and when is it smaller than both?\n\n[**Hint:** The relationship between the product and the numbers multiplied depends on whether they are between 0 and 1 or they are greater than 1. Take different pairs of numbers and observe their product. For each multiplication, consider the following questions.]\n\n| Situation | Multiplication | Relationship |\n|---|---|---|\n| Situation 1 | Both numbers are greater than 1 (e.g., $\\frac{4}{3} \\times 4$) | The product ($\\frac{16}{3}$) is greater than both the numbers |\n| Situation 2 | Both numbers are between 0 and 1 (e.g., $\\frac{3}{4} \\times \\frac{2}{5}$) | The product ($\\frac{3}{10}$) is less than both the numbers |\n| Situation 3 | One number is between 0 and 1, and one number is greater than 1 (e.g., $\\frac{3}{4} \\times 5$) | The product ($\\frac{15}{4}$) is less than the number greater than 1 and greater than the number between 0 and 1 |\n\nCreate more such examples for each situation and observe the relationship between the product and the numbers being multiplied.\n\n> [Figure: A circled question mark icon]\n\nWhat can you conclude about the relationship between the numbers multiplied and the product? Fill in the blanks:\n\n- When one of the numbers being multiplied is between 0 and 1, the product is ____________ (greater/less) than the other number.\n- When one of the numbers being multiplied is greater than 1, the product is _____________ (greater/less) than the other number.\n\n<!-- page 186 -->",
+   "page_start": 184,
+   "page_end": 186
+  },
+  {
+   "section_id": "7-math-08-s08",
+   "heading": "Order of Multiplication",
+   "text": "### Order of Multiplication\n\nWe know that $\\frac{1}{2} \\times \\frac{1}{4} = \\frac{1}{8}$.\n\n[Figure: A grid of 2 columns and 4 rows. The top row is outlined in bold; its left cell is hatched with blue diagonal lines and yellow, labelled $\\frac{1}{8}$, and its right cell is solid yellow. A bracket above the columns is labelled $\\frac{1}{2}$ and a bracket on the left of the top row is labelled $\\frac{1}{4}$.]\n\n[Figure: A grid of 4 columns and 2 rows. The left column is outlined in bold; its top cell is hatched with blue diagonal lines and yellow, labelled $\\frac{1}{8}$, and its bottom cell is solid yellow. A bracket above the first column is labelled $\\frac{1}{4}$ and a bracket on the left of the first column is labelled $\\frac{1}{2}$.]\n\nNow, what is $\\frac{1}{4} \\times \\frac{1}{2}$?\n\nThat is $\\frac{1}{8}$ too.\n\nIn general, note that the area of a rectangle remains the same even if the length and breadth are interchanged.\n\nThe order of multiplication does not matter. Thus,\n\n$$\\frac{a}{b} \\times \\frac{c}{d} = \\frac{c}{d} \\times \\frac{a}{b}.$$\n\nThis can also be seen from Brahmagupta's formula for multiplying fractions.",
+   "page_start": 186,
+   "page_end": 186
+  },
+  {
+   "section_id": "7-math-08-s09",
+   "heading": "8.2 Division of Fractions",
+   "text": "## 8.2 Division of Fractions\n\nWhat is $12 \\div 4$? You know this already. But can this problem be restated as a multiplication problem?\n\nWhat should be multiplied by 4 to get 12? That is,\n\n$$4 \\times ? = 12$$\n\n> [Figure: Speech bubbles labelling the parts of the division $12 \\div 4 = 3$: \"Dividend\", \"Divisor\" and \"Quotient\".]\n\n<!-- page 187 -->\n\nWe can use this technique of converting division into multiplication problems to divide fractions.\n\nWhat is $1 \\div \\frac{2}{3}$?\n\nLet us rewrite this as a multiplication problem\n\n$$\\frac{2}{3} \\times ? = 1$$\n\nWhat should be multiplied by $\\frac{2}{3}$ to get the product 1?\n\nIf we somehow cancel out the 2 and the 3, we are left with 1.\n\n[Figure: $\\frac{2}{3} \\times \\frac{3}{2} = 1$, with the 2 and 3 of $\\frac{2}{3}$ struck through and $\\frac{3}{2}$ enclosed in a box; an arrow from the box points down to the label \"Answer\".]\n\nSo,\n\n$$1 \\div \\frac{2}{3} = \\frac{3}{2}.$$\n\nLet us try another problem:\n\n$$3 \\div \\frac{2}{3}.$$\n\nThis is the same as\n\n$$\\frac{2}{3} \\times ? = 3.$$\n\nCan you find the answer?\n\nWe know what to multiply $\\frac{2}{3}$ by to get 1. We just need to multiply that by 3 to get 3. So,\n\n[Figure: $\\frac{2}{3} \\times \\frac{3}{2} \\times 3 = 3$, with the 2 and 3 of $\\frac{2}{3}$ struck through and $\\frac{3}{2} \\times 3$ enclosed in a box; an arrow from the box points down to the label \"Answer\".]\n\nSo,\n\n$$3 \\div \\frac{2}{3} = \\frac{3}{2} \\times 3 = \\frac{9}{2}.$$\n\nWhat is $\\frac{1}{5} \\div \\frac{1}{2}$?\n\nRewriting it as a multiplication problem, we have\n\n$$\\frac{1}{2} \\times ? = \\frac{1}{5}.$$\n\n<!-- page 188 -->\n\nHow do we solve this?\n\n[Figure: The equation $\\frac{1}{2}\\times\\boxed{2\\times\\frac{1}{5}}=\\frac{1}{5}$, with $\\frac{1}{2}$ and the $2$ in the box struck through, and an arrow from the box pointing down to the label \"Answer\".]\n\nSo,\n\n$$\\frac{1}{5}\\div\\frac{1}{2}=2\\times\\frac{1}{5}=\\frac{2}{5}.$$\n\nWhat is $\\frac{2}{3}\\div\\frac{3}{5}$?\n\nRewriting this as multiplication, we have\n\n$$\\frac{3}{5}\\times\\,?=\\frac{2}{3}.$$\n\nHow will we solve this?\n\n[Figure: The equation $\\frac{3}{5}\\times\\boxed{\\frac{5}{3}\\times\\frac{2}{3}}=\\frac{2}{3}$, with $\\frac{3}{5}$ and the $\\frac{5}{3}$ in the box struck through, and an arrow from the box pointing down to the label \"Answer\".]\n\nSo,\n\n$$\\frac{2}{3}\\div\\frac{3}{5}=\\frac{5}{3}\\times\\frac{2}{3}=\\frac{10}{9}.$$\n\n## Discussion\n\nIn each of the division problems above, observe how we found the answer. Can we frame a rule that tells us how to divide two fractions? Let us consider the previous problem.\n\n> [Figure: $\\frac{2}{3}\\div\\frac{3}{5}$ with an arrow from $\\frac{2}{3}$ labelled \"Dividend\" and an arrow from $\\frac{3}{5}$ labelled \"Divisor\"; below it $=\\frac{5}{3}\\times\\frac{2}{3}=\\frac{10}{9}$ with an arrow from $\\frac{10}{9}$ labelled \"Quotient\".]\n\nIn every division problem we have a dividend, divisor and quotient. The technique we have been using to get the quotient is:\n\n1. First, find the number which gives 1 when multiplied by the divisor. We see that the resulting number is a fraction whose numerator is the divisor's denominator and denominator is the divisor's numerator.\n\nFor the divisor $\\frac{3}{5}$ this fraction is $\\frac{5}{3}$. We call $\\frac{5}{3}$ the **reciprocal** of $\\frac{3}{5}$. When we multiply a fraction by its reciprocal, we get 1. So, the first step in our technique is to find the divisor's reciprocal.\n\n<!-- page 189 -->\n\n2. We then multiply the dividend with this reciprocal to get the quotient.\n\nSummarising, to divide two fractions:\n\n- Find the reciprocal of the divisor\n- Multiply this by the dividend to get the quotient.\n\nSo,\n$$\\frac{a}{b} \\div \\frac{c}{d} = \\frac{d}{c} \\times \\frac{a}{b} = \\frac{d \\times a}{c \\times b}.$$\n\nThis can be rewritten as:\n\n$$\\frac{a}{b} \\div \\frac{c}{d} = \\frac{a}{b} \\times \\frac{d}{c} = \\frac{a \\times d}{b \\times c}.$$\n\nAs with methods and formulas for addition, subtraction, and multiplication of fractions that you learnt earlier, this method and formula for division of fractions, in this general form, was first explicitly stated by Brahmagupta in his *Brāhmasphuṭasiddhānta* (628 CE).\n\nSo, to evaluate, for example, $\\frac{2}{3} \\div \\frac{3}{5}$ using Brahmagupta's formula above, we write:\n\n$$\\frac{2}{3} \\div \\frac{3}{5} = \\frac{2}{3} \\times \\frac{5}{3} = \\frac{2 \\times 5}{3 \\times 3} = \\frac{10}{9}.$$",
+   "page_start": 186,
+   "page_end": 189
+  },
+  {
+   "section_id": "7-math-08-s10",
+   "heading": "Dividend, Divisor and the Quotient",
+   "text": "### Dividend, Divisor and the Quotient\n\nWhen we divide two whole numbers, say $6 \\div 3$, we get the quotient 2. Here the quotient is less than the dividend.\n\n$$6 \\div 3 = 2, \\; 2 < 6$$\n\nBut what happens when we divide 6 by $\\frac{1}{4}$ ?\n\n$$6 \\div \\frac{1}{4} = 24.$$\n\nHere the quotient is greater than the dividend!\n\nWhat happens when we divide $\\frac{1}{8}$ by $\\frac{1}{4}$ ?\n\n$$\\frac{1}{8} \\div \\frac{1}{4} = \\frac{1}{2}.$$\n\nHere too the quotient is greater than the dividend.\n\nWhen do you think the quotient is less than the dividend and when is it greater than the dividend?\n\nIs there a similar relationship between the divisor and the quotient?\n\n<!-- page 190 -->\n\nUse your understanding of such relationships in multiplication to answer the questions above.",
+   "page_start": 189,
+   "page_end": 190
+  },
+  {
+   "section_id": "7-math-08-s11",
+   "heading": "8.3 Some Problems Involving Fractions",
+   "text": "## 8.3 Some Problems Involving Fractions\n\n### Example 3:\nLeena made 5 cups of tea. She used $\\frac{1}{4}$ litre of milk for this. How much milk is there in each cup of tea?\n\n[Figure: A horizontal bar with a double-headed arrow above labelled \"$\\frac{1}{4}$ litres of 5 cups\". The bar is divided into 5 equal parts by tick marks. The first part has a double-headed arrow below it labelled \"Milk in 1 cup\".]\n\nLeena used $\\frac{1}{4}$ litres of milk in 5 cups of tea. So, in 1 cup of tea the volume of milk should be:\n\n$$\\frac{1}{4} \\div 5.$$\n\nWriting this as multiplication, we have:\n\n$$5 \\times (\\text{milk per cup}) = \\frac{1}{4}.$$\n\nWe perform the division as follows as per Brahmagupta's method:\n\nThe reciprocal of 5 (the divisor) is $\\frac{1}{5}$.\n\nMultiplying this reciprocal by the dividend ($\\frac{1}{4}$), we get\n\n$$\\frac{1}{5} \\times \\frac{1}{4} = \\frac{1}{20}.$$\n\nSo, each cup of tea has $\\frac{1}{20}$ litre of milk.\n\n### Example 4:\nSome of the oldest examples of working with non-unit fractions occur in humanity's oldest geometry texts, the *Śhulbasūtra*. Here is an example from Baudhāyana's *Śhulbasūtra* (c. 800 BCE).\n\nCover an area of $7\\frac{1}{2}$ square units with square bricks each of whose sides is $\\frac{1}{5}$ units.\n\n<!-- page 191 -->\n\nHow many such square bricks are needed?\n\nEach square brick has an area of $\\frac{1}{5} \\times \\frac{1}{5} = \\frac{1}{25}$ square units.\n\nThe total area to be covered is $7\\frac{1}{2}$ sq. units $= \\frac{15}{2}$ sq. units.\n\nAs (Number of bricks) × (Area of a brick) = Total Area,\n\nNumber of bricks $= \\frac{15}{2} \\div \\frac{1}{25}$.\n\nThe reciprocal of the divisor is 25.\nMultiplying the reciprocal by the dividend, we get\n\n$$25 \\times \\frac{15}{2} = \\frac{25 \\times 15}{2} = \\frac{375}{2}.$$\n\n> [Figure: orange circled question mark icon]\n\n**Example 5:** This problem was posed by Chaturveda Pṛithūdakasvāmī (c. 860 CE) in his commentary on Brahmagupta's book *Brāhmasphuṭasiddhānta*.\n\nFour fountains fill a cistern. The first fountain can fill the cistern in a day. The second can fill it in half a day. The third can fill it in a quarter of a day. The fourth can fill the cistern in one fifth of a day. If they all flow together, in how much time will they fill the cistern?\n\nLet us solve this problem step by step.\n\nIn a day, the number of times—\n\n- the first fountain will fill the cistern is $1 \\div 1 = 1$\n- the second fountain will fill the cistern is $1 \\div \\frac{1}{2} =$ _____\n- the third fountain will fill the cistern is $1 \\div \\frac{1}{4} =$ _____\n- the fourth fountain will fill the cistern is $1 \\div \\frac{1}{5} =$ _____\n\nThe number of times the four fountains together will fill the cistern in a day is ___ + ____ + ___ + ____ = 12.\n\nThus, the total time needed by the four fountains to fill the cistern together is $\\frac{1}{12}$ days.\n\n<!-- page 192 -->",
+   "page_start": 190,
+   "page_end": 192
+  },
+  {
+   "section_id": "7-math-08-s12",
+   "heading": "Fractional Relations",
+   "text": "## Fractional Relations\n\nHere is a square with some lines drawn inside.\n\n[Figure: Fig. 8.4 — A square with a diagonal from the top-left corner to the centre, and further lines inside forming smaller squares and triangles. The top right region has a small square divided into parts, with a triangular portion shaded with orange-brown diagonal hatching.]\n\nFig. 8.4\n\n> Math Talk\n\nWhat fraction of area of the whole square does the shaded region occupy?\n\nThere are different ways to solve this problem. Here is one of them:\nLet the area of the whole square be 1 square unit.\n\nWe can see that the top right square (in Fig. 8.5), occupies $\\frac{1}{4}$ of the area of the whole square.\n\n[Figure: Fig. 8.5 — The same square as Fig. 8.4, with the top right square outlined in red.]\n\nFig. 8.5\n\nArea of red square = $\\frac{1}{4}$ square units.\n\n[Figure: Fig. 8.6 — Left: the red-outlined top right square enlarged, divided by a vertical and a horizontal line through its centre and a diagonal from bottom-left to top-right; the triangle and square regions in the lower right are filled yellow. Right: the whole square with the top right red square outlined, as in Fig. 8.5.]\n\nFig. 8.6\n\n<!-- page 193 -->\n\nLet us look at this red square. The area of the triangle inside it (coloured yellow) is half the area of the red square. So,\n\nthe area of the yellow triangle $= \\frac{1}{2} \\times \\frac{1}{4} = \\frac{1}{8}$ square units.\n\nWhat fraction of this yellow triangle is shaded?\n\nThe shaded region occupies $\\frac{3}{4}$ of the area of the yellow triangle. Are you able to see why?\n\n> [Figure: A right-angled triangle coloured yellow with a red base and right side. A smaller rectangle is drawn inside at the bottom right corner, and diagonal brown stripes shade the region at the right, covering the rectangle and the strip above it.]\n\nThe area of shaded part $= \\frac{3}{4} \\times \\frac{1}{8} = \\frac{3}{32}$ square units.\n\nThus, the shaded region occupies $\\frac{3}{32}$ of the area of the whole square.\n\n### Figure it Out\n\n? In each of the figures given below, find the fraction of the big square that the shaded region occupies.\n\n[Figure: Left, a big square. The top-right quarter is divided into four small squares, one of which has a diagonal drawn. A diagonal from the top-left corner to the bottom-right corner is drawn, and a second diagonal runs from the left side to the bottom side, forming a triangle at the bottom-left. A diagonal band of brown stripes is shaded along the main diagonal.]\n\n[Figure: Right, a big square. The top-left quarter has a tilted square (diamond) inscribed in it, with brown stripes shading the small triangles at its top-right and bottom-right corners. The top-right quarter is empty, and the bottom half is an empty rectangle.]\n\nWe will solve more interesting problems of this kind in a later chapter.",
+   "page_start": 192,
+   "page_end": 193
+  },
+  {
+   "section_id": "7-math-08-s13",
+   "heading": "A Dramma-tic Donation",
+   "text": "## A Dramma-tic Donation\n\nThe following problem is translated from Bhāskarāchārya's (Bhāskara II's) book, *Līlāvatī*, written in 1150 CE.\n\n\"O wise one! A miser gave to a beggar $\\frac{1}{5}$ of $\\frac{1}{16}$ of $\\frac{1}{4}$ of $\\frac{1}{2}$ of $\\frac{2}{3}$ of $\\frac{3}{4}$ of a dramma. If you know the mathematics of fractions well, tell me O child, how many cowrie shells were given by the miser to the beggar.\"\n\nDramma refers to a silver coin used in those times. The tale says that 1 dramma was equivalent to 1280 cowrie shells. Let's see what fraction of a dramma the person gave:\n\n$$\\left(\\frac{1}{2} \\times \\frac{2}{3} \\times \\frac{3}{4} \\times \\frac{1}{5} \\times \\frac{1}{16} \\times \\frac{1}{4}\\right)^{\\text{th}} \\text{ part of a dramma.}$$\n\n<!-- page 194 -->\n\nEvaluating it gives $\\frac{6}{7680}$.\n\nUpon simplifying to its lowest form, we get\n\n$$\\frac{6}{7680} = \\frac{1}{1280}.$$\n\nSo, one cowrie shell was given to the beggar.\n\nYou can see in the answer Bhāskarāchārya's humour! The miser had given the beggar only one coin of the least value (cowrie).\n\nAround the 12th century, several types of coins were in use in different kingdoms of the Indian subcontinent. Most commonly used were gold coins (called *dinars/gadyanas* and *hunas*), silver coins (called *drammas/tankas*), copper coins (called *kasus/panas* and *mashakas*), and cowrie shells. The exact conversion rates between these coins varied depending on the region, time period, economic conditions, weights of coins and their purity.\n\nGold coins had high-value and were used in large transactions and to store wealth. Silver coins were more commonly used in everyday transactions. Copper coins had low-value and were used in smaller transactions. Cowrie shells were the lowest denomination and were used in very small transactions and as change.\n\nIf we assume 1 gold dinar = 12 silver drammas, 1 silver dramma = 4 copper panas, 1 copper pana = 6 mashakas, and 1 pana = 30 cowrie shells,\n\n$$1 \\text{ copper pana} = \\frac{1}{48} \\text{ gold dinar } \\left(\\frac{1}{12} \\times \\frac{1}{4}\\right)$$\n\n$$1 \\text{ cowrie shell} = \\_\\_\\_\\_ \\text{ copper panas}$$\n\n$$1 \\text{ cowrie shell} = \\_\\_\\_\\_ \\text{ gold dinar.}$$",
+   "page_start": 193,
+   "page_end": 194
+  },
+  {
+   "section_id": "7-math-08-s14",
+   "heading": "A Pinch of History",
+   "text": "## A Pinch of History\n\nAs you have seen, fractions are an important type of number, playing a critical role in a variety of everyday problems that involve sharing and dividing quantities equally. The general notion of non-unit fractions as we use them today — equipped with the arithmetic operations of addition, subtraction, multiplication, and division — developed largely in India. The ancient Indian geometry texts called the *Śhulbasūtra* — which go back as far as 800 BCE, and were concerned with the construction of fire altars for rituals — used general non-unit fractions extensively, including performing division of such fractions as we saw in Example 3.\n\nFractions even became commonplace in the popular culture of India as far back as 150 BCE, as evidenced by an offhand reference to the reduction of fractions to lowest terms in the philosophical work of the revered Jain scholar Umasvati.\n\n<!-- page 195 -->\n\nGeneral rules for performing arithmetic operations on fractions — in essentially the modern form in which we carry them out today — were first codified by Brahmagupta in his *Brāhmasphuṭasiddhānta* in 628 CE. We have already seen his methods for adding and subtracting general fractions. For multiplying general fractions, Brahmagupta wrote:\n\n\"Multiplication of two or more fractions is obtained by taking the product of the numerators divided by the product of the denominators.\" (*Brāhmasphuṭasiddhānta*, Verse 12.1.3)\n\nThat is,\n\n$$\\frac{a}{b} \\times \\frac{c}{d} = \\frac{a \\times c}{b \\times d}.$$\n\nFor division of general fractions, Brahmagupta wrote:\n\n\"The division of fractions is performed by interchanging the numerator and denominator of the divisor; the numerator of the dividend is then multiplied by the (new) numerator, and the denominator by the (new) denominator.\"\n\nBhāskara II in his book *Līlāvatī* in 1150 CE clarifies Brahmagupta's statement further in terms of the notion of reciprocal:\n\n\"Division of one fraction by another is equivalent to multiplication of the first fraction by the reciprocal of the second.\" (*Līlāvatī*, Verse 2.3.40)\n\nBoth of these verses are equivalent to the formula:\n\n$$\\frac{a}{b} \\div \\frac{c}{d} = \\frac{a}{b} \\times \\frac{d}{c} = \\frac{a \\times d}{b \\times c}.$$\n\nBhāskara I, in his 629 CE commentary *Āryabhaṭīyabhāṣhya* on Aryabhata's 499 CE work, described the geometric interpretation of multiplication of fractions (that we saw earlier) in terms of the division of a square into rectangles via equal divisions along the length and breadth.\n\n> [Figure: A square divided by dashed lines into a grid of 5 columns and 4 rows (20 small rectangles). The left side is labelled $\\frac{1}{4}$ beside the bottom row, the bottom is labelled $\\frac{1}{5}$ below the first column, and the bottom-left small rectangle is labelled $\\frac{1}{20}$.]\n>\n> *Bhāskara I's visual explanation that* $\\frac{1}{5} \\times \\frac{1}{4} = \\frac{1}{20}$\n\nMany other Indian mathematicians, such as Śhrīdharāchārya (c. 750 CE), Mahāvīrāchārya (c. 850 CE), Caturveda Pṛithūdakasvāmī (c. 860 CE), and Bhāskara II (c. 1150 CE) developed the usage of arithmetic of fractions significantly further.\n\nThe Indian theory of fractions and arithmetic operations on them was transmitted to, and its usage developed further, by Arab and African mathematicians such as al-Hassâr (c. 1192 CE) of Morocco. The theory was then transmitted to Europe via the Arabs over the next few\n\n<!-- page 196 -->\n\ncenturies, and came into general use in Europe in only around the 17th century, after which it spread worldwide. The theory is indeed indispensable today in modern mathematics.",
+   "page_start": 194,
+   "page_end": 196
+  },
+  {
+   "section_id": "7-math-08-s15",
+   "heading": "Figure it Out (Division exercises)",
+   "text": "### Figure it Out\n\n1. Evaluate the following:\n\n| | | | |\n|---|---|---|---|\n| $3 \\div \\frac{7}{9}$ | $\\frac{14}{4} \\div 2$ | $\\frac{2}{3} \\div \\frac{2}{3}$ | $\\frac{14}{6} \\div \\frac{7}{3}$ |\n| $\\frac{4}{3} \\div \\frac{3}{4}$ | $\\frac{7}{4} \\div \\frac{1}{7}$ | $\\frac{8}{2} \\div \\frac{4}{15}$ | |\n| $\\frac{1}{5} \\div \\frac{1}{9}$ | $\\frac{1}{6} \\div \\frac{11}{12}$ | $3\\frac{2}{3} \\div 1\\frac{3}{8}$ | |\n\n2. For each of the questions below, choose the expression that describes the solution. Then simplify it.\n\n    (a) Maria bought 8 m of lace to decorate the bags she made for school. She used $\\frac{1}{4}$ m for each bag and finished the lace. How many bags did she decorate?\n\n    (i) $8 \\times \\frac{1}{4}$  (ii) $\\frac{1}{8} \\times \\frac{1}{4}$\n\n    (iii) $8 \\div \\frac{1}{4}$  (iv) $\\frac{1}{4} \\div 8$\n\n    (b) $\\frac{1}{2}$ meter of ribbon is used to make 8 badges. What is the length of the ribbon used for each badge?\n\n    (i) $8 \\times \\frac{1}{2}$  (ii) $\\frac{1}{2} \\div \\frac{1}{8}$\n\n    (iii) $8 \\div \\frac{1}{2}$  (iv) $\\frac{1}{2} \\div 8$\n\n    (c) A baker needs $\\frac{1}{6}$ kg of flour to make one loaf of bread. He has 5 kg of flour. How many loaves of bread can he make?\n\n    (i) $5 \\times \\frac{1}{6}$  (ii) $\\frac{1}{6} \\div 5$\n\n    (iii) $5 \\div \\frac{1}{6}$  (iv) $5 \\times 6$\n\n<!-- page 197 -->\n\n3. If $\\frac{1}{4}$ kg of flour is used to make 12 rotis, how much flour is used to make 6 rotis?\n\n4. *Pāṭīgaṇita*, a book written by Sridharacharya in the 9th century CE, mentions this problem: \"Friend, after thinking, what sum will be obtained by adding together $1 \\div \\frac{1}{6}$, $1 \\div \\frac{1}{10}$, $1 \\div \\frac{1}{13}$, $1 \\div \\frac{1}{9}$, and $1 \\div \\frac{1}{2}$\". What should the friend say?\n\n5. Mira is reading a novel that has 400 pages. She read $\\frac{1}{5}$ of the pages yesterday and $\\frac{3}{10}$ of the pages today. How many more pages does she need to read to finish the novel?\n\n6. A car runs 16 km using 1 litre of petrol. How far will it go using $2\\frac{3}{4}$ litres of petrol?\n\n7. Amritpal decides on a destination for his vacation. If he takes a train, it will take him $5\\frac{1}{6}$ hours to get there. If he takes a plane, it will take him $\\frac{1}{2}$ hour. How many hours does the plane save?\n\n8. Mariam's grandmother baked a cake. Mariam and her cousins finished $\\frac{4}{5}$ of the cake. The remaining cake was shared equally by Mariam's three friends. How much of the cake did each friend get?\n\n9. Choose the option(s) describing the product of $\\left(\\frac{565}{465} \\times \\frac{707}{676}\\right)$:\n\n   (a) $> \\frac{565}{465}$\n\n   (b) $< \\frac{565}{465}$\n\n   (c) $> \\frac{707}{676}$\n\n   (d) $< \\frac{707}{676}$\n\n   (e) $> 1$\n\n   (f) $< 1$\n\n10. What fraction of the whole square is shaded?\n\n[Figure: A square divided into four equal smaller squares by a vertical and a horizontal line. In the bottom-right small square, a V-shaped (triangular) region is drawn from the top corners meeting at a point on the lower half, with a vertical line descending from that point to the bottom edge; the region to the left of that vertical line and below the V's left arm is shaded with orange diagonal hatching.]\n\n<!-- page 198 -->\n\n11. A colony of ants set out in search of food. As they search, they keep splitting equally at each point (as shown in the Fig. 8.7) and reach two food sources, one near a mango tree and another near a sugarcane field. What fraction of the original group reached each food source?\n\n> [Figure: Fig. 8.7 — A branching path diagram of ant trails starting from a single trail at the bottom, with arrows pointing upward, splitting at four red circular points; the top two endpoints are labelled \"Mango tree\" and \"Sugarcane field\".]\n\n12. What is $1 - \\frac{1}{2}$ ?\n\n$\\left(1 - \\frac{1}{2}\\right) \\times \\left(1 - \\frac{1}{3}\\right)$ ?\n\n$\\left(1 - \\frac{1}{2}\\right) \\times \\left(1 - \\frac{1}{3}\\right) \\times \\left(1 - \\frac{1}{4}\\right) \\times \\left(1 - \\frac{1}{5}\\right)$ ?\n\n$\\left(1 - \\frac{1}{2}\\right) \\times \\left(1 - \\frac{1}{3}\\right) \\times \\left(1 - \\frac{1}{4}\\right) \\times \\left(1 - \\frac{1}{5}\\right) \\times \\left(1 - \\frac{1}{6}\\right) \\times \\left(1 - \\frac{1}{7}\\right) \\times \\left(1 - \\frac{1}{8}\\right) \\times \\left(1 - \\frac{1}{9}\\right) \\times \\left(1 - \\frac{1}{10}\\right)$ ?\n\nMake a general statement and explain.",
+   "page_start": 196,
+   "page_end": 198
+  },
+  {
+   "section_id": "7-math-08-s16",
+   "heading": "Summary",
+   "text": "## SUMMARY\n\n- Brahmagupta's formula for multiplication of fractions:\n\n$$\\frac{a}{b} \\times \\frac{c}{d} = \\frac{a \\times c}{b \\times d}.$$\n\n- When multiplying fractions, if the numerators and denominators have some common factors, we can cancel them first before multiplying the numerators and denominators.\n- In multiplication — when one of the numbers being multiplied is between 0 and 1, the product is less than the other number. If one of the numbers being multiplied is greater than 1, then the product is greater than the other number.\n- The reciprocal of a fraction $\\frac{a}{b}$ is $\\frac{b}{a}$. When we multiply a fraction by its reciprocal, the product is 1.\n- Brahmagupta's formula for division of fractions:\n\n$$\\frac{a}{b} \\div \\frac{c}{d} = \\frac{a}{b} \\times \\frac{d}{c} = \\frac{a \\times d}{b \\times c}.$$\n\n- In division — when the divisor is between 0 and 1, the quotient is greater than the dividend. When the divisor is greater than 1, the quotient is less than the dividend.\n\n<!-- page 199 -->",
+   "page_start": 198,
+   "page_end": 199
+  },
+  {
+   "section_id": "7-math-08-s17",
+   "heading": "It's Puzzle Time!",
+   "text": "## It's Puzzle Time!\n\n### Chess Puzzles — Non-attacking Queens\n\nChess is a popular 2-player strategy game. This game has its origins in India. It is played on an $8 \\times 8$ chequered grid. There are 2 sets of pieces — black and white — one set for each player. Find out how each piece should move and the rules of the game.\n\nHere is a famous chess-based puzzle. From its current position, a Queen piece can move along the horizontal, vertical or diagonal. Place 4 Queens such that no 2 queens attack each other. For example, the arrangement below is not valid as the queens are in the line of attack of each other.\n\n[Figure: A 4 × 4 chequered grid of black and white squares with two queens marked \"Q\" in red: one in the second row, fourth column (white square) and one in the fourth row, second column (white square).]\n\nNow, place 8 queens on this $8 \\times 8$ grid so that no 2 queens attack each other!\n\n[Figure: An empty 8 × 8 chequered grid of black and white squares.]\n\n[Figure: A group of cartoon children looking thoughtful, holding pencils and notepads, at the bottom of the puzzle box.]\n\n<!-- page 200 -->",
+   "page_start": 199,
+   "page_end": 200
+  },
+  {
+   "section_id": "7-math-08-s18",
    "heading": "Learning Material Sheets",
-   "text": "### Learning Material Sheets\n\n<!-- page 201 -->\n\n<!-- page 202 -->\n\n#### Note\n\n<!-- page 203 -->\n\n#### CHAPTER – 8\n\n#### Working with Fractions\n\n##### Page No. 176\n\n##### Figure it out\n\n##### 1.Tenzin drinks 𝟏\n\n##### 𝟐 glass of milk every day. How many glasses of milk\n\ndoes he drink in a week? How many glasses of milk did he drink in the month of January?\n\n2glasses.\n\n**Ans:** Quantity of milk that Tenzin drinks in a week = | 7\n\nQuantity of milk Tenzin drinks in the month of January which has 31\n\ndays = | 31\n\n2 glasses.\n\n2.A team of workers can make 1 km of a water canal in 8 days. So, in one day, the team can make ___ km of the water canal. If they work 5 days a week, they can make ___ km of the water canal in a week. Ans:\n\n1\n\nLength of water canal made in 1 day = | 8km.\n\nLength of water canal made in 5 days = | 5\n\n8 km.\n\n3.Manju and two of her neighbours buy 5 litres of oil every week and share it equally among the 3 families. How much oil does each family get in a week? How much oil will one family get in 4 weeks? Ans:\n\nOil each family gets in 1 week = | 5\n\n3 litres.\n\nOil each family gets in 4 weeks = | 20\n\n3 litres.\n\n##### 4.Safia saw the Moon setting on Monday at 10 pm. Her mother, who is a\n\n𝟓\n\n##### scientist, told her that every day the Moon sets\n\n##### 𝟔 hour later than the\n\n##### previous day. How many hours after 10 pm will the moon set on Thursday? Ans:\n\nTime at which the moon sets on Thursday (i.e. 3 days after Monday)\n\n1\n\n= 10 + 2 + | 2 = 12 1\n\n2 am Or 12:30 am\n\n<!-- page 204 -->\n\n##### Page No. 177\n\n##### 5.Multiply and then convert it into a mixed fraction:\n\n𝟑\n\n##### (a) 7 ×\n\n𝟓\n\n5 = 21\n\n**Ans:** 7 × | 3 | 5 = 4 1\n\n5\n\n𝟏\n\n##### (b) 4 ×\n\n𝟑\n\n1\n\n3 = 4\n\n**Ans**:4 × | 3 = 1 1\n\n3\n\n(c) | 𝟗\n\n𝟕 × 6\n\n7 × 6 = 54\n\nAns: | 9 | 7 = 7 5\n\n7\n\n𝟏𝟑\n\n##### (d)\n\n𝟏𝟏 × 6\n\n13\n\n11 × 6 = 78\n\n11 = 7 1\n\n##### Ans:\n\n11\n\n##### Page No. 180\n\n##### Figure it out\n\n##### 1.Find the following products. Use a unit square as a whole for representing the fractions:\n\n𝟏 | 𝟏\n\n𝟑 ×\n\n##### (a)\n\n𝟓\n\n1\n\n##### Ans:\n\n15\n\n<!-- page 205 -->\n\n𝟏 | 𝟏\n\n𝟒 × | 𝟑\n\n##### (b)\n\n1\n\n##### Ans:\n\n12\n\n𝟏 | 𝟏\n\n##### (c)\n\n𝟓 × | 𝟐\n\n##### Ans:\n\n1\n\n10\n\n𝟏 | 𝟏\n\n𝟔 × | 𝟓\n\n##### (d)\n\n##### Ans:\n\n1\n\n30\n\n<!-- page 206 -->\n\n##### Page No. 181\n\n2.Find the following products. Use a unit square as a whole for representing the fractions and carrying out the operations.\n\n𝟐 | 𝟒\n\n##### (a)\n\n𝟑 × | 𝟓\n\n8\n\n##### Ans:\n\n15\n\n(Draw the figure in the same manner as shown in question 1)\n\n𝟏 | 𝟐\n\n##### (b)\n\n𝟒 × | 𝟑\n\n12 = 1\n\n2\n\n##### Ans:\n\n6\n\n𝟑 | 𝟏\n\n##### (c)\n\n𝟓 × | 𝟐\n\n3\n\n##### Ans:\n\n10\n\n𝟒 | 𝟑\n\n##### (d)\n\n𝟔 × | 𝟓\n\n12\n\n30 = 2\n\n##### Ans:\n\n5\n\n##### Page No. 183\n\n##### Figure it out\n\n##### 1.A water tank is filled from a tap. If the tap is open for 1 hour, 𝟕\n\n##### 𝟏𝟎 of the\n\n##### tank gets filled. How much of the tank is filled if the tap is open for\n\n𝟏\n\n##### 𝟑hour ____________\n\n##### (a)\n\n7\n\n##### Ans:\n\n30 part\n\n𝟐\n\n##### (b)\n\n##### 𝟑 hour ____________\n\n14\n\n##### Ans:\n\n30 part\n\n𝟑\n\n##### (c)\n\n##### 𝟒 hour ____________\n\n21\n\n##### Ans:\n\n40 part\n\n<!-- page 207 -->\n\n𝟕\n\n##### (d)\n\n##### 𝟏𝟎 hour ____________\n\n49\n\n##### Ans:\n\n100 part\n\n(e)For the tank to be full, how long should the tap be running?\n\n10\n\n##### Ans:\n\n7 hours\n\n##### 2.The government has taken 𝟏\n\n##### 𝟔 of Somu’s land to build a road. What part\n\n##### of the land remains with Somu now? She gives half of the remaining\n\n𝟏\n\n##### part of the land to her daughter Krishna and\n\n𝟑 of it to her son Bora.\n\nAfter giving them their shares, she keeps the remaining land for herself.\n\n(a)What part of the original land did Krishna get? (b)What part of the original land did Bora get? (c)What part of the original land did Somu keep for herself?\n\n**Ans:**Part of land that remains with somu = | 5\n\n6\n\n5\n\n#### (a)\n\n12\n\n(b) | 5\n\n18\n\n(c) | 5\n\n36\n\n##### Page No. 184\n\n##### 3.Find the area of a rectangle of sides 3 𝟑\n\n𝟑\n\n##### 𝟒 ft and 9\n\n𝟓 ft.\n\n**Ans:** 36 sq. ft.\n\n##### 4.Tsewang plants four saplings in a row in his garden. The distance\n\n𝟑\n\n##### between two saplings is\n\n##### 𝟒 m. Find the distance between the first and\n\nlast sapling.\n\n1\n\n##### Ans: 2\n\n4 m\n\n##### 5.Which is heavier: 𝟏𝟐\n\n𝟑\n\n##### 𝟏𝟓 of 500 grams or\n\n𝟐𝟎 of 4 kg?\n\n20 of 4 kg is heavier than 12\n\n3\n\n> Ans:\n\n15 of 500 gm.\n\n<!-- page 208 -->\n\n##### Page No. 191\n\n##### In a day, the number of times —\n\n##### (a) the first fountain will fill the cistern is 1÷ 1 = 1\n\n𝟏\n\n##### (b) the second fountain will fill the cistern is 1 ÷\n\n𝟐 = _____\n\n**Ans:** 2 times\n\n𝟏\n\n##### (c) the third fountain will fill the cistern is 1 ÷\n\n𝟒 = _____\n\n**Ans:** 4 times\n\n𝟏\n\n##### (d) the fourth fountain will fill the cistern is 1 ÷\n\n𝟓 = _____\n\nAns: 5 times The number of times the four fountains together will fill the cistern in a day is ___ + ____ + ___ + ____ = 12. Ans: The number of times the four fountains together will fill the cistern\n\nin a day is = 1 + 2 + 4 + 5 = 12\n\n##### Page No. 193\n\n##### In each of the figures given below, find the fraction of the big square\n\nthat the shaded region occupies.\n\n(a) (b)\n\n**Ans:** The shaded region of Fig. (a) occupies | 3\n\n8 of the area of whole square.\n\nThe red shaded part of Fig. (b) occupies | 1\n\n16 of the area of whole square.\n\n<!-- page 209 -->\n\n##### Page No. 196\n\n##### Figure it out 1.Evaluate the following:\n\n| 7 27 3 ÷ = 9 7 | 14 7 ÷ 2 = 4 4 | 2 2 ÷ = 1 3 3 | 14 7 ÷ = 1 6 3 |\n| --- | --- | --- | --- |\n| 4 3 16 ÷ = 3 4 9 | 7 1 49 ÷ = 4 7 4 | 8 4 ÷ = 15 2 15 |  |\n| 1 1 9 ÷ = 5 9 5 | 1 11 2 ÷ = 6 12 11 | 2 3 2 3 ÷ 1 = 2 3 8 3 |  |\n\n2.For each of the questions below, choose the expression that describes the solution. Then simplify it. (a)Maria bought 8 m of lace to decorate the bags she made for school.\n\n𝟏\n\n##### She used\n\n##### 𝟒 m for each bag and finished the lace. How many bags\n\n##### did she decorate? Ans:\n\n(iii) 8 ÷ | 1\n\n4\n\n𝟏\n\n##### 𝟐 meter of ribbon is used to make 8 badges. What is the length of\n\n(b)\n\n##### the ribbon used for each badge? Ans:\n\n(iv) | 1\n\n2 ÷ 8\n\n𝟏\n\n##### (c) A baker needs\n\n##### 𝟔 kg of flour to make one loaf of bread. He has 5 kg\n\n##### of flour. How many loaves of bread can he make? Ans:\n\n(iii) 5 ÷ | 1\n\n6\n\n##### Page No. 197\n\n3.**If** 𝟏\n\n##### 𝟒 kg of flour is used to make 12 rotis, how much flour is used to make\n\n6 rotis?\n\n1\n\n##### Ans:\n\n8 kg\n\n<!-- page 210 -->\n\n4.Patiganita, a book written by Sridharacharya in the 9th century C.E., mentions this problem: “Friend, after thinking, what sum will be obtained by adding together\n\n1 ÷ 𝟏 | 𝟏 | 𝟏 | 𝟏 | 𝟏\n\n𝟔, 1 ÷ | 𝟏𝟎, 1 ÷ | 𝟏𝟑, 1 ÷\n\n##### 𝟗, and 1 ÷\n\n𝟐 ”. What should the friend say?\n\n##### Ans: 40\n\n##### 5.Mira is reading a novel that has 400 pages. She read 𝟏\n\n##### 𝟓 of the pages\n\n𝟑\n\n##### yesterday and\n\n##### 𝟏𝟎of the pages today. How many more pages does she\n\nneed to read to finish the novel? Ans: 200 pages.\n\n##### 6.A car runs 16 km using 1 litre of petrol. How far will it go using 2 𝟑\n\n𝟒\n\nlitres of petrol? Ans: 44 km.\n\n7.Amritpal decides on a destination for his vacation. If he takes a train,\n\n𝟏\n\n##### it will take him 5\n\n##### 𝟔 hours to get there. If he takes a plane, it will take\n\n𝟏\n\n##### him\n\n𝟐 hour. How many hours does the plane save?\n\n2\n\n##### Ans: 4\n\n3 hour\n\n##### 8.Mariam’s grandmother made a cake. Mariam and her cousins finished 𝟒\n\n##### 𝟓 of the cake. The remaining cake was shared equally by Mariam’s\n\nthree friends. How much of the cake did each friend get?\n\n1\n\n##### Ans:\n\n15 of the whole cake.\n\n##### 9.Choose the option(s) describing the product of ( 𝟓𝟔𝟓\n\n𝟒𝟔𝟓× | 𝟕𝟎𝟕\n\n𝟔𝟕𝟔 ):\n\n**Ans**:(a), (c) and (e) are correct.\n\n10.What fraction of the whole square is shaded?\n\n3\n\n##### Ans:\n\n32 of the whole square.\n\n<!-- page 211 -->\n\n11.A colony of ants set out in search of food. As they search, they keep splitting equally at each point (as shown in the figure 8.7) and reach two food sources, one near a mango tree and another near a sugarcane field. What fraction of the original group reached each food source?\n\n32 and Sugarcane trees = 3\n\n**Ans:** Mango trees = | 29 | 32\n\n##### 12.What is 1 – 𝟏\n\n𝟐 ?\n\n(1 − | 1\n\n2)\n\n1\n\n##### Ans:\n\n2\n\n1\n\n(1 − | 2) × (1 − 1\n\n3)?\n\n1\n\n##### Ans:\n\n3\n\n1\n\n2) × (1 − 1\n\n3) × (1 − 1\n\n4) × (1 − 1\n\n(1 − | 5)?\n\n1\n\n##### Ans:\n\n5\n\n1\n\n2) × (1 − 1\n\n3) × (1 − 1\n\n4) × (1 − 1\n\n5) × (1 − 1\n\n6) × (1 − 1\n\n7) × (1 − 1\n\n8) × (1 − 1\n\n9) × (1 − 1\n\n(1 − | 10)?\n\n1\n\n##### Ans:\n\n10\n\nMake a general statement and explain.\n\n1\n\n2) × (1 − 1\n\n3) × (1 − 1\n\n4) × (1 − 1\n\n**Ans:**(1 − | 5) . . . . . . . . . . . (1 − 1 | 1\n\n𝑛) = | 𝑛",
+   "text": "## Learning Material Sheets\n\n<!-- page 201 -->\n\n[Figure: A cut-out sheet with dashed cutting lines and scissors icons at the corners. Seven horizontal strips are stacked one above another, each containing a hand-drawn stick figure lying sideways with its head on the left and its legs extending to the right. Each strip has a solid vertical line on the left and a letter printed beside it, rotated. From top to bottom the strips are labelled G (pink figure), F (red figure), E (orange figure), D (green figure), C (dark yellow figure), B (blue figure) and A (light yellow figure). The solid vertical lines are at different distances from the left dashed edge, so the strips have different lengths. The page also carries a faint \"© NCERT not to be republished\" watermark.]\n\n<!-- page 202 -->\n\n## Note",
    "page_start": 200,
-   "page_end": 211
+   "page_end": 202
+  },
+  {
+   "section_id": "7-math-08-s19",
+   "heading": "Answers to the chapter's questions (from the book)",
+   "text": "## Answers to the chapter's questions (from the book)\n\n<!-- answers page 1 -->\n\n## CHAPTER – 8\n## Working with Fractions\n\n**Page No. 176**\n\n### Figure it out\n\n1. Tenzin drinks $\\frac{1}{2}$ glass of milk every day. How many glasses of milk does he drink in a week? How many glasses of milk did he drink in the month of January?\n\n**Ans:** Quantity of milk that Tenzin drinks in a week = $\\frac{7}{2}$ glasses.\n\nQuantity of milk Tenzin drinks in the month of January which has 31 days = $\\frac{31}{2}$ glasses.\n\n2. A team of workers can make 1 km of a water canal in 8 days. So, in one day, the team can make ___ km of the water canal. If they work 5 days a week, they can make ___ km of the water canal in a week.\n\n**Ans:**\n\nLength of water canal made in 1 day = $\\frac{1}{8}$ km.\n\nLength of water canal made in 5 days = $\\frac{5}{8}$ km.\n\n3. Manju and two of her neighbours buy 5 litres of oil every week and share it equally among the 3 families. How much oil does each family get in a week? How much oil will one family get in 4 weeks?\n\n**Ans:**\n\nOil each family gets in 1 week = $\\frac{5}{3}$ litres.\n\nOil each family gets in 4 weeks = $\\frac{20}{3}$ litres.\n\n4. Safia saw the Moon setting on Monday at 10 pm. Her mother, who is a scientist, told her that every day the Moon sets $\\frac{5}{6}$ hour later than the previous day. How many hours after 10 pm will the moon set on Thursday?\n\n**Ans:**\n\nTime at which the moon sets on Thursday (i.e. 3 days after Monday)\n\n$= 10 + 2 + \\frac{1}{2} = 12\\frac{1}{2}$ am Or 12:30 am\n\n<!-- answers page 2 -->\n\nPage No. 177\n\n5. Multiply and then convert it into a mixed fraction:\n\n   (a) $7 \\times \\frac{3}{5}$\n\n   Ans: $7 \\times \\frac{3}{5} = \\frac{21}{5} = 4\\frac{1}{5}$\n\n   (b) $4 \\times \\frac{1}{3}$\n\n   Ans: $4 \\times \\frac{1}{3} = \\frac{4}{3} = 1\\frac{1}{3}$\n\n   (c) $\\frac{9}{7} \\times 6$\n\n   Ans: $\\frac{9}{7} \\times 6 = \\frac{54}{7} = 7\\frac{5}{7}$\n\n   (d) $\\frac{13}{11} \\times 6$\n\n   Ans: $\\frac{13}{11} \\times 6 = \\frac{78}{11} = 7\\frac{1}{11}$\n\nPage No. 180\n\n### Figure it out\n\n1. Find the following products. Use a unit square as a whole for representing the fractions:\n\n   (a) $\\frac{1}{3} \\times \\frac{1}{5}$\n\n   [Figure: A unit square divided into a grid of 3 parts horizontally (labelled \"3 parts\" at the bottom) and 5 parts vertically (labelled \"5 parts\" on the right). The top row is shaded yellow and is marked with a bracket labelled $\\frac{1}{5}$. The top-left cell is hatched with diagonal lines, with an arrow from the label \"(a)\" and the label $\\frac{1}{3} \\times \\frac{1}{5}$ pointing to it.]\n\n   Ans: $\\frac{1}{15}$\n\n<!-- answers page 3 -->\n\n(b) $\\frac{1}{4} \\times \\frac{1}{3}$\n\n[Figure: Diagram labelled (b). A rectangle divided into a grid of 4 columns and 3 rows. The top row is shaded yellow, and its top-left cell is hatched with diagonal lines, marked with an arrow and the label $\\frac{1}{4} \\times \\frac{1}{3}$. A bracket at the right of the top row is labelled $\\frac{1}{3}$. A vertical line at the right is labelled \"3 parts\". A horizontal line below is labelled \"5 parts\".]\n\nAns: $\\frac{1}{12}$\n\n(c) $\\frac{1}{5} \\times \\frac{1}{2}$\n\n[Figure: Diagram labelled (c). A rectangle divided into a grid of 5 columns and 2 rows. The top row is shaded yellow, and its top-left cell is hatched with diagonal lines, marked with an arrow and the label $\\frac{1}{5} \\times \\frac{1}{2}$. A bracket at the right of the top row is labelled $\\frac{1}{2}$. A vertical line at the right is labelled \"2 parts\". A horizontal line below is labelled \"5 parts\".]\n\nAns: $\\frac{1}{10}$\n\n(d) $\\frac{1}{6} \\times \\frac{1}{5}$\n\n[Figure: Diagram labelled (d). A rectangle divided into a grid of 6 columns and 5 rows. The top row is shaded yellow, and its top-left cell is hatched with diagonal lines, marked with an arrow and the label $\\frac{1}{6} \\times \\frac{1}{5}$. A bracket at the right of the top row is labelled $\\frac{1}{5}$. A vertical line at the right is labelled \"5 parts\". A horizontal line below is labelled \"6 parts\".]\n\nAns: $\\frac{1}{30}$\n\n<!-- answers page 4 -->\n\nPage No. 181\n\n2. **Find the following products. Use a unit square as a whole for representing the fractions and carrying out the operations.**\n\n   (a) $\\frac{2}{3} \\times \\frac{4}{5}$\n\n   Ans: $\\frac{8}{15}$\n\n   (Draw the figure in the same manner as shown in question 1)\n\n   (b) $\\frac{1}{4} \\times \\frac{2}{3}$\n\n   Ans: $\\frac{2}{12} = \\frac{1}{6}$\n\n   (c) $\\frac{3}{5} \\times \\frac{1}{2}$\n\n   Ans: $\\frac{3}{10}$\n\n   (d) $\\frac{4}{6} \\times \\frac{3}{5}$\n\n   Ans: $\\frac{12}{30} = \\frac{2}{5}$\n\nPage No. 183\n\n### Figure it out\n\n1. A water tank is filled from a tap. If the tap is open for 1 hour, $\\frac{7}{10}$ of the tank gets filled. How much of the tank is filled if the tap is open for\n\n   (a) $\\frac{1}{3}$ hour ____________\n\n   Ans: $\\frac{7}{30}$ part\n\n   (b) $\\frac{2}{3}$ hour ____________\n\n   Ans: $\\frac{14}{30}$ part\n\n   (c) $\\frac{3}{4}$ hour ____________\n\n   Ans: $\\frac{21}{40}$ part\n\n<!-- answers page 5 -->\n\n(d) $\\frac{7}{10}$ hour ____________\n\n**Ans:** $\\frac{49}{100}$ part\n\n(e) For the tank to be full, how long should the tap be running?\n\n**Ans:** $\\frac{10}{7}$ hours\n\n2. The government has taken $\\frac{1}{6}$ of Somu's land to build a road. What part of the land remains with Somu now? She gives half of the remaining part of the land to her daughter Krishna and $\\frac{1}{3}$ of it to her son Bora. After giving them their shares, she keeps the remaining land for herself.\n   (a) What part of the original land did Krishna get?\n   (b) What part of the original land did Bora get?\n   (c) What part of the original land did Somu keep for herself?\n\n**Ans:** Part of land that remains with somu = $\\frac{5}{6}$\n\n(a) $\\frac{5}{12}$\n\n(b) $\\frac{5}{18}$\n\n(c) $\\frac{5}{36}$\n\nPage No. 184\n\n3. Find the area of a rectangle of sides $3\\frac{3}{4}$ ft and $9\\frac{3}{5}$ ft.\n\n**Ans:** 36 sq. ft.\n\n4. Tsewang plants four saplings in a row in his garden. The distance between two saplings is $\\frac{3}{4}$ m. Find the distance between the first and last sapling.\n\n**Ans:** $2\\frac{1}{4}$ m\n\n5. Which is heavier: $\\frac{12}{15}$ of 500 grams or $\\frac{3}{20}$ of 4 kg?\n\n**Ans:** $\\frac{3}{20}$ of 4 kg is heavier than $\\frac{12}{15}$ of 500 gm.\n\n<!-- answers page 6 -->\n\nPage No. 191\n\nIn a day, the number of times —\n\n(a) the first fountain will fill the cistern is $1 \\div 1 = 1$\n\n(b) the second fountain will fill the cistern is $1 \\div \\frac{1}{2} =$ _____\n\n**Ans:** 2 times\n\n(c) the third fountain will fill the cistern is $1 \\div \\frac{1}{4} =$ _____\n\n**Ans:** 4 times\n\n(d) the fourth fountain will fill the cistern is $1 \\div \\frac{1}{5} =$ _____\n\n**Ans:** 5 times\n\nThe number of times the four fountains together will fill the cistern in a day is ___ + ____ + ___ + ____ = 12.\n\n**Ans:** The number of times the four fountains together will fill the cistern in a day is\n$= 1 + 2 + 4 + 5 = 12$\n\nPage No. 193\n\n### ❓ In each of the figures given below, find the fraction of the big square that the shaded region occupies.\n\n[Figure: Two squares side by side. (a) A big square with a diagonal band shaded with diagonal stripes running from the top-left corner down to the bottom-right corner; the top-right part of the square is divided into a small grid of four smaller squares with a diagonal line through them, and the bottom-left has lines forming triangles. (b) A big square whose top portion has a tilted (diamond) square inside a rectangle-shaped region; the corners between the diamond and the enclosing square on the right side are shaded with stripes; a square on the top right and a rectangle across the bottom are unshaded.]\n\n(a)  (b)\n\n**Ans:** The shaded region of Fig. (a) occupies $\\frac{3}{8}$ of the area of whole square.\n\nThe red shaded part of Fig. (b) occupies $\\frac{1}{16}$ of the area of whole square.\n\n<!-- answers page 7 -->\n\nPage No. 196\n\n### Figure it out\n\n1. **Evaluate the following:**\n\n| | | | |\n|---|---|---|---|\n| $3 \\div \\frac{7}{9} = \\frac{27}{7}$ | $\\frac{14}{4} \\div 2 = \\frac{7}{4}$ | $\\frac{2}{3} \\div \\frac{2}{3} = 1$ | $\\frac{14}{6} \\div \\frac{7}{3} = 1$ |\n| $\\frac{4}{3} \\div \\frac{3}{4} = \\frac{16}{9}$ | $\\frac{7}{4} \\div \\frac{1}{7} = \\frac{49}{4}$ | $\\frac{8}{2} \\div \\frac{4}{15} = 15$ | |\n| $\\frac{1}{5} \\div \\frac{1}{9} = \\frac{9}{5}$ | $\\frac{1}{6} \\div \\frac{11}{12} = \\frac{2}{11}$ | $3\\frac{2}{3} \\div 1\\frac{3}{8} = 2\\frac{2}{3}$ | |\n\n2. **For each of the questions below, choose the expression that describes the solution. Then simplify it.**\n\n    (a) **Maria bought 8 m of lace to decorate the bags she made for school. She used $\\frac{1}{4}$ m for each bag and finished the lace. How many bags did she decorate?**\n\n    **Ans:**\n\n    (iii) $8 \\div \\frac{1}{4}$\n\n    (b) **$\\frac{1}{2}$ meter of ribbon is used to make 8 badges. What is the length of the ribbon used for each badge?**\n\n    **Ans:**\n\n    (iv) $\\frac{1}{2} \\div 8$\n\n    (c) **A baker needs $\\frac{1}{6}$ kg of flour to make one loaf of bread. He has 5 kg of flour. How many loaves of bread can he make?**\n\n    **Ans:**\n\n    (iii) $5 \\div \\frac{1}{6}$\n\nPage No. 197\n\n3. **If $\\frac{1}{4}$ kg of flour is used to make 12 rotis, how much flour is used to make 6 rotis?**\n\n**Ans:** $\\frac{1}{8}$ kg\n\n<!-- answers page 8 -->\n\n4. *Patiganita*, a book written by Sridharacharya in the 9th century C.E., mentions this problem: \"Friend, after thinking, what sum will be obtained by adding together $1 \\div \\frac{1}{6}$, $1 \\div \\frac{1}{10}$, $1 \\div \\frac{1}{13}$, $1 \\div \\frac{1}{9}$, and $1 \\div \\frac{1}{2}$\". What should the friend say?\n\n**Ans:** 40\n\n5. Mira is reading a novel that has 400 pages. She read $\\frac{1}{5}$ of the pages yesterday and $\\frac{3}{10}$ of the pages today. How many more pages does she need to read to finish the novel?\n\n**Ans:** 200 pages.\n\n6. A car runs 16 km using 1 litre of petrol. How far will it go using $2\\frac{3}{4}$ litres of petrol?\n\n**Ans:** 44 km.\n\n7. Amritpal decides on a destination for his vacation. If he takes a train, it will take him $5\\frac{1}{6}$ hours to get there. If he takes a plane, it will take him $\\frac{1}{2}$ hour. How many hours does the plane save?\n\n**Ans:** $4\\frac{2}{3}$ hour\n\n8. Mariam's grandmother made a cake. Mariam and her cousins finished $\\frac{4}{5}$ of the cake. The remaining cake was shared equally by Mariam's three friends. How much of the cake did each friend get?\n\n**Ans:** $\\frac{1}{15}$ of the whole cake.\n\n9. Choose the option(s) describing the product of $\\left(\\frac{565}{465} \\times \\frac{707}{676}\\right)$:\n\n**Ans:** (a), (c) and (e) are correct.\n\n10. What fraction of the whole square is shaded?\n\n[Figure: A square divided into four equal smaller squares (2×2 grid). In the bottom-right smaller square, a V-shaped line is drawn from the top corners meeting at a point in the middle, with a vertical line going down from that point to the bottom edge; the narrow region to the left of the vertical line, below the V, is shaded with hatching.]\n\n**Ans:** $\\frac{3}{32}$ of the whole square.\n\n<!-- answers page 9 -->\n\n11. **A colony of ants set out in search of food. As they search, they keep splitting equally at each point (as shown in the figure 8.7) and reach two food sources, one near a mango tree and another near a sugarcane field. What fraction of the original group reached each food source?**\n\n**Ans:** Mango trees $= \\frac{29}{32}$ and Sugarcane trees $= \\frac{3}{32}$\n\n12. **What is $1 - \\frac{1}{2}$ ?**\n\n$(1 - \\frac{1}{2})$\n\n**Ans:** $\\frac{1}{2}$\n\n$(1 - \\frac{1}{2}) \\times (1 - \\frac{1}{3})$?\n\n**Ans:** $\\frac{1}{3}$\n\n$(1 - \\frac{1}{2}) \\times (1 - \\frac{1}{3}) \\times (1 - \\frac{1}{4}) \\times (1 - \\frac{1}{5})$?\n\n**Ans:** $\\frac{1}{5}$\n\n$(1 - \\frac{1}{2}) \\times (1 - \\frac{1}{3}) \\times (1 - \\frac{1}{4}) \\times (1 - \\frac{1}{5}) \\times (1 - \\frac{1}{6}) \\times (1 - \\frac{1}{7}) \\times (1 - \\frac{1}{8}) \\times (1 - \\frac{1}{9}) \\times (1 - \\frac{1}{10})$?\n\n**Ans:** $\\frac{1}{10}$\n\n**Make a general statement and explain.**\n\n**Ans:** $(1 - \\frac{1}{2}) \\times (1 - \\frac{1}{3}) \\times (1 - \\frac{1}{4}) \\times (1 - \\frac{1}{5}) \\ldots\\ldots\\ldots\\ldots (1 - \\frac{1}{n}) = \\frac{1}{n}$",
+   "page_start": 202,
+   "page_end": 202
   }
  ],
  "key_terms": [
   {
-   "term": "Example",
-   "meaning": "Example 1: A farmer had 5",
-   "page": 176
-  },
-  {
-   "term": "Example 2",
-   "meaning": "Example 2: 1 hour of internet time costs ₹8.",
-   "page": 176
-  },
-  {
-   "term": "Hint",
-   "meaning": "[Hint: Draw a rough diagram with four saplings",
-   "page": 184
-  },
-  {
    "term": "reciprocal",
-   "meaning": "We call 5 3 the reciprocal of 3 5.",
+   "meaning": "We call $\\frac{5}{3}$ the **reciprocal** of $\\frac{3}{5}$.",
    "page": 188
   },
   {
-   "term": "Example 3",
-   "meaning": "Example 3: Leena made 5 cups of tea.",
-   "page": 190
+   "term": "cancelling the common factors",
+   "meaning": "This is called cancelling the common factors.",
+   "page": 183
   },
   {
-   "term": "Example 4",
-   "meaning": "Example 4: Some of the oldest examples of working with non-unit fractions occur in humanity’s oldest geometry texts, the Śhulbasūtra.",
-   "page": 190
+   "term": "apavartana",
+   "meaning": "In India, the process of reducing a fraction to its lowest terms — known as *apavartana* — is so well known that it finds mention even in a non-mathematical work.",
+   "page": 183
   },
   {
-   "term": "Example 5",
-   "meaning": "Example 5: This problem was posed by Chaturveda Pṛithūdakasvāmī (c.",
-   "page": 191
-  },
-  {
-   "term": "Ans",
-   "meaning": "Ans: Quantity of milk that Tenzin drinks in a week = | 7",
-   "page": 203
+   "term": "Dramma",
+   "meaning": "Dramma refers to a silver coin used in those times.",
+   "page": 193
   }
  ],
  "activities": [],
  "figures": [
   {
    "label": "Fig. 8.1",
-   "caption": "",
+   "caption": "Unit square divided into 5 rows and 4 columns showing 2/5 divided into 4 parts",
    "page": 178
   },
   {
    "label": "Fig. 8.2",
-   "caption": "",
+   "caption": "Representing 3/2 with unit square, divided into 4 equal parts",
    "page": 179
   },
   {
    "label": "Fig. 8.3",
-   "caption": "",
+   "caption": "Unit square with shaded rectangle of sides 1/2 and 1/4, area 1/8",
    "page": 180
   },
   {
    "label": "Fig. 8.4",
-   "caption": "",
+   "caption": "Square with lines inside and a shaded region",
    "page": 192
   },
   {
    "label": "Fig. 8.5",
-   "caption": "",
+   "caption": "Same square with top right square outlined in red",
+   "page": 192
+  },
+  {
+   "label": "Fig. 8.6",
+   "caption": "Red square enlarged with yellow triangle",
    "page": 192
   },
   {
    "label": "Fig. 8.7",
-   "caption": "",
+   "caption": "Branching path of ants reaching mango tree and sugarcane field",
    "page": 198
   }
  ],
  "exercises": [
   {
-   "label": "Figure it Out (p. 176) Q1",
-   "text": "1. Tenzin drinks 1 2 glass of milk every day. How many glasses of milk\n\ndoes he drink in a week? How many glasses of milk did he drink in the month of January?",
+   "label": "Think Q1",
+   "text": "### Think\n\nAaron's pet tortoise walks at a much slower pace. It can walk only $\\frac{1}{4}$ kilometre in 1 hour. How far can it walk in 3 hours?",
    "type_hint": "short",
-   "page": 176,
+   "page": 173,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 176) Q2",
+   "label": "Figure it Out (8.1) Q1",
+   "text": "1. Tenzin drinks $\\frac{1}{2}$ glass of milk every day. How many glasses of milk does he drink in a week? How many glasses of milk did he drink in the month of January?",
+   "type_hint": "short",
+   "page": 176,
+   "source": "end"
+  },
+  {
+   "label": "Figure it Out (8.1) Q2",
    "text": "2. A team of workers can make 1 km of a water canal in 8 days. So, in one day, the team can make ___ km of the water canal. If they work 5 days a week, they can make ___ km of the water canal in a week.",
    "type_hint": "fill_blank",
    "page": 176,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 176) Q3",
+   "label": "Figure it Out (8.1) Q3",
    "text": "3. Manju and two of her neighbours buy 5 litres of oil every week and share it equally among the 3 families. How much oil does each family get in a week? How much oil will one family get in 4 weeks?",
    "type_hint": "short",
    "page": 176,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 176) Q4",
-   "text": "4. Safia saw the Moon setting on Monday at 10 pm. Her mother, who is\n\na scientist, told her that every day the Moon sets 5\n\n6 hour later than\n\n<!-- page 177 -->\n\nWorking with Fractions\n\nthe previous day. How many hours after 10 pm will the moon set on Thursday?",
+   "label": "Figure it Out (8.1) Q4",
+   "text": "4. Safia saw the Moon setting on Monday at 10 pm. Her mother, who is a scientist, told her that every day the Moon sets $\\frac{5}{6}$ hour later than\n\n<!-- page 177 -->\n\nthe previous day. How many hours after 10 pm will the moon set on Thursday?",
    "type_hint": "short",
    "page": 176,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 176) Q5",
-   "text": "5. Multiply and then convert it into a mixed fraction:\n\n(a) 7 × 3\n\n5\n\n(b) 4 × 1\n\n3\n\n(c) 9\n\n7 × 6\n\n(d) 13\n\n11 × 6\n\nSo far, we have learnt multiplication of a whole number with a fraction, and a fraction with a whole number. What happens when both numbers in the multiplication are fractions?",
-   "type_hint": "mcq",
+   "label": "Figure it Out (8.1) Q5",
+   "text": "5. Multiply and then convert it into a mixed fraction:\n\n    (a) $7 \\times \\frac{3}{5}$\n\n    (b) $4 \\times \\frac{1}{3}$\n\n    (c) $\\frac{9}{7} \\times 6$\n\n    (d) $\\frac{13}{11} \\times 6$",
+   "type_hint": "numerical",
    "page": 177,
+   "source": "end"
+  },
+  {
+   "label": "Math Talk (multiply 5/4 x 3/2) Q1",
+   "text": "### Math Talk\n\nUsing this understanding, multiply $\\frac{5}{4} \\times \\frac{3}{2}$.",
+   "type_hint": "short",
+   "page": 179,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 180) Q1",
-   "text": "1. Find the following products. Use a unit square as a whole for representing the fractions:\n\n(a) 1\n\n3 × 1 5\n\n(b) 1\n\n4 × 1 3\n\n(c) 1\n\n5 × 1 2\n\n(d) 1\n\n6 × 1 5\n\nNow, find 1\n\n12 × 1 18.\n\n<!-- page 181 -->\n\nWorking with Fractions\n\nDoing this by representing the fractions using a unit square is cumbersome. Let us find the product by observing what we did in the above cases.\n\nIn each case, the whole is divided into rows and columns. The number of rows is the denominator of the multiplicand, which is 18 in this case.\n\nThe number of columns is the denominator of the multiplier, which is 12 in this case. | 1 18\n\nThus, the whole is divided into 18 × 12 equal parts.\n\n18 parts\n\nSo, 1\n\n18 × 1 12 = 1 (18×12) = 1\n\n216.\n\nThus, when two fractional units are | 12 parts\n\nmultiplied, their product is\n\n1 (product of denominators).\n\nWe express this as:\n\n1 b × 1\n\nd = 1 b × d .",
-   "type_hint": "mcq",
+   "label": "Math Talk (area and product) Q1",
+   "text": "### Math Talk\n\nDo you see any relation between the area and the product of length and breadth?",
+   "type_hint": "short",
    "page": 180,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 180) Q2",
-   "text": "2. Find the following products. Use a unit square as a whole for representing the fractions and carrying out the operations.\n\n(a) 2\n\n3 × 4 5\n(b) 1\n\n4 × 2 3\n\n(c) 3\n\n5 × 1 2 (d) 4 6 × 3 5",
-   "type_hint": "mcq",
+   "label": "Figure it Out (unit square) Q1",
+   "text": "1. Find the following products. Use a unit square as a whole for representing the fractions:\n   - (a) $\\frac{1}{3} \\times \\frac{1}{5}$\n   - (b) $\\frac{1}{4} \\times \\frac{1}{3}$\n   - (c) $\\frac{1}{5} \\times \\frac{1}{2}$\n   - (d) $\\frac{1}{6} \\times \\frac{1}{5}$\n\n   Now, find $\\frac{1}{12} \\times \\frac{1}{18}$.",
+   "type_hint": "numerical",
+   "page": 180,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (unit square) Q2",
+   "text": "2. Find the following products. Use a unit square as a whole for representing the fractions and carrying out the operations.\n\n   (a) $\\frac{2}{3} \\times \\frac{4}{5}$\n\n   (b) $\\frac{1}{4} \\times \\frac{2}{3}$\n\n   (c) $\\frac{3}{5} \\times \\frac{1}{2}$\n\n   (d) $\\frac{4}{6} \\times \\frac{3}{5}$",
+   "type_hint": "numerical",
    "page": 181,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 183) Q1",
-   "text": "1. A water tank is filled from a tap. If the tap is open for 1 hour, 7 10 of\n\nthe tank gets filled. How much of the tank is filled if the tap is open for\n\n(a) 1\n\n3 hour ____________\n\n(b) 2\n\n3 hour ____________\n\n(c) 3\n\n4 hour ____________\n\n(d) 7\n\n10 hour ____________\n\n> Try This\n\n(e) For the tank to be full, how long should the tap be running?",
-   "type_hint": "mcq",
-   "page": 183,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 183) Q2",
-   "text": "2. The government has taken 1 6 of Somu’s land to build a road.\n\nWhat part of the land remains with Somu now? She gives half of\n\n<!-- page 184 -->\n\nthe remaining part of the land to her daughter Krishna and 1\n\n3 of\n\nit to her son Bora. After giving them their shares, she keeps the\n\nremaining land for herself.\n\n(a) What part of the original land did Krishna get?\n\n(b) What part of the original land did Bora get?\n\n(c) What part of the original land did Somu keep for herself?",
+   "label": "Figure it Out (lowest form) Q1",
+   "text": "1. A water tank is filled from a tap. If the tap is open for 1 hour, $\\frac{7}{10}$ of the tank gets filled. How much of the tank is filled if the tap is open for\n\n   (a) $\\frac{1}{3}$ hour ____________\n\n   (b) $\\frac{2}{3}$ hour ____________\n\n   (c) $\\frac{3}{4}$ hour ____________\n\n   (d) $\\frac{7}{10}$ hour ____________\n\n   (e) For the tank to be full, how long should the tap be running?",
    "type_hint": "short",
    "page": 183,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 183) Q3",
-   "text": "3. Find the area of a rectangle of sides 3 3 4 ft and 9 3 5 ft.",
+   "label": "Figure it Out (lowest form) Q2",
+   "text": "2. The government has taken $\\frac{1}{6}$ of Somu's land to build a road. What part of the land remains with Somu now? She gives half of\n\n<!-- page 184 -->\n\nthe remaining part of the land to her daughter Krishna and $\\frac{1}{3}$ of it to her son Bora. After giving them their shares, she keeps the remaining land for herself.\n\n(a) What part of the original land did Krishna get?\n\n(b) What part of the original land did Bora get?\n\n(c) What part of the original land did Somu keep for herself?",
+   "type_hint": "short",
+   "page": 183,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (lowest form) Q3",
+   "text": "3. Find the area of a rectangle of sides $3\\frac{3}{4}$ ft and $9\\frac{3}{5}$ ft.",
+   "type_hint": "numerical",
+   "page": 184,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (lowest form) Q4",
+   "text": "4. Tsewang plants four saplings in a row in his garden. The distance between two saplings is $\\frac{3}{4}$ m. Find the distance between the first and last sapling. [**Hint:** Draw a rough diagram with four saplings with distance between two saplings as $\\frac{3}{4}$ m]",
    "type_hint": "short",
    "page": 184,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 183) Q4",
-   "text": "4. Tsewang plants four saplings in a row in his garden. The distance\n\nbetween two saplings is 3\n\n4 m. Find the distance between the first\n\nand last sapling. [**Hint:** Draw a rough diagram with four saplings\n\nwith distance between two saplings as 3\n\n4 m]",
+   "label": "Figure it Out (lowest form) Q5",
+   "text": "5. Which is heavier: $\\frac{12}{15}$ of 500 grams or $\\frac{3}{20}$ of 4 kg?",
+   "type_hint": "short",
+   "page": 184,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Product greater than numbers Q1",
+   "text": "What can you conclude about the relationship between the numbers multiplied and the product? Fill in the blanks:\n\n- When one of the numbers being multiplied is between 0 and 1, the product is ____________ (greater/less) than the other number.\n- When one of the numbers being multiplied is greater than 1, the product is _____________ (greater/less) than the other number.",
+   "type_hint": "fill_blank",
+   "page": 185,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (fractional relations) Q1",
+   "text": "? In each of the figures given below, find the fraction of the big square that the shaded region occupies.\n\n[Figure: Left, a big square. The top-right quarter is divided into four small squares, one of which has a diagonal drawn. A diagonal from the top-left corner to the bottom-right corner is drawn, and a second diagonal runs from the left side to the bottom side, forming a triangle at the bottom-left. A diagonal band of brown stripes is shaded along the main diagonal.]\n\n[Figure: Right, a big square. The top-left quarter has a tilted square (diamond) inscribed in it, with brown stripes shading the small triangles at its top-right and bottom-right corners. The top-right quarter is empty, and the bottom half is an empty rectangle.]",
    "type_hint": "diagram",
-   "page": 184,
+   "page": 193,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 183) Q5",
-   "text": "5. Which is heavier: 12 15 of 500 grams or 3 20 of 4 kg?",
-   "type_hint": "short",
-   "page": 184,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q1",
-   "text": "1. Evaluate the following:\n\n| 7 | 14 | 2 2 | 14 7 |\n| --- | --- | --- | --- |\n| 3 ÷ 9 | ÷ 2 4 | ÷ 3 3 | ÷ 6 3 |\n| 4 3 ÷ 3 4 | 7 1 ÷ 4 7 | 8 4 ÷ 2 15 |  |\n| 1 1 ÷ 5 9 | 1 11 ÷ 6 12 | 2 3 3 ÷ 1 3 8 |  |",
+   "label": "Figure it Out (8.3) Q1",
+   "text": "1. Evaluate the following:\n\n| | | | |\n|---|---|---|---|\n| $3 \\div \\frac{7}{9}$ | $\\frac{14}{4} \\div 2$ | $\\frac{2}{3} \\div \\frac{2}{3}$ | $\\frac{14}{6} \\div \\frac{7}{3}$ |\n| $\\frac{4}{3} \\div \\frac{3}{4}$ | $\\frac{7}{4} \\div \\frac{1}{7}$ | $\\frac{8}{2} \\div \\frac{4}{15}$ | |\n| $\\frac{1}{5} \\div \\frac{1}{9}$ | $\\frac{1}{6} \\div \\frac{11}{12}$ | $3\\frac{2}{3} \\div 1\\frac{3}{8}$ | |",
    "type_hint": "numerical",
    "page": 196,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 196) Q2",
-   "text": "2. For each of the questions below, choose the expression that describes the solution. Then simplify it.\n\n(a) Maria bought 8 m of lace to decorate the bags she made for\n\nschool. She used 1\n\n4 m for each bag and finished the lace. How\n\nmany bags did she decorate?\n\n(i) 8 × 1 4 (ii) 1 8 × 1 4\n\n(iii) 8 ÷ 1\n\n4 (iv) 1 4 ÷ 8\n\n(b) 1\n\n2 meter of ribbon is used to make 8 badges. What is the\n\nlength of the ribbon used for each badge?\n\n(i) 8 × 1 2 (ii) 1 2 ÷ 1 8\n\n(iii) 8 ÷ 1\n\n2 (iv) 1 2 ÷ 8\n\n(c) A baker needs 1\n\n6 kg of flour to make one loaf of bread. He has\n\n5 kg of flour. How many loaves of bread can he make?\n\n(i) 5 × 1 6 (ii) 1 6 ÷ 5\n\n(iii) 5 ÷ 1\n\n6 (iv) 5 × 6\n\n<!-- page 197 -->\n\nWorking with Fractions",
+   "label": "Figure it Out (8.3) Q2",
+   "text": "2. For each of the questions below, choose the expression that describes the solution. Then simplify it.\n\n    (a) Maria bought 8 m of lace to decorate the bags she made for school. She used $\\frac{1}{4}$ m for each bag and finished the lace. How many bags did she decorate?\n\n    (i) $8 \\times \\frac{1}{4}$  (ii) $\\frac{1}{8} \\times \\frac{1}{4}$\n\n    (iii) $8 \\div \\frac{1}{4}$  (iv) $\\frac{1}{4} \\div 8$\n\n    (b) $\\frac{1}{2}$ meter of ribbon is used to make 8 badges. What is the length of the ribbon used for each badge?\n\n    (i) $8 \\times \\frac{1}{2}$  (ii) $\\frac{1}{2} \\div \\frac{1}{8}$\n\n    (iii) $8 \\div \\frac{1}{2}$  (iv) $\\frac{1}{2} \\div 8$\n\n    (c) A baker needs $\\frac{1}{6}$ kg of flour to make one loaf of bread. He has 5 kg of flour. How many loaves of bread can he make?\n\n    (i) $5 \\times \\frac{1}{6}$  (ii) $\\frac{1}{6} \\div 5$\n\n    (iii) $5 \\div \\frac{1}{6}$  (iv) $5 \\times 6$",
    "type_hint": "mcq",
    "page": 196,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 196) Q3",
-   "text": "3. If 1 4 kg of flour is used to make 12 rotis, how much flour is used to\n\nmake 6 rotis?",
+   "label": "Figure it Out (8.3) Q3",
+   "text": "3. If $\\frac{1}{4}$ kg of flour is used to make 12 rotis, how much flour is used to make 6 rotis?",
    "type_hint": "short",
    "page": 197,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 196) Q4",
-   "text": "4. Pāṭīgaṇita, a book written by Sridharacharya in the 9th century\n\nCE, mentions this problem: “Friend, after thinking, what sum will\n\nbe obtained by adding together 1 ÷ 1\n\n6 , 1 ÷ 1 10 , 1 ÷ 1 13 , 1 ÷ 1 9 , and\n\n1 ÷ 1 2 ”. What should the friend say?",
+   "label": "Figure it Out (8.3) Q4",
+   "text": "4. *Pāṭīgaṇita*, a book written by Sridharacharya in the 9th century CE, mentions this problem: \"Friend, after thinking, what sum will be obtained by adding together $1 \\div \\frac{1}{6}$, $1 \\div \\frac{1}{10}$, $1 \\div \\frac{1}{13}$, $1 \\div \\frac{1}{9}$, and $1 \\div \\frac{1}{2}$\". What should the friend say?",
    "type_hint": "short",
    "page": 197,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 196) Q5",
-   "text": "5. Mira is reading a novel that has 400 pages. She read 1 5 of the pages\n\nyesterday and 3\n\n10 of the pages today. How many more pages does\n\nshe need to read to finish the novel?",
+   "label": "Figure it Out (8.3) Q5",
+   "text": "5. Mira is reading a novel that has 400 pages. She read $\\frac{1}{5}$ of the pages yesterday and $\\frac{3}{10}$ of the pages today. How many more pages does she need to read to finish the novel?",
    "type_hint": "short",
    "page": 197,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 196) Q6",
-   "text": "6. A car runs 16 km using 1 litre of petrol. How far will it go using 2 3 4 litres of petrol?",
+   "label": "Figure it Out (8.3) Q6",
+   "text": "6. A car runs 16 km using 1 litre of petrol. How far will it go using $2\\frac{3}{4}$ litres of petrol?",
    "type_hint": "short",
    "page": 197,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 196) Q7",
-   "text": "7. Amritpal decides on a destination for his vacation. If he takes a\n\ntrain, it will take him 5 1\n\n6 hours to get there. If he takes a plane, it\n\nwill take him 1\n\n2 hour. How many hours does the plane save?",
+   "label": "Figure it Out (8.3) Q7",
+   "text": "7. Amritpal decides on a destination for his vacation. If he takes a train, it will take him $5\\frac{1}{6}$ hours to get there. If he takes a plane, it will take him $\\frac{1}{2}$ hour. How many hours does the plane save?",
    "type_hint": "short",
    "page": 197,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 196) Q8",
-   "text": "8. Mariam’s grandmother baked a cake. Mariam and her cousins\n\nfinished 4\n\n5 of the cake. The remaining cake was shared equally by\n\nMariam’s three friends. How much of the cake did each friend get?",
+   "label": "Figure it Out (8.3) Q8",
+   "text": "8. Mariam's grandmother baked a cake. Mariam and her cousins finished $\\frac{4}{5}$ of the cake. The remaining cake was shared equally by Mariam's three friends. How much of the cake did each friend get?",
    "type_hint": "short",
    "page": 197,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 196) Q9",
-   "text": "9. Choose the option(s) describing the product of ( 565 465 × 707 676):\n\n(a) > 565\n\n465 (b) < 565\n\n465\n\n(c) > 707\n\n676 (d) < 707\n\n676\n(e) > 1 (f) < 1",
+   "label": "Figure it Out (8.3) Q9",
+   "text": "9. Choose the option(s) describing the product of $\\left(\\frac{565}{465} \\times \\frac{707}{676}\\right)$:\n\n   (a) $> \\frac{565}{465}$\n\n   (b) $< \\frac{565}{465}$\n\n   (c) $> \\frac{707}{676}$\n\n   (d) $< \\frac{707}{676}$\n\n   (e) $> 1$\n\n   (f) $< 1$",
    "type_hint": "mcq",
    "page": 197,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 196) Q10",
-   "text": "10. What fraction of the whole square is shaded?\n\n<!-- page 198 -->",
-   "type_hint": "short",
+   "label": "Figure it Out (8.3) Q10",
+   "text": "10. What fraction of the whole square is shaded?\n\n[Figure: A square divided into four equal smaller squares by a vertical and a horizontal line. In the bottom-right small square, a V-shaped (triangular) region is drawn from the top corners meeting at a point on the lower half, with a vertical line descending from that point to the bottom edge; the region to the left of that vertical line and below the V's left arm is shaded with orange diagonal hatching.]",
+   "type_hint": "diagram",
    "page": 197,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 196) Q11",
-   "text": "11. A colony of ants set out in search of food. As they search, they keep splitting equally at each point (as shown in the Fig. 8.7) and reach two food sources, one near a mango tree and another near a sugarcane field. What fraction of the original group reached each food source?",
+   "label": "Figure it Out (8.3) Q11",
+   "text": "11. A colony of ants set out in search of food. As they search, they keep splitting equally at each point (as shown in the Fig. 8.7) and reach two food sources, one near a mango tree and another near a sugarcane field. What fraction of the original group reached each food source?\n\n> [Figure: Fig. 8.7 — A branching path diagram of ant trails starting from a single trail at the bottom, with arrows pointing upward, splitting at four red circular points; the top two endpoints are labelled \"Mango tree\" and \"Sugarcane field\".]",
    "type_hint": "short",
    "page": 198,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 196) Q12",
-   "text": "12. What is 1 – 1 2 ?\n\n(1 – 1",
-   "type_hint": "short",
-   "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q2",
-   "text": "2) × (1 – 1",
-   "type_hint": "short",
-   "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q3",
-   "text": "3) ?\n\n> Fig. 8.7\n\n(1 – 1",
-   "type_hint": "short",
-   "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q2",
-   "text": "2) × (1 – 1",
-   "type_hint": "short",
-   "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q3",
-   "text": "3) × (1 – 1",
-   "type_hint": "short",
-   "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q4",
-   "text": "4) × (1 – 1",
-   "type_hint": "short",
-   "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q5",
-   "text": "5) ?\n\n(1 – 1",
-   "type_hint": "short",
-   "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q2",
-   "text": "2) × (1 – 1",
-   "type_hint": "short",
-   "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q3",
-   "text": "3) × (1 – 1",
-   "type_hint": "short",
-   "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q4",
-   "text": "4) × (1 – 1",
-   "type_hint": "short",
-   "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q5",
-   "text": "5) × (1 – 1",
-   "type_hint": "short",
-   "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q6",
-   "text": "6) × (1 – 1",
-   "type_hint": "short",
-   "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q7",
-   "text": "7) × (1 – 1",
-   "type_hint": "short",
-   "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q8",
-   "text": "8) × (1 – 1",
-   "type_hint": "short",
-   "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q9",
-   "text": "9) × (1 – 1",
-   "type_hint": "short",
-   "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 196) Q10",
-   "text": "10) ?\n\nMake a general statement and explain.",
+   "label": "Figure it Out (8.3) Q12",
+   "text": "12. What is $1 - \\frac{1}{2}$ ?\n\n$\\left(1 - \\frac{1}{2}\\right) \\times \\left(1 - \\frac{1}{3}\\right)$ ?\n\n$\\left(1 - \\frac{1}{2}\\right) \\times \\left(1 - \\frac{1}{3}\\right) \\times \\left(1 - \\frac{1}{4}\\right) \\times \\left(1 - \\frac{1}{5}\\right)$ ?\n\n$\\left(1 - \\frac{1}{2}\\right) \\times \\left(1 - \\frac{1}{3}\\right) \\times \\left(1 - \\frac{1}{4}\\right) \\times \\left(1 - \\frac{1}{5}\\right) \\times \\left(1 - \\frac{1}{6}\\right) \\times \\left(1 - \\frac{1}{7}\\right) \\times \\left(1 - \\frac{1}{8}\\right) \\times \\left(1 - \\frac{1}{9}\\right) \\times \\left(1 - \\frac{1}{10}\\right)$ ?\n\nMake a general statement and explain.",
    "type_hint": "long",
    "page": 198,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it out 1.Evaluate the following: (p. 209)",
-   "text": "| 7 27 3 ÷ = 9 7 | 14 7 ÷ 2 = 4 4 | 2 2 ÷ = 1 3 3 | 14 7 ÷ = 1 6 3 |\n| --- | --- | --- | --- |\n| 4 3 16 ÷ = 3 4 9 | 7 1 49 ÷ = 4 7 4 | 8 4 ÷ = 15 2 15 |  |\n| 1 1 9 ÷ = 5 9 5 | 1 11 2 ÷ = 6 12 11 | 2 3 2 3 ÷ 1 = 2 3 8 3 |  |\n\n2.For each of the questions below, choose the expression that describes the solution. Then simplify it. (a)Maria bought 8 m of lace to decorate the bags she made for school.\n\n𝟏",
-   "type_hint": "short",
-   "page": 209,
-   "source": "in_chapter"
+   "source": "end"
   }
  ],
  "topics": [
-  "Multiplication of Fractions",
-  "Division of Fractions",
-  "Some Problems Involving Fractions",
-  "Example",
-  "Example 2",
-  "Hint",
+  "multiplication of fractions",
+  "fraction times whole number",
+  "unit square",
+  "area of rectangle",
+  "Brahmagupta formula",
+  "cancelling common factors",
+  "lowest form",
+  "product vs numbers multiplied",
+  "order of multiplication",
+  "division of fractions",
   "reciprocal",
-  "Example 3",
-  "Example 4",
-  "Example 5",
-  "Ans"
+  "dividend divisor quotient",
+  "word problems fractions",
+  "Shulbasutra bricks",
+  "four fountains cistern",
+  "Lilavati dramma cowrie",
+  "history of fractions",
+  "fractional parts of a square",
+  "non-attacking queens puzzle"
  ],
  "page_start": 173,
- "page_end": 211,
- "structured_by": "heuristic",
+ "page_end": 202,
+ "structured_by": "llm:sonnet",
  "warnings": []
 }

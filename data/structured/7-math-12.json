@@ -6,418 +6,525 @@
  "part": 2,
  "chapter_no": 12,
  "title": "Another Peek Beyond the Point",
- "summary": "- In this chapter, we learnt procedures to perform decimal multiplication and division. - For decimal multiplication, we first multiply the multiplier and multiplicand as counting numbers. The number of decimal digits in the product is the total number of decimal digits in the multiplier and multiplicand. - Division of decimals uses the same procedure, i.e., division using place value (long division), as with counting numbers. The regrouping continues after the Ones place to Tenths, Hundredths, Thousandths, and so on. When the Ones are regrouped to Tenths, a decimal point is placed in the quotient. - There are decimal divisions where the quotient never ends. After each regrouping and dividing there is always a remainder! Hidato | | 33 | 35 | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | | | | 24 | 22 | | | | | | | | | 21 | | | | | | | 26 | | 13 | 40 | 11 | | | | 27 | | | | 9 | | 1 | | | | | | | 18 | | | | | | | | | | | | | | | | | | | 7 | | | | | | | | | | 5 | | Puzzle | 32 | 33 | 35 | 36 | 37 | | | | | --- | --- | --- | --- | --- | --- | --- | --- | | 31 | 34 | 24 | 22 | 38 | | | | | 30 | 25 | 23 | 21 | 12 | 39 | | | | 39 | 26 | 20 | 13 | 40 | 11 | | | | 27 | 28 | 14 | 19 | 9 | 10 | 1 | | | | | 15 | 16 | 18 | 8 | 2 | | | | | | | | | | | | | | | | 17 | 7 | 16 | 3 | | | | | | | | 5 | 4 | Solution In Hidato, a grid of cells is given. It is usually square-shaped, like Sudoku or Kakuro, but it can also include hexagons or any shape that forms a tessellation. It can have inner holes (like a disc), but it is made of only one piece. Usually, in every Hidato puzzle the lowest and the highest numbers are given on the grid. Your task is to fill the grid such that there is a continuous path of consecutive numbers from the lowest to the highest number. The next number must be in any one of the adjacent cells, including diagonally adjacent cells. The grid comes pre-filled with some numbers (with values between the smallest and the highest) to ensure that these puzzles have a single solution. Try solving the following Hidato puzzles. | | 36 | 1 | 2 | | | | | --- | --- | --- | --- | --- | --- | --- | | | | | 4 | 6 | 13 | | | | | 34 | | | 12 | | | 39 | | | 30 | | | | | | | 31 | | | | | | | | | | | 17 | | | | 26 | | 23 | 21 | | | | 25 | | 1 | | | | --- | --- | --- | --- | --- | | | 20 | | | 4 | | | 14 | | 8 | | | | | 15 | | 9 | | | | | | | | | | | | | 9 | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | 7 | 10 | | | | | | | | | | | | | | | | | | | 5 | | | 1 | 17 | 15 | | | | | | | | | | | | | | | | 44 | | 49 | | | 28 | | | | | | 54 | 42 | | 50 | | 29 | 26 | | | | 56 | | | | | 35 | 34 | 25 | 23 | | | | | | | | | | | | | | | | | | 39 | | | | | |",
+ "summary": "This chapter extends decimals to multiplication and division. Decimals are treated as fractions with denominators 1, 10, 100..., so multiplying decimals means multiplying the numbers without the decimal points and then placing the point using the total decimal digits. The product of two decimals may be larger or smaller than the numbers multiplied, depending on whether they are above or below 1. Division uses fractions with denominators of 10, 100 and so on, or long division by place value, regrouping Ones into Tenths and placing a decimal point in the quotient. Some divisions, like 10 ÷ 3 or 1 ÷ 7, never end and repeat, giving cyclic numbers like 142857. The leap year rules (every 4, not 100, but 400 years) show decimal multiplication in real life.",
  "sections": [
   {
    "section_id": "7-math-12-s01",
+   "heading": "Chapter 12 / 4: Another Peek Beyond the Point",
+   "text": "# Chapter 12: Another Peek Beyond the Point\n\n<!-- page 67 -->\n\n# 4 ANOTHER PEEK BEYOND THE POINT\n\n[Figure: QR code labelled 0789CH04]",
+   "page_start": 67,
+   "page_end": 67
+  },
+  {
+   "section_id": "7-math-12-s02",
    "heading": "4.1 A Quick Recap of Decimals",
-   "text": "# Chapter 12: Another Peek Beyond the Point\n\n<!-- page 67 -->\n\n## ANOTHER PEEK BEYOND THE POINT 4\n\n#### 4.1 A Quick Recap of Decimals\n\nRecall that decimals are the natural extension of the Indian place value\n\n10, 1 100, 1 1000, and so on) and their sums.\n\nsystem to represent decimal fractions (1\n\nFor example, 27.53 refers to a quantity that has:\n\n- 2 Tens\n\n- 7 Units (Ones)\n\n- 5 Tenths\n\n- 3 Hundredths\n\nWe have already learned how to multiply and divide fractions. In this chapter, we will learn how to perform these operations with decimals. You will see that the procedures for multiplying and dividing decimals are natural extensions of the procedures for multiplying and dividing counting numbers.\n\nJonali and Pallabi play a game. Jonali says a fraction and Pallabi gives the equivalent decimal. Write Pallabi’s answer in the blank spaces.\n\nJonali goes to the market to buy spices. She purchases 50 g of Cinnamon, 100 g of Cumin seeds, 25 g of Cardamom and 250 g of Pepper. Express each of the quantities in kilograms by writing them in terms of fractions as well as decimals.\n\nThe fractions Jonali gave Pallabi have denominators 10, 100, 1000, and so on.\n\n<!-- page 68 -->\n\nWrite the following fractions as a sum of fractions and also as decimals:\n\n| Fraction | Expanding the Numerator | Sum of one-tenths, one-hundredths, one-thousands,... | Decimals |\n| --- | --- | --- | --- |\n| 254 1000 | 200 50 4 + + 1000 1000 1000 | 0.2 + 0.05 + 0.004 | 0.254 |\n|  | 2 5 4 = + + 10 100 1000 |  |  |\n| 847 10000 |  |  |  |\n| 173 100 |  |  |  |\n| 23 1000 |  |  |  |\n\nCan you give a simple rule to divide any number by a number of the | Math\n\nform 1 followed by zeroes — 10, 100, 1000, etc.? For example, 123 | Talk\n\n10 , 24 100 or 678\n\n1000 ? Look for a pattern in the previous problems.\n\nHere is one such rule. Let us consider the example 123 ÷ 10.\n\n**Step 1:** \u0007Write the dividend as it is and place a decimal point at the end.\n\n123.\n\n**Step 2:** Count the number of zeroes in the divisor.\n\n10 1 zero\n\n**Step 3:** Move the decimal point from Step 1 left by the same number of places as the count from Step 2. Add zeroes in front if needed.\n\n12.3\n\n<!-- page 69 -->\n\n| Examples: | Another Peek Beyond the Point |\n| --- | --- |\n| 24 ÷ 100 = 0.24 | 678 ÷ 1000 = 0.678 |\n| 12÷1000 = 0.012 | 12345÷1000 = 12.345 |",
+   "text": "## 4.1 A Quick Recap of Decimals\n\nRecall that decimals are the natural extension of the Indian place value system to represent decimal fractions ($\\frac{1}{10}$, $\\frac{1}{100}$, $\\frac{1}{1000}$, and so on) and their sums.\n\nFor example, **27.53** refers to a quantity that has:\n\n- 2 Tens\n- 7 Units (Ones)\n- 5 Tenths\n- 3 Hundredths\n\nWe have already learned how to multiply and divide fractions. In this chapter, we will learn how to perform these operations with decimals. You will see that the procedures for multiplying and dividing decimals are natural extensions of the procedures for multiplying and dividing counting numbers.\n\n> ? Jonali and Pallabi play a game. Jonali says a fraction and Pallabi gives the equivalent decimal. Write Pallabi's answer in the blank spaces.\n\n[Figure: Two girls beside a yellow board with two columns, \"Fractions\" and \"Decimals\". Rows: $\\frac{3}{10}$ — 0.3 (filled in, in red); $\\frac{4}{100}$ — ............; $\\frac{67}{1000}$ — ............; $\\frac{457}{100}$ — ............; $\\frac{71}{100}$ — ............; $\\frac{43}{100}$ — ............; $\\frac{9}{100}$ — ............]\n\nJonali goes to the market to buy spices. She purchases 50 g of Cinnamon, 100 g of Cumin seeds, 25 g of Cardamom and 250 g of Pepper. Express each of the quantities in kilograms by writing them in terms of fractions as well as decimals.\n\nThe fractions Jonali gave Pallabi have denominators 10, 100, 1000, and so on.\n\n<!-- page 68 -->\n\nWrite the following fractions as a sum of fractions and also as decimals:\n\n| Fraction | Expanding the Numerator | Sum of one-tenths, one-hundredths, one-thousands,... | Decimals |\n|---|---|---|---|\n| $\\frac{254}{1000}$ | $\\frac{200}{1000} + \\frac{50}{1000} + \\frac{4}{1000}$ $= \\frac{2}{10} + \\frac{5}{100} + \\frac{4}{1000}$ | $0.2 + 0.05 + 0.004$ | $0.254$ |\n| $\\frac{847}{10000}$ | | | |\n| $\\frac{173}{100}$ | | | |\n| $\\frac{23}{1000}$ | | | |\n\n### Math Talk\n\n> Math Talk\n\nCan you give a simple rule to divide any number by a number of the form 1 followed by zeroes — 10, 100, 1000, etc.? For example, $\\frac{123}{10}$, $\\frac{24}{100}$ or $\\frac{678}{1000}$ ? Look for a pattern in the previous problems.\n\nHere is one such rule. Let us consider the example $123 \\div 10$.\n\n**Step 1:** Write the dividend as it is and place a decimal point at the end.\n\n123.\n\n**Step 2:** Count the number of zeroes in the divisor.\n\n10 → 1 zero\n\n**Step 3:** Move the decimal point from Step 1 left by the same number of places as the count from Step 2. Add zeroes in front if needed.\n\n[Figure: The number 12.3 with a curved arrow below it pointing from the right of the decimal point back to the left, showing the decimal point moved one place to the left.]\n\n<!-- page 69 -->\n\n**Examples:**\n\n| | |\n|---|---|\n| $24 \\div 100 = 0.24$ [Figure: curved arrow showing the decimal point moving two places to the left] | $678 \\div 1000 = 0.678$ [Figure: curved arrow showing the decimal point moving three places to the left] |\n| $12 \\div 1000 = 0.012$ [Figure: curved arrow showing the decimal point moving three places to the left] | $12345 \\div 1000 = 12.345$ [Figure: curved arrow showing the decimal point moving three places to the left] |",
    "page_start": 67,
    "page_end": 69
   },
   {
-   "section_id": "7-math-12-s02",
-   "heading": "4.2 Decimal Multiplication",
-   "text": "#### 4.2 Decimal Multiplication\n\n**Example 1:** Arshad goes to a stationery shop and purchases 5 pens. If one pen costs ₹9.5 (9 rupees and 50 paisa), how much should he pay the shopkeeper?\n\nWhat operation must we use here?\n\nWe have to multiply 9.5 by 5, which is the same as adding 9.5, 5 times.\n\nThat is 9.5 × 5 = 9.5 + 9.5 + 9.5 + 9.5 + 9.5 = 47.5.\n\nWe can also directly multiply the numbers by converting them into fractions.\n\n9.5 is 95 10 and 5 is 5 1 as a fraction.\n\nThe cost of 5 pens = 5\n\n1 × 95 10 .\n\nRecall that, to find the product of two fractions, we multiply the numerators and multiply the denominators.\n\n5 1 × 95 10 = 5 × 95 1 × 10\n\n= 475\n\n10\n\n= 47.5.\n\nThe cost of 5 pens is ₹47.5.\n\n**Example 2:** A car travels 12.5 km per litre of petrol. What is the distance covered with 7.5 litres of petrol?\n\nWe have to multiply 12.5 by 7.5.\n\nThe distance covered = 12.5 × 7.5\n\n= 125\n\n10 × 75 10 = 125×75 10×10 = 9375 100 = 93.75\n\nThe distance covered is 93.75 km.\n\n<!-- page 70 -->\n\nCan the product of two decimals be a natural number? | Math\n\nTalk\n\nCan the product of a decimal and a natural number be a natural number?\n\n**Example 3:** The distance between Ajay's school and his home is 827 m. He walks to school in the morning and then walks back home in the evening, 6 days a week. How much does he walk in a week? Answer in kilometres.\n\nEach way between school and home, Ajay walks 827 metres, i.e., 0.827 km.\n\nSo, in a day he walks,\n\n0.827 × 2 = 827 1000 × 2 = 827 × 2 1000 = 1654 1000 = 1.654\n\nHe goes to school 6 days a week. So, in a week, he walks\n\n1.654 × 6 = 1654 1000 × 6 = 1654 × 6 1000 = 9924\n\n1000 = 9.924\n\nAjay walks 9.924 km a week.\n\n**Example 4:** Find the area of the given rectangle.\n\nArea of the rectangle = | 5.7 cm\n\n5.7 × 13.3 = 57 10 × 133 10 = 7581 100 = 75.81\n\n| The area is 75.81 sq cm. | 13.3 cm Observe the number of digits after the decimal point in the multiplier, the multiplicand and the product. Also note the number of zeroes in the denominator. |  |  |\n| --- | --- | --- | --- |\n| Examples | No. of digits after the decimal point in: |  |  |\n|  | Multiplier | Multiplicand | Product |\n| 9.5 × 5 95 × 5 475 = = = 47.5 10 10 | 1 | 0 | 1 |\n| 12.5 × 7.5 125 75 9375 | 1 | 1 | 2 |\n| = × = = 93.75 10 10 100 |  |  |  |\n\n<!-- page 71 -->\n\nAnother Peek Beyond the Point\n\n| 1.64 × 6 164 984 = × 6 = = 9.84 100 100 | 2 | 0 | 2 |\n| --- | --- | --- | --- |\n| 5.7 × 13.35 57 1335 = × 10 100 57 × 1335 76095 | 1 | 2 | 3 |\n| = = 10 × 100 1000 =76.095 |  |  |  |\n\nSuppose we know that 596 × 248 = 147808, can you immediately write down the product of 5.96 × 24.8? | Math\n\nTalk\n\nBy looking at the above examples, can you frame a rule to multiply two decimals?\n\nMultiplication of decimals is the same as the multiplication of their corresponding fractions. When multiplying fractions, we multiply the numerators and denominators, respectively.\n\nThe product of the numerators = Product of the numbers with the decimal points removed.\n\nSince both the denominators are of the form 1, 10, 100, 1000, … , the product of the denominators is also of the form 1 followed by zeroes. The number of zeroes in the product is the sum of the number of zeroes in each denominator.\n\nIn the product, the decimal point is placed based on the total number of zeroes in the denominator.\n\nSo, to multiply two decimals, we can multiply the two numbers obtained by removing the decimal point, and then place the decimal point appropriately as shown below.\n\nTo evaluate 5.96 × 24.8:\n\n596 × 248 = 147808\n\n5.96 × 24.8 147.808 =\n\n} }\n\n} | }\n\n2 decimal places | 1 decimal place | 3 decimal places\n\n2 + 1 = 3 decimal places\n\n<!-- page 72 -->\n\n**Example 5:** Let us use the above rule to find the product of 5.8 and 1.24.\n\nLet us first multiply 58 and 124.\n\nThe product is 7192.\n\nThe sum of the number of digits after the decimal point in the multiplier and multiplicand is 3. So, the product is 7.192. | 1 digit after decimal point | 2 digits after decimal point\n\nVerify this by converting the multiplier and multiplicand into fractions.\n\n5.8 × 1.24\n\n#### Is the Product Always Greater than the Numbers Multiplied?\n\nRecall multiplication of two fractions. Unlike counting numbers, when two fractions are multiplied the product is not always greater than or equal to both numbers. Let us examine the case of the product of two decimals.\n\n2.25 × 8 = 18.\n\nIn the above multiplication, the product (18) is greater than 2.25 and 8. But in, 0.25 × 8 = 2, the product (2) is greater than 0.25 but less than 8.\n\nIn the case of 0.25 × 0.8 = 0.2, the product (0.2) is less than both 0.25 and 0.8.\n\nWhen is the product of two decimals greater than both the numbers? When is it less than both the numbers?\n\nSince decimals are just representations of fractions, the relationship between the numbers multiplied and the product are similar to fractions.\n\n| Situation | Multiplication | Relationship |\n| --- | --- | --- |\n| Situation 1 | Both numbers are greater than 1 (e.g., 3.4 × 6.5) | The product (22.1) is greater than both the numbers. |\n| Situation 2 | Both numbers are between 0 and 1 (e.g., 0.75 × 0.4) | The product (0.3) is less than both the numbers. |\n| Situation 3 | One number is between 0 and 1 and one number is greater than 1 (e.g., 0.75 × 5) | The product (3.75) is less than the number greater than 1 and greater than the |\n|  |  | number between 0 and 1. |\n\n<!-- page 73 -->\n\nAnother Peek Beyond the Point\n\n#### Figure it Out\n\n1. Recall that a tenth is 0.1, a hundredth is 0.01, and so on. Find the following products in tenths, hundredths and so on:\n\n(a) 6 × 4 tenths = 24 tenths\n\n(b) 7 × 0.3\n\n(c) 9 × 5 hundredths\n\n2. Find the products:\n\n(a) 27.34 × 6\n\n(b) 4.23 × 3.7\n\n(c) 0.432 × 0.23\n\n3. Thejus needs 1.65 m of cloth for a shirt. How many metres of cloth are needed for 3 shirts?\n\n4. Meenu bought 4 notebooks and 3 erasers. The cost of each book was ₹15.50 and each eraser was ₹2.75. How much did she spend in all?\n\n5. The thickness of a rupee coin is 1.45 mm. What is the total height of the cylinder formed by placing 36 rupee coins one over the other? Write the answer in centimeters.\n\n6. The price of 1 kg of oranges is ₹56.50. What is the price of 2.250 kg of oranges? Can we write 56.50 as 56.5 and 2.250 as 2.25 and multiply? Will we get the same product? Why?\n\nMath\n\nTalk\n\n7. Dwarakanath purchases notebooks at a wholesale price of ₹23.6 per piece and sells each notebook at ₹30/-. How much profit does he make if he sells 50 books in a week?\n\n8. Given that 18 × 12 = 216, find the products:\n\n(a) 18 × 1.2 (b) 18 × 0.12\n\n(c) 1.8 × 1.2 (d) 0.18 × 0.12\n\n(e) 0.018 × 0.012 (f) 1.8 × 12\n\nIn which of the cases above is the product less than 1?\n\n9. In which of the following multiplications is the product less than 1? Can you find the answer without actually doing the multiplications?\n\n(a) 7 × 0.6 (b) 0.7 × 0.6\n\n(c) 0.7 × 6 (d) 0.07 × 0.06\n\n10. Multiplying the following numbers by 10, 100 and 1000 to complete the table.\n\n<!-- page 74 -->\n\n|  | × 10 | × 100 | × 1000 |\n| --- | --- | --- | --- |\n| 5.7 |  |  |  |\n| 23.02 |  |  |  |\n| 0.92 |  |  |  |\n| 0.306 |  |  |  |\n|  |  |  |  |\n| 24.67 |  |  |  |",
-   "page_start": 69,
-   "page_end": 74
-  },
-  {
    "section_id": "7-math-12-s03",
-   "heading": "4.3 Decimal Division",
-   "text": "#### 4.3 Decimal Division\n\n**Example 6:** Anuja has a 3.9 m length of ribbon and she wants to cut it into 10 equal pieces. What is the length of each piece in decimal?\n\n> What is the length of each piece in decimal?\n\nSince there are 10 pieces, we can find the length of each piece by dividing 3.9 by 10. So, what is 3.9 ÷ 10?\n\nLet’s convert 3.9 into fraction 3.9 = 39\n\n10.\n\nHence, 3.9 ÷ 10 is the same as\n\ndividing 39\n\n10 by 10.\n\nRecall that, dividing a fraction by a divisor is the same as multiplying the fraction by the reciprocal of the\n\ndivisor. The reciprocal of 10 is 1\n\n10 .\n\nSo, 39\n\n10 ÷ 10 = 39 10 × 1 10 = 39 100 = 0.39.\n\nThus, the length of each piece of ribbon is 0.39 m.\n\nWhat is the length of each piece if the ribbon is cut into 100 equal pieces?\n\n3.9 ÷ 100 = 39 10 × 1 100 = 39 1000 = 0.039.\n\nWhen the ribbon is cut into 100 equal pieces, the length of each piece is 0.039 m.\n\n<!-- page 75 -->\n\nAnother Peek Beyond the Point\n\nWhat is 0.039 m in centimetres and millimetres?\n\nBy looking at these divisions, we can frame a simple rule for dividing decimals by 1, 10, 100, 1000, and so on.\n\nWhen we divide a decimal by 1, 10, 100, 1000, and so on, we can just move the decimal point to the left by as many places as there are zeroes in the divisor!\n\n| Decimal | ÷ 10 | ÷ 100 | ÷ 1000 | ÷ 10000 |\n| --- | --- | --- | --- | --- |\n|  |  |  |  |  |\n| 18.7 | 1.87 | 0.187 | 0.0187 | 0.00187 |\n| 21.1 |  |  |  |  |\n| 0.13 |  |  |  |  |\n|  |  | 2.146 |  |  |\n|  |  |  |  | 0.0058 |\n\n**Example 7:** Neenu has 29 metres of red ribbon and wants to share it equally with Anu. What is the length of ribbon that each of them will get?\n\nSince the ribbon needs to be divided into two equal parts, each girl will get a piece of 29 ÷ 2 metres.\n\nIf each of them gets 14 m, then 1 m remains. If we divide 1 m among the two,\n\neach will get another 1\n\n2 m.\n\nHow do we convert 1\n\n2 into a decimal?\n\nIt is easy to express a fraction as a decimal if the denominator is 1, 10, 100, 1000, etc.\n\nSo, can we find a fraction equivalent to 1\n\n2 with such a denominator?\n\n1 2 = 1 × 5 2 × 5 = 5 10 (multiplying the numerator and denominator by 5).\n\n<!-- page 76 -->\n\nWe know that the fraction 5\n\n10 can be represented as a decimal 0.5.\n\nSo, each girl will get 14 m and an additional 0.5 m of ribbon.\n\nHence, the length of ribbon each will get is 14 + 0.5 = 14.5 m.\n\nNow, what if the ribbon was shared between four friends instead of 2?\n\nSo, each will get 29 ÷ 4 m, that is 29\n\n4 m.\n\nNow, the denominator of the fraction is 4. To convert a fraction to a decimal, it helps if the denominator is of the form 1, 10, 100, 1000, and\n\nso on. Can we find a fraction equivalent to 29\n\n4 with such a denominator?\n\nIs 4 a factor of 10? No. Is it a factor of 100? Yes. 4 × 25 = 100. So we\n\ncan get an equivalent fraction of 29\n\n4 by multiplying the numerator and denominator by 25.\n\n29 × 25 4 × 25 = 725 100 = 7.25\n\nSo each of the 4 friends will get 7.25 m of ribbon.\n\n#### Division Using Place Value\n\nWe have seen how to divide two counting numbers to get a decimal quotient. We first represented the division as a fraction. Then we found an equivalent fraction, with the denominator being of the form 1, 10, 100, 1000, and so on. It was then easy to represent this equivalent fraction as a decimal.\n\nNow, let us look at the division using place value procedure to calculate the decimal quotient.\n\nSuppose we want to write the quotient 10\n\n3 as a decimal. Can we convert\n\nthis fraction to an equivalent fraction with a denominator such as 1, 10, 100, 1000, etc.?\n\nIt is not possible. So, we need a more general method to divide any two counting numbers. Let us see how we can use division using place value for this. Let us start with a quick recap of division using place value.\n\n<!-- page 77 -->\n\nAnother Peek Beyond the Point\n\n**Example 8:** Find the value of 1324 ÷ 4.\n\n1324 ÷ 4 Divide 1324 into 4 equal parts.\n\n1 Thousand + 3 Hundreds + 2 Tens + 4 Ones\n\n1 Thousand ÷ 4 Not possible without regrouping.\n\nRegroup 1 Thousand into 10 Hundreds.\n\n10 Hundreds + 3 Hundreds = 13 Hundreds.\n\n13 Hundreds + 2 Tens + 4 Ones\n\n13 Hundreds ÷ 4 Each part gets 3 Hundreds, and 1 Hundred remains.\n\n13 Hundreds + 2 Tens + 4 Ones | Th H T O\n\n4) 1324 (0 + 3 + ___ + ___ –12 1\n\n3 Hundreds 3 Hundreds 3 Hundreds 3 Hundreds 1 Hundred\n\nRegroup 1 Hundred into 10 Tens.\n\n10 Tens + 2 Tens = 12 Tens.\n\n<!-- page 78 -->\n\n12 Tens ÷ 4 Each part gets 3 Tens.\n\n12 Tens + 4 Ones | ThH **T O** 4) 1324 (0 + 3 + 3 + ___ –12 12 –12 0\n\n3 Hundreds 3 Tens 3 Hundreds 3 Tens 3 Hundreds 3 Tens 3 Hundreds 3 Tens\n\n4 Ones ÷ 4 Each part gets 1 Ones.\n\n4 Ones\n\nThH T O\n\n4) 1324 (0 + 3 + 3 + 1 –12 12 –12 04\n– 4 0\n\n3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones\n\nSo, 1324 ÷ 4 = 0 Thousands + 3 Hundreds + 3 Tens + 1 Ones = 331.\n\nWe also call this division using place values as ‘**long division**’.\n\n#### Division with a Decimal Quotient\n\nNow, let us use this understanding of long division to find the value of 1325 ÷ 4.\n\n1325 ÷ 4 Divide 1325 into 4 equal parts.\n\nWe can follow the same steps as in the previous problem.\n\n<!-- page 79 -->\n\nAnother Peek Beyond the Point\n\nThH T O\n\n5 Ones | 4) 1325 (0 + 3 + 3 + 1 –12 12 –12 05 – 4 1\n\n1 Ones\n\n3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones\n\nWe are left with 1 Ones.\n\nIt is not clear how to divide 1 Ones into 4 equal parts. But we can regroup this as 10 tenths.\n\n10 Tenths\n\n3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones\n\n10 Tenths ÷ 4 Each part gets 2 Tenths and 2 Tenths remain.\n\n10 Tenths\n\nTenths\n\nThH T O\n\n2 Tenths\n4) 1325 (0 + 3 + 3 + 1 + 2 –12 12 –12 05\n– 4 10\n– 8 2\n\nTens\n\n3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones | Ones\n\nTenths\n\n2 Tenths | 2 Tenths | 2 Tenths | 2 Tenths\n\n<!-- page 80 -->\n\nWe are left with 2 tenths.\n\nTo divide 2 Tenths into 4 equal parts, we have to regroup them as 20 Hundredths.\n\n20 Hundredths\n\n3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones\n\n2 Tenths | 2 Tenths | 2 Tenths | 2 Tenths\n\n20 Hundredths ÷ 4 Each part gets 5 Hundredths.\n\nHundredths\n\n20 Hundredths\n\nTenths\n\nThH T O\n\n2 Tenths\n4) 1325 (0 + 3 + 3 + 1 + 2 + 5 –12 12 –12 05\n– 4 10\n– 8 20\n– 20 0\n\nTens\n\nOnes\n\n3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones | 3 Hundreds 3 Tens 1 Ones\n\nTenths\n\nHundredths\n\n2 Tenths 5 Hundredths | 2 Tenths 5 Hundredths | 2 Tenths 5 Hundredths | 2 Tenths 5 Hundredths\n\nSo, 1325 ÷ 4 = 0 Thousands + 3 Hundreds + 3 Tens + 1 Ones + 2 Tenths + 5 Hundredths. This we know is 331.25, thus,\n\n1325 ÷ 4 = 331.25.\n\nCan we verify this by finding an equivalent fraction for 1325\n\n4 ?\n\nTo get an equivalent fraction such that the denominator is of the form 1, 10, 100, 1000, and so on, we can multiply the numerator and denominator by 25.\n\n1325 × 25 4 × 25 = 33125\n\n100 = 331.25.\n\n<!-- page 81 -->\n\nAnother Peek Beyond the Point\n\nThus, the procedure of division using place value can be extended to find quotients with decimal values. Ones can be regrouped as tenths, tenths can be regrouped as hundredths and so on.\n\n**Example 9 :** Find the value of 237 ÷ 8.\n\n237 ÷ 8 Divide 2 Hundreds + 3 Tens + 7 Ones into 8 equal parts.\n\nTo divide 2 Hundred into 8 equal parts we need to regrouped them as 20 Tens.\n\n20 Tens + 3 Tens = 23 Tens. | HTO\n\n23 Tens ÷ 8 2 Tens, and 7 Tens remain.\n8) 237 (0 2 –16 7\n\nTens\n\n7 Tens can be regrouped as 70 Ones. | HTO\n\n70 Ones + 7 Ones = 77 Ones. | 8) 237 (0 2 9 –16 77 – 72 5\n\nTens\n\n77 Ones ÷ 8 9 Ones, and 5 Ones remain.\n\nOnes\n\nTo divide 5 Ones into 8 equal parts we need to regroup them as 50 Tenths.\n\nWhen we regroup Ones into Tenths, we place a decimal point in the quotient.\n\n50 Tenths ÷ 8 6 Tenths, and 2 Tenths remain.\n\nTenths\n\nHTO | Remember, when we regroup Ones into Tenths we need to place a decimal point\n\n8) 237 (0 2 9 . 6 16 77 72 50 48 2\n\nTens\n\nOnes Tenths | in the quotient.\n\nHundredths\n\nTenths\n\n2 Tenths cannot be divided into 8 equal parts. So we need to regroup them as 20 Hundredths.\n\nHTO\n\n8) 237 (0 2 9 . 6 2 16 77 72 50 48 20 16 4\n\nTens\n\n20 Hundredths ÷ 8 2 Hundredths, and 4 Hundredths remain. | Ones Tenths\n\nHundredths\n\n<!-- page 82 -->\n\nTo divide 4 Hundredths into 8 equal parts we need to regroup them as 40 Thousandths.\n\n40 Thousandths ÷ 8 5 Thousandths.\n\nHundredths | Thousandths\n\nTenths\n\nHTO\n\n8) 237 (0 2 9 . 6 2 5 16 77 72 50 48 20 16 40 40 0\n\nTens\n\nOnes Tenths\n\nHundredths\n\nThousandths\n\nThus, 237 ÷ 8 = 29.625.\n\n#### Division with a Decimal Dividend\n\n**Example 10:** A shopkeeper has 9.5 kg of sugar and he wants to pack it equally in 4 bags. What is the weight of each bag of sugar?\n\nTo find the weight of each bag we need to divide 9.5 by 4.\n\nHundredths | Thousandths\n\nTenths\n\nO\n\n4) 9.5 (2 . 3 7 5 8 15 12 30 28 20 20 0\n\nOnes\n\nTenths\n\nHundredths\n\nThousandths\n\nAgain, we place the decimal point in the quotient before we divide the tenths.Each bag of sugar weighs 2.375 kg.\n\n<!-- page 83 -->\n\n> Another Peek Beyond the Point\n\n**Example 11:** What is the value of 0.06 ÷ 5?\n\n> Thousandths\n\n> Hundredths\n\n0.06 0 Ones + 0 Tenths + 6 Hundredths 0 Ones ÷ 5 0 Ones. When we move from Ones to Tenths we need to place the decimal point in the quotient. 0 Tenths ÷ 5 0 Tenths. 6 Hundredths ÷ 5 1 Hundredths, and 1 Hundredth remains. We need to regroup 1 Hundredth into 10 Thousandths.\n\n> Tenths\n\n> O\n\n> 5) 0.06 (0 . 0 1 2 0 00 00 06 5 10 10 0\n\n> Ones Tenths\n\n> Hundredths\n\n10 Thousandths ÷ 5 2 Thousandths.\n\n> Thousandths\n\nSo, the quotient is 0.012.\n\n#### Figure it Out\n\n1. Find the quotient by converting the denominator into 1, 10, 100 or 1000 and verify the solution by the long division method (division by place value).\n\n(a) 18\n\n5\n(b) 415\n\n4\n\n(c) 1217\n\n2\n(d) 4827\n\n8\n\n2. Choose the correct answer:\n\n(a) 1526\n\n4 =\n\n(i) 38.15\n(ii) 380.15\n\n(iii) 381.5\n(iv) 381.05\n\n(b) 3567\n\n8 =\n\n> Remember,\n\n> when we regroup Ones into Tenths we\n\n(i) 4458.75\n(ii) 44.5875\n\n(iii) 445.875\n(iv) 4458.75\n\n> need to place\n\n> a decimal point in the\n\n3. What is the quotient?\n\n(a) 132 ÷ 4 =\n(b) 13.2 ÷ 4 =\n\n> quotient.\n\n(c) 1.32 ÷ 4 =\n(d) 0.132 ÷ 4 =\n\n4. What is the quotient?\n\n(a) 126 ÷ 8 =\n(b) 12.6 ÷ 8 =\n\n(c) 1.26 ÷ 8 =\n(d) 0.126 ÷ 8 =\n\n(e) 0.0126 ÷ 8 =\n\n<!-- page 84 -->\n\n#### Division with a Decimal Divisor\n\n**Example 12:** Ravi went from Pune to Matheran by scooter in 2.5 hours. The distance was 126 km. What was his average speed?\n\nWe can get the average speed by dividing the distance by the time taken. 126 ÷ 2.5.\n\nWhen the divisor is a decimal, we convert the divisor into a fraction.\n\n126 ÷ 25 10 = 126 × 10 25 = 1260 25 .\n\nWith the long division procedure we find the quotient is 50.4.\n\nSo, the average speed at which Ravi travelled was 50.4 km per hour.\n\n**Example 13:** Find 4.68 ÷ 1.3.\n\nAgain converting the divisor into a fraction we get\n\n4.68 ÷ 13 10 = 4.68 × 10 13 = 46.8 13 .\n\nNow, what about 4.68 ÷ 0.13?\n\n4.68 ÷ 0.13 = 4.68 ÷ 13 100 = 4.68 × 100 13 = 468 13 .\n\nWhat do you notice in these cases?\n\nWhen the divisor is a decimal, we can convert it into a counting number by suitably multiplying it by 10, 100, 1000, and so on. We must also multiply the dividend by the same number. Thus,\n\n4.68 0.13 = 4.68 × 100 0.13 × 100 = 468 13 .\n\nOnce we convert the divisor into a counting number, we can then follow the division using place value procedure to find the quotient.\n\n#### Does This Ever End?\n\nCan you calculate 10 ÷ 3? Try dividing using long division.\n\n10 1 Tens + 0 Ones.\n\n**Step 1:** \u0007Regroup 1 Tens into 10 Ones. 10 Ones ÷ 3 3 Ones, and 1 Ones remain.\n\n**Step 2:** \u0007Regroup 1 Ones as 10 Tenths. 10 Tenths ÷ 3 3 Tenths, and 1 Tenths remain.\n\n<!-- page 85 -->\n\n> Another Peek Beyond the Point\n\n**Step 3:** \u0007Regroup 1 Tenths as 10 Hundredths. 10 Hundredths ÷ 3 3 Hundredths , and 1 Hundredths remain.\n\n> 3) 10 ( 3.333 ... 9 10 9 10 9 10 9 ...\n\n**Step 4:** \u0007Regroup 1 Hundredths as 10 Thousandths.\n\n10 Thousandths ÷ 3 3 Thousandths, and 1 Thousandths remain. Regroup 1 Thousandths as 10 TenThousandths.\n\nThis never seems to end! Each time we divide by 3, there is a remainder of 1. Will this process end?\n\nIn long division, we see that at each step we get a remainder of 1. So, the process will never end!\n\nSo, 10 ÷ 3 cannot be expressed using a finite number of digits in the decimal form.\n\n10 ÷ 3 = 3.333 ...\n\nThere are decimal divisions where the quotient never ends! We will explore such numbers in greater detail in a later class.\n\nCan you find the quotients of 10 ÷ 9, and 100 ÷ 11?\n\n> 7) 1 ( 0.142857142857... 0 10 7 30 28 20 14 60 56 40 35 50 49 10 7 30 28 20 14 60 56 40 35 50 49 1\n\nNow divide 1 by 7 (1 ÷ 7).\n\nWill this end?\n\nNote all the remainders we get. It starts with 1, then 3, then 2, then 6, and so on. Let us represent this as a chain.\n\n1 3 2 6 4 5\n\n5 4 6 2 3 1\n\n1 3 ...\n\nWhat do you observe? Can you explain why this division never ends?\n\nNot only do the remainders repeat in a cycle, the digits of the quotient also repeat in a cycle! 0.142857 142857 14…\n\n#### A Magic Number: 142857\n\nLet us consider the number 142857 that arose when dividing 1 by 7. Multiply 142857 by numbers from 1 to 6.\n\n<!-- page 86 -->\n\nWhat are the products? What do you notice?\n\nYou get the same number back, but with the digits cycled around! Multiply 142857 by 7. What do you observe?\n\nAre there other such numbers? Yes!\n\n> Try This\n\nTo find one such number, you can find 1 ÷ 17 in decimal, and use the repeating block of digits.\n\nAre there infinitely many such “cyclic” numbers? That is, can we keep finding more cyclic numbers, or do they eventually stop? In 1927, the Austrian mathematician Emil Artin conjectured (guessed) that there must be infinitely many such numbers. However, even today, nearly a century later, this conjecture remains unsolved—despite a lot of research on the question by many mathematicians!\n\n#### Dividend, Divisor, and Quotient\n\nWhen we divide two counting numbers, the quotient is always less than the dividend. For example, 128 ÷ 4 = 32, and 32 (quotient) < 128 (dividend).\n\nBut what happens when we divide 128 by 0.4?\n\n128 ÷ 0.4 = 320.\n\nThe quotient is greater than the dividend.\n\nWill the quotient be always greater than the dividend when the divisor is a decimal? Try it out with different values of the divisor. | Math\n\nTalk\n\nDescribe the relationship between the dividend, divisor, and the quotient. Create a table for capturing this relationship in different situations, like we did for multiplication.\n\n#### Figure it Out\n\n1. Express the following fractions in decimal form:\n\n(a) 2\n\n5\n(b) 13\n\n4\n\n(c) 4 50\n(d) 5\n\n8\n\n2. Find the quotients:\n\n(a) 24.86 ÷ 1.2\n\n(b) 5.728 ÷ 1.52\n\n<!-- page 87 -->\n\nAnother Peek Beyond the Point\n\n3. Evaluate the following using the information 156 × 12 = 1872.\n\n(a) 15.6 × 1.2 = __________\n(b) 187.2 ÷ 1.2 = __________\n\n(c) 18.72 ÷ 15.6 = __________\n(d) 0.156 × 0.12 = __________\n\n4. Evaluate the following:\n\n(a) 25 ÷ ______ = 0.025\n(b) 25 ÷ ______ = 250\n\n(c) 25 ÷ ______ = 2.5\n(d) 25 ÷ 10 = 25 × _____\n\n(e) 25 ÷ 0.10 = 25 × ______ (f) 25 ÷ 0.01 = 25 × ______\n\n5. Find the quotient:\n\n(a) 2.46 ÷ 1.5 =\n(b) 2.46 ÷ 0.15 =\n\n(c) 2.46 ÷ 0.015 =\n\n\u0007Is the quotient obtained in 24.6 ÷ 1.5 the same as the quotient obtained in 2.46 ÷ 0.15?\n\n6. A 4 m long wooden block has to be cut into 5 pieces of equal length. What is the length of each piece?\n\n7. If the perimeter of a regular polygon with 12 sides is 208.8 cm, what is the length of its side?\n\n8. 3 litres of watermelon juice is shared among 8 friends equally. How much watermelon juice will each get? Express the quantity of juice in millilitres.\n\n9. A car covers 234.45 km using 12.6 litres of petrol. What is the distance travelled per litre?\n\n10. 13.5 kg of flour (aata) was distributed equally among 15 students. How much flour did each student receive?\n\n1 2 = 0.5 | 1 5 = 0.2\n\n1 2 × 2 = 0.25 | 1 5 × 5 = 0.04\n\n1 2 × 2 × 2 = 0.125 | 1 5 × 5 × 5 = 0.008\n\n1 2 × 2 × 2 × 2 = 0.0625 | 1 5 × 5 × 5 × 5 = 0.0016\n\n1 2 × 2 × 2 × 2 × 2 = ? | 1 5 × 5 × 5 × 5 × 5 = ?\n\nWhat pattern do you observe? Why are 2 and 5 related in this way? Math\n\nTalk\n\n<!-- page 88 -->",
-   "page_start": 74,
-   "page_end": 88
+   "heading": "4.2 Decimal Multiplication",
+   "text": "## 4.2 Decimal Multiplication\n\n**Example 1:** Arshad goes to a stationery shop and purchases 5 pens. If one pen costs ₹9.5 (9 rupees and 50 paisa), how much should he pay the shopkeeper?\n\nWhat operation must we use here?\n\nWe have to multiply 9.5 by 5, which is the same as adding 9.5, 5 times.\n\nThat is $9.5 \\times 5 = 9.5 + 9.5 + 9.5 + 9.5 + 9.5 = 47.5$.\n\nWe can also directly multiply the numbers by converting them into fractions.\n\n9.5 is $\\frac{95}{10}$ and 5 is $\\frac{5}{1}$ as a fraction.\n\nThe cost of 5 pens $= \\frac{5}{1} \\times \\frac{95}{10}$.\n\nRecall that, to find the product of two fractions, we multiply the numerators and multiply the denominators.\n\n$$\\frac{5}{1} \\times \\frac{95}{10} = \\frac{5 \\times 95}{1 \\times 10}$$\n\n$$= \\frac{475}{10}$$\n\n$$= 47.5.$$\n\nThe cost of 5 pens is ₹47.5.\n\n**Example 2:** A car travels 12.5 km per litre of petrol. What is the distance covered with 7.5 litres of petrol?\n\nWe have to multiply 12.5 by 7.5.\n\nThe distance covered $= 12.5 \\times 7.5$\n\n$$= \\frac{125}{10} \\times \\frac{75}{10} = \\frac{125 \\times 75}{10 \\times 10} = \\frac{9375}{100} = 93.75$$\n\nThe distance covered is 93.75 km.\n\n<!-- page 70 -->\n\n### Math Talk\n\n1. Can the product of two decimals be a natural number?\n2. Can the product of a decimal and a natural number be a natural number?\n\n> Math Talk\n\n**Example 3:** The distance between Ajay's school and his home is 827 m. He walks to school in the morning and then walks back home in the evening, 6 days a week. How much does he walk in a week? Answer in kilometres.\n\nEach way between school and home, Ajay walks 827 metres, i.e., 0.827 km.\n\nSo, in a day he walks,\n\n$$0.827 \\times 2 = \\frac{827}{1000} \\times 2 = \\frac{827 \\times 2}{1000} = \\frac{1654}{1000} = 1.654$$\n\nHe goes to school 6 days a week. So, in a week, he walks\n\n$$1.654 \\times 6 = \\frac{1654}{1000} \\times 6 = \\frac{1654 \\times 6}{1000} = \\frac{9924}{1000} = 9.924$$\n\nAjay walks 9.924 km a week.\n\n**Example 4:** Find the area of the given rectangle.\n\n[Figure: A rectangle with its vertical side labelled 5.7 cm and its horizontal side labelled 13.3 cm.]\n\nArea of the rectangle =\n\n$$5.7 \\times 13.3 = \\frac{57}{10} \\times \\frac{133}{10} = \\frac{7581}{100} = 75.81$$\n\nThe area is 75.81 sq cm.\n\nObserve the number of digits after the decimal point in the multiplier, the multiplicand and the product. Also note the number of zeroes in the denominator.\n\n| Examples | No. of digits after the decimal point in: Multiplier | Multiplicand | Product |\n|---|---|---|---|\n| $9.5 \\times 5$ $= \\frac{95 \\times 5}{10} = \\frac{475}{10} = 47.5$ | 1 | 0 | 1 |\n| $12.5 \\times 7.5$ $= \\frac{125}{10} \\times \\frac{75}{10} = \\frac{9375}{100} = 93.75$ | 1 | 1 | 2 |\n\n<!-- page 71 -->\n\n| Calculation | | | |\n|---|---|---|---|\n| $1.64 \\times 6$ <br> $= \\frac{164}{100} \\times 6 = \\frac{984}{100} = 9.84$ | 2 | 0 | 2 |\n| $5.7 \\times 13.35$ <br> $= \\frac{57}{10} \\times \\frac{1335}{100}$ <br> $= \\frac{57 \\times 1335}{10 \\times 100} = \\frac{76095}{1000}$ <br> $=76.095$ | 1 | 2 | 3 |\n\n### Math Talk\n\n> [Figure: Icon labelled \"Math Talk\" with speech bubbles]\n\n1. Suppose we know that $596 \\times 248 = 147808$, can you immediately write down the product of $5.96 \\times 24.8$?\n\n2. By looking at the above examples, can you frame a rule to multiply two decimals?\n\nMultiplication of decimals is the same as the multiplication of their corresponding fractions. When multiplying fractions, we multiply the numerators and denominators, respectively.\n\nThe product of the numerators = Product of the numbers with the decimal points removed.\n\nSince both the denominators are of the form 1, 10, 100, 1000, …, the product of the denominators is also of the form 1 followed by zeroes. The number of zeroes in the product is the sum of the number of zeroes in each denominator.\n\nIn the product, the decimal point is placed based on the total number of zeroes in the denominator.\n\nSo, to multiply two decimals, we can multiply the two numbers obtained by removing the decimal point, and then place the decimal point appropriately as shown below.\n\nTo evaluate $5.96 \\times 24.8$:\n\n$596 \\times 248 = 147808$\n\n[Figure: $5.96 \\times 24.8 = 147.808$, with a brace under \"96\" of 5.96 labelled \"2 decimal places\", a brace under \"8\" of 24.8 labelled \"1 decimal place\", a brace under \"808\" of 147.808 labelled \"3 decimal places\", and a combined brace under the first two labelled \"2 + 1 = 3 decimal places\"]\n\n<!-- page 72 -->\n\n**Example 5:** Let us use the above rule to find the product of 5.8 and 1.24.\n\nLet us first multiply 58 and 124.\n\nThe product is 7192.\n\n> [Figure: Two callout boxes pointing to the expression $5.8 \\times 1.24$. The left box reads \"1 digit after decimal point\" and points to 5.8; the right box reads \"2 digits after decimal point\" and points to 1.24.]\n\nThe sum of the number of digits after the decimal point in the multiplier and multiplicand is 3. So, the product is 7.192.\n\nVerify this by converting the multiplier and multiplicand into fractions.",
+   "page_start": 69,
+   "page_end": 72
   },
   {
    "section_id": "7-math-12-s04",
-   "heading": "4.4 Look Before You Leap!",
-   "text": "#### 4.4 Look Before You Leap!\n\nDid you know that it takes the Earth 365.2422 days to go around the Sun and not 365 days? For our convenience, we consider 365 days as a year in a calendar. We are talking about Gregorian calendar.\n\nHey, I have not yet finished!\n\nThis means that, after one calendar year or 365 days, the Earth still needs 0.2422 more days to complete one full revolution around the Sun. This doesn’t seem like much. But what happens after 100 such calendar years?\n\nUsing our understanding of decimal multiplication,\n\n0.2422 × 100 = 24.22 days.\n\nAfter 100 calendar years, the Earth will need 24.22 more days to complete its 100th revolution around the Sun.\n\nIn your Science classes, you have learnt that we experience seasons because of the Earth’s tilt in axis and its revolution around the Sun. If our calendar does not accurately indicate the position of the Earth around the Sun, our seasons and our annual calendar will not match!\n\nTo correct this problem, the idea of a leap year was introduced. Every fourth year, one additional day is added to the calendar year.\n\n#### Making an Adjustment\n\nAdd an extra day\n\nevery 4 years.\n\n<!-- page 89 -->\n\nAnother Peek Beyond the Point\n\nIs the year divisible by 4?\n\nYes No\n\nThe year has 366 days The year has 365 days\n\nDo you know which month has this extra day?\n\nLet us see how this solution works.\n\n| Year 1 | Year 2 | Year 3 | Year 4 | Year 5 | Year 6 | Year 7 | Year 8 | … |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 365 | 365 | 365 | 366 | 365 | 365 | 365 | 366 | … |\n\nLooking at the above sequence, the number of days after 4 calendar years is\n\n4 × 365 + 1 = 1461 days.\n\nWhat is the number of days that the Earth needs to make 4 full revolutions around the Sun?\n\n4 × 365.2422 = 1460.9688 days.\n\nWith this new scheme of adding one extra day every 4th year, what is the number of days in 100 calendar years? Can you write an expression to calculate that number?\n\nMath\n\nTalk\n\nHere is one way to form the expression. Each calendar year has 365 days. In 100 calendar years, the number of days is 100 × 365. But years that are divisible by 4 have one extra day.\n\nHow many years are divisible by 4 in 100 years?\n\nSo, the number of days in 100 calendar years is,\n\n(100 × 365 + 100\n\n4 × 1) = 36,525 days.\n\nCan you form different expressions for the same question? | Math\n\nTalk\n\nThe actual number of days that the Earth takes to go around the Sun 100 times is,\n\n100 × 365.2422 = 36,524.22 days. Thus, by adding a day every fourth year, after 100 years, the calendar days are more than the actual number of days taken by the Earth to go around the Sun. We have overcompensated.\n\n<!-- page 90 -->\n\nSo, the good people who designed calendars decided that they will not add 1 extra day in every hundredth year!\n\n#### Making Another Adjustment\n\nNo extra day in the\n\n100th year.\n\nIs the year divisible by 100?\n\nYes No\n\nThe year has 365 days Is the year divisible by 4?\n\nYes No\n\nThe year has 366 days The year has 365 days\n\nCan you write an expression for the number of days in 100 calendar years with this new adjustment? | Math\n\nTalk\n\nWe saw that there are 25 years divisible by 4 in 100 years. 100 is also divisible by 4, but we have to exclude it. So only 24 years have 366 days, and the rest (76 years) have 365 days. So the expression can be written as,\n\n( 100\n\n4 – 100 100) × 366 + (100 – ( 100 4 – 100 100))× 365\n\n= (24 × 366) + (76 × 365) = 36,524 days.\n\nThis is close to 36524.22 days but is it close enough? What happens after 1000 years with this adjustment?\n\n<!-- page 91 -->\n\nAnother Peek Beyond the Point\n\nIf we follow this new scheme of adding 1 day every four years, but not in the 100th year, the number of calendar days in 1000 years is\n\n36524 × 10 = 3,65,240 days.\n\nThe number of days the Earth takes to go around the Sun 1000 times is\n\n1000 × 365.2422 = 3,65,242.2 days.\n\nSo, there is a difference of 2.2 days.\n\nTo bridge this gap, it was decided that every 400th year would be a leap year!\n\nAdd an extra day every 400th year.\n\nIs the year divisible by 400?\n\nYes No\n\nThe year has 366 days Is the year divisible by 100?\n\nYes | No\n\nThe year has 365 days | Is the year divisible by 4?\n\nYes | No\n\nThe year has 366 days | The year has 365 days\n\nWith this scheme, let us calculate the number of days in 1000 calendar years.\n\n<!-- page 92 -->\n\nIn 1000 calendar years, how many years are divisible by 400? 2.\n\nIn 1000 calendar years, how many years are divisible by 100 but not divisible by 400? 10 – 2 = 8.\n\nIn 1000 calendar years, how many years are divisible by 4 but not divisible by 100 and 400? 250 – 10 = 240. The rest of the years are 1000 – (2 + 8 + 240) = 750.\n\nSo, the total number of days in 1000 calendar years is\n\n(750 × 365) + (240 × 366) + (8 × 365) + (2 × 366) = 3,65,242 days.\n\nThe Earth needs 3,65,242.2 days to go around the Sun 1000 times. Hence, in 1000 years, the calendar year is slightly shorter (by 0.2 days) than the actual number of days the Earth takes to go around the Sun.\n\nThe calendar makers did not want to bother about a small difference that would happen in 1000 years! So, they left the scheme of leap years as is …\n\n#### Making Yet Another Adjustment\n\nWith this final scheme of leap years can you calculate the number of calendar days in 10,000 years and the number of actual days the Earth will take to make 10,000 revolutions around the Sun? What is the difference? If there is a big difference, can you suggest a way to fix this problem?\n\n> Try This\n\n<!-- page 93 -->\n\nAnother Peek Beyond the Point\n\nDo you wonder how people figured out that the Earth completes one revolution around the Sun in exactly 364.2422 days?\n\nInvestigate how traditional calendars in India managed to consistently align the days in the calendar with astronomical events like the Earth going around the Sun or even the positions of the stars in the sky accurately.\n\n> Try This\n\n#### Figure it Out\n\n1. A 210 gram packet of peanut chikki costs ₹70.5, while a 110 gram packet of potato chips costs ₹33.25. Which is cheaper?\n\n2. Write the decimal number at the arrow mark:\n\n3.1 3.2\n\n2.15 2.17\n\n3. Shyamala bought 3 kg bananas at ₹30/- per kg. She counted 35 bananas in all. She sells each banana for ₹5/-. How much profit does she make selling all the bananas?\n\n4. A teacher placed textbooks that are 2.5 cm thick on a bookshelf. The teacher wanted to place 80 textbooks on the shelf. The bookshelf is 160 cm long. How many books could be placed on the shelf? Was there any space left? If yes, how much?\n\n<!-- page 94 -->\n\n5. Fill in the following blanks appropriately:\n\n| 1 cm = 10 mm 1 m = 100 cm 1 km = 1000 m | 1 kg = 1000 g 1 g = 1000 mg 1 l = 1000 ml |  |\n| --- | --- | --- |\n| 5.5 km = m _________ | 35 cm = m ________ | 14.5 cm = mm _______ |\n|  |  |  |\n| 68 g = kg ________ | 9.02 m = mm ________ | 125.5 ml = l _______ |\n\n68 g = ________ kg 9.02 m = ________ mm125.5 ml = _______ l\n\n6. The following problem was set by Sridharacharya in his book,\n\nPatiganita. “6 1\n\n4 is divided by 2 1 2, and 60 1 4 is divided by 3 1\n2. Tell the\n\nquotients separately.” Can you try to solve it by converting the\n\nfractions into decimals?\n\n7. Fill the boxes in at least 2 different ways: | Math\n\nTalk\n\n(a) × = 2.4 (b) × = 14.5\n\n8. Find the following quotients given that 756 ÷ 36 = 21:\n\n(a) 75.6 ÷ 3.6\n(b) 7.56 ÷ 0.36\n\n(c) 756 ÷ 0.36\n(d) 75.6 ÷ 360\n\n(e) 7560 ÷ 3.6\n(f) 7.56 ÷ 0.36\n\n9. Find the missing cells if each cell represents a÷b:\n\n| b a | 1517 | 151.7 | 15.17 | 1.517 | 15170 |\n| --- | --- | --- | --- | --- | --- |\n| 37 | 41 |  |  |  |  |\n| 3.7 |  |  | 4.1 |  |  |\n| 0.37 |  |  |  |  |  |\n| 0.037 |  | 4100 |  |  |  |\n| 370 |  |  |  |  |  |\n\n10. Using the digits 2, 4, 5, 8, and 0 fill the boxes . × . to get the:\n\n(a) maximum product\n(b) minimum product\n\n<!-- page 95 -->\n\nAnother Peek Beyond the Point\n\n(c) product greater than 150\n(d) product nearest to 100\n\n(e) product nearest to 5\n\n11. Sort the following expressions in increasing order:\n\n(a) 245.05 × 0.942368\n(b) 245.05 × 7.9682\n\n(c) 245.05 ÷ 7.9682\n(d) 245.05 ÷ 0.942368\n\n(e) 245.05\n(f) 7.9682",
-   "page_start": 88,
-   "page_end": 95
+   "heading": "Is the Product Always Greater than the Numbers Multiplied?",
+   "text": "## Is the Product Always Greater than the Numbers Multiplied?\n\nRecall multiplication of two fractions. Unlike counting numbers, when two fractions are multiplied the product is not always greater than or equal to both numbers. Let us examine the case of the product of two decimals.\n\n$2.25 \\times 8 = 18$.\n\nIn the above multiplication, the product (18) is greater than 2.25 and 8.\n\nBut in, $0.25 \\times 8 = 2$, the product (2) is greater than 0.25 but less than 8.\n\nIn the case of $0.25 \\times 0.8 = 0.2$, the product (0.2) is less than both 0.25 and 0.8.\n\nWhen is the product of two decimals greater than both the numbers? When is it less than both the numbers?\n\nSince decimals are just representations of fractions, the relationship between the numbers multiplied and the product are similar to fractions.\n\n| Situation | Multiplication | Relationship |\n|---|---|---|\n| Situation 1 | Both numbers are greater than 1 (e.g., $3.4 \\times 6.5$) | The product (22.1) is greater than both the numbers. |\n| Situation 2 | Both numbers are between 0 and 1 (e.g., $0.75 \\times 0.4$) | The product (0.3) is less than both the numbers. |\n| Situation 3 | One number is between 0 and 1 and one number is greater than 1 (e.g., $0.75 \\times 5$) | The product (3.75) is less than the number greater than 1 and greater than the number between 0 and 1. |\n\n<!-- page 73 -->",
+   "page_start": 72,
+   "page_end": 73
   },
   {
    "section_id": "7-math-12-s05",
-   "heading": "SUMMARY",
-   "text": "### SUMMARY\n\n- In this chapter, we learnt procedures to perform decimal multiplication and division.\n- For decimal multiplication, we first multiply the multiplier and multiplicand as counting numbers. The number of decimal digits in the product is the total number of decimal digits in the multiplier and multiplicand.\n- Division of decimals uses the same procedure, i.e., division using place value (long division), as with counting numbers. The regrouping continues after the Ones place to Tenths, Hundredths, Thousandths, and so on. When the Ones are regrouped to Tenths, a decimal point is placed in the quotient.\n- There are decimal divisions where the quotient never ends. After each regrouping and dividing there is always a remainder!\n\n##### Hidato\n\n|  | 33 | 35 |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  | 24 | 22 |  |  |  |  |\n|  |  |  | 21 |  |  |  |  |\n|  | 26 |  | 13 | 40 | 11 |  |  |\n| 27 |  |  |  | 9 |  | 1 |  |\n|  |  |  |  | 18 |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  | 7 |  |  |\n|  |  |  |  |  |  | 5 |  |\n\nPuzzle\n\n| 32 | 33 | 35 | 36 | 37 |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 31 | 34 | 24 | 22 | 38 |  |  |  |\n| 30 | 25 | 23 | 21 | 12 | 39 |  |  |\n| 39 | 26 | 20 | 13 | 40 | 11 |  |  |\n| 27 | 28 | 14 | 19 | 9 | 10 | 1 |  |\n|  |  | 15 | 16 | 18 | 8 | 2 |  |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  | 17 | 7 | 16 | 3 |\n|  |  |  |  |  |  | 5 | 4 |\n\nSolution\n\n<!-- page 96 -->\n\nIn Hidato, a grid of cells is given. It is usually square-shaped, like Sudoku or Kakuro, but it can also include hexagons or any shape that forms a tessellation. It can have inner holes (like a disc), but it is made of only one piece.\n\nUsually, in every Hidato puzzle the lowest and the highest numbers are given on the grid.\n\nYour task is to fill the grid such that there is a continuous path of consecutive numbers from the lowest to the highest number. The next number must be in any one of the adjacent cells, including diagonally adjacent cells.\n\nThe grid comes pre-filled with some numbers (with values between the smallest and the highest) to ensure that these puzzles have a single solution.\n\nTry solving the following Hidato puzzles.\n\n|  | 36 | 1 | 2 |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  | 4 | 6 | 13 |  |\n|  |  | 34 |  |  | 12 |  |\n| 39 |  |  | 30 |  |  |  |\n|  |  | 31 |  |  |  |  |\n|  |  |  |  |  | 17 |  |\n|  | 26 |  | 23 | 21 |  |  |\n\n| 25 |  | 1 |  |  |\n| --- | --- | --- | --- | --- |\n|  | 20 |  |  | 4 |\n|  | 14 |  | 8 |  |\n|  |  | 15 |  | 9 |\n|  |  |  |  |  |\n\n|  |  |  |  |  | 9 |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  | 7 | 10 |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  | 5 |  |  | 1 | 17 | 15 |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  | 44 |  | 49 |  |  | 28 |  |  |  |\n|  | 54 | 42 |  | 50 |  | 29 | 26 |  |  |\n| 56 |  |  |  |  | 35 | 34 | 25 | 23 |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  | 39 |  |  |  |  |  |",
+   "heading": "Figure it Out (Multiplication)",
+   "text": "### Figure it Out\n\n1. Recall that a tenth is 0.1, a hundredth is 0.01, and so on. Find the following products in tenths, hundredths and so on:\n   (a) $6 \\times 4$ tenths $= 24$ tenths\n   (b) $7 \\times 0.3$\n   (c) $9 \\times 5$ hundredths\n\n2. Find the products:\n   (a) $27.34 \\times 6$\n   (b) $4.23 \\times 3.7$\n   (c) $0.432 \\times 0.23$\n\n3. Thejus needs 1.65 m of cloth for a shirt. How many metres of cloth are needed for 3 shirts?\n\n4. Meenu bought 4 notebooks and 3 erasers. The cost of each book was ₹15.50 and each eraser was ₹2.75. How much did she spend in all?\n\n5. The thickness of a rupee coin is 1.45 mm. What is the total height of the cylinder formed by placing 36 rupee coins one over the other? Write the answer in centimeters.\n\n6. The price of 1 kg of oranges is ₹56.50. What is the price of 2.250 kg of oranges? Can we write 56.50 as 56.5 and 2.250 as 2.25 and multiply? Will we get the same product? Why?\n\n   > Math Talk\n\n7. Dwarakanath purchases notebooks at a wholesale price of ₹23.6 per piece and sells each notebook at ₹30/-. How much profit does he make if he sells 50 books in a week?\n\n8. Given that $18 \\times 12 = 216$, find the products:\n   (a) $18 \\times 1.2$\n   (b) $18 \\times 0.12$\n   (c) $1.8 \\times 1.2$\n   (d) $0.18 \\times 0.12$\n   (e) $0.018 \\times 0.012$\n   (f) $1.8 \\times 12$\n\n   In which of the cases above is the product less than 1?\n\n9. In which of the following multiplications is the product less than 1? Can you find the answer without actually doing the multiplications?\n   (a) $7 \\times 0.6$\n   (b) $0.7 \\times 0.6$\n   (c) $0.7 \\times 6$\n   (d) $0.07 \\times 0.06$\n\n10. Multiplying the following numbers by 10, 100 and 1000 to complete the table.\n\n<!-- page 74 -->\n\n| | × 10 | × 100 | × 1000 |\n|---|---|---|---|\n| 5.7 | | | |\n| 23.02 | | | |\n| 0.92 | | | |\n| 0.306 | | | |\n| 24.67 | | | |",
+   "page_start": 73,
+   "page_end": 74
+  },
+  {
+   "section_id": "7-math-12-s06",
+   "heading": "4.3 Decimal Division",
+   "text": "## 4.3 Decimal Division\n\n### Example 6\n\n**Example 6:** Anuja has a 3.9 m length of ribbon and she wants to cut it into 10 equal pieces. What is the length of each piece in decimal?\n\n> [Figure: A girl in a yellow top sits at a brown table cutting a red ribbon with scissors. A double-headed arrow below the ribbon is labelled \"3.9m\". A thought bubble above her reads \"What is the length of each piece in decimal?\" and shows a red ribbon divided into 10 equal pieces.]\n\nSince there are 10 pieces, we can find the length of each piece by dividing 3.9 by 10.\nSo, what is 3.9 ÷ 10?\n\nLet's convert 3.9 into fraction $3.9 = \\frac{39}{10}$.\n\nHence, $3.9 \\div 10$ is the same as dividing $\\frac{39}{10}$ by 10.\n\nRecall that, dividing a fraction by a divisor is the same as multiplying the fraction by the reciprocal of the divisor. The reciprocal of 10 is $\\frac{1}{10}$.\n\nSo, $\\frac{39}{10} \\div 10 = \\frac{39}{10} \\times \\frac{1}{10} = \\frac{39}{100} = 0.39$.\n\nThus, the length of each piece of ribbon is 0.39 m.\n\nWhat is the length of each piece if the ribbon is cut into 100 equal pieces?\n\n$3.9 \\div 100 = \\frac{39}{10} \\times \\frac{1}{100} = \\frac{39}{1000} = 0.039$.\n\nWhen the ribbon is cut into 100 equal pieces, the length of each piece is 0.039 m.\n\n<!-- page 75 -->\n\n> **?** What is 0.039 m in centimetres and millimetres?\n\nBy looking at these divisions, we can frame a simple rule for dividing decimals by 1, 10, 100, 1000, and so on.\n\nWhen we divide a decimal by 1, 10, 100, 1000, and so on, we can just move the decimal point to the left by as many places as there are zeroes in the divisor!\n\n| Decimal | $\\div$ 10 | $\\div$ 100 | $\\div$ 1000 | $\\div$ 10000 |\n|---|---|---|---|---|\n| 18.7 | 1.87 | 0.187 | 0.0187 | 0.00187 |\n| 21.1 | | | | |\n| 0.13 | | | | |\n| | | 2.146 | | |\n| | | | | 0.0058 |\n\n> **?** **Example 7:** Neenu has 29 metres of red ribbon and wants to share it equally with Anu. What is the length of ribbon that each of them will get?\n\n[Figure: Two girls standing and holding pieces of ribbon; a speech bubble above shows a red ribbon labelled \"29m\" with an arrow across it, split into parts labelled \"14m\", \"14m\" and \"1m\".]\n\nSince the ribbon needs to be divided into two equal parts, each girl will get a piece of $29 \\div 2$ metres.\n\nIf each of them gets 14 m, then 1 m remains. If we divide 1 m among the two, each will get another $\\frac{1}{2}$ m.\n\n> **?** How do we convert $\\frac{1}{2}$ into a decimal?\n\nIt is easy to express a fraction as a decimal if the denominator is 1, 10, 100, 1000, etc.\n\nSo, can we find a fraction equivalent to $\\frac{1}{2}$ with such a denominator?\n\n$\\frac{1}{2} = \\frac{1 \\times 5}{2 \\times 5} = \\frac{5}{10}$ (multiplying the numerator and denominator by 5).\n\n<!-- page 76 -->\n\nWe know that the fraction $\\frac{5}{10}$ can be represented as a decimal 0.5.\n\nSo, each girl will get 14 m and an additional 0.5 m of ribbon.\n\nHence, the length of ribbon each will get is 14 + 0.5 = 14.5 m.\n\n> [?] Now, what if the ribbon was shared between four friends instead of 2?\n\nSo, each will get 29 ÷ 4 m, that is $\\frac{29}{4}$ m.\n\nNow, the denominator of the fraction is 4. To convert a fraction to a decimal, it helps if the denominator is of the form 1, 10, 100, 1000, and so on. Can we find a fraction equivalent to $\\frac{29}{4}$ with such a denominator?\n\nIs 4 a factor of 10? No. Is it a factor of 100? Yes. 4 × 25 = 100. So we can get an equivalent fraction of $\\frac{29}{4}$ by multiplying the numerator and denominator by 25.\n\n$$\\frac{29 \\times 25}{4 \\times 25} = \\frac{725}{100} = 7.25$$\n\nSo each of the 4 friends will get 7.25 m of ribbon.",
+   "page_start": 74,
+   "page_end": 76
+  },
+  {
+   "section_id": "7-math-12-s07",
+   "heading": "Division Using Place Value",
+   "text": "## Division Using Place Value\n\nWe have seen how to divide two counting numbers to get a decimal quotient. We first represented the division as a fraction. Then we found an equivalent fraction, with the denominator being of the form 1, 10, 100, 1000, and so on. It was then easy to represent this equivalent fraction as a decimal.\n\nNow, let us look at the division using place value procedure to calculate the decimal quotient.\n\n> [?] Suppose we want to write the quotient $\\frac{10}{3}$ as a decimal. Can we convert this fraction to an equivalent fraction with a denominator such as 1, 10, 100, 1000, etc.?\n\nIt is not possible. So, we need a more general method to divide any two counting numbers. Let us see how we can use division using place value for this.\nLet us start with a quick recap of division using place value.\n\n<!-- page 77 -->\n\n**Example 8:** Find the value of $1324 \\div 4$.\n\n$1324 \\div 4 \\rightarrow$ Divide 1324 into 4 equal parts.\n\n1 Thousand + 3 Hundreds + 2 Tens + 4 Ones\n\n[Figure: A tree diagram with four arrows from \"1 Thousand + 3 Hundreds + 2 Tens + 4 Ones\" pointing to four empty rounded boxes.]\n\n1 Thousand $\\div$ 4 $\\rightarrow$ Not possible without regrouping.\n\nRegroup 1 Thousand into 10 Hundreds.\n\n10 Hundreds + 3 Hundreds = 13 Hundreds.\n\n13 Hundreds + 2 Tens + 4 Ones\n\n[Figure: A tree diagram with four arrows from \"13 Hundreds + 2 Tens + 4 Ones\" (13 Hundreds in red) pointing to four empty rounded boxes.]\n\n13 Hundreds $\\div$ 4 $\\rightarrow$ Each part gets 3 Hundreds, and 1 Hundred remains.\n\n13 Hundreds + 2 Tens + 4 Ones\n\n[Figure: A tree diagram with five arrows from \"13 Hundreds + 2 Tens + 4 Ones\" (13 Hundreds in red) pointing to four boxes labelled \"3 Hundreds\", \"3 Hundreds\", \"3 Hundreds\", \"3 Hundreds\" and a fifth label \"1 Hundred\" (not in a box).]\n\n[Figure: Long division beside the tree, with column headings Th, H, T, O: 4) 1324 (0 + 3 + ___ + ___, with the digits 13 in red; below it \"–12\", a line, and \"1\".]\n\nRegroup 1 Hundred into 10 Tens.\n\n10 Tens + 2 Tens = 12 Tens.\n\n<!-- page 78 -->\n\n12 Tens $\\div$ 4 → Each part gets 3 Tens.\n\n12 Tens + 4 Ones\n\n[Figure: An arrow diagram. From \"12 Tens + 4 Ones\" four arrows point down to four rounded boxes, each reading \"3 Hundreds, 3 Tens\".]\n\n> [Figure: Long division, columns labelled Th H T O. $4)\\ 1324\\ (0 + 3 + 3 + \\_\\_\\_$; subtract $-12$ giving $12$; subtract $-12$ giving $0$.]\n\n4 Ones $\\div$ 4 → Each part gets 1 Ones.\n\n4 Ones\n\n[Figure: An arrow diagram. From \"4 Ones\" four arrows point down to four rounded boxes, each reading \"3 Hundreds, 3 Tens, 1 Ones\".]\n\n> [Figure: Long division, columns labelled Th H T O. $4)\\ 1324\\ (0 + 3 + 3 + 1$; $-12$ giving $12$; $-12$ giving $04$; $-4$ giving $0$.]\n\nSo, $1324 \\div 4 = 0$ Thousands + 3 Hundreds + 3 Tens + 1 Ones = 331.\n\nWe also call this division using place values as '**long division**'.",
+   "page_start": 76,
+   "page_end": 78
+  },
+  {
+   "section_id": "7-math-12-s08",
+   "heading": "Division with a Decimal Quotient",
+   "text": "## Division with a Decimal Quotient\n\nNow, let us use this understanding of long division to find the value of $1325 \\div 4$.\n\n$1325 \\div 4$ → Divide 1325 into 4 equal parts.\n\nWe can follow the same steps as in the previous problem.\n\n<!-- page 79 -->\n\n[Figure: Division diagram. \"5 Ones\" at top with arrows pointing to four boxes, each labelled \"3 Hundreds 3 Tens 1 Ones\", and one more arrow pointing right to \"1 Ones\".]\n\n> Long division worked beside the figure, with column headings Th H T O:\n> 4) 1325 (0 + 3 + 3 + 1\n> −12\n> 12\n> −12\n> 05\n> −4\n> 1\n\nWe are left with 1 Ones.\n\nIt is not clear how to divide 1 Ones into 4 equal parts. But we can regroup this as 10 tenths.\n\n[Figure: \"10 Tenths\" at top with arrows pointing to four boxes, each labelled \"3 Hundreds 3 Tens 1 Ones\".]\n\n10 Tenths ÷ 4 → Each part gets 2 Tenths and 2 Tenths remain.\n\n[Figure: \"10 Tenths\" at top with arrows pointing to four boxes, each labelled \"3 Hundreds 3 Tens 1 Ones\" and, below a dotted line, \"2 Tenths\"; one more arrow points right to \"2 Tenths\".]\n\n> Long division worked beside the figure, with column headings Th H T O and Tenths:\n> 4) 1325 (0 + 3 + 3 + 1 + 2\n> −12\n> 12 → Tens\n> −12\n> 05 → Ones\n> −4\n> 10 → Tenths\n> −8\n> 2\n\n<!-- page 80 -->\n\nWe are left with 2 tenths.\n\nTo divide 2 Tenths into 4 equal parts, we have to regroup them as 20 Hundredths.\n\n[Figure: A diagram with \"20 Hundredths\" at the top (in red), with four arrows pointing down to four boxes. Each box reads \"3 Hundreds, 3 Tens, 1 Ones, ........., 2 Tenths\".]\n\n20 Hundredths ÷ 4 → Each part gets 5 Hundredths.\n\n[Figure: A diagram with \"20 Hundredths\" (in red) at the top-left, with four arrows pointing down to four boxes and one arrow pointing right to \"2 Tenths\". Each box reads \"3 Hundreds, 3 Tens, 1 Ones, ........., 2 Tenths, 5 Hundredths\". Beside it is a long division, with column labels \"Th H T O\" and \"Tenths Hundredths\" above: 4) 1325 (0 + 3 + 3 + 1 + 2 + 5. Steps: −12 gives 12 (arrow to \"Tens\"); −12 gives 05 (arrow to \"Ones\"); −4 gives 10 (arrow to \"Tenths\"); −8 gives 20 (arrow to \"Hundredths\"); −20 gives 0.]\n\nSo, $1325 \\div 4 = 0$ Thousands + 3 Hundreds + 3 Tens + 1 Ones + 2 Tenths + 5 Hundredths. This we know is 331.25, thus,\n\n$$1325 \\div 4 = 331.25.$$\n\nCan we verify this by finding an equivalent fraction for $\\frac{1325}{4}$?\n\nTo get an equivalent fraction such that the denominator is of the form 1, 10, 100, 1000, and so on, we can multiply the numerator and denominator by 25.\n\n$$\\frac{1325 \\times 25}{4 \\times 25} = \\frac{33125}{100} = 331.25.$$\n\n<!-- page 81 -->\n\nThus, the procedure of division using place value can be extended to find quotients with decimal values. Ones can be regrouped as tenths, tenths can be regrouped as hundredths and so on.\n\n**Example 9 :** Find the value of $237 \\div 8$.\n\n$237 \\div 8 \\longrightarrow$ Divide 2 Hundreds + 3 Tens + 7 Ones into 8 equal parts.\n\nTo divide 2 Hundred into 8 equal parts we need to regrouped them as 20 Tens.\n\n20 Tens + 3 Tens = 23 Tens.\n\n$23$ Tens $\\div 8 \\longrightarrow$ 2 Tens, and 7 Tens remain.\n\n> [Figure: Long division with columns H, T, O. Shows 8) 237 (0 2, with –16 and remainder 7 below; an arrow points from the subtraction line to \"Tens\".]\n\n7 Tens can be regrouped as 70 Ones.\n\n70 Ones + 7 Ones = 77 Ones.\n\n$77$ Ones $\\div 8 \\longrightarrow$ 9 Ones, and 5 Ones remain.\n\n> [Figure: Long division with columns H, T, O. Shows 8) 237 (0 2 9, with –16, 77, –72, 5 below; arrows point to \"Tens\" (at –16 line) and \"Ones\" (at 5).]\n\nTo divide 5 Ones into 8 equal parts we need to regroup them as 50 Tenths.\n\n**When we regroup Ones into Tenths, we place a decimal point in the quotient.**\n\n50 Tenths $\\div 8 \\longrightarrow$ 6 Tenths, and 2 Tenths remain.\n\n[Figure: Long division with columns H, T, O and Tenths. Shows 8) 237 (0 2 9 . 6, with 16, 77, 72, 50, 48, 2 below; arrows point to \"Tens\", \"Ones\" and \"Tenths\".]\n\n> [Figure: A girl with a hand on her chin, thinking, with a speech bubble: \"Remember, when we regroup Ones into Tenths we need to place a decimal point in the quotient.\"]\n\n2 Tenths cannot be divided into 8 equal parts. So we need to regroup them as 20 Hundredths.\n\n20 Hundredths $\\div 8 \\longrightarrow$ 2 Hundredths, and 4 Hundredths remain.\n\n[Figure: Long division with columns H, T, O, Tenths, Hundredths. Shows 8) 237 (0 2 9 . 6 2, with 16, 77, 72, 50, 48, 20, 16, 4 below; arrows point to \"Tens\", \"Ones\", \"Tenths\" and \"Hundredths\".]\n\n<!-- page 82 -->\n\nTo divide 4 Hundredths into 8 equal parts we need to regroup them as 40 Thousandths.\n\n40 Thousandths $\\div$ 8 $\\rightarrow$ 5 Thousandths.\n\n[Figure: Long division of 237 by 8 with place-value column labels H, T, O, Tenths, Hundredths, Thousandths above the quotient. Quotient written as 0 2 9 . 6 2 5, i.e. 8) 237 (0 2 9 . 6 2 5. Steps: 16 subtracted, remainder 77 (arrow: Tens); 72 subtracted (arrow: Ones), remainder 50 (arrow: Tenths); 48 subtracted (arrow: Hundredths), remainder 20; 16 subtracted, remainder 40 (arrow: Thousandths); 40 subtracted, remainder 0.]\n\nThus, $237 \\div 8 = 29.625$.",
+   "page_start": 78,
+   "page_end": 82
+  },
+  {
+   "section_id": "7-math-12-s09",
+   "heading": "Division with a Decimal Dividend",
+   "text": "## Division with a Decimal Dividend\n\n**Example 10:** A shopkeeper has 9.5 kg of sugar and he wants to pack it equally in 4 bags. What is the weight of each bag of sugar?\n\nTo find the weight of each bag we need to divide 9.5 by 4.\n\n[Figure: Long division of 9.5 by 4 with place-value column labels O, Tenths, Hundredths, Thousandths above the quotient. Quotient written as 2 . 3 7 5, i.e. 4) 9.5 (2 . 3 7 5. Steps: 8 subtracted (arrow: Ones), remainder 15; 12 subtracted (arrow: Tenths), remainder 30; 28 subtracted (arrow: Hundredths), remainder 20; 20 subtracted (arrow: Thousandths), remainder 0.]\n\nAgain, we place the decimal point in the quotient before we divide the tenths. Each bag of sugar weighs 2.375 kg.\n\n<!-- page 83 -->\n\n**Example 11:** What is the value of $0.06 \\div 5$?\n\n$0.06 \\rightarrow$ 0 Ones + 0 Tenths + 6 Hundredths\n0 Ones $\\div$ 5 $\\rightarrow$ 0 Ones.\n\nWhen we move from Ones to Tenths we need to place the decimal point in the quotient.\n0 Tenths $\\div$ 5 $\\rightarrow$ 0 Tenths.\n\n6 Hundredths $\\div$ 5 $\\rightarrow$ 1 Hundredths, and 1 Hundredth remains. We need to regroup 1 Hundredth into 10 Thousandths.\n\n10 Thousandths $\\div$ 5 $\\rightarrow$ 2 Thousandths.\n\nSo, the quotient is 0.012.\n\n> [Figure: Long division of 0.06 by 5, written as 5) 0.06 (0 . 0 1 2, with the quotient digits labelled by column headings \"O\" (Ones), \"Tenths\", \"Hundredths\", \"Thousandths\". Working below: 0, then 00, 00, then 06, 5, then 10, 10, 0. Arrows label the rows: 0 → Ones; 00 → Tenths; 06 → Hundredths; 10 → Thousandths.]",
+   "page_start": 82,
+   "page_end": 83
+  },
+  {
+   "section_id": "7-math-12-s10",
+   "heading": "Figure it Out (Division)",
+   "text": "### Figure it Out\n\n1. Find the quotient by converting the denominator into 1, 10, 100 or 1000 and verify the solution by the long division method (division by place value).\n   - (a) $\\frac{18}{5}$\n   - (b) $\\frac{415}{4}$\n   - (c) $\\frac{1217}{2}$\n   - (d) $\\frac{4827}{8}$\n\n2. Choose the correct answer:\n   - (a) $\\frac{1526}{4} =$\n     - (i) 38.15\n     - (ii) 380.15\n     - (iii) 381.5\n     - (iv) 381.05\n   - (b) $\\frac{3567}{8} =$\n     - (i) 4458.75\n     - (ii) 44.5875\n     - (iii) 445.875\n     - (iv) 4458.75\n\n3. What is the quotient?\n   - (a) $132 \\div 4 =$\n   - (b) $13.2 \\div 4 =$\n   - (c) $1.32 \\div 4 =$\n   - (d) $0.132 \\div 4 =$\n\n4. What is the quotient?\n   - (a) $126 \\div 8 =$\n   - (b) $12.6 \\div 8 =$\n   - (c) $1.26 \\div 8 =$\n   - (d) $0.126 \\div 8 =$\n   - (e) $0.0126 \\div 8 =$\n\n> Remember, when we regroup Ones into Tenths we need to place a decimal point in the quotient.\n>\n> [Figure: A girl with a hand on her chin, looking thoughtful, with a speech bubble.]\n\n<!-- page 84 -->",
+   "page_start": 83,
+   "page_end": 84
+  },
+  {
+   "section_id": "7-math-12-s11",
+   "heading": "Division with a Decimal Divisor",
+   "text": "## Division with a Decimal Divisor\n\n**Example 12:** Ravi went from Pune to Matheran by scooter in 2.5 hours. The distance was 126 km. What was his average speed?\n\nWe can get the average speed by dividing the distance by the time taken.\n$126 \\div 2.5$.\n\nWhen the divisor is a decimal, we convert the divisor into a fraction.\n\n$126 \\div \\frac{25}{10} = 126 \\times \\frac{10}{25} = \\frac{1260}{25}$.\n\nWith the long division procedure we find the quotient is 50.4.\n\nSo, the average speed at which Ravi travelled was 50.4 km per hour.\n\n**Example 13:** Find $4.68 \\div 1.3$.\n\nAgain converting the divisor into a fraction we get\n\n$4.68 \\div \\frac{13}{10} = 4.68 \\times \\frac{10}{13} = \\frac{46.8}{13}$.\n\nNow, what about $4.68 \\div 0.13$?\n\n$4.68 \\div 0.13 = 4.68 \\div \\frac{13}{100} = 4.68 \\times \\frac{100}{13} = \\frac{468}{13}$.\n\nWhat do you notice in these cases?\n\nWhen the divisor is a decimal, we can convert it into a counting number by suitably multiplying it by 10, 100, 1000, and so on. We must also multiply the dividend by the same number. Thus,\n\n$$\\frac{4.68}{0.13} = \\frac{4.68 \\times 100}{0.13 \\times 100} = \\frac{468}{13}.$$\n\nOnce we convert the divisor into a counting number, we can then follow the division using place value procedure to find the quotient.",
+   "page_start": 84,
+   "page_end": 84
+  },
+  {
+   "section_id": "7-math-12-s12",
+   "heading": "Does This Ever End?",
+   "text": "## Does This Ever End?\n\nCan you calculate $10 \\div 3$? Try dividing using long division.\n\n$10 \\rightarrow$ 1 Tens + 0 Ones.\n\n**Step 1:** Regroup 1 Tens into 10 Ones. 10 Ones $\\div$ 3 $\\rightarrow$ 3 Ones, and 1 Ones remain.\n\n**Step 2:** Regroup 1 Ones as 10 Tenths. 10 Tenths $\\div$ 3 $\\rightarrow$ 3 Tenths, and 1 Tenths remain.\n\n<!-- page 85 -->\n\n**Step 3:** Regroup 1 Tenths as 10 Hundredths. 10 Hundredths ÷ 3 → 3 Hundredths, and 1 Hundredths remain.\n\n> [Figure: Long division of 10 by 3, written as \"3) 10 ( 3.333 ...\". Working below: 9, line, 10, 9, line, 10, 9, line, 10, 9, line, \"...\"]\n\n**Step 4:** Regroup 1 Hundredths as 10 Thousandths. 10 Thousandths ÷ 3 → 3 Thousandths, and 1 Thousandths remain. Regroup 1 Thousandths as 10 TenThousandths.\n\nThis never seems to end! Each time we divide by 3, there is a remainder of 1.\nWill this process end?\n\nIn long division, we see that at each step we get a remainder of 1. So, the process will never end!\nSo, 10 ÷ 3 cannot be expressed using a finite number of digits in the decimal form.\n\n$$10 \\div 3 = 3.333\\ldots$$\n\nThere are decimal divisions where the quotient never ends! We will explore such numbers in greater detail in a later class.\n\n**?** Can you find the quotients of $10 \\div 9$, and $100 \\div 11$?\n\nNow divide 1 by 7 ($1 \\div 7$).\n\nWill this end?\n\n> [Figure: Long division of 1 by 7, written as \"7) 1 ( 0.142857142857...\". Working below: 0, line, 10 (circled), 7, line, 30, 28, line, 20, 14, line, 60, 56, line, 40, 35, line, 50, 49, line, 10 (circled), 7, line, 30, 28, line, 20, 14, line, 60, 56, line, 40, 35, line, 50, 49, line, 1 (circled)]\n\nNote all the remainders we get. It starts with 1, then 3, then 2, then 6, and so on. Let us represent this as a chain.\n\n[Figure: Chain of remainders with arrows: 1 → 3 → 2 → 6 → 4 → 5, then down arrow from 5 to 1; second row from right to left: 1 ← 3 ← 2 ← 6 ← 4 ← 5 (read as 5 ← 4 ← 6 ← 2 ← 3 ← 1), then down arrow from 5 to 1 → 3 ...]\n\nWhat do you observe? Can you explain why this division never ends?\n\nNot only do the remainders repeat in a cycle, the digits of the quotient also repeat in a cycle!\n0.142857 142857 14…",
+   "page_start": 84,
+   "page_end": 85
+  },
+  {
+   "section_id": "7-math-12-s13",
+   "heading": "A Magic Number: 142857",
+   "text": "## A Magic Number: 142857\n\nLet us consider the number 142857 that arose when dividing 1 by 7. Multiply 142857 by numbers from 1 to 6.\n\n<!-- page 86 -->\n\nWhat are the products? What do you notice?\n\nYou get the same number back, but with the digits cycled around! Multiply 142857 by 7. What do you observe?\n\nAre there other such numbers? Yes!\n\n### Try This\n\nTo find one such number, you can find $1 \\div 17$ in decimal, and use the repeating block of digits.\n\nAre there infinitely many such \"cyclic\" numbers? That is, can we keep finding more cyclic numbers, or do they eventually stop? In 1927, the Austrian mathematician Emil Artin conjectured (guessed) that there must be infinitely many such numbers. However, even today, nearly a century later, this conjecture remains unsolved—despite a lot of research on the question by many mathematicians!",
+   "page_start": 85,
+   "page_end": 86
+  },
+  {
+   "section_id": "7-math-12-s14",
+   "heading": "Dividend, Divisor, and Quotient",
+   "text": "## Dividend, Divisor, and Quotient\n\nWhen we divide two counting numbers, the quotient is always less than the dividend. For example, $128 \\div 4 = 32$, and $32$ (quotient) $< 128$ (dividend).\n\nBut what happens when we divide 128 by 0.4?\n\n$$128 \\div 0.4 = 320.$$\n\nThe quotient is greater than the dividend.\n\n### Math Talk\n\nWill the quotient be always greater than the dividend when the divisor is a decimal? Try it out with different values of the divisor.\n\nDescribe the relationship between the dividend, divisor, and the quotient. Create a table for capturing this relationship in different situations, like we did for multiplication.\n\n### Figure it Out\n\n1. Express the following fractions in decimal form:\n   (a) $\\frac{2}{5}$\n   (b) $\\frac{13}{4}$\n   (c) $\\frac{4}{50}$\n   (d) $\\frac{5}{8}$\n\n2. Find the quotients:\n   (a) $24.86 \\div 1.2$\n   (b) $5.728 \\div 1.52$\n\n<!-- page 87 -->\n\n3. Evaluate the following using the information $156 \\times 12 = 1872$.\n\n   (a) $15.6 \\times 1.2 =$ __________  (b) $187.2 \\div 1.2 =$ __________\n\n   (c) $18.72 \\div 15.6 =$ __________  (d) $0.156 \\times 0.12 =$ __________\n\n4. Evaluate the following:\n\n   (a) $25 \\div$ ______ $= 0.025$  (b) $25 \\div$ ______ $= 250$\n\n   (c) $25 \\div$ ______ $= 2.5$  (d) $25 \\div 10 = 25 \\times$ ______\n\n   (e) $25 \\div 0.10 = 25 \\times$ ______  (f) $25 \\div 0.01 = 25 \\times$ ______\n\n5. Find the quotient:\n\n   (a) $2.46 \\div 1.5 =$  (b) $2.46 \\div 0.15 =$\n\n   (c) $2.46 \\div 0.015 =$\n\n   Is the quotient obtained in $24.6 \\div 1.5$ the same as the quotient obtained in $2.46 \\div 0.15$?\n\n6. A 4 m long wooden block has to be cut into 5 pieces of equal length. What is the length of each piece?\n\n7. If the perimeter of a regular polygon with 12 sides is 208.8 cm, what is the length of its side?\n\n8. 3 litres of watermelon juice is shared among 8 friends equally. How much watermelon juice will each get? Express the quantity of juice in millilitres.\n\n9. A car covers 234.45 km using 12.6 litres of petrol. What is the distance travelled per litre?\n\n10. 13.5 kg of flour (*aata*) was distributed equally among 15 students. How much flour did each student receive?\n\n[Figure: A box divided into two columns. Left column: $\\frac{1}{2} = 0.5$; $\\frac{1}{2 \\times 2} = 0.25$; $\\frac{1}{2 \\times 2 \\times 2} = 0.125$; $\\frac{1}{2 \\times 2 \\times 2 \\times 2} = 0.0625$; $\\frac{1}{2 \\times 2 \\times 2 \\times 2 \\times 2} = ?$. Right column: $\\frac{1}{5} = 0.2$; $\\frac{1}{5 \\times 5} = 0.04$; $\\frac{1}{5 \\times 5 \\times 5} = 0.008$; $\\frac{1}{5 \\times 5 \\times 5 \\times 5} = 0.0016$; $\\frac{1}{5 \\times 5 \\times 5 \\times 5 \\times 5} = ?$]\n\n### Math Talk\n\nWhat pattern do you observe? Why are 2 and 5 related in this way?\n\n<!-- page 88 -->",
+   "page_start": 86,
+   "page_end": 88
+  },
+  {
+   "section_id": "7-math-12-s15",
+   "heading": "4.4 Look Before You Leap!",
+   "text": "## 4.4 Look Before You Leap!\n\nDid you know that it takes the Earth 365.2422 days to go around the Sun and not 365 days? For our convenience, we consider 365 days as a year in a calendar. We are talking about Gregorian calendar.\n\n> [Figure: Cartoon of the Sun, a clock and a calendar page showing \"DEC 31\" near a checkered flag and a sign reading \"FINISH\", with the Earth on its orbit saying in a speech bubble \"Hey, I have not yet finished!\"]\n\nThis means that, after one calendar year or 365 days, the Earth still needs 0.2422 more days to complete one full revolution around the Sun. This doesn't seem like much. But what happens after 100 such calendar years?\n\nUsing our understanding of decimal multiplication,\n\n$$0.2422 \\times 100 = 24.22 \\text{ days.}$$\n\nAfter 100 calendar years, the Earth will need 24.22 more days to complete its 100th revolution around the Sun.\n\nIn your Science classes, you have learnt that we experience seasons because of the Earth's tilt in axis and its revolution around the Sun. If our calendar does not accurately indicate the position of the Earth around the Sun, our seasons and our annual calendar will not match!\n\nTo correct this problem, the idea of a leap year was introduced. Every fourth year, one additional day is added to the calendar year.\n\n### Making an Adjustment\n\n[Figure: Cartoon of an elderly man in robes seated in a chair, raising a finger and saying in a speech bubble \"Add an extra day every 4 years.\", while three men in scholars' caps and robes sit and stand around a table covered with scrolls, papers and inkwells.]\n\n<!-- page 89 -->\n\n[Figure: Flowchart. Top: \"Is the year divisible by 4?\" with two arrows below. Left arrow labelled \"Yes\" leads to \"The year has 366 days\"; right arrow labelled \"No\" leads to \"The year has 365 days\".]\n\nDo you know which month has this extra day?\n\nLet us see how this solution works.\n\n| Year 1 | Year 2 | Year 3 | Year 4 | Year 5 | Year 6 | Year 7 | Year 8 | ... |\n|---|---|---|---|---|---|---|---|---|\n| 365 | 365 | 365 | 366 | 365 | 365 | 365 | 366 | ... |\n\nLooking at the above sequence, the number of days after 4 calendar years is\n\n$$4 \\times 365 + 1 = 1461 \\text{ days.}$$\n\nWhat is the number of days that the Earth needs to make 4 full revolutions around the Sun?\n\n$$4 \\times 365.2422 = 1460.9688 \\text{ days.}$$\n\n### Math Talk\n\n> Math Talk\n\nWith this new scheme of adding one extra day every 4th year, what is the number of days in 100 calendar years? Can you write an expression to calculate that number?\n\nHere is one way to form the expression. Each calendar year has 365 days. In 100 calendar years, the number of days is $100 \\times 365$. But years that are divisible by 4 have one extra day.\n\nHow many years are divisible by 4 in 100 years?\n\nSo, the number of days in 100 calendar years is,\n\n$$\\left(100 \\times 365 + \\frac{100}{4} \\times 1\\right) = 36{,}525 \\text{ days.}$$\n\n### Math Talk\n\n> Math Talk\n\nCan you form different expressions for the same question?\n\nThe actual number of days that the Earth takes to go around the Sun 100 times is,\n\n$$100 \\times 365.2422 = 36{,}524.22 \\text{ days.}$$\n\nThus, by adding a day every fourth year, after 100 years, the calendar days are more than the actual number of days taken by the Earth to go around the Sun. We have overcompensated.\n\n<!-- page 90 -->\n\nSo, the good people who designed calendars decided that they will not add 1 extra day in every hundredth year!\n\n## Making Another Adjustment\n\n[Figure: Cartoon of four men in old-style robes and caps around a table with scrolls and papers; the bearded man seated on the right gestures and says in a speech bubble, \"No extra day in the 100th year.\"]\n\n[Figure: Flowchart. \"Is the year divisible by 100?\" branches with an arrow labelled \"Yes\" to \"The year has 365 days\", and an arrow labelled \"No\" to \"Is the year divisible by 4?\". This in turn branches with an arrow labelled \"Yes\" to \"The year has 366 days\", and an arrow labelled \"No\" to \"The year has 365 days\".]\n\n### Math Talk\n\nCan you write an expression for the number of days in 100 calendar years with this new adjustment?\n\nWe saw that there are 25 years divisible by 4 in 100 years. 100 is also divisible by 4, but we have to exclude it. So only 24 years have 366 days, and the rest (76 years) have 365 days. So the expression can be written as,\n\n$$\\left(\\frac{100}{4} - \\frac{100}{100}\\right) \\times 366 + \\left(100 - \\left(\\frac{100}{4} - \\frac{100}{100}\\right)\\right) \\times 365$$\n\n$$= (24 \\times 366) + (76 \\times 365) = 36{,}524 \\text{ days.}$$\n\nThis is close to 36524.22 days but is it close enough? What happens after 1000 years with this adjustment?\n\n<!-- page 91 -->\n\nIf we follow this new scheme of adding 1 day every four years, but not in the 100th year, the number of calendar days in 1000 years is\n\n$$36524 \\times 10 = 3,65,240 \\text{ days.}$$\n\nThe number of days the Earth takes to go around the Sun 1000 times is\n\n$$1000 \\times 365.2422 = 3,65,242.2 \\text{ days.}$$\n\nSo, there is a difference of 2.2 days.\n\nTo bridge this gap, it was decided that every 400th year would be a leap year!\n\n[Figure: Cartoon of three scholars seated at a table with scrolls, papers and inkwells, while an older bearded man in a chair on the right gestures with a speech bubble saying \"Add an extra day every 400th year.\"]\n\n[Figure: Flowchart.\n- \"Is the year divisible by 400?\" — Yes → \"The year has 366 days\"; No → \"Is the year divisible by 100?\"\n- \"Is the year divisible by 100?\" — Yes → \"The year has 365 days\"; No → \"Is the year divisible by 4?\"\n- \"Is the year divisible by 4?\" — Yes → \"The year has 366 days\"; No → \"The year has 365 days\"]\n\nWith this scheme, let us calculate the number of days in 1000 calendar years.\n\n<!-- page 92 -->\n\nIn 1000 calendar years, how many years are divisible by 400? 2.\n\nIn 1000 calendar years, how many years are divisible by 100 but not divisible by 400? $10 - 2 = 8$.\n\nIn 1000 calendar years, how many years are divisible by 4 but not divisible by 100 and 400? $250 - 10 = 240$.\nThe rest of the years are $1000 - (2 + 8 + 240) = 750$.\n\nSo, the total number of days in 1000 calendar years is\n$(750 \\times 365) + (240 \\times 366) + (8 \\times 365) + (2 \\times 366) = 3{,}65{,}242$ days.\n\nThe Earth needs $3{,}65{,}242.2$ days to go around the Sun 1000 times. Hence, in 1000 years, the calendar year is slightly shorter (by 0.2 days) than the actual number of days the Earth takes to go around the Sun.\n\nThe calendar makers did not want to bother about a small difference that would happen in 1000 years! So, they left the scheme of leap years as is …\n\n## Making Yet Another Adjustment\n\n[Figure: Illustration of a bearded man in red and white robes seated in a chair on the right, holding a scroll and looking puzzled, while three scholars walk away or throw up their arms on the left near a desk strewn with papers, an inkwell and charts.]\n\n### Try This\n\n> Try This\n\nWith this final scheme of leap years can you calculate the number of calendar days in 10,000 years and the number of actual days the Earth will take to make 10,000 revolutions around the Sun? What is the difference? If there is a big difference, can you suggest a way to fix this problem?\n\n[Figure: Four cartoon faces of scholars in caps and hoods surrounding the text box, looking worried and thoughtful.]\n\n<!-- page 93 -->\n\nDo you wonder how people figured out that the Earth completes one revolution around the Sun in exactly 364.2422 days?\n\n### Try This\n\nInvestigate how traditional calendars in India managed to consistently align the days in the calendar with astronomical events like the Earth going around the Sun or even the positions of the stars in the sky accurately.",
+   "page_start": 88,
+   "page_end": 93
+  },
+  {
+   "section_id": "7-math-12-s16",
+   "heading": "Figure it Out (End of chapter)",
+   "text": "### Figure it Out\n\n1. A 210 gram packet of peanut *chikki* costs ₹70.5, while a 110 gram packet of potato chips costs ₹33.25. Which is cheaper?\n\n2. Write the decimal number at the arrow mark:\n\n[Figure: Two number lines, each with 11 tick marks and a downward arrow pointing at the 7th tick (sixth interval from the left end). The first number line runs from 3.1 (left end) to 3.2 (right end). The second number line runs from 2.15 (left end) to 2.17 (right end).]\n\n3. Shyamala bought 3 kg bananas at ₹30/- per kg. She counted 35 bananas in all. She sells each banana for ₹5/-. How much profit does she make selling all the bananas?\n\n> [Figure: Illustration of a girl holding a bunch of bananas standing in front of a fruit shop, with a shopkeeper behind the counter, crates of fruit in front.]\n\n4. A teacher placed textbooks that are 2.5 cm thick on a bookshelf. The teacher wanted to place 80 textbooks on the shelf. The bookshelf is 160 cm long. How many books could be placed on the shelf? Was there any space left? If yes, how much?\n\n<!-- page 94 -->\n\n5. Fill in the following blanks appropriately:\n\n| | | |\n|---|---|---|\n| 1 cm = 10 mm<br>1 m = 100 cm<br>1 km = 1000 m | 1 kg = 1000 g<br>1 g = 1000 mg | 1 l = 1000 ml |\n\n| | | |\n|---|---|---|\n| 5.5 km = ________ m | 35 cm = ________ m | 14.5 cm = ________ mm |\n| 68 g = ________ kg | 9.02 m = ________ mm | 125.5 ml = ________ l |\n\n6. The following problem was set by Sridharacharya in his book, *Patiganita*. \"$6\\frac{1}{4}$ is divided by $2\\frac{1}{2}$, and $60\\frac{1}{4}$ is divided by $3\\frac{1}{2}$. Tell the quotients separately.\" Can you try to solve it by converting the fractions into decimals?\n\n> Math Talk\n\n7. Fill the boxes in at least 2 different ways:\n\n   (a) [Figure: two empty boxes] $\\square \\times \\square = 2.4$\n\n   (b) $\\square \\times \\square = 14.5$\n\n8. Find the following quotients given that $756 \\div 36 = 21$:\n\n   (a) $75.6 \\div 3.6$\n\n   (b) $7.56 \\div 0.36$\n\n   (c) $756 \\div 0.36$\n\n   (d) $75.6 \\div 360$\n\n   (e) $7560 \\div 3.6$\n\n   (f) $7.56 \\div 0.36$\n\n9. Find the missing cells if each cell represents a$\\div$b:\n\n| b ↓  a → | 1517 | 151.7 | 15.17 | 1.517 | 15170 |\n|---|---|---|---|---|---|\n| 37 | 41 | | | | |\n| 3.7 | | | 4.1 | | |\n| 0.37 | | | | | |\n| 0.037 | | 4100 | | | |\n| 370 | | | | | |\n\n10. Using the digits 2, 4, 5, 8, and 0 fill the boxes [Figure: five boxes arranged as $\\square\\square . \\square \\times \\square . \\square$] to get the:\n\n    (a) maximum product\n\n    (b) minimum product\n\n<!-- page 95 -->\n\n(c) product greater than 150  (d) product nearest to 100\n\n(e) product nearest to 5\n\n11. Sort the following expressions in increasing order:\n\n    (a) $245.05 \\times 0.942368$  (b) $245.05 \\times 7.9682$\n\n    (c) $245.05 \\div 7.9682$  (d) $245.05 \\div 0.942368$\n\n    (e) $245.05$  (f) $7.9682$",
+   "page_start": 93,
+   "page_end": 95
+  },
+  {
+   "section_id": "7-math-12-s17",
+   "heading": "Summary",
+   "text": "## SUMMARY\n\n- In this chapter, we learnt procedures to perform decimal multiplication and division.\n- For decimal multiplication, we first multiply the multiplier and multiplicand as counting numbers. The number of decimal digits in the product is the total number of decimal digits in the multiplier and multiplicand.\n- Division of decimals uses the same procedure, i.e., division using place value (long division), as with counting numbers. The regrouping continues after the Ones place to Tenths, Hundredths, Thousandths, and so on. When the Ones are regrouped to Tenths, a decimal point is placed in the quotient.\n- There are decimal divisions where the quotient never ends. After each regrouping and dividing there is always a remainder!",
+   "page_start": 95,
+   "page_end": 95
+  },
+  {
+   "section_id": "7-math-12-s18",
+   "heading": "It's Puzzle Time! — Hidato",
+   "text": "## It's Puzzle Time! — Hidato\n\n[Figure: Puzzle grid, labelled \"Puzzle\". Rows from top to bottom (blank cells shown as _):\nRow 1: _, 33, 35, _, _\nRow 2: _, _, 24, 22, _\nRow 3: _, _, _, 21, _, _\nRow 4: _, 26, _, 13, 40 (circled, highlighted), 11\nRow 5: 27, _, _, _, 9, _, 1 (circled, highlighted)\nRow 6: _, _, 18, _, _ (starting under the third column onward: _, _, 18, _, _)\nRow 7: _, 7, _, _\nRow 8: 5, _]\n\n[Figure: Solution grid, labelled \"Solution\". Rows from top to bottom:\nRow 1: 32, 33, 35, 36, 37\nRow 2: 31, 34, 24, 22, 38\nRow 3: 30, 25, 23, 21, 12, 39\nRow 4: 39, 26, 20, 13, 40 (circled), 11\nRow 5: 27, 28, 14, 19, 9, 10, 1 (circled)\nRow 6: 15, 16, 18, 8, 2\nRow 7: 17, 7, 16, 3\nRow 8: 5, 4]\n\n<!-- page 96 -->\n\nIn Hidato, a grid of cells is given. It is usually square-shaped, like Sudoku or Kakuro, but it can also include hexagons or any shape that forms a tessellation. It can have inner holes (like a disc), but it is made of only one piece.\n\nUsually, in every Hidato puzzle the lowest and the highest numbers are given on the grid.\n\nYour task is to fill the grid such that there is a continuous path of consecutive numbers from the lowest to the highest number. The next number must be in any one of the adjacent cells, including diagonally adjacent cells.\n\nThe grid comes pre-filled with some numbers (with values between the smallest and the highest) to ensure that these puzzles have a single solution.\n\nTry solving the following Hidato puzzles.\n\n[Figure: Hidato puzzle 1, a 5×5 grid. Row 1: 25, blank, 1, blank, blank. Row 2: blank, 20, blank, blank, 4. Row 3: blank, 14, blank, 8, blank. Row 4: blank, blank, 15, blank, 9. Row 5: all five cells blank. The cells 25 and 1 are highlighted with circles.]\n\n[Figure: Hidato puzzle 2, an irregular grid. Row 1: 36, 1, 2, blank, blank (starting at the second column). Row 2: blank, blank, blank, 4, 6, 13, blank. Row 3: blank, blank, 34, blank, blank, 12, blank. Row 4: 39, blank, 30, blank, blank, blank, blank (last cell at far right). Row 5: blank, 31, blank, blank. Row 6: blank, blank, blank, blank, 17. Row 7: blank, 26, blank, 23, 21, blank, blank. The cells 1 and 39 are highlighted with circles.]\n\n[Figure: Hidato puzzle 3, a tree-shaped grid. Row 1: blank, 9. Row 2: 7, 10. Row 3: six blank cells. Row 4: blank, 5, blank, blank, 1, 17, 15. Row 5: seven blank cells. Row 6: 44, blank, 49, blank, blank, 28, blank, blank. Row 7: blank, 54, 42, blank, 50, blank, 29, 26, blank, blank. Row 8: 56, blank, blank, blank, blank, 35, 34, 25, 23, blank. Row 9: blank, blank. Row 10: 39, blank. The cells 1 and 56 are highlighted with circles.]\n\n[Figure: A illustration of a group of ten children standing together, holding notepads and pencils, looking thoughtful.]",
    "page_start": 95,
    "page_end": 96
   }
  ],
  "key_terms": [
   {
-   "term": "Step 1",
-   "meaning": "Step 1: \u0007Write the dividend as it is and place a decimal point at the end.",
-   "page": 68
-  },
-  {
-   "term": "Step 2",
-   "meaning": "Step 2: Count the number of zeroes in the divisor.",
-   "page": 68
-  },
-  {
-   "term": "Step 3",
-   "meaning": "Step 3: Move the decimal point from Step 1 left by the same number of places as the count from Step 2.",
-   "page": 68
-  },
-  {
-   "term": "Example 1",
-   "meaning": "Example 1: Arshad goes to a stationery shop and purchases 5 pens.",
-   "page": 69
-  },
-  {
-   "term": "Example 2",
-   "meaning": "Example 2: A car travels 12.5 km per litre of petrol.",
-   "page": 69
-  },
-  {
-   "term": "Example 3",
-   "meaning": "Example 3: The distance between Ajay's school and his home is 827 m.",
-   "page": 70
-  },
-  {
-   "term": "Example 4",
-   "meaning": "Example 4: Find the area of the given rectangle.",
-   "page": 70
-  },
-  {
-   "term": "Example 5",
-   "meaning": "Example 5: Let us use the above rule to find the product of 5.8 and 1.24.",
-   "page": 72
-  },
-  {
-   "term": "Example 6",
-   "meaning": "Example 6: Anuja has a 3.9 m length of ribbon and she wants to cut it into 10 equal pieces.",
-   "page": 74
-  },
-  {
-   "term": "Example 7",
-   "meaning": "Example 7: Neenu has 29 metres of red ribbon and wants to share it equally with Anu.",
-   "page": 75
-  },
-  {
-   "term": "Example 8",
-   "meaning": "Example 8: Find the value of 1324 ÷ 4.",
-   "page": 77
-  },
-  {
    "term": "long division",
-   "meaning": "We also call this division using place values as ‘long division’.",
+   "meaning": "We also call this division using place values as '**long division**'.",
    "page": 78
   },
   {
-   "term": "Example 9",
-   "meaning": "Example 9 : Find the value of 237 ÷ 8.",
+   "term": "decimal multiplication rule",
+   "meaning": "So, to multiply two decimals, we can multiply the two numbers obtained by removing the decimal point, and then place the decimal point appropriately as shown below.",
+   "page": 71
+  },
+  {
+   "term": "dividing by 10, 100, 1000",
+   "meaning": "When we divide a decimal by 1, 10, 100, 1000, and so on, we can just move the decimal point to the left by as many places as there are zeroes in the divisor!",
+   "page": 75
+  },
+  {
+   "term": "decimal point in quotient",
+   "meaning": "**When we regroup Ones into Tenths, we place a decimal point in the quotient.**",
    "page": 81
   },
   {
-   "term": "Example 10",
-   "meaning": "Example 10: A shopkeeper has 9.5 kg of sugar and he wants to pack it equally in 4 bags.",
-   "page": 82
-  },
-  {
-   "term": "Example 11",
-   "meaning": "Example 11: What is the value of 0.06 ÷ 5?",
-   "page": 83
-  },
-  {
-   "term": "Example 12",
-   "meaning": "Example 12: Ravi went from Pune to Matheran by scooter in 2.5 hours.",
-   "page": 84
-  },
-  {
-   "term": "Example 13",
-   "meaning": "Example 13: Find 4.68 ÷ 1.3.",
-   "page": 84
-  },
-  {
-   "term": "Step 4",
-   "meaning": "Step 4: \u0007Regroup 1 Hundredths as 10 Thousandths.",
-   "page": 85
+   "term": "leap year",
+   "meaning": "To correct this problem, the idea of a leap year was introduced.",
+   "page": 88
   }
  ],
  "activities": [],
  "figures": [],
  "exercises": [
   {
-   "label": "Figure it Out (p. 73) Q1",
-   "text": "1. Recall that a tenth is 0.1, a hundredth is 0.01, and so on. Find the following products in tenths, hundredths and so on:\n\n(a) 6 × 4 tenths = 24 tenths\n\n(b) 7 × 0.3\n\n(c) 9 × 5 hundredths",
+   "label": "Math Talk Q1 (division by 10, 100, 1000 rule)",
+   "text": "Can you give a simple rule to divide any number by a number of the form 1 followed by zeroes — 10, 100, 1000, etc.? For example, $\\frac{123}{10}$, $\\frac{24}{100}$ or $\\frac{678}{1000}$ ? Look for a pattern in the previous problems.",
+   "type_hint": "short",
+   "page": 68,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (multiplication) Q1",
+   "text": "1. Can the product of two decimals be a natural number?",
+   "type_hint": "short",
+   "page": 70,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (multiplication) Q2",
+   "text": "2. Can the product of a decimal and a natural number be a natural number?",
+   "type_hint": "short",
+   "page": 70,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (product) Q1",
+   "text": "1. Suppose we know that $596 \\times 248 = 147808$, can you immediately write down the product of $5.96 \\times 24.8$?",
+   "type_hint": "short",
+   "page": 71,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (product) Q2",
+   "text": "2. By looking at the above examples, can you frame a rule to multiply two decimals?",
+   "type_hint": "short",
+   "page": 71,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (Multiplication) Q1",
+   "text": "1. Recall that a tenth is 0.1, a hundredth is 0.01, and so on. Find the following products in tenths, hundredths and so on:\n   (a) $6 \\times 4$ tenths $= 24$ tenths\n   (b) $7 \\times 0.3$\n   (c) $9 \\times 5$ hundredths",
    "type_hint": "numerical",
    "page": 73,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 73) Q2",
-   "text": "2. Find the products:\n\n(a) 27.34 × 6\n\n(b) 4.23 × 3.7\n\n(c) 0.432 × 0.23",
+   "label": "Figure it Out (Multiplication) Q2",
+   "text": "2. Find the products:\n   (a) $27.34 \\times 6$\n   (b) $4.23 \\times 3.7$\n   (c) $0.432 \\times 0.23$",
    "type_hint": "numerical",
    "page": 73,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 73) Q3",
+   "label": "Figure it Out (Multiplication) Q3",
    "text": "3. Thejus needs 1.65 m of cloth for a shirt. How many metres of cloth are needed for 3 shirts?",
    "type_hint": "numerical",
    "page": 73,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 73) Q4",
+   "label": "Figure it Out (Multiplication) Q4",
    "text": "4. Meenu bought 4 notebooks and 3 erasers. The cost of each book was ₹15.50 and each eraser was ₹2.75. How much did she spend in all?",
    "type_hint": "numerical",
    "page": 73,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 73) Q5",
+   "label": "Figure it Out (Multiplication) Q5",
    "text": "5. The thickness of a rupee coin is 1.45 mm. What is the total height of the cylinder formed by placing 36 rupee coins one over the other? Write the answer in centimeters.",
+   "type_hint": "numerical",
+   "page": 73,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (Multiplication) Q6",
+   "text": "6. The price of 1 kg of oranges is ₹56.50. What is the price of 2.250 kg of oranges? Can we write 56.50 as 56.5 and 2.250 as 2.25 and multiply? Will we get the same product? Why?\n\n   > Math Talk",
    "type_hint": "short",
    "page": 73,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 73) Q6",
-   "text": "6. The price of 1 kg of oranges is ₹56.50. What is the price of 2.250 kg of oranges? Can we write 56.50 as 56.5 and 2.250 as 2.25 and multiply? Will we get the same product? Why?\n\nMath\n\nTalk",
-   "type_hint": "long",
-   "page": 73,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 73) Q7",
+   "label": "Figure it Out (Multiplication) Q7",
    "text": "7. Dwarakanath purchases notebooks at a wholesale price of ₹23.6 per piece and sells each notebook at ₹30/-. How much profit does he make if he sells 50 books in a week?",
    "type_hint": "numerical",
    "page": 73,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 73) Q8",
-   "text": "8. Given that 18 × 12 = 216, find the products:\n\n(a) 18 × 1.2 (b) 18 × 0.12\n\n(c) 1.8 × 1.2 (d) 0.18 × 0.12\n\n(e) 0.018 × 0.012 (f) 1.8 × 12\n\nIn which of the cases above is the product less than 1?",
-   "type_hint": "mcq",
+   "label": "Figure it Out (Multiplication) Q8",
+   "text": "8. Given that $18 \\times 12 = 216$, find the products:\n   (a) $18 \\times 1.2$\n   (b) $18 \\times 0.12$\n   (c) $1.8 \\times 1.2$\n   (d) $0.18 \\times 0.12$\n   (e) $0.018 \\times 0.012$\n   (f) $1.8 \\times 12$\n\n   In which of the cases above is the product less than 1?",
+   "type_hint": "numerical",
    "page": 73,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 73) Q9",
-   "text": "9. In which of the following multiplications is the product less than 1? Can you find the answer without actually doing the multiplications?\n\n(a) 7 × 0.6 (b) 0.7 × 0.6\n\n(c) 0.7 × 6 (d) 0.07 × 0.06",
-   "type_hint": "mcq",
-   "page": 73,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 73) Q10",
-   "text": "10. Multiplying the following numbers by 10, 100 and 1000 to complete the table.\n\n<!-- page 74 -->\n\n|  | × 10 | × 100 | × 1000 |\n| --- | --- | --- | --- |\n| 5.7 |  |  |  |\n| 23.02 |  |  |  |\n| 0.92 |  |  |  |\n| 0.306 |  |  |  |\n|  |  |  |  |\n| 24.67 |  |  |  |",
+   "label": "Figure it Out (Multiplication) Q9",
+   "text": "9. In which of the following multiplications is the product less than 1? Can you find the answer without actually doing the multiplications?\n   (a) $7 \\times 0.6$\n   (b) $0.7 \\times 0.6$\n   (c) $0.7 \\times 6$\n   (d) $0.07 \\times 0.06$",
    "type_hint": "short",
    "page": 73,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 83) Q1",
-   "text": "1. Find the quotient by converting the denominator into 1, 10, 100 or 1000 and verify the solution by the long division method (division by place value).\n\n(a) 18\n\n5\n(b) 415\n\n4\n\n(c) 1217\n\n2\n(d) 4827\n\n8",
+   "label": "Figure it Out (Multiplication) Q10",
+   "text": "10. Multiplying the following numbers by 10, 100 and 1000 to complete the table.\n\n<!-- page 74 -->\n\n| | × 10 | × 100 | × 1000 |\n|---|---|---|---|\n| 5.7 | | | |\n| 23.02 | | | |\n| 0.92 | | | |\n| 0.306 | | | |\n| 24.67 | | | |",
+   "type_hint": "fill_blank",
+   "page": 73,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (Division) Q1",
+   "text": "1. Find the quotient by converting the denominator into 1, 10, 100 or 1000 and verify the solution by the long division method (division by place value).\n   - (a) $\\frac{18}{5}$\n   - (b) $\\frac{415}{4}$\n   - (c) $\\frac{1217}{2}$\n   - (d) $\\frac{4827}{8}$",
+   "type_hint": "numerical",
+   "page": 83,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (Division) Q2",
+   "text": "2. Choose the correct answer:\n   - (a) $\\frac{1526}{4} =$\n     - (i) 38.15\n     - (ii) 380.15\n     - (iii) 381.5\n     - (iv) 381.05\n   - (b) $\\frac{3567}{8} =$\n     - (i) 4458.75\n     - (ii) 44.5875\n     - (iii) 445.875\n     - (iv) 4458.75",
    "type_hint": "mcq",
    "page": 83,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 83) Q2",
-   "text": "2. Choose the correct answer:\n\n(a) 1526\n\n4 =\n\n(i) 38.15\n(ii) 380.15\n\n(iii) 381.5\n(iv) 381.05\n\n(b) 3567\n\n8 =\n\n> Remember,\n\n> when we regroup Ones into Tenths we\n\n(i) 4458.75\n(ii) 44.5875\n\n(iii) 445.875\n(iv) 4458.75\n\n> need to place\n\n> a decimal point in the",
+   "label": "Figure it Out (Division) Q3",
+   "text": "3. What is the quotient?\n   - (a) $132 \\div 4 =$\n   - (b) $13.2 \\div 4 =$\n   - (c) $1.32 \\div 4 =$\n   - (d) $0.132 \\div 4 =$",
+   "type_hint": "numerical",
+   "page": 83,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (Division) Q4",
+   "text": "4. What is the quotient?\n   - (a) $126 \\div 8 =$\n   - (b) $12.6 \\div 8 =$\n   - (c) $1.26 \\div 8 =$\n   - (d) $0.126 \\div 8 =$\n   - (e) $0.0126 \\div 8 =$",
+   "type_hint": "numerical",
+   "page": 83,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (dividend, divisor, quotient)",
+   "text": "Will the quotient be always greater than the dividend when the divisor is a decimal? Try it out with different values of the divisor.\n\nDescribe the relationship between the dividend, divisor, and the quotient. Create a table for capturing this relationship in different situations, like we did for multiplication.",
    "type_hint": "short",
-   "page": 83,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 83) Q3",
-   "text": "3. What is the quotient?\n\n(a) 132 ÷ 4 =\n(b) 13.2 ÷ 4 =\n\n> quotient.\n\n(c) 1.32 ÷ 4 =\n(d) 0.132 ÷ 4 =",
-   "type_hint": "mcq",
-   "page": 83,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 83) Q4",
-   "text": "4. What is the quotient?\n\n(a) 126 ÷ 8 =\n(b) 12.6 ÷ 8 =\n\n(c) 1.26 ÷ 8 =\n(d) 0.126 ÷ 8 =\n\n(e) 0.0126 ÷ 8 =\n\n<!-- page 84 -->",
-   "type_hint": "mcq",
-   "page": 83,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 86) Q1",
-   "text": "1. Express the following fractions in decimal form:\n\n(a) 2\n\n5\n(b) 13\n\n4\n\n(c) 4 50\n(d) 5\n\n8",
-   "type_hint": "mcq",
    "page": 86,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 86) Q2",
-   "text": "2. Find the quotients:\n\n(a) 24.86 ÷ 1.2\n\n(b) 5.728 ÷ 1.52\n\n<!-- page 87 -->\n\nAnother Peek Beyond the Point",
+   "label": "Figure it Out (Division 2) Q1",
+   "text": "1. Express the following fractions in decimal form:\n   (a) $\\frac{2}{5}$\n   (b) $\\frac{13}{4}$\n   (c) $\\frac{4}{50}$\n   (d) $\\frac{5}{8}$",
    "type_hint": "numerical",
    "page": 86,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 86) Q3",
-   "text": "3. Evaluate the following using the information 156 × 12 = 1872.\n\n(a) 15.6 × 1.2 = __________\n(b) 187.2 ÷ 1.2 = __________\n\n(c) 18.72 ÷ 15.6 = __________\n(d) 0.156 × 0.12 = __________",
-   "type_hint": "mcq",
+   "label": "Figure it Out (Division 2) Q2",
+   "text": "2. Find the quotients:\n   (a) $24.86 \\div 1.2$\n   (b) $5.728 \\div 1.52$",
+   "type_hint": "numerical",
+   "page": 86,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (Division 2) Q3",
+   "text": "3. Evaluate the following using the information $156 \\times 12 = 1872$.\n\n   (a) $15.6 \\times 1.2 =$ __________  (b) $187.2 \\div 1.2 =$ __________\n\n   (c) $18.72 \\div 15.6 =$ __________  (d) $0.156 \\times 0.12 =$ __________",
+   "type_hint": "fill_blank",
    "page": 87,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 86) Q4",
-   "text": "4. Evaluate the following:\n\n(a) 25 ÷ ______ = 0.025\n(b) 25 ÷ ______ = 250\n\n(c) 25 ÷ ______ = 2.5\n(d) 25 ÷ 10 = 25 × _____\n\n(e) 25 ÷ 0.10 = 25 × ______ (f) 25 ÷ 0.01 = 25 × ______",
-   "type_hint": "mcq",
+   "label": "Figure it Out (Division 2) Q4",
+   "text": "4. Evaluate the following:\n\n   (a) $25 \\div$ ______ $= 0.025$  (b) $25 \\div$ ______ $= 250$\n\n   (c) $25 \\div$ ______ $= 2.5$  (d) $25 \\div 10 = 25 \\times$ ______\n\n   (e) $25 \\div 0.10 = 25 \\times$ ______  (f) $25 \\div 0.01 = 25 \\times$ ______",
+   "type_hint": "fill_blank",
    "page": 87,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 86) Q5",
-   "text": "5. Find the quotient:\n\n(a) 2.46 ÷ 1.5 =\n(b) 2.46 ÷ 0.15 =\n\n(c) 2.46 ÷ 0.015 =\n\n\u0007Is the quotient obtained in 24.6 ÷ 1.5 the same as the quotient obtained in 2.46 ÷ 0.15?",
+   "label": "Figure it Out (Division 2) Q5",
+   "text": "5. Find the quotient:\n\n   (a) $2.46 \\div 1.5 =$  (b) $2.46 \\div 0.15 =$\n\n   (c) $2.46 \\div 0.015 =$\n\n   Is the quotient obtained in $24.6 \\div 1.5$ the same as the quotient obtained in $2.46 \\div 0.15$?",
    "type_hint": "numerical",
    "page": 87,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 86) Q6",
+   "label": "Figure it Out (Division 2) Q6",
    "text": "6. A 4 m long wooden block has to be cut into 5 pieces of equal length. What is the length of each piece?",
-   "type_hint": "short",
-   "page": 87,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 86) Q7",
-   "text": "7. If the perimeter of a regular polygon with 12 sides is 208.8 cm, what is the length of its side?",
-   "type_hint": "short",
-   "page": 87,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 86) Q8",
-   "text": "8. 3 litres of watermelon juice is shared among 8 friends equally. How much watermelon juice will each get? Express the quantity of juice in millilitres.",
-   "type_hint": "short",
-   "page": 87,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 86) Q9",
-   "text": "9. A car covers 234.45 km using 12.6 litres of petrol. What is the distance travelled per litre?",
-   "type_hint": "short",
-   "page": 87,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 86) Q10",
-   "text": "10. 13.5 kg of flour (aata) was distributed equally among 15 students. How much flour did each student receive?\n\n1 2 = 0.5 | 1 5 = 0.2\n\n1 2 × 2 = 0.25 | 1 5 × 5 = 0.04\n\n1 2 × 2 × 2 = 0.125 | 1 5 × 5 × 5 = 0.008\n\n1 2 × 2 × 2 × 2 = 0.0625 | 1 5 × 5 × 5 × 5 = 0.0016\n\n1 2 × 2 × 2 × 2 × 2 = ? | 1 5 × 5 × 5 × 5 × 5 = ?\n\nWhat pattern do you observe? Why are 2 and 5 related in this way? Math\n\nTalk\n\n<!-- page 88 -->",
    "type_hint": "numerical",
    "page": 87,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 93) Q1",
-   "text": "1. A 210 gram packet of peanut chikki costs ₹70.5, while a 110 gram packet of potato chips costs ₹33.25. Which is cheaper?",
+   "label": "Figure it Out (Division 2) Q7",
+   "text": "7. If the perimeter of a regular polygon with 12 sides is 208.8 cm, what is the length of its side?",
+   "type_hint": "numerical",
+   "page": 87,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (Division 2) Q8",
+   "text": "8. 3 litres of watermelon juice is shared among 8 friends equally. How much watermelon juice will each get? Express the quantity of juice in millilitres.",
+   "type_hint": "numerical",
+   "page": 87,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (Division 2) Q9",
+   "text": "9. A car covers 234.45 km using 12.6 litres of petrol. What is the distance travelled per litre?",
+   "type_hint": "numerical",
+   "page": 87,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (Division 2) Q10",
+   "text": "10. 13.5 kg of flour (*aata*) was distributed equally among 15 students. How much flour did each student receive?",
+   "type_hint": "numerical",
+   "page": 87,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (powers of 2 and 5)",
+   "text": "### Math Talk\n\nWhat pattern do you observe? Why are 2 and 5 related in this way?",
    "type_hint": "short",
+   "page": 87,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (days in 100 years) Q1",
+   "text": "> Math Talk\n\nWith this new scheme of adding one extra day every 4th year, what is the number of days in 100 calendar years? Can you write an expression to calculate that number?\n\nHere is one way to form the expression. Each calendar year has 365 days. In 100 calendar years, the number of days is $100 \\times 365$. But years that are divisible by 4 have one extra day.",
+   "type_hint": "short",
+   "page": 89,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (different expressions)",
+   "text": "> Math Talk\n\nCan you form different expressions for the same question?",
+   "type_hint": "short",
+   "page": 89,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (new adjustment)",
+   "text": "Can you write an expression for the number of days in 100 calendar years with this new adjustment?",
+   "type_hint": "short",
+   "page": 90,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Try This (leap years in 10,000 years)",
+   "text": "> Try This\n\nWith this final scheme of leap years can you calculate the number of calendar days in 10,000 years and the number of actual days the Earth will take to make 10,000 revolutions around the Sun? What is the difference? If there is a big difference, can you suggest a way to fix this problem?",
+   "type_hint": "long",
+   "page": 92,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Try This (Indian calendars)",
+   "text": "### Try This\n\nInvestigate how traditional calendars in India managed to consistently align the days in the calendar with astronomical events like the Earth going around the Sun or even the positions of the stars in the sky accurately.",
+   "type_hint": "long",
    "page": 93,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 93) Q2",
-   "text": "2. Write the decimal number at the arrow mark:\n\n3.1 3.2\n\n2.15 2.17",
+   "label": "Try This (cyclic number using 1/17)",
+   "text": "### Try This\n\nTo find one such number, you can find $1 \\div 17$ in decimal, and use the repeating block of digits.",
    "type_hint": "short",
-   "page": 93,
+   "page": 86,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 93) Q3",
+   "label": "Figure it Out (End) Q1",
+   "text": "1. A 210 gram packet of peanut *chikki* costs ₹70.5, while a 110 gram packet of potato chips costs ₹33.25. Which is cheaper?",
+   "type_hint": "numerical",
+   "page": 93,
+   "source": "end"
+  },
+  {
+   "label": "Figure it Out (End) Q2",
+   "text": "2. Write the decimal number at the arrow mark:\n\n[Figure: Two number lines, each with 11 tick marks and a downward arrow pointing at the 7th tick (sixth interval from the left end). The first number line runs from 3.1 (left end) to 3.2 (right end). The second number line runs from 2.15 (left end) to 2.17 (right end).]",
+   "type_hint": "diagram",
+   "page": 93,
+   "source": "end"
+  },
+  {
+   "label": "Figure it Out (End) Q3",
    "text": "3. Shyamala bought 3 kg bananas at ₹30/- per kg. She counted 35 bananas in all. She sells each banana for ₹5/-. How much profit does she make selling all the bananas?",
    "type_hint": "numerical",
    "page": 93,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 93) Q4",
-   "text": "4. A teacher placed textbooks that are 2.5 cm thick on a bookshelf. The teacher wanted to place 80 textbooks on the shelf. The bookshelf is 160 cm long. How many books could be placed on the shelf? Was there any space left? If yes, how much?\n\n<!-- page 94 -->",
+   "label": "Figure it Out (End) Q4",
+   "text": "4. A teacher placed textbooks that are 2.5 cm thick on a bookshelf. The teacher wanted to place 80 textbooks on the shelf. The bookshelf is 160 cm long. How many books could be placed on the shelf? Was there any space left? If yes, how much?",
    "type_hint": "numerical",
    "page": 93,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 93) Q5",
-   "text": "5. Fill in the following blanks appropriately:\n\n| 1 cm = 10 mm 1 m = 100 cm 1 km = 1000 m | 1 kg = 1000 g 1 g = 1000 mg 1 l = 1000 ml |  |\n| --- | --- | --- |\n| 5.5 km = m _________ | 35 cm = m ________ | 14.5 cm = mm _______ |\n|  |  |  |\n| 68 g = kg ________ | 9.02 m = mm ________ | 125.5 ml = l _______ |\n\n68 g = ________ kg 9.02 m = ________ mm125.5 ml = _______ l",
+   "label": "Figure it Out (End) Q5",
+   "text": "5. Fill in the following blanks appropriately:\n\n| | | |\n|---|---|---|\n| 1 cm = 10 mm<br>1 m = 100 cm<br>1 km = 1000 m | 1 kg = 1000 g<br>1 g = 1000 mg | 1 l = 1000 ml |\n\n| | | |\n|---|---|---|\n| 5.5 km = ________ m | 35 cm = ________ m | 14.5 cm = ________ mm |\n| 68 g = ________ kg | 9.02 m = ________ mm | 125.5 ml = ________ l |",
    "type_hint": "fill_blank",
    "page": 94,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 93) Q6",
-   "text": "6. The following problem was set by Sridharacharya in his book,\n\nPatiganita. “6 1\n\n4 is divided by 2 1 2, and 60 1 4 is divided by 3 1",
-   "type_hint": "short",
-   "page": 94,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 93) Q2",
-   "text": "2. Tell the\n\nquotients separately.” Can you try to solve it by converting the\n\nfractions into decimals?",
-   "type_hint": "short",
-   "page": 94,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 93) Q7",
-   "text": "7. Fill the boxes in at least 2 different ways: | Math\n\nTalk\n\n(a) × = 2.4 (b) × = 14.5",
-   "type_hint": "short",
-   "page": 94,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 93) Q8",
-   "text": "8. Find the following quotients given that 756 ÷ 36 = 21:\n\n(a) 75.6 ÷ 3.6\n(b) 7.56 ÷ 0.36\n\n(c) 756 ÷ 0.36\n(d) 75.6 ÷ 360\n\n(e) 7560 ÷ 3.6\n(f) 7.56 ÷ 0.36",
-   "type_hint": "mcq",
-   "page": 94,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 93) Q9",
-   "text": "9. Find the missing cells if each cell represents a÷b:\n\n| b a | 1517 | 151.7 | 15.17 | 1.517 | 15170 |\n| --- | --- | --- | --- | --- | --- |\n| 37 | 41 |  |  |  |  |\n| 3.7 |  |  | 4.1 |  |  |\n| 0.37 |  |  |  |  |  |\n| 0.037 |  | 4100 |  |  |  |\n| 370 |  |  |  |  |  |",
+   "label": "Figure it Out (End) Q6",
+   "text": "6. The following problem was set by Sridharacharya in his book, *Patiganita*. \"$6\\frac{1}{4}$ is divided by $2\\frac{1}{2}$, and $60\\frac{1}{4}$ is divided by $3\\frac{1}{2}$. Tell the quotients separately.\" Can you try to solve it by converting the fractions into decimals?\n\n> Math Talk",
    "type_hint": "numerical",
    "page": 94,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 93) Q10",
-   "text": "10. Using the digits 2, 4, 5, 8, and 0 fill the boxes . × . to get the:\n\n(a) maximum product\n(b) minimum product\n\n<!-- page 95 -->\n\nAnother Peek Beyond the Point\n\n(c) product greater than 150\n(d) product nearest to 100\n\n(e) product nearest to 5",
-   "type_hint": "mcq",
+   "label": "Figure it Out (End) Q7",
+   "text": "7. Fill the boxes in at least 2 different ways:\n\n   (a) [Figure: two empty boxes] $\\square \\times \\square = 2.4$\n\n   (b) $\\square \\times \\square = 14.5$",
+   "type_hint": "fill_blank",
    "page": 94,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 93) Q11",
-   "text": "11. Sort the following expressions in increasing order:\n\n(a) 245.05 × 0.942368\n(b) 245.05 × 7.9682\n\n(c) 245.05 ÷ 7.9682\n(d) 245.05 ÷ 0.942368\n\n(e) 245.05\n(f) 7.9682",
-   "type_hint": "mcq",
+   "label": "Figure it Out (End) Q8",
+   "text": "8. Find the following quotients given that $756 \\div 36 = 21$:\n\n   (a) $75.6 \\div 3.6$\n\n   (b) $7.56 \\div 0.36$\n\n   (c) $756 \\div 0.36$\n\n   (d) $75.6 \\div 360$\n\n   (e) $7560 \\div 3.6$\n\n   (f) $7.56 \\div 0.36$",
+   "type_hint": "numerical",
+   "page": 94,
+   "source": "end"
+  },
+  {
+   "label": "Figure it Out (End) Q9",
+   "text": "9. Find the missing cells if each cell represents a$\\div$b:\n\n| b ↓  a → | 1517 | 151.7 | 15.17 | 1.517 | 15170 |\n|---|---|---|---|---|---|\n| 37 | 41 | | | | |\n| 3.7 | | | 4.1 | | |\n| 0.37 | | | | | |\n| 0.037 | | 4100 | | | |\n| 370 | | | | | |",
+   "type_hint": "fill_blank",
+   "page": 94,
+   "source": "end"
+  },
+  {
+   "label": "Figure it Out (End) Q10",
+   "text": "10. Using the digits 2, 4, 5, 8, and 0 fill the boxes [Figure: five boxes arranged as $\\square\\square . \\square \\times \\square . \\square$] to get the:\n\n    (a) maximum product\n\n    (b) minimum product\n\n<!-- page 95 -->\n\n(c) product greater than 150  (d) product nearest to 100\n\n(e) product nearest to 5",
+   "type_hint": "other",
+   "page": 94,
+   "source": "end"
+  },
+  {
+   "label": "Figure it Out (End) Q11",
+   "text": "11. Sort the following expressions in increasing order:\n\n    (a) $245.05 \\times 0.942368$  (b) $245.05 \\times 7.9682$\n\n    (c) $245.05 \\div 7.9682$  (d) $245.05 \\div 0.942368$\n\n    (e) $245.05$  (f) $7.9682$",
+   "type_hint": "other",
    "page": 95,
-   "source": "in_chapter"
+   "source": "end"
   }
  ],
  "topics": [
-  "A Quick Recap of Decimals",
-  "Decimal Multiplication",
-  "Decimal Division",
-  "Look Before You Leap!",
-  "Step 1",
-  "Step 2",
-  "Step 3",
-  "Example 1",
-  "Example 2",
-  "Example 3",
-  "Example 4",
-  "Example 5",
-  "Example 6",
-  "Example 7",
-  "Example 8",
+  "decimals",
+  "fractions to decimals",
+  "dividing by 10, 100, 1000",
+  "decimal multiplication",
+  "placing decimal point",
+  "product vs numbers multiplied",
+  "decimal division",
   "long division",
-  "Example 9",
-  "Example 10",
-  "Example 11",
-  "Example 12",
-  "Example 13",
-  "Step 4"
+  "place value regrouping",
+  "decimal dividend",
+  "decimal divisor",
+  "non-terminating decimals",
+  "recurring decimals",
+  "1 by 7",
+  "cyclic number 142857",
+  "leap year",
+  "Gregorian calendar",
+  "unit conversions",
+  "Hidato puzzle"
  ],
  "page_start": 67,
  "page_end": 96,
- "structured_by": "heuristic",
+ "structured_by": "llm:sonnet",
  "warnings": []
 }
