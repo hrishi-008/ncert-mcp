@@ -2,23 +2,27 @@
 
 <!-- page 55 -->
 
-## NUMBER PLAY 3
+# 3 NUMBER PLAY
+
+[Figure: Chapter banner showing cartoon number characters (4, 9, 5, 6, 1, 7, 4, 3, 8, 0, 1, 2) playing on a patch of grass; a QR code labelled 0674CH03 is placed beside the title]
 
 Numbers are used in different contexts and in many different ways to organise our lives. We have used numbers to count, and have applied the basic operations of addition, subtraction, multiplication and division on them, to solve problems related to our daily lives.
 
 In this chapter, we will continue this journey, by playing with numbers, seeing numbers around us, noticing patterns, and learning to use numbers and operations in new ways.
 
+### Math Talk
+
+> Math Talk
+
 Think about various situations where we use numbers. List five different situations in which numbers are used. See what your classmates have listed, share, and discuss.
 
-Math
+## 3.1 Numbers can Tell us Things
 
-Talk
-
-#### 3.1 Numbers can Tell us Things
-
-#### What are these numbers telling us?
+### What are these numbers telling us?
 
 Some children in a park are standing in a line. Each one says a number.
+
+[Figure: Eight children standing in a line on grass, each with a speech bubble saying a number; from left to right the numbers are 0, 2, 1, 1, 0, 2, 1, 0]
 
 What do you think these numbers mean?
 
@@ -26,109 +30,110 @@ The children now rearrange themselves, and again each one says a number based on
 
 <!-- page 56 -->
 
-Ganita Prakash | Grade 6
+[Figure: Eight children standing in a line on grass, with speech bubbles above them showing, from left to right, the numbers 1, 0, 2, 0, 1, 2, 1, 0.]
 
-Did you figure out what these numbers represent? Hint: Could their heights be playing a role?
+Did you figure out what these numbers represent?
+*Hint*: Could their heights be playing a role?
 
-A child says ‘1’ if there is only one taller child standing next to them. A child says ‘2’ if both the children standing next to them are taller. A child says ‘0’, if neither of the children standing next to them are taller. That is each person says the number of taller neighbours they have.
+A child says '1' if there is only one taller child standing next to them.
+A child says '2' if both the children standing next to them are taller.
+A child says '0', if neither of the children standing next to them are taller.
+That is each person says the number of taller neighbours they have.
+
+### Math Talk
 
 Try answering the questions below and share your reasoning.
 
-> Math
+> Math Talk
 
-1. Can the children rearrange themselves so that the children standing at the ends say ‘2’?
-2. Can we arrange the children in a line so that all would say only 0s?
-3. Can two children standing next to each other say the same number?
-4. There are 5 children in a group, all of different heights. Can they stand such that four of them say ‘1’ and the last one says ‘0’? Why or why not?
-5. For this group of 5 children, is the sequence 1, 1, 1, 1, 1 possible?
-6. Is the sequence 0, 1, 2, 1, 0 possible? Why or why not?
-7. How would you rearrange the five children so that the maximum number of children say ‘2’?
-
-> Talk
+1. Can the children rearrange themselves so that the children standing at the ends say '2'?
+2. Can we arrange the children in a line so that all would say only 0s?
+3. Can two children standing next to each other say the same number?
+4. There are 5 children in a group, all of different heights. Can they stand such that four of them say '1' and the last one says '0'? Why or why not?
+5. For this group of 5 children, is the sequence 1, 1, 1, 1, 1 possible?
+6. Is the sequence 0, 1, 2, 1, 0 possible? Why or why not?
+7. How would you rearrange the five children so that the maximum number of children say '2'?
 
 <!-- page 57 -->
 
-Number Play
-
-#### 3.2 Supercells
+## 3.2 Supercells
 
 Observe the numbers written in the table below. Why are some numbers coloured? Discuss.
 
-|  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 43 | 79 | 75 | 63 | 10 | 29 | 28 | 34 |
+| 43 | **79** (coloured) | 75 | 63 | 10 | **29** (coloured) | 28 | **34** (coloured) |
+|---|---|---|---|---|---|---|---|
 
-200 577 626 345 790 694 109 | 198
+| 200 | 577 | **626** (coloured) | 345 | **790** (coloured) | 694 | 109 | **198** (coloured) |
+|---|---|---|---|---|---|---|---|
+
+[Figure: Two rows of eight cells each. Coloured (green) cells in the first row: 79, 29, 34. Coloured cells in the second row: 626, 790, 198.]
 
 A cell is coloured if the number in it is larger than its adjacent cells. The number 626 is coloured as it is larger than 577 and 345, whereas 200 is not coloured as it is smaller than 577. The number 198 is coloured as it has only one adjacent cell with 109 in it, and 198 is larger than 109.
 
-##### Figure it Out
+### Figure it Out
 
 1. Colour or mark the supercells in the table below.
 
-6828 670 9435 3780 3708 7308 8000 5583 52
+| 6828 | 670 | 9435 | 3780 | 3708 | 7308 | 8000 | 5583 | 52 |
+|---|---|---|---|---|---|---|---|---|
 
 2. Fill the table below with only 4-digit numbers such that the supercells are exactly the coloured cells.
 
-5346 1258 9635
+[Figure: A row of nine cells. The first cell contains 5346; the second is coloured green and empty; the third is empty; the fourth contains 1258; the fifth, sixth and seventh are empty; the eighth contains 9635; the ninth is coloured green and empty.]
 
 3. Fill the table below such that we get as many supercells as possible. Use numbers between 100 and 1000 without repetitions.
+
+[Figure: A row of nine empty cells.]
 
 4. Out of the 9 numbers, how many supercells are there in the table above? ___________
 
 5. Find out how many supercells are possible for different numbers of cells.
 
-Math
+   Do you notice any pattern? What is the method to fill a given table to get the maximum number of supercells? Explore and share your strategy.
 
-Talk
-
-Do you notice any pattern? What is the method to fill a given table to get the maximum number of supercells? Explore and share your strategy.
+> Math Talk
 
 <!-- page 58 -->
 
-Ganita Prakash | Grade 6
+> ### Try This
+>
+> 6. Can you fill a supercell table without repeating numbers such that there are no supercells? Why or why not?
+> 7. Will the cell having the largest number in a table always be a supercell? Can the cell having the smallest number in a table be a supercell? Why or why not?
+> 8. Fill a table such that the cell having the second largest number is not a supercell.
+> 9. Fill a table such that the cell having the second largest number is not a supercell but the second smallest number is a supercell. Is it possible?
+> 10. Make other variations of this puzzle and challenge your classmates.
 
-6. Can you fill a supercell table without repeating numbers such that there are no supercells? Why or why not?
-
-> Try This
-
-7. Will the cell having the largest number in a table always be a supercell? Can the cell having the smallest number in a table be a supercell? Why or why not?
-
-8. Fill a table such that the cell having the second largest number is not a supercell.
-
-9. Fill a table such that the cell having the second largest number is not a supercell but the second smallest number is a supercell. Is it possible?
-
-10. Make other variations of this puzzle and challenge your classmates.
-
-Let’s do the supercells activity with more rows.
+Let's do the supercells activity with more rows.
 
 Here the neighbouring cells are those that are immediately to the left, right, top and bottom.
 
-##### Table 1
+The rule remains the same: a cell becomes a supercell if the number in it is greater than all the numbers in its neighbouring cells. In Table 1, 8632 is greater than all its neighbours 4580, 8280, 4795 and 1944.
 
-The rule remains the same: a cell becomes a supercell if the number in it is greater than all the numbers in its neighbouring cells. In Table 1, 8632 is greater than all its neighbours 4580, 8280, 4795 and 1944.
+**Table 1**
 
-| 2430 | 7500 | 7350 | 9870 |
-| --- | --- | --- | --- |
+[Figure: Table 1, a 4×4 grid of numbers; coloured (green) cells are 7500, 9870, 8632 and 6034.]
+
+| 2430 | 7500 (green) | 7350 | 9870 (green) |
+|---|---|---|---|
 | 3115 | 4795 | 9124 | 9230 |
-| 4580 | 8632 | 8280 | 3446 |
-| 5785 | 1944 | 5805 | 6034 |
+| 4580 | 8632 (green) | 8280 | 3446 |
+| 5785 | 1944 | 5805 | 6034 (green) |
 
-Complete Table 2 with 5-digit numbers whose digits are ‘1’, ‘0’, ‘6’, ‘3’, and ‘9’ in some order. Only a coloured cell should have a number greater than all its neighbours.
+Complete Table 2 with 5-digit numbers whose digits are '1', '0', '6', '3', and '9' in some order. Only a coloured cell should have a number greater than all its neighbours.
 
-##### Table 2
+The biggest number in the table is ____________ .
 
-96,301 36,109
+**Table 2**
 
-13,609 60,319 19,306
+[Figure: Table 2, a 4×4 grid; green cells are row 1 column 1, row 1 column 4, row 2 column 3 (60,319), row 4 column 2 (10,963) and row 4 column 4; other cells blank except those shown.]
 
-The biggest number in the table is ____________ . | 60,193
-
-10,963
+| (green, blank) | 96,301 | 36,109 | (green, blank) |
+|---|---|---|---|
+| (blank) | 13,609 | 60,319 (green) | 19,306 |
+| (blank) | (blank) | 60,193 | (blank) |
+| (blank) | 10,963 (green) | (blank) | (green, blank) |
 
 <!-- page 59 -->
-
-> Number Play
 
 The smallest even number in the table is ____________.
 
@@ -136,171 +141,153 @@ The smallest number greater than 50,000 in the table is ____________.
 
 Once you have filled the table above, put commas appropriately after the thousands digit.
 
-#### 3.3 Patterns of Numbers on the Number Line
+## 3.3 Patterns of Numbers on the Number Line
 
-We are quite familiar with number lines now. Let’s see if we can place some numbers in their appropriate positions on the number line. Here are the numbers: 2180, 2754, 1500, 3600, 9950, 9590, 1050, 3050, 5030, 5300 and 8400.
+We are quite familiar with number lines now. Let's see if we can place some numbers in their appropriate positions on the number line. Here are the numbers: 2180, 2754, 1500, 3600, 9950, 9590, 1050, 3050, 5030, 5300 and 8400.
 
-2180
+[Figure: A number line with marks labelled 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000, 10,000, with arrows at both ends. Small tick marks lie between 1000 and 2000 and between 2000 and 3000. The number 2180 is marked in purple with a line pointing to a position just after 2000, and 2754 is marked in purple below the line, pointing to a position just before 3000.]
 
-1000 2000 | 3000 4000 5000 6000 7000 8000 9000 10,000
+### Figure it Out
 
-2754
+Identify the numbers marked on the number lines below, and label the remaining positions.
 
-##### Figure it Out
+a. [Figure: A number line with 9 tick marks and arrows at both ends; the 5th tick is labelled 2010 and the 7th tick is labelled 2020.]
 
-Identify the numbers marked on the number lines below, and label the remaining positions.
+b. [Figure: A number line with 9 tick marks and arrows at both ends; the 4th tick is labelled 9996 and the 5th tick is labelled 9997.]
 
-a.
+c. [Figure: A number line with 9 tick marks and arrows at both ends; the 1st tick is labelled 15,077, the 2nd tick is labelled 15,078, and the 7th tick is labelled 15,083.]
 
-2010 2020
+d. [Figure: A number line with 9 tick marks and arrows at both ends; the 4th tick is labelled 86,705 and the 5th tick is labelled 87,705.]
 
-b.
-
-9996 9997
-
-15,07715,078 15,083 c.
-
-d.
-
-86,70587,705
-
-Put a circle around the smallest number and a box around the largest number in each of the sequences above.
+Put a circle around the smallest number and a box around the largest number in each of the sequences above.
 
 <!-- page 60 -->
 
-Ganita Prakash | Grade 6
+## 3.4 Playing with Digits
 
-#### 3.4 Playing with Digits
-
-We start writing numbers from 1, 2, 3 … and so on. There are nine 1-digit numbers.
+We start writing numbers from 1, 2, 3 ... and so on. There are nine 1-digit numbers.
 
 Find out how many numbers have two digits, three digits, four digits, and five digits.
 
-| 1-digit numbers From 1–9 | 2-digit numbers | 3-digit numbers | 4-digit numbers | 5-digit numbers |
-| --- | --- | --- | --- | --- |
-| 9 |  |  |  |  |
+| 1-digit numbers From 1–9 | 2-digit numbers ------------ | 3-digit numbers ------------ | 4-digit numbers ------------ | 5-digit numbers ------------ |
+|---|---|---|---|---|
+| 9 | | | | |
 
-#### Digit sums of numbers
+### Digit sums of numbers
 
 Komal observes that when she adds up digits of certain numbers the sum is the same.
 
 For example, adding the digits of the number 68 will be same as adding the digits of 176 or 545.
 
-##### Figure it Out
+[Figure: A green board with a hand holding a red pencil writing "6+8=14", "1+7+6=14", "5+4+5=14"]
 
-1. **Digit sum 14** a. Write other numbers whose digits add up to 14. b. What is the smallest number whose digit sum is 14? c. What is the largest 5-digit whose digit sum is 14? d. How big a number can you form having the digit sum
+### Figure it Out
 
-. | Math
+> Math Talk
 
-Talk
-
-of 14? Can you make an even bigger number?
-2. Find out the digit sums of all the numbers from 40 to 70. Share your observations with the class.
+1. **Digit sum 14**
+   a. Write other numbers whose digits add up to 14.
+   b. What is the smallest number whose digit sum is 14?
+   c. What is the largest 5-digit whose digit sum is 14?
+   d. How big a number can you form having the digit sum of 14? Can you make an even bigger number?
+2. Find out the digit sums of all the numbers from 40 to 70. Share your observations with the class.
 3. Calculate the digit sums of 3-digit numbers whose digits are consecutive (for example, 345). Do you see a pattern? Will this pattern continue?
 
 <!-- page 61 -->
 
-Number Play
+### Digit Detectives
 
-##### Digit Detectives
+After writing numbers from 1 to 100, Dinesh wondered how many times he would have written the digit '7'!
 
-After writing numbers from 1 to 100, Dinesh wondered how many times he would have written the digit ‘7’!
+> [Figure: A pink card showing handwritten numbers 237, 57, 877, 7041, 1799, 676, with a magnifying glass highlighting the digit 7.]
 
-Among the numbers 1–100, how many times will the digit ‘7’ occur? Among the numbers 1–1000, how many times will the digit ‘7’ occur?
+Among the numbers 1–100, how many times will the digit '7' occur? Among the numbers 1–1000, how many times will the digit '7' occur?
 
-#### 3.5 Pretty Palindromic Patterns
+## 3.5 Pretty Palindromic Patterns
 
 What pattern do you see in these numbers: 66, 848, 575, 797, 1111? These numbers read the same from left to right and from right to left. Try and see. Such numbers are called **palindromes** or **palindromic numbers**.
 
-##### All palindromes using 1, 2, 3
+**All palindromes using 1, 2, 3**
 
-The numbers 121, 313, 222 are some examples of palindromes using the digits ‘1’, ‘2’, 3’.
+The numbers 121, 313, 222 are some examples of palindromes using the digits '1', '2', 3'.
 
 Write all possible 3-digit palindromes using these digits.
 
-##### Reverse-and-add palindromes
+**Reverse-and-add palindromes**
 
-Now, look at these additions. Try to figure out what is happening. **Steps to follow:** Start with a 2-digit number. Add this number to its reverse. Stop if you get a palindrome or else repeat the steps of reversing the digits and adding.
+Now, look at these additions. Try to figure out what is happening.
+
+**Steps to follow:** Start with a 2-digit number. Add this number to its reverse. Stop if you get a palindrome or else repeat the steps of reversing the digits and adding.
 
 Try the same procedure for some other numbers, and perform the same steps. Stop if
 
-<!-- page 62 -->
+[Figure: Four reverse-and-add column additions. First: 34 + 43 = 77. Second: 29 + 92 = 121. Third: 48 + 84 = 132, then 132 + 231 = 363. Fourth: 76 + 67 = 143, then 143 + 341 = 484.]
 
-Ganita Prakash | Grade 6
+<!-- page 62 -->
 
 you get a palindrome. There are numbers for which you have to repeat this a large number of times.
 
 Are there numbers for which you do not reach a palindrome at all?
 
-Explore
+### Explore
+
+> Math Talk
 
 Will reversing and adding numbers repeatedly, starting with a 2-digit number, always give a palindrome? Explore and find out.*
 
-Math
+### Puzzle time
 
-Talk
+[Figure: Five empty orange boxes in a row labelled "tth", "th", "h", "t", "u" above them, followed by a rectangular box containing the text "Write the number in words:"]
 
-Puzzle time
+I am a 5-digit palindrome.
+I am an odd number.
+My 't' digit is double of my 'u' digit.
+My 'h' digit is double of my 't' digit.
+Who am I? ________________
 
-tth | h th u t
-
-Write the number in words:
-
-I am a 5-digit palindrome. I am an odd number. My ‘t’ digit is double of my ‘u’ digit. My ‘h’ digit is double of my ‘t’ digit. Who am I? _________________
-
-#### 3.6 The Magic Number of Kaprekar
+## 3.6 The Magic Number of Kaprekar
 
 D.R. Kaprekar was a mathematics teacher in a government school in Devlali, Maharashtra. He liked playing with numbers very much and found many beautiful patterns in numbers that were previously unknown.
 
 In 1949, he discovered a fascinating and magical phenomenon when playing with 4-digit numbers.
 
+[Figure: Photograph of D.R. Kaprekar, an elderly man wearing a white cap and a jacket]
+
 *The answer is yes! For 3-digit numbers the answer is unknown. It is suspected that starting with 196 never yields a palindrome!
 
 <!-- page 63 -->
 
-Number Play
-
 Follow these steps and experience the magic for yourselves! Pick any 4-digit number having at least two different digits, say 6382.
 
-Take a 4-digit number.
+[Figure: Flowchart with boxes connected by downward arrows: "Take a 4-digit number." → "Make the largest number from these digits. Call it A." → "Make the smallest number from these digits. Call it B." → "Subtract B from A. Call it C. C = A – B". A curved arrow labelled "Use digits of C" goes from the last box back up to the "Make the largest number from these digits. Call it A." box.]
 
-Make the largest number from these
+[Figure: Dotted wavy-bordered box: "What happens if we continue doing this?"]
 
-digits. Call it A.
+[Figure: Four columns of calculations linked by curved arrows pointing from one column to the next:
+- A = 8632, B = 2368, C = 8632–2368 = 6264
+- A = 6642, B = 2466, C = 6642–2466 = 4176
+- A = 7641, B = 1467, C = 7641–1467 = 6174
+- A = , B = , C = (blank)]
 
-Make the smallest number from these | Use digits
-
-digits. Call it B. | of C
-
-Subtract B from A. Call it C.
-
-C = A – B
-
-What happens if we continue
-
-doing this?
-
-A = 8632 A = 6642 A = 7641 A = B = 2368 B = 2466 B = 1467 B = C = 8632–2368 C = 6642–2466 C = 7641–1467 C = = 6264 = 4176 = 6174
-
-Explore
+### Explore
 
 Take different 4-digit numbers and try carrying out these steps. Find out what happens. Check with your friends what they got.
 
-You will always reach the magic number ‘6174’! The number ‘6174’ is now called the ‘Kaprekar constant’.
+**You will always reach the magic number '6174'! The number '6174' is now called the 'Kaprekar constant'.**
 
 Carry out these same steps with a few 3-digit numbers. What number will start repeating?
 
 <!-- page 64 -->
 
-Ganita Prakash | Grade 6
-
-#### 3.7 Clock and Calendar Numbers
+## 3.7 Clock and Calendar Numbers
 
 On the usual 12-hour clock, there are timings with different patterns. For example, 4:44, 10:10, 12:21.
 
 Try and find out all possible times on a 12-hour clock of each of these types.
 
-Manish has his birthday on 20/12/2012 where the digits ‘2’, ‘0’, ‘1’, and ‘2’ repeat in that order.
+Manish has his birthday on 20/12/2012 where the digits '2', '0', '1', and '2' repeat in that order.
+
+> [Figure: A sketch of a calendar-style picture with cartoon number characters showing "16", "02" and "2016".]
 
 Find some other dates of this form from the past.
 
@@ -308,29 +295,22 @@ His sister, Meghana, has her birthday on 11/02/2011 where the digits read the sa
 
 Find all possible dates of this form from the past.
 
-Jeevan was looking at this year’s calendar. He started wondering, “Why should we change the calendar every year? Can we not reuse a calendar?”. What do you think?
+Jeevan was looking at this year's calendar. He started wondering, "Why should we change the calendar every year? Can we not reuse a calendar?". What do you think?
 
-You might have noticed that last year’s calendar was different from this year’s. Also, next year’s calendar will also be different from the previous years.
+You might have noticed that last year's calendar was different from this year's. Also, next year's calendar will also be different from the previous years.
 
-But, will any year’s calendar repeat again after some years? Will all dates and days in a year match exactly with that of another year?
+But, will any year's calendar repeat again after some years? Will all dates and days in a year match exactly with that of another year?
 
-Try This
+> [Figure: "Try This" icon]
 
-##### Figure it Out
+### Figure it Out
 
-1. Pratibha uses the digits ‘4’, ‘7’, ‘3’ and ‘2’, and makes the smallest and largest 4-digit numbers with them: 2347 and 7432. The difference between these two numbers is 7432 – 2347 = 5085. The sum of these two numbers is 9779. Choose 4 - digits to make:
-
-a. the difference between the largest and smallest numbers
-
-greater than 5085.
+1. Pratibha uses the digits '4', '7', '3' and '2', and makes the smallest and largest 4-digit numbers with them: 2347 and 7432. The difference between these two numbers is $7432 - 2347 = 5085$. The sum of these two numbers is 9779. Choose 4-digits to make:
+   a. the difference between the largest and smallest numbers greater than 5085.
 
 <!-- page 65 -->
 
-Number Play
-
-b. the difference between the largest and smallest numbers less
-
-than 5085.
+b. the difference between the largest and smallest numbers less than 5085.
 
 c. the sum of the largest and smallest numbers greater than 9779.
 
@@ -342,210 +322,105 @@ d. the sum of the largest and smallest numbers less than 9779.
 
 4. How many rounds does the number 5683 take to reach the Kaprekar constant?
 
-#### 3.8 Mental Math
+## 3.8 Mental Math
 
 Observe the figure below. What can you say about the numbers and the lines drawn?
 
-25,000
+[Figure: Three columns of boxes. Left column (green): 38,800; 28,000; 61,600; 31,000. Middle column (orange): 25,000; 400; 13,000; 1,500; 60,000. Right column (green): 3,400; 63,000; 19,500; 20,900. Arrows are drawn from 25,000, 400 and 13,000 in the middle to 38,800 on the left (one arrow each), and from 400 (one arrow) and 1,500 (two arrows) in the middle to 3,400 on the right.]
 
-38,800 3,400
+Numbers in the middle column are added in different ways to get the numbers on the sides (1500 + 1500 + 400 = 3400). The numbers in the middle can be used as many times as needed to get the desired sum. Draw arrows from the middle to the numbers on the sides to obtain the desired sums.
 
-400
+Two examples are given. It is simpler to do it mentally!
 
-28,000 63,000
+$38{,}800 = 25{,}000 \;+\; 400 \times 2 \;+\; 13{,}000$
 
-13,000
-
-61,600 19,500
-
-1,500
-
-31,000 20,900
-
-60,000
-
-Numbers in the middle column are added in different ways to get the numbers on the sides (1500 + 1500 + 400 = 3400). The numbers in the middle can be used as many times as needed to get the desired sum. Draw arrows from the middle to the numbers on the sides to obtain the desired sums. Two examples are given. It is simpler to do it mentally!
-
-38,800 = 25,000 + 400 × 2 + 13,000 3400 = 1500 + 1500 + 400
+$3400 = 1500 \;+\; 1500 \;+\; 400$
 
 <!-- page 66 -->
 
-Ganita Prakash | Grade 6
+### Math Talk
+
+> Math Talk
 
 Can we make 1,000 using the numbers in the middle? Why not? What about 14,000, 15,000 and 16,000? Yes, it is possible. Explore how. What thousands cannot be made?
 
-> Math
-
-> Talk
-
-##### Adding and Subtracting
+### Adding and Subtracting
 
 Here, using the numbers in the boxes, we are allowed to use both addition and subtraction to get the required number. An example is shown.
 
-40,000 7,000 | 39,800 = 40,000 – 800 + 300 + 300
+[Figure: Six boxes arranged in three rows of two, containing the numbers 40,000 and 7,000; 300 and 1,500; 12,000 and 800.]
 
-45,000 =
+$39{,}800 = 40{,}000 - 800 + 300 + 300$
 
-300 1,500 | 5,900 =
+$45{,}000 =$
 
-17,500 =
+$5{,}900 =$
 
-12,000 800 | 21,400 =
+$17{,}500 =$
 
-##### Digits and Operations
+$21{,}400 =$
 
-An example of adding two 5-digit numbers to get another 5-digit number is 12,350 + 24,545 = 36,895.
+### Digits and Operations
 
-An example of subtracting two 5-digit numbers to get another 5-digit number is 48,952 – 24,547 = 24,405.
+An example of adding two 5-digit numbers to get another 5-digit number is $12{,}350 + 24{,}545 = 36{,}895$.
 
-##### Figure it Out
+An example of subtracting two 5-digit numbers to get another 5-digit number is $48{,}952 - 24{,}547 = 24{,}405$.
 
-1. Write an example for each of the below scenarios whenever
+### Figure it Out
 
-possible.
+1. Write an example for each of the below scenarios whenever possible.
 
-5-digit + 5-digit to give a 5-digit | 5-digit + 3-digit to give a 6-digit sum | 4-digit + 4-digit to give a 6-digit sum | 5-digit + 5-digit to give a 6-digit sum
-
-5-digit + 5-digit to give 18,500
-
-sum more than 90,250
-
-5-digit – 5-digit to give a difference | 5-digit – 3-digit | 5-digit - 4-digit | 5-digit - 5-digit
-
-5-digit 5-digit to give 91,500
-
-to give a 4-digit difference | to give a 4-digit difference | to give a 3-digit difference
-
-less than
-
-56,503
+[Figure: Ten cards in two rows of five. Top row: "5-digit + 5-digit to give a 5-digit sum more than 90,250"; "5-digit + 3-digit to give a 6-digit sum"; "4-digit + 4-digit to give a 6-digit sum"; "5-digit + 5-digit to give a 6-digit sum"; "5-digit + 5-digit to give 18,500". Bottom row: "5-digit – 5-digit to give a difference less than 56,503"; "5-digit – 3-digit to give a 4-digit difference"; "5-digit – 4-digit to give a 4-digit difference"; "5-digit – 5-digit to give a 3-digit difference"; "5-digit – 5-digit to give 91,500".]
 
 <!-- page 67 -->
 
-> Number Play
-
 Could you find examples for all the cases? If not, think and discuss what could be the reason. Make other such questions and challenge your classmates.
 
-> Math
+> ### Math Talk
 
-> Talk
+2. *Always, Sometimes, Never?*
 
-2. Always, Sometimes, Never?
+   Below are some statements. Think, explore and find out if each of the statement is 'Always true', 'Only sometimes true' or 'Never true'. Why do you think so? Write your reasoning and discuss this with the class.
 
-Below are some statements. Think, explore and find out if each of the statement is ‘Always true’, ‘Only sometimes true’ or ‘Never true’. Why do you think so? Write your reasoning and discuss this with the class.
+   a. 5-digit number + 5-digit number gives a 5-digit number
 
-a. 5-digit number + 5-digit number gives a 5-digit number
+   b. 4-digit number + 2-digit number gives a 4-digit number
 
-b. 4-digit number + 2-digit number gives a 4-digit number
+   c. 4-digit number + 2-digit number gives a 6-digit number
 
-c. 4-digit number + 2-digit number gives a 6-digit number
+   d. 5-digit number – 5-digit number gives a 5-digit number
 
-d. 5-digit number – 5-digit number gives a 5-digit number
+   e. 5-digit number – 2-digit number gives a 3-digit number
 
-e. 5-digit number – 2-digit number gives a 3-digit number
-
-#### 3.9 Playing with Number Patterns
+## 3.9 Playing with Number Patterns
 
 Here are some numbers arranged in some patterns. Find out the sum of the numbers in each of the below figures. Should we add them one by one or can we use a quicker way?
 
 Share and discuss in class the different methods each one of you used to solve these questions.
 
-a. b.
+a. [Figure: Five rows of numbers in a staggered pattern. Rows 1, 3 and 5 each have four boxes labelled 40; rows 2 and 4 each have five boxes labelled 50.]
 
-40 | 40 | 40 | 40
-
-> 50
-
-50 | 50 | 50 | 50
-
-40 | 40 | 40 | 40
-
-> 50
-
-50 | 50 | 50 | 50
-
-40 | 40 | 40 | 40
+b. [Figure: An 8 × 8 grid of teal squares, each with a single dot, except for blue squares containing several dots: a 2 × 2 block of blue squares in rows 2–3, columns 2–3; a 2 × 2 block in rows 2–3, columns 6–7; a 2 × 2 block in rows 4–5, columns 4–5; a 2 × 2 block in rows 6–7, columns 2–3; and a 2 × 2 block in rows 6–7, columns 6–7.]
 
 <!-- page 68 -->
 
-Ganita Prakash | Grade 6
+c.
 
-| 32 | 32 | 32 | 32 | 32 | 32 | 32 | 32 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 32 | 32 | 32 | 32 | 32 | 32 | 32 | 32 |
-| 32 | 32 | 32 | 32 | 32 | 32 | 32 | 32 |
-| 32 | 32 | 32 | 32 | 32 | 32 | 32 | 32 |
-| 64 | 64 | 64 |  |  |  |  | 64 |
-| 64 | 64 | 64 |  |  |  |  | 64 |
-| 64 | 64 | 64 |  |  |  |  | 64 |
-| 64 | 64 | 64 |  |  |  |  | 64 |
+[Figure: A grid of squares forming a "U" shape. The top four rows have 8 squares each, all labelled 32. Below them, four more rows have 64 in the three leftmost squares and 64 in the rightmost square of each row, with the middle four columns empty.]
 
-3232323232323232
-3232323232323232
-3232323232323232
-3232323232323232
-646464 64
-646464 64
-646464 64
-646464 64
-c. d.
+d.
 
-| 1 2 5 1 2 5 1 2 5 125 |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | 125 2 5 0 2 |  |  | 5 |
-|  | 1 |  |  |  |
-| 1 2 125 5 125 | 2 5 | 0 2 5 0 |  | 125 5 2 25 1 1 |
-|  | 2 5 0 | 5 0 0 | 2 5 0 |  |
-|  |  | 5 0 0 1 0 0 0 5 0 0 |  |  |
-|  |  | 5 0 0 |  |  |
-|  | 2 | 5 0 2 5 | 0 |  |
-| 1 |  |  |  |  |
-|  | 5 2 1 0 5 2 5 5 2 |  |  |  |
-| 1 2 1 2 5 1 2 5 1 2 5 |  |  |  |  |
+[Figure: A grid of dice faces, 5 columns by 7 rows. The outer border dice are purple and the inner dice (3 columns by 5 rows) are red, each showing white dots.]
 
-250
-500
-500
-500
-500 1000
-250
-250
-250
-250
-250
-250
-250
-125
-125
-125
-125
-125
-125
-125
-125
-125
-125
-125
-125
-125
+e.
 
-|  |  | 15 15 15 | 15 | 35 35 | 25 2 | 25 5 25 |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | 25 25 25 |  | 35 3 | 5 35 | 35 | 15 15 |  |  |
-| 3 | 5 | 25 25 | 25 1 | 5 25 | 15 1 | 5 15 | 15 3 | 5 |
-| 35 3 | 35 5 | 15 15 | 35 | 25 15 | 35 | 25 25 | 35 3 | 35 5 |
-|  | 15 15 15 |  | 15 3 | 5 35 | 25 | 25 25 25 |  |  |
-|  |  | 25 25 25 | 35 25 | 35 35 | 35 1 15 | 5 15 15 |  |  |
+[Figure: A hexagonal arrangement of yellow hexagons with blue trapezoid shapes along the border, with numbers 15, 25 and 35 printed at the corners of each piece and along the edges.]
 
-2535
-35
-35 35
-35 35
-15 15
-15
-e. f.
+f.
 
-#### 3.10 An Unsolved Mystery — the Collatz Conjecture!
+[Figure: A large grey circular plate with concentric rings of green circular coins. The outer ring has coins labelled 125, the middle ring has coins labelled 250, the inner ring has coins labelled 500, and the centre coin is labelled 1000.]
+
+## 3.10 An Unsolved Mystery—the Collatz Conjecture!
 
 Look at the sequences below—the same rule is applied in all the sequences:
 
@@ -561,69 +436,68 @@ Do you see how these sequences were formed?
 
 <!-- page 69 -->
 
-Number Play
-
 The rule is: one starts with any number; if the number is even, take half of it; if the number is odd, multiply it by 3 and add 1; repeat.
 
-Notice that all four sequences above eventually reached the number 1. In 1937, the German mathematician, Lothar Collatz conjectured that the sequence will always reach 1, regardless of the whole number you start with. Even today — despite many mathematicians working on it — it remains an unsolved problem as to whether Collatz’s conjecture is true! Collatz’s conjecture is one of the most famous unsolved problems in mathematics.
+Notice that all four sequences above eventually reached the number 1. In 1937, the German mathematician, Lothar Collatz conjectured that the sequence will *always* reach 1, regardless of the whole number you start with. Even today—despite many mathematicians working on it — it remains an unsolved problem as to whether Collatz's conjecture is true! Collatz's conjecture is one of the most famous unsolved problems in mathematics.
 
 Make some more Collatz sequences like those above, starting with your favourite whole numbers. Do you always reach 1?
 
 Do you believe the conjecture of Collatz that all such sequences will eventually reach 1? Why or why not?
 
-#### 3.11 Simple Estimation
+## 3.11 Simple Estimation
 
 At times, we may not know or need an exact count of things and an estimate is sufficient for the purpose at hand. For example, your school headmaster might know the exact number of students enrolled in your school, but you may only know an estimated count. How many students are in your school? About 150? 400? A thousand?
 
-Paromita’s class section has 32 children. The other 2 sections of her class have 29 and 35 children. So, she estimated the number of children in her class to be about 100. Along with Class 6, her school also has Classes 7–10 and each class has 3 sections each. She assumed a similar number in each class and estimated the number of students in her school to be around 500.
+Paromita's class section has 32 children. The other 2 sections of her class have 29 and 35 children. So, she estimated the number of children in her class to be about 100. Along with Class 6, her school also has Classes 7–10 and each class has 3 sections each. She assumed a similar number in each class and estimated the number of students in her school to be around 500.
 
-##### Figure it Out
+### Figure it Out
 
-We shall do some simple estimates. It is a fun exercise, and you may find it amusing to know the various numbers around us. Remember,
+We shall do some simple estimates. It is a fun exercise, and you may find it amusing to know the various numbers around us. Remember,
 
 <!-- page 70 -->
 
-Ganita Prakash | Grade 6
-
 we are not interested in the exact numbers for the following questions. Share your methods of estimation with the class.
 
-1. Steps you would take to walk: a. From the place you are sitting to the classroom door b. Across the school ground from start to end c. From your classroom door to the school gate d. From your school to your home
-
+1. Steps you would take to walk:
+   a. From the place you are sitting to the classroom door
+   b. Across the school ground from start to end
+   c. From your classroom door to the school gate
+   d. From your school to your home
 2. Number of times you blink your eyes or number of breaths you take:
+   a. In a minute
+   b. In an hour
+   c. In a day
+3. Name some objects around you that are:
+   a. a few thousand in number
+   b. more than ten thousand in number
 
-a. In a minute b. In an hour c. In a day
+### Estimate the answer
 
-3. Name some objects around you that are: a. a few thousand in number b. more than ten thousand in number
+Try to guess within 30 seconds. Check your guess with your friends.
 
-**Estimate the answer** Try to guess within 30 seconds. Check your guess with your friends.
-
-1. Number of words in your maths textbook: a. More than 5000
-
-b. Less than 5000
-
-2. Number of students in your school who travel to school by bus: a. More than 200
-
-b. Less than 200
-
-3.  Roshan wants to buy milk and 3 types of fruit to make fruit custard for 5 people. He estimates the cost to be ₹100. Do you agree with him? Why or why not?
-
-4. Estimate the distance between Gandhinagar (in Gujarat) to Kohima (in Nagaland). Hint: Look at the map of India to locate these cities.
+1. Number of words in your maths textbook:
+   a. More than 5000
+   b. Less than 5000
+2. Number of students in your school who travel to school by bus:
+   a. More than 200
+   b. Less than 200
+3. Roshan wants to buy milk and 3 types of fruit to make fruit custard for 5 people. He estimates the cost to be ₹100. Do you agree with him? Why or why not?
+4. Estimate the distance between Gandhinagar (in Gujarat) to Kohima (in Nagaland).
+   *Hint*: Look at the map of India to locate these cities.
 
 <!-- page 71 -->
 
-Number Play
+5. Sheetal is in Grade 6 and says she has spent around 13,000 hours in school till date. Do you agree with her? Why or why not?
 
-5.  Sheetal is in Grade 6 and says she has spent around 13,000 hours in school till date. Do you agree with her? Why or why not?
+6. Earlier, people used to walk long distances as they had no other means of transport. Suppose you walk at your normal pace. Approximately, how long would it take you to go from:
 
-6. Earlier, people used to walk long distances as they had no other means of transport. Suppose you walk at your normal pace. Approximately, how long would it take you to go from:
-
-a. Your current location to one of your favourite places nearby. b. Your current location to any neighbouring state’s capital city. c. The southernmost point in India to the northernmost point in
-
-India.
+   a. Your current location to one of your favourite places nearby.
+   b. Your current location to any neighbouring state's capital city.
+   c. The southernmost point in India to the northernmost point in India.
 
 7. Make some estimation questions and challenge your classmates!
 
-#### 3.12 Games and Winning Strategies
+## 3.12 Games and Winning Strategies
 
 Numbers can also be used to play games and develop winning strategies.
 
@@ -637,153 +511,152 @@ Which player can always win if they play correctly? What is the pattern of numbe
 
 There are many variations of this game. Here is another common variation:
 
-**Rules for Game #2:** The first player says a number between 1 and
-10. Then the two players take turns adding a number between 1 and 10 to the previous number said. The first player to reach 99 wins!
+**Rules for Game #2:** The first player says a number between 1 and 10. Then the two players take turns adding a number between 1 and 10 to the previous number said. The first player to reach 99 wins!
 
 Play this game several times with your classmate. See if you can figure out the corresponding winning strategy in this case! Which
 
 <!-- page 72 -->
 
-Ganita Prakash | Grade 6
-
 player can always win? What is the pattern of numbers that the winning player should say this time?
 
 Make your own variations of this game — decide how much one can add at each turn, and what number is the winning number. Then play your game several times, and figure out the winning strategy and which player can always win!
 
-##### Figure it Out
+### Figure it Out
 
 1. There is only one supercell (number greater than all its neighbours) in this grid. If you exchange two digits of one of the numbers, there will be 4 supercells. Figure out which digits to swap.
 
-| 16,200 | 39,344 | 29,765 |
-| --- | --- | --- |
-| 23,609 | 62,871 | 45,306 |
-| 19,381 | 50,319 | 38,408 |
+   | | | |
+   |---|---|---|
+   | 16,200 | 39,344 | 29,765 |
+   | 23,609 | **62,871** | 45,306 |
+   | 19,381 | 50,319 | 38,408 |
 
-62,871 Try This
+   [Figure: 3×3 grid of numbers with the centre cell 62,871 highlighted in green]
+
+   > Try This
 
 2. How many rounds does your year of birth take to reach the Kaprekar constant?
-
 3. We are the group of 5-digit numbers between 35,000 and 75,000 such that all of our digits are odd. Who is the largest number in our group? Who is the smallest number in our group? Who among us is the closest to 50,000?
-
 4. Estimate the number of holidays you get in a year including weekends, festivals and vacation. Then, try to get an exact number and see how close your estimate is.
-
 5. Estimate the number of liters a mug, a bucket and an overhead tank can hold.
-
 6. Write one 5-digit number and two 3-digit numbers such that their sum is 18,670.
-
 7. Choose a number between 210 and 390. Create a number pattern similar to those shown in Section 3.9 that will sum up to this number.
 
 <!-- page 73 -->
 
-Number Play
-
-8. Recall the sequence of Powers of 2 from Chapter 1, Table 1. Why is
-
-the Collatz conjecture correct for all the starting numbers in this sequence?
-
+8. Recall the sequence of Powers of 2 from Chapter 1, Table 1. Why is the Collatz conjecture correct for all the starting numbers in this sequence?
 9. Check if the Collatz Conjecture holds for the starting number 100.
-
 10. Starting with 0, players alternate adding numbers between 1 and 3. The first person to reach 22 wins. What is the winning strategy now?
 
-### Su m m a r y
+## Summary
 
 - Numbers can be used for many different purposes including, to convey information, make and discover patterns, estimate magnitudes, pose and solve puzzles, and play and win games.
-
-- Thinking about and formulating set procedures to use numbers for these purposes is a useful skill and capacity (called ‘computational thinking’).
-
-- Many problems about numbers can be very easy to pose, but very difficult to solve. Indeed, numerous such problems are still unsolved (for example, Collatz’s Conjecture).
+- Thinking about and formulating set procedures to use numbers for these purposes is a useful skill and capacity (called 'computational thinking').
+- Many problems about numbers can be very easy to pose, but very difficult to solve. Indeed, numerous such problems are still unsolved (for example, Collatz's Conjecture).
 
 <!-- page 74 -->
 
-#### CHAPTER 3 — SOLUTIONS
+# CHAPTER 3 — SOLUTIONS
 
-##### Number Play
+## Number Play
 
-Q. Think about various situations where we use numbers. List five different situations in which numbers are used. See what your classmates have listed, share, and discuss.
+**Q.** Think about various situations where we use numbers. List five different situations in which numbers are used. See what your classmates have listed, share, and discuss.
 
 Ans. Five different possible situations in which numbers are used -
 
-1. Time 2. Calendar 3. Counting objects/Marks 4. Measurement of height & weight 5. Money There could many more.
+1. Time
+2. Calendar
+3. Counting objects/Marks
+4. Measurement of height & weight
+5. Money
 
-##### Section 3.1
+There could many more.
 
-##### Page No. 55
+## Section 3.1
 
-Q. What do you think these numbers mean?
+### Page No. 55
+
+**Q.** What do you think these numbers mean?
 
 Ans. Refer page 56.
 
-##### Page No. 56
+### Page No. 56
 
-##### Q1. Can the children rearrange themselves so that the children standing at the ends say
+**Q1.** Can the children rearrange themselves so that the children standing at the ends say '2'?
 
-‘2’? Ans. No; There will be no one standing on the other side of the child standing at the end.
+Ans. No; There will be no one standing on the other side of the child standing at the end.
 
-**Q2. Can we arrange the children in a line so that all would say only 0s?** Ans. Yes; All the children in the line should be of same height.
+**Q2.** Can we arrange the children in a line so that all would say only 0s?
 
-Q3. Can two children standing next to each other say the same number? Ans. Yes; Refer picture on page 55.
+Ans. Yes; All the children in the line should be of same height.
 
-##### Q4. There are 5 children in a group, all of different heights. Can they stand such that four
+**Q3.** Can two children standing next to each other say the same number?
 
-of them say ‘1’ and the last one says ‘0’? Why or why not?
+Ans. Yes; Refer picture on page 55.
+
+**Q4.** There are 5 children in a group, all of different heights. Can they stand such that four of them say '1' and the last one says '0'? Why or why not?
 
 Ans. Yes, they can, if they are standing in ascending order of height.
 
-[1]
+[Figure: Five stick figures standing in a line in ascending order of height from left to right. The first four each have a speech bubble saying "1"; the tallest, the last one, has a speech bubble saying "0".]
 
 <!-- page 75 -->
 
-Q5. For this group of 5 children, is the sequence 1, 1, 1, 1, 1 possible?
+**Q5. For this group of 5 children, is the sequence 1, 1, 1, 1, 1 possible?**
 
 Ans. No; the tallest child at the end cannot say1.
 
-Q6. Is the sequence 0, 1, 2, 1, 0 possible? Why or why not?
+[Figure: Five stick-figure children in increasing height from left to right, with speech bubbles above them reading 1, 1, 1, 1, 0.]
+
+**Q6. Is the sequence 0, 1, 2, 1, 0 possible? Why or why not?**
 
 Ans. Yes, it is possible.
 
-##### Q7. How would you rearrange the five children so that the maximum number of children
+[Figure: Five stick-figure children with speech bubbles above them reading 0, 1, 2, 1, 0 from left to right; the middle child is the shortest.]
 
-say ‘2’?
+**Q7. How would you rearrange the five children so that the maximum number of children say '2'?**
 
 Ans. At the most only 2 children can say 2 as given is the following arrangement.
 
-##### Section 3.2
+[Figure: Five stick-figure children with speech bubbles above them reading 0, 2, 0, 2, 0 from left to right.]
 
-##### Page No. 57
+**Section 3.2**
 
-##### Figure it out
+**Page No. 57**
 
-Q1. Colour or mark the supercells in the table below.
+### Figure it out
 
-6828 670 9435 3780 3708 7308 8000 5583 52
+**Q1. Colour or mark the supercells in the table below.**
+
+| 6828 | 670 | 9435 | 3780 | 3708 | 7308 | 8000 | 5583 | 52 |
+|---|---|---|---|---|---|---|---|---|
+
+[Figure: The table above with the cells 6828, 9435 and 8000 coloured green.]
 
 Ans.
 
-6828 670 9435 3780 3708 7308 8000 5583 52
-
-[2]
+| 6828 | 670 | 9435 | 3780 | 3708 | 7308 | 8000 | 5583 | 52 |
+|---|---|---|---|---|---|---|---|---|
 
 <!-- page 76 -->
 
-##### Q2. Fill the table below with only 4-digit numbers such that the supercells are exactly the
+Q2. Fill the table below with only 4-digit numbers such that the supercells are exactly the coloured cells.
 
-coloured cells.
-
-5346 1258 9635
+[Figure: A row of 9 cells, with cells 2, 4 and 9 coloured green. Contents: 5346 | (green, empty) | (empty) | 1258 (green) | (empty) | (empty) | (empty) | 9635 | (green, empty)]
 
 Ans. One of the ways could be-5346; 9636.Try more
 
-5346 5347 1000 1258 1100 1200 1300 9635 9636
+[Figure: A row of 9 cells filled as: 5346 | 5347 (green) | 1000 | 1258 (green) | 1100 | 1200 | 1300 | 9635 | 9636 (green)]
 
-##### Q3. Fill the table below such that we get as many supercells as possible. Use numbers
+Q3. Fill the table below such that we get as many supercells as possible. Use numbers between 100 and 1000 without repetitions.
 
-between 100 and 1000 without repetitions.
+[Figure: An empty row of 9 cells]
 
 Ans.
 
-110 100 150 130 280 200 230 210 270
+[Figure: A row of 9 cells filled as: 110 (green) | 100 | 150 (green) | 130 | 280 (green) | 200 | 230 (green) | 210 | 270 (green)]
 
-##### Q4. Out of the 9 numbers, how many supercells are there in the table above? ___________
+Q4. Out of the 9 numbers, how many supercells are there in the table above? ___________
 
 Ans. 5
 
@@ -791,21 +664,19 @@ Q5 Find out how many supercells are possible for different numbers of cells.
 
 Do you notice any pattern? What is the method to fill a given table to get the maximum number of supercells? Explore and share your strategy.
 
-Ans. For even number of cells say,2,4,6,… the number of supercells would be respectively, 2/2 =1,4/2 =2,6/2=3,…
+Ans. For even number of cells say,2,4,6,… the number of supercells would be respectively,
+2/2 =1,4/2 =2,6/2=3,…
 
-For odd number of cells , say 1,3,5,7,…the number of supercells would be respectively (1+1)/2= 1, (3+1)/2 = 2, (5+1)/2= 3,(7+1)/2 = 4,… To get the maximum number ofsupercells, we have to start by filling the first cell as super cell & then fill alternately.
+For odd number of cells , say 1,3,5,7,… the number of supercells would be respectively
+(1+1)/2= 1, (3+1)/2 = 2, (5+1)/2= 3,(7+1)/2 = 4,…
 
-##### Q6. Can you fill a supercell table without repeating numbers such that there are no
+To get the maximum number ofsupercells, we have to start by filling the first cell as super cell & then fill alternately.
 
-supercells? Why or why not?
+Q6. Can you fill a supercell table without repeating numbers such that there are no supercells? Why or why not?
 
-Ans. No; the cell which is filled by the greatest number among the given numbers chosen, will
+Ans. No; the cell which is filled by the greatest number among the given numbers chosen, will become super cell irrespective of its position in the table.
 
-become super cell irrespective of its position in the table.
-
-##### Q7. Will the cell having the largest number in a table always be a supercell? Can the cell
-
-having the smallest number in a table be a supercell? Why or why not?
+Q7. Will the cell having the largest number in a table always be a supercell? Can the cell having the smallest number in a table be a supercell? Why or why not?
 
 Ans. Yes, the largest number in a table will always be a supercell.
 
@@ -815,121 +686,91 @@ Q8. Fill a table such that the cell having the second largest number is not a su
 
 Ans. One of the ways could be-
 
-1 2 3 4 5 6 7 9 8
-
-[3]
+[Figure: A row of 9 cells filled as: 1 | 2 | 3 | 4 | 5 | 6 | 7 | 9 | 8]
 
 <!-- page 77 -->
 
-##### Q9. Fill a table such that the cell having the second largest number is not a supercell but
-
-the second smallest number is a supercell. Is it possible?
+**Q9.** Fill a table such that the cell having the second largest number is not a supercell but the second smallest number is a supercell. Is it possible?
 
 Ans. One of the ways is-
 
-2 1 3 4 5 6 7 9 8 Second largest number 8 is not a supercell.
+[Figure: A row of 9 cells containing 2, 1, 3, 4, 5, 6, 7, 9, 8; the first cell (2) is shaded green. Left label: "Second smallest number a super cell". Right label: "Second largest number 8 is not a supercell."]
 
-Second smallest number a super cell
-
-Q10. Make other variations of this puzzle and challenge your classmates.
+**Q10.** Make other variations of this puzzle and challenge your classmates.
 
 Ans. Some of these could be-
+Can you fill the table with 9 cells such that there are more than 5 super cells?
+Can you fill the table with 9 cells such that there are exactly 4 super cells?
 
-Can you fill the table with 9 cells such that there are more than 5 super cells? Can you fill the table with 9 cells such that there are exactly 4 super cells?
+**Page No. 58**
 
-##### Page No. 58
-
-##### Q. Complete Table 2 with 5-digit numbers whose digits are ‘1’, ‘0’, ‘6’, ‘3’, and ‘9’ in
-
-some order. Only a coloured cell should have a number greater than all its neighbours.
+**Q.** Complete Table 2 with 5-digit numbers whose digits are '1', '0', '6', '3', and '9' in some order. Only a coloured cell should have a number greater than all its neighbours.
 
 Ans. Table 2 (One of the ways) –
 
-|  | 96,310 |  | 96,301 |  | 36,109 |  | 39,160 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 96,103 |  |  | 13,609 |  | 60,319 |  | 19,306 |  |
-| 13,906 |  |  | 10,396 |  | 60,193 |  | 60,931 |  |
-| 10,369 |  |  | 10,963 |  | 10,936 |  | 69,031 |  |
+| 96,310 (green) | 96,301 | 36,109 | 39,160 (green) |
+|---|---|---|---|
+| 96,103 | 13,609 | 60,319 (green) | 19,306 |
+| 13,906 | 10,396 | 60,193 | 60,931 |
+| 10,369 | 10,963 (green) | 10,936 | 69,031 (green) |
 
-**Q. The biggest number in the table is ____________.** Ans. The biggest number in the table is 96,310
+**Q.** The biggest number in the table is ____________.
 
-**Q. The smallest even number in the table is ____________.** Ans. The smallest even number in the table is 10,396
+Ans. The biggest number in the table is 96,310
 
-**Q. The smallest number greater than 50,000 in the table is ____________.** Ans. The smallest number greater than 50,000 in the table is 60,193.
+**Q.** The smallest even number in the table is ____________.
 
-##### Section 3.3
+Ans. The smallest even number in the table is 10,396
 
-##### Page no.59
+**Q.** The smallest number greater than 50,000 in the table is ____________.
 
-Q. We are quite familiar with number lines now. Let’s see if we can place some numbers
+Ans. The smallest number greater than 50,000 in the table is 60,193.
 
-in their appropriate positions on the number line. Here are the numbers: 2180, 2754, 1500, 3600, 9950, 9590, 1050, 3050, 5030, 5300 and 8400.
+**Section 3.3**
+
+**Page no.59**
+
+Q. We are quite familiar with number lines now. Let's see if we can place some numbers in their appropriate positions on the number line. Here are the numbers: 2180, 2754, 1500, 3600, 9950, 9590, 1050, 3050, 5030, 5300 and 8400.
 
 Ans.
 
-1050 | 2180 2754 3600 5030 | 8400 | 9950
-
-| 8000 | 9000 | 10000 |
-| --- | --- | --- |
-|  |  | 9590 |
-
-1000 2000 3000 4000 5000 6000 7000 8000 9000 10000
-
-[4]
-
-1500 | 5300
+[Figure: A number line with marked points 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000, 10000, with arrows placing the numbers: 1050 and 2180, 2754, 3600, 5030, 8400 and 9950 above the line; 1500, 5300 and 9590 below the line.]
 
 <!-- page 78 -->
 
-Q. Identify the numbers marked on the number lines below, and label the remaining
+Q. Identify the numbers marked on the number lines below, and label the remaining positions.
 
-positions.
+(a). [Figure: Number line with arrows at both ends and ten tick marks labelled 1990 (circled), 1995, 2000, 2005, 2010, 2015, 2020, 2025, 2030, 2035 (boxed)]
 
-(a).
+(b). [Figure: Number line with arrows at both ends and ten tick marks labelled 9993 (circled), 9994, 9995, 9996, 9997, 9998, 9999, 10000, 10001, 10002 (boxed)]
 
-1990 1995 2000 2005 2010 2015 2020 2025 2030 2035
+(c). [Figure: Number line with arrows at both ends and ten tick marks labelled 15077 (circled), 15078, 15079, 15080, 15081, 15082, 15083, 15084, 15085, 15086 (boxed)]
 
-(b).
-
-9993 9994 9995 9996 9997 9998 9999 10000 10001 10002
-
-(c).
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 15077 15 |  | 15 | 078 |  | 15079 |  |  | 15080 |  | 1 | 5081 |  |  | 15082 |  | 15 | 083 |  | 15084 |
-
-15077 15078 15079 15080 15081 15082 15083 15084 15085 15086
-
-(d).
-
-83705 84705 85705 86705 8770588705 89705 90705 91705 92705
+(d). [Figure: Number line with arrows at both ends and ten tick marks labelled 83705 (circled), 84705, 85705, 86705, 87705, 88705, 89705, 90705, 91705, 92705 (boxed)]
 
 Put a circle around the smallest number and a box around the largest number in each of the sequences above.
 
-##### Section 3.4
+**Section 3.4**
 
-##### Page no. 60
+**Page no. 60**
 
-##### Q. Find out how many numbers have two digits, three digits, four digits, and five digits:
+**Q. Find out how many numbers have two digits, three digits, four digits, and five digits:**
 
 | 1 Digit numbers | 2 Digit numbers | 3 Digit numbers | 4 Digit numbers | 5 Digit numbers |
-| --- | --- | --- | --- | --- |
-| 9 |  |  |  |  |
+|---|---|---|---|---|
+| 9 | | | | |
 
 Ans.
 
 | 1 Digit numbers | 2 Digit numbers | 3 Digit numbers | 4 Digit numbers | 5 Digit numbers |
-| --- | --- | --- | --- | --- |
+|---|---|---|---|---|
 | 9 | 90 | 900 | 9,000 | 90,000 |
-
-[5]
 
 <!-- page 79 -->
 
-##### Figure it out
+### Figure it out
 
-##### Q.1. Digit sum 14
+**Q.1. Digit sum 14**
 
 a. Write other numbers whose digits add up to 14.
 
@@ -937,224 +778,390 @@ b. What is the smallest number whose digit sum is 14?
 
 c. What is the largest 5-digit number whose digit sum is 14?
 
-##### d. How big a number can you form having the digit sum 14? Can you make an even
+d. How big a number can you form having the digit sum 14? Can you make an even bigger number?
 
-bigger number?
+Ans.
+a. Some such numbers are: 248, 653, 356, 815, 833, 12335, 23351.
+b. 59
+c. 95000
+d. 95, 9005, 900005, 90000005, 9000000005, 90000000000005 …
 
-Ans. a. Some such numbers are:248, 653, 356, 815, 833, 12335, 23351. b. 59 c. 95000 d. 95, 9005, 900005, 90000005, 9000000005, 90000000000005 …
+**Q.3. Calculate the digit sums of 3-digit numbers whose digits are consecutive (for example, 345). Do you see a pattern? Will this pattern continue?**
 
-##### Q.3. Calculate the digit sums of 3-digit numbers whose digits are consecutive (for
+Ans.
+123 → 1+2+3 = 6
+234 → 2+3+4 = 9
+345 → 3+4+5 = 12
+456 → 4+5+6 = 15
+567 → 5+6+7 = 18
+678 → 6+7+8 = 21
+789 → 7+8+9 = 24
 
-example, 345). Do you see a pattern? Will this pattern continue?
-
-Ans. 123 1+2+3 = 6 234 2+3+4 = 9 345 3+4+5 = 12 456 4+5+6 = 15 567 5+6+7 = 18 678 6+7+8 = 21 789 7+8+9 = 24
 - Yes, there is a pattern, all the sums are multiples of 3.
 - No.
 
-##### Page no. 61
+**Page no. 61**
 
-##### Q. Among the numbers 1–100, how many times will the digit ‘7’ occur? Among the
-
-numbers 1–1000, how many times will the digit ‘7’ occur?
+**Q. Among the numbers 1–100, how many times will the digit '7' occur? Among the numbers 1–1000, how many times will the digit '7' occur?**
 
 Ans.
-
 - 20 times.
 - 300 times.
 
-[6]
-
 <!-- page 80 -->
 
-##### Section 3.5
+## Section 3.5
 
-##### Page no. 61
+**Page no. 61**
 
-Q. Write all possible 3-digit palindromes using these digits.
+**Q. Write all possible 3-digit palindromes using these digits.**
 
-Ans. Palindromes: 111, 121, 131 222, 212, 232 313, 323, 333 **Explore Page no. 62**
+Ans. Palindromes: 111, 121, 131
+222, 212, 232
+313, 323, 333
 
-Q. Will reversing and adding numbers repeatedly, starting with a 2-digit number,
+### Explore
 
-##### always give a palindrome? Explore and find out.*
+**Page no. 62**
+
+**Q. Will reversing and adding numbers repeatedly, starting with a 2-digit number, always give a palindrome? Explore and find out.\***
 
 Some of these are-
 
-47 +74 121 Try more Yes, it will always give a palindrome.
+$$\begin{array}{r} 12 \\ +21 \\ \hline 33 \end{array} \qquad\qquad \begin{array}{r} 47 \\ +74 \\ \hline 121 \end{array}$$
 
-12 +21 33
+Try more
+Yes, it will always give a palindrome.
 
-##### Puzzle time
+### Puzzle time
 
-Q. I am a 5-digit palindrome.
+**Q. I am a 5-digit palindrome.**
+**I am an odd number.**
+**My 't' digit is double of my 'u' digit.**
+**My 'h' digit is double of my 't' digit.**
+**Who am I? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-I am an odd number. My ‘t’ digit is double of my ‘u’ digit. My ‘h’ digit is double of my ‘t’ digit. Who am I? _________________
+Ans.
 
-Ans. tth th h t u
+[Figure: Five boxes labelled tth, th, h, t, u, containing the digits 1, 2, 4, 2, 1 respectively.]
 
-1 2 4 2 1
+Twelve thousand four hundred twenty one.
 
-Twelve thousand four hundred twenty one. **Section 3.6 Page no. 63**
+## Section 3.6
 
-Q. Carry out these same steps with a few 3-digit numbers. What number will start repeating? Ans.
+**Page no. 63**
 
-Take a 3- Digit number say, 321. 321 -123 198
+**Q. Carry out these same steps with a few 3-digit numbers. What number will start repeating?**
 
-954 -459 495 The number 495 starts repeating. Try for other 3-digit numbers.
+Ans.
 
-981 -189 792 | 972 -279 693 | 963 -369 594 | 954 -459 495
+Take a 3- Digit number say, 321.
 
-[7]
+$$\begin{array}{r} 321 \\ -123 \\ \hline 198 \end{array} \quad \begin{array}{r} 981 \\ -189 \\ \hline 792 \end{array} \quad \begin{array}{r} 972 \\ -279 \\ \hline 693 \end{array} \quad \begin{array}{r} 963 \\ -369 \\ \hline 594 \end{array} \quad \begin{array}{r} 954 \\ -459 \\ \hline 495 \end{array} \quad \begin{array}{r} 954 \\ -459 \\ \hline 495 \end{array}$$
+
+The number 495 starts repeating.
+
+Try for other 3-digit numbers.
 
 <!-- page 81 -->
 
-Section 3.7 Page no. 64 Q. Try and find out all possible times on a 12-hour clock of each of these types. Ans. 4:44 2:22 3:33 10:10 11:11 12:12 09:09 12:21 05:50 10:01 Think of some more! Q. Find some other dates of this form from the past. Ans. 20/04/2004, 20/06/2006, Try for yourself! Q. Find all possible dates of this form from the past. Ans. 01/02/2001, 02/02/2002, Think of some more! Q. Will any year’s calendar repeat again after some years? Will all dates and days in a
+## Section 3.7
 
-**year match exactly with that of another year?** Ans. Yes, The calendar repeats itself after 6 years if only one leap year is included in these 6 years. If 2 leap years are included, then it will repeat after 5 years. **Page no. 64**
+**Page no. 64**
 
-Figure it out Q.1. Pratibha uses the digits ‘4’, ‘7’, ‘3’ and ‘2’, and makes the smallest and largest 4-
+**Q. Try and find out all possible times on a 12-hour clock of each of these types.**
 
-digit numbers with them: 2347 and 7432. The difference between these two numbers is 7432 – 2347 = 5085. The sum of these two numbers is 9779. Choose 4– digits to make:
+Ans. 4:44  2:22  3:33
 
-a. the difference between the largest and smallest numbers greater than 5085. b. the difference between the largest and smallest numbers less than 5085. c. the sum of the largest and smallest numbers greater than 9779. d. the sum of the largest and smallest numbers less than 9779. Ans. Some of the possibilities are–
+10:10  11:11  12:12  09:09
 
-a. 7431 – 1347 = 6084 b. 7433 – 3347 = 4086 c. 7433 + 3347 = 10780 d. 7431 + 1347 = 8778 **Q.2. What is the sum of the smallest and largest 5-digit palindrome? What is their**
+12:21  05:50  10:01  Think of some more!
 
-**difference? Ans.** Smallest 5 digit palindrome = 10001
+**Q. Find some other dates of this form from the past.**
 
-largest 5 digit palindrome = 99999 Sum = 10001 + 99999 = 110,000 Difference = 99999 – 10001 = 89,998
+Ans. 20/04/2004, 20/06/2006, Try for yourself!
 
-[8]
+**Q. Find all possible dates of this form from the past.**
+
+Ans. 01/02/2001, 02/02/2002, Think of some more!
+
+**Q. Will any year's calendar repeat again after some years? Will all dates and days in a year match exactly with that of another year?**
+
+Ans. Yes,
+
+The calendar repeats itself after 6 years if only one leap year is included in these 6 years. If 2 leap years are included, then it will repeat after 5 years.
+
+**Page no. 64**
+
+### Figure it out
+
+1. Pratibha uses the digits '4', '7', '3' and '2', and makes the smallest and largest 4-digit numbers with them: 2347 and 7432. The difference between these two numbers is 7432 – 2347 = 5085. The sum of these two numbers is 9779. Choose 4–digits to make:
+   a. the difference between the largest and smallest numbers greater than 5085.
+   b. the difference between the largest and smallest numbers less than 5085.
+   c. the sum of the largest and smallest numbers greater than 9779.
+   d. the sum of the largest and smallest numbers less than 9779.
+
+   Ans. Some of the possibilities are–
+   a. 7431 – 1347 = 6084
+   b. 7433 – 3347 = 4086
+   c. 7433 + 3347 = 10780
+   d. 7431 + 1347 = 8778
+
+2. What is the sum of the smallest and largest 5-digit palindrome? What is their difference?
+
+   Ans. Smallest 5 digit palindrome = 10001
+   largest 5 digit palindrome = 99999
+   Sum = 10001 + 99999 = 110,000
+   Difference = 99999 – 10001 = 89,998
 
 <!-- page 82 -->
 
-##### Q.3. The time now is 10:01. How many minutes until the clock shows the next palindromic
+**Q.3.** The time now is 10:01. How many minutes until the clock shows the next palindromic time? What about the one after that?
 
-##### time? What about the one after that? Ans. Time Now 10:01
+**Ans.** Time Now $\rightarrow$ 10:01
 
-Next palindrome time 11:11 After 1 hr. 10 min = 70 min the clock will show next palindrome time. Next palindrome time = 12:21 which will occur after 2 hr. 20 min = 140 min from 10:01. **Q.4. How many rounds does the number 5683 take to reach the Kaprekar constant? Ans.** 5683
+Next palindrome time $\rightarrow$ 11:11
 
-8653 -3568 5085 | 8550 -5058 3492 | 9432 -2349 7083 | 8730 -3078 5652 | 6552 -2556 3996 | 9963 -3699 6264 | 6642 -2466 4176 | 7641 -1467 6174
+After 1 hr. 10 min = 70 min the clock will show next palindrome time.
 
-1 2 3 4 5 6 7 8 It will take 8 rounds to reach the Kaprekar constant. Page no. 66 Section 3.8 Q. Can we make 1,000 using the numbers in the middle? Why not? What about 14,000,
+Next palindrome time = 12:21 which will occur after 2 hr. 20 min = 140 min from 10:01.
 
-**15,000 and 16,000? Yes, it is possible. Explore how. What thousands cannot be made?** Ans. No; the only number which is smaller than 1000 is 400 and 1000 is not a multiple of 400.
+**Q.4.** How many rounds does the number 5683 take to reach the Kaprekar constant?
 
-14000 = 1500 × 8 + 400 × 5 = 12000 + 2000 = 14000 15000 = 13000 + 400 × 5 = 13000 + 2000 = 15000 16000 = 1500 × 8 + 400 × 10 = 12000 + 4000 = 16000 Only one thousand (1000) cannot be made. **Figure it out Q.1. Write an example for each of the below scenarios whenever possible.**
+**Ans.** 5683
 
-Could you find examples for all the cases? If not, think and discuss what could be the reason. Make other such questions and challenge your classmates. Ans.
+| | | | | | | | |
+|---|---|---|---|---|---|---|---|
+| 8653 | 8550 | 9432 | 8730 | 6552 | 9963 | 6642 | 7641 |
+| -3568 | -5058 | -2349 | -3078 | -2556 | -3699 | -2466 | -1467 |
+| 5085 | 3492 | 7083 | 5652 | 3996 | 6264 | 4176 | 6174 |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 
-- 5 digit + 5 digit > 90,250 45,000 + 45,400 = 90,400 > 90,250
-- 5 digit + 3 digit = 6 digit sum 99,999 + 999 = 100,998
-- 4 digit + 4 digit = 6 digit sum Not possible as even the sum of the greatest 4 digit numbers will not give a six digit sum. (9999 + 9999 = 19,998)
+It will take 8 rounds to reach the Kaprekar constant.
 
-[9]
+**Page no. 66**
+**Section 3.8**
+
+**Q.** Can we make 1,000 using the numbers in the middle? Why not? What about 14,000, 15,000 and 16,000? Yes, it is possible. Explore how. What thousands cannot be made?
+
+Ans. No; the only number which is smaller than 1000 is 400 and 1000 is not a multiple of 400.
+
+$14000 = 1500 \times 8 + 400 \times 5$
+$\qquad\quad = 12000 + 2000$
+$\qquad\quad = 14000$
+
+$15000 = 13000 + 400 \times 5$
+$\qquad\quad = 13000 + 2000$
+$\qquad\quad = 15000$
+
+$16000 = 1500 \times 8 + 400 \times 10$
+$\qquad\quad = 12000 + 4000$
+$\qquad\quad = 16000$
+
+Only one thousand (1000) cannot be made.
+
+### Figure it out
+
+**Q.1.** Write an example for each of the below scenarios whenever possible.
+Could you find examples for all the cases? If not, think and discuss what could be the reason. Make other such questions and challenge your classmates.
+
+**Ans.**
+
+- 5 digit + 5 digit > 90,250
+  45,000 + 45,400 = 90,400 > 90,250
+- 5 digit + 3 digit = 6 digit sum
+  99,999 + 999 = 100,998
+- 4 digit + 4 digit = 6 digit sum
+  Not possible as even the sum of the greatest 4 digit numbers will not give a six digit sum. (9999 + 9999 = 19,998)
 
 <!-- page 83 -->
 
-- 5 digit + 5 digit = 6 digit sum 60,000 + 40,000 = 1,00,000
-- 5 digit + 5 digit = 18,500 Not possible as smallest 5-digit number is 10,000. If both the numbers are 10,000 then the sum is 20,000, which is more than 18,500.
-- 5 digit – 5 digit < 56,503 80,000 – 50,000 < 56,503 < 56,503
-- 5 digit – 3 digit = 4 digit difference 10,000 – 999 = 9001
-- 5 digit – 4 digit = 4 digit difference 12,000 – 2,500 = 9,500
-- 5 digit – 5 digit = 3 digit difference 50,999 – 50,000 = 999
-- 5 digit – 5 digit = 91,500 Not possible as the difference of the greatest and the smallest 5 digit numbers, the maximum difference, can be 99,999 – 10,000 = 89,999 Some examples of other such questions are-
+- 5 digit + 5 digit = 6 digit sum
+  $60,000 + 40,000 = 1,00,000$
+- 5 digit + 5 digit = 18,500
+  Not possible as smallest 5-digit number is 10,000.
+  If both the numbers are 10,000 then the sum is 20,000, which is more than 18,500.
+- 5 digit – 5 digit $<$ 56,503
+  $80,000 - 50,000 < 56,503$
+  $< 56,503$
+- 5 digit – 3 digit = 4 digit difference
+  $10,000 - 999 = 9001$
+- 5 digit – 4 digit = 4 digit difference
+  $12,000 - 2,500 = 9,500$
+- 5 digit – 5 digit = 3 digit difference
+  $50,999 - 50,000 = 999$
+- 5 digit – 5 digit = 91,500
+  Not possible as the difference of the greatest and the smallest 5 digit numbers, the maximum difference, can be $99,999 - 10,000 = 89,999$
 
-1.5 digit + 5 digit = 7 digit sum 2.4 digit + 4 digit = 2900 More such examples can be made. **Q.2. Always, Sometimes, Never?**
+Some examples of other such questions are-
 
-Below are some statements. Think, explore and find out if each of the statement is ‘Always true’, ‘Only sometimes true’ or ‘Never true’. Why do you think so? Write your reasoning; discuss this with the class. a. 5-digit number + 5-digit number gives a 5-digit number b. 4-digit number + 2-digit number gives a 4-digit number c. 4-digit number + 2-digit number gives a 6-digit number d. 5-digit number – 5-digit number gives a 5-digit number e. 5-digit number – 2-digit number gives a 3-digit number
+1. 5 digit + 5 digit = 7 digit sum
+2. 4 digit + 4 digit = 2900
+
+More such examples can be made.
+
+**Q.2.** *Always, Sometimes, Never?*
+
+**Below are some statements. Think, explore and find out if each of the statement is 'Always true', 'Only sometimes true' or 'Never true'. Why do you think so? Write your reasoning; discuss this with the class.**
+
+**a. 5-digit number + 5-digit number gives a 5-digit number**
+
+**b. 4-digit number + 2-digit number gives a 4-digit number**
+
+**c. 4-digit number + 2-digit number gives a 6-digit number**
+
+**d. 5-digit number – 5-digit number gives a 5-digit number**
+
+**e. 5-digit number – 2-digit number gives a 3-digit number**
 
 Ans. a. Only sometimes true.
+$20,000 + 80,000 = 1,00,000$ not a 5 digit number
 
-20,000 + 80,000 = 1,00,000 not a 5 digit number b. Only sometimes true
+b. Only sometimes true
+$9,999 + 99 = 10,098$ not a 4 digit number
 
-9,999 + 99 = 10,098 not a 4 digit number c. Never true
+c. Never true
+$9,999 + 99 = 10,098$
+On adding the greatest 4 digit and the greatest 2 digit numbers, we can reach only 5 digit number 10,098. So there is no possibility of getting a 6 digit number.
 
-9,999 + 99 = 10,098
+d. Only sometimes true
+Ex. $12,000 - 10,000 = 2,000$
+5 digit – 5 digit = 4 digit
 
-On adding the greatest 4 digit and the greatest 2 digit numbers, we can reach only 5 digit number 10,098. So there is no possibility of getting a 6 digit number. d. Only sometimes true
-
-Ex. 12,000 – 10,000 = 2,000 5 digit – 5 digit = 4 digit e. Never true
-
-Ex. 10,000 – 99 = 9901
-
-[10]
+e. Never true
+Ex. $10,000 - 99 = 9901$
 
 <!-- page 84 -->
 
-Even if the greatest 2 digit numbers is subtracted from the smallest 5 digit number, 4 digit number will be obtained. **Page no. 69 Section 3.10**
+Even if the greatest 2 digit numbers is subtracted from the smallest 5 digit number, 4 digit number will be obtained.
 
-##### Q. Make some more Collatz sequences like those above, starting with your favourite
+**Page no. 69**
+**Section 3.10**
 
-whole numbers. Do you always reach 1? Do you believe the conjecture of Collatz that all such sequences will eventually reach 1? Why or why not? Ans. a) 28, 14, 7, 22, 11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1
+### Q. Make some more Collatz sequences like those above, starting with your favourite whole numbers. Do you always reach 1?
+
+**Do you believe the conjecture of Collatz that all such sequences will eventually reach 1? Why or why not?**
+
+Ans.
+a) 28, 14, 7, 22, 11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1
 
 b) 19, 58, 29, 88, 44, 22, 11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1
 
-Yes we always reach 1. The even numbers are halved and when we have an odd number we convert it into an even number by multiplying by 3 and adding 1 so that eventually it can be halved again. The smallest even number is 2 so we will reach 1 for sure. **Q.3. Name some objects around you that are:**
+Yes we always reach 1.
+The even numbers are halved and when we have an odd number we convert it into an even number by multiplying by 3 and adding 1 so that eventually it can be halved again. The smallest even number is 2 so we will reach 1 for sure.
 
-a. a few thousand in number b. more than ten thousand in number Ans. A few thousands: car numbers, 4 digit pin More than ten thousands: Salary, Mobile numbers. Q.3. Roshan wants to buy milk and 3 types of fruit to make fruit custard for 5 people. He
+### Q.3. Name some objects around you that are:
 
-**estimates the cost to be ₹ 100. Do you agree with him? Why or why not?** Ans. Yes, it is possible with less quantity of serving and with purchase of 1-1-1 fruit of each type. However, it is not possible with costly fruits and more quantity of serving. **Q.4. Estimate the distance between Gandhinagar (in Gujarat) to Kohima (in Nagaland).** Ans. 2500 kilometer **Q. 5. Sheetal is in Grade 6 and says she has spent around 13,000 hours in school till date.**
+a. a few thousand in number
 
-**Do you agree with her? Why or why not?** Ans. No, I do not agree with her. There are 6 school hours in a day and around 200 working days in a year.
+b. more than ten thousand in number
 
-𝟏𝟑,𝟎𝟎𝟎
+Ans. A few thousands: car numbers, 4 digit pin
+More than ten thousands: Salary, Mobile numbers.
 
-𝟔×𝟐𝟎𝟎 = 10.8 years
+### Q.3. Roshan wants to buy milk and 3 types of fruit to make fruit custard for 5 people. He estimates the cost to be ₹ 100. Do you agree with him? Why or why not?
 
-(Nursery, KG, 1,2,3,4,5,6) 8 years She is in school for 8 years, 13,000 hours is way too high. **Q.7. Make some estimation questions and challenge your classmates!** Ans. Some such are
+Ans. Yes, it is possible with less quantity of serving and with purchase of 1-1-1 fruit of each type.
+However, it is not possible with costly fruits and more quantity of serving.
+
+### Q.4. Estimate the distance between Gandhinagar (in Gujarat) to Kohima (in Nagaland).
+
+Ans. 2500 kilometer
+
+### Q. 5. Sheetal is in Grade 6 and says she has spent around 13,000 hours in school till date. Do you agree with her? Why or why not?
+
+Ans. No, I do not agree with her.
+There are 6 school hours in a day and around 200 working days in a year.
+
+$\frac{13{,}000}{6 \times 200} = 10.8$ years
+
+(Nursery, KG, 1,2,3,4,5,6) 8 years
+She is in school for 8 years, 13,000 hours is way too high.
+
+### Q.7. Make some estimation questions and challenge your classmates!
+
+Ans. Some such are
 
 - How many students are there in your school?
-- How many hours does a person sleep in his lifetime on an average? (More such questions can be made)
-
-[11]
+- How many hours does a person sleep in his lifetime on an average?
+  (More such questions can be made)
 
 <!-- page 85 -->
 
-Section 3.12 Page No. 72 Figure it Out Q.1. There is only one supercell (number greater than all its neighbours) in this grid. If
+Section 3.12
+Page No. 72
+Figure it Out
 
-you exchange two digits of one of the numbers, there will be 4 supercells. Figure out which digits to swap.
+1. There is only one supercell (number greater than all its neighbours) in this grid. If you exchange two digits of one of the numbers, there will be 4 supercells. Figure out which digits to swap.
 
 | 16,200 | 39,344 | 29,765 |
-| --- | --- | --- |
-| 23,609 | 62,871 | 45,306 |
+|---|---|---|
+| 23,609 | **62,871** | 45,306 |
 | 19,381 | 50,319 | 38,408 |
 
-Ans. If I exchange the digits 1 and 6 in the number 62,871 then there will be 4 Super cells.
+[Figure: 3×3 grid with the centre cell 62,871 highlighted in green. All numbers are in bold.]
+
+**Ans.** If I exchange the digits 1 and 6 in the number 62,871 then there will be 4 Super cells.
 
 | 16,200 | 39,344 | 29,765 |
-| --- | --- | --- |
+|---|---|---|
 | 23,609 | 12,876 | 45,306 |
 | 19,381 | 50,319 | 38,408 |
 
-Q.2. How many rounds does your year of birth take to reach the Kaprekar constant? Ans. Suppose the birth year is 1980, then, -
+[Figure: 3×3 grid in which the cells 39,344, 23,609, 45,306 and 50,319 are highlighted in green; the centre cell is 12,876.]
 
-7641 -1467 6174 It takes 6 rounds. (Try now for your year of birth.) **Q.3. We are the group of 5-digit numbers between 35,000 and 75,000 such that all of our**
+2. How many rounds does your year of birth take to reach the Kaprekar constant?
 
-9810 -1089 8721 | 8721 -1278 7443 | 7443 -3447 3996 | 9963 -3699 6264 | 6642 -2466 4176
+**Ans.** Suppose the birth year is 1980, then, -
 
-digits are odd. Who is the largest number in our group? Who is the smallest number in our group? Who among us is the closest to 50,000? Ans.
+$$\begin{array}{cccccc} 9810 & 8721 & 7443 & 9963 & 6642 & 7641 \\ -1089 & -1278 & -3447 & -3699 & -2466 & -1467 \\ \hline 8721 & 7443 & 3996 & 6264 & 4176 & 6174 \end{array}$$
 
-With repeating digit With non repeating digit Largest number 73,999
+It takes 6 rounds. (Try now for your year of birth.)
 
-73,951
+3. We are the group of 5-digit numbers between 35,000 and 75,000 such that all of our digits are odd. Who is the largest number in our group? Who is the smallest number in our group? Who among us is the closest to 50,000?
 
-Smallest number 35,111 35,179 With repeating digit With non repeating digit Closest to 50000 51,111 51,379 **Q.6. Write one 5-digit number and two 3-digit numbers such that their sum is 18,670.** Ans. 18000 + 300 + 370 = 18670. Try for more.
+**Ans.**
 
-[12]
+| | With repeating digit | With non repeating digit |
+|---|---|---|
+| Largest number → | 73,999 | 73,951 |
+| Smallest number → | 35,111 | 35,179 |
+
+| | With repeating digit | With non repeating digit |
+|---|---|---|
+| Closest to 50000 | 51,111 | 51,379 |
+
+6. Write one 5-digit number and two 3-digit numbers such that their sum is 18,670.
+
+**Ans.** $18000 + 300 + 370 = 18670$. Try for more.
 
 <!-- page 86 -->
 
-##### Q.7. Choose a number between 210 and 390. Create a number pattern similar to those
+**Q.7.** Choose a number between 210 and 390. Create a number pattern similar to those shown in Section 3.9 that will sum up to this number.
 
-**shown in Section 3.9 that will sum up to this number.** Ans. Number Chosen: 250 25 25 50 50 50 25 25
+Ans. Number Chosen: 250
 
-Or 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 Q.8. Recall the sequence of Powers of 2 from Chapter 1, Table 1. Why is the Collatz
+[Figure: Hexagon-like number pattern with 50 at left, 25 and 25 on the upper row, 50 in the middle, 25 and 25 on the lower row, and 50 at right. Row layout: top row "25  25"; middle row "50  50  50"; bottom row "25  25".]
 
-**conjecture correct for all the starting numbers in this sequence?** Ans. when we divide 28 = 2x2x2x2x2x2x2x2 by 2 it become 27 and every time you divide by 2 the same will continue happening, until you are left with 2 which when divided by 2 will leave 1. **Q.9. Check if the Collatz Conjecture holds for the starting number 100.** Ans. 100, 50, 25, 76, 38, 19, 58, 29, 88, 44, 22, 11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4,
+**Or**
 
-##### 2, 1. Q.10 Starting with 0, players alternate adding numbers between 1 and 3. The first person
+[Figure: Grid of numbers with 5 columns and 5 rows, every entry being 10.]
 
-**to reach 22 wins. What is the winning strategy now?** Ans. Winning strategy is to be the first player.
+| 10 | 10 | 10 | 10 | 10 |
+|----|----|----|----|----|
+| 10 | 10 | 10 | 10 | 10 |
+| 10 | 10 | 10 | 10 | 10 |
+| 10 | 10 | 10 | 10 | 10 |
+| 10 | 10 | 10 | 10 | 10 |
 
-[13]
+**Q.8.** Recall the sequence of Powers of 2 from Chapter 1, Table 1. Why is the Collatz conjecture correct for all the starting numbers in this sequence?
+
+Ans. when we divide $2^8 = 2x2x2x2x2x2x2x2$ by 2 it become $2^7$ and every time you divide by 2 the same will continue happening, until you are left with 2 which when divided by 2 will leave 1.
+
+**Q.9.** Check if the Collatz Conjecture holds for the starting number 100.
+
+Ans. 100, 50, 25, 76, 38, 19, 58, 29, 88, 44, 22, 11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1.
+
+**Q.10** Starting with 0, players alternate adding numbers between 1 and 3. The first person to reach 22 wins. What is the winning strategy now?
+
+Ans. Winning strategy is to be the first player.
