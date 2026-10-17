@@ -1,8 +1,8 @@
 {
  "stage": "vision",
- "vision_done": 6,
+ "vision_done": 7,
  "vision_total": 25,
- "last": "6-math-06",
- "updated_at": "2026-10-17T16:40:27",
+ "last": "6-math-07",
+ "updated_at": "2026-10-17T16:40:42",
  "usage": {}
 }
