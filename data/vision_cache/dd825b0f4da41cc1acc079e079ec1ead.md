@@ -1,0 +1,33 @@
+**Example 5:** Let us use the above rule to find the product of 5.8 and 1.24.
+
+Let us first multiply 58 and 124.
+
+The product is 7192.
+
+> [Figure: Two callout boxes pointing to the expression $5.8 \times 1.24$. The left box reads "1 digit after decimal point" and points to 5.8; the right box reads "2 digits after decimal point" and points to 1.24.]
+
+The sum of the number of digits after the decimal point in the multiplier and multiplicand is 3. So, the product is 7.192.
+
+Verify this by converting the multiplier and multiplicand into fractions.
+
+## Is the Product Always Greater than the Numbers Multiplied?
+
+Recall multiplication of two fractions. Unlike counting numbers, when two fractions are multiplied the product is not always greater than or equal to both numbers. Let us examine the case of the product of two decimals.
+
+$2.25 \times 8 = 18$.
+
+In the above multiplication, the product (18) is greater than 2.25 and 8.
+
+But in, $0.25 \times 8 = 2$, the product (2) is greater than 0.25 but less than 8.
+
+In the case of $0.25 \times 0.8 = 0.2$, the product (0.2) is less than both 0.25 and 0.8.
+
+When is the product of two decimals greater than both the numbers? When is it less than both the numbers?
+
+Since decimals are just representations of fractions, the relationship between the numbers multiplied and the product are similar to fractions.
+
+| Situation | Multiplication | Relationship |
+|---|---|---|
+| Situation 1 | Both numbers are greater than 1 (e.g., $3.4 \times 6.5$) | The product (22.1) is greater than both the numbers. |
+| Situation 2 | Both numbers are between 0 and 1 (e.g., $0.75 \times 0.4$) | The product (0.3) is less than both the numbers. |
+| Situation 3 | One number is between 0 and 1 and one number is greater than 1 (e.g., $0.75 \times 5$) | The product (3.75) is less than the number greater than 1 and greater than the number between 0 and 1. |

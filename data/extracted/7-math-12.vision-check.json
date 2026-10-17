@@ -1,0 +1,290 @@
+{
+ "chapter_id": "7-math-12",
+ "model": "backend=claude-cli model=sonnet",
+ "pages": [
+  {
+   "page": "67",
+   "plain_words": 88,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "68",
+   "plain_words": 56,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "69",
+   "plain_words": 63,
+   "missing": 3,
+   "missing_ratio": 0.048,
+   "sample": [
+    "another",
+    "beyond",
+    "peek"
+   ]
+  },
+  {
+   "page": "70",
+   "plain_words": 51,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "71",
+   "plain_words": 63,
+   "missing": 3,
+   "missing_ratio": 0.048,
+   "sample": [
+    "another",
+    "beyond",
+    "peek"
+   ]
+  },
+  {
+   "page": "72",
+   "plain_words": 53,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "73",
+   "plain_words": 96,
+   "missing": 4,
+   "missing_ratio": 0.042,
+   "sample": [
+    "another",
+    "beyond",
+    "peek",
+    "point"
+   ]
+  },
+  {
+   "page": "74",
+   "plain_words": 36,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "75",
+   "plain_words": 73,
+   "missing": 2,
+   "missing_ratio": 0.027,
+   "sample": [
+    "beyond",
+    "peek"
+   ]
+  },
+  {
+   "page": "76",
+   "plain_words": 76,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "77",
+   "plain_words": 27,
+   "missing": 4,
+   "missing_ratio": 0.148,
+   "sample": [
+    "another",
+    "beyond",
+    "peek",
+    "point"
+   ]
+  },
+  {
+   "page": "78",
+   "plain_words": 36,
+   "missing": 1,
+   "missing_ratio": 0.028,
+   "sample": [
+    "thh"
+   ]
+  },
+  {
+   "page": "79",
+   "plain_words": 29,
+   "missing": 5,
+   "missing_ratio": 0.172,
+   "sample": [
+    "another",
+    "beyond",
+    "peek",
+    "point",
+    "thh"
+   ]
+  },
+  {
+   "page": "80",
+   "plain_words": 38,
+   "missing": 1,
+   "missing_ratio": 0.026,
+   "sample": [
+    "thh"
+   ]
+  },
+  {
+   "page": "81",
+   "plain_words": 41,
+   "missing": 4,
+   "missing_ratio": 0.098,
+   "sample": [
+    "another",
+    "beyond",
+    "hto",
+    "peek"
+   ]
+  },
+  {
+   "page": "82",
+   "plain_words": 39,
+   "missing": 1,
+   "missing_ratio": 0.026,
+   "sample": [
+    "hto"
+   ]
+  },
+  {
+   "page": "83",
+   "plain_words": 39,
+   "missing": 3,
+   "missing_ratio": 0.077,
+   "sample": [
+    "another",
+    "beyond",
+    "peek"
+   ]
+  },
+  {
+   "page": "84",
+   "plain_words": 73,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "85",
+   "plain_words": 79,
+   "missing": 4,
+   "missing_ratio": 0.051,
+   "sample": [
+    "another",
+    "beyond",
+    "peek",
+    "point"
+   ]
+  },
+  {
+   "page": "86",
+   "plain_words": 99,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "87",
+   "plain_words": 72,
+   "missing": 4,
+   "missing_ratio": 0.056,
+   "sample": [
+    "another",
+    "beyond",
+    "peek",
+    "point"
+   ]
+  },
+  {
+   "page": "88",
+   "plain_words": 84,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "89",
+   "plain_words": 72,
+   "missing": 4,
+   "missing_ratio": 0.056,
+   "sample": [
+    "another",
+    "beyond",
+    "peek",
+    "point"
+   ]
+  },
+  {
+   "page": "90",
+   "plain_words": 53,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "91",
+   "plain_words": 42,
+   "missing": 4,
+   "missing_ratio": 0.095,
+   "sample": [
+    "another",
+    "beyond",
+    "peek",
+    "point"
+   ]
+  },
+  {
+   "page": "92",
+   "plain_words": 62,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "93",
+   "plain_words": 91,
+   "missing": 4,
+   "missing_ratio": 0.044,
+   "sample": [
+    "another",
+    "beyond",
+    "peek",
+    "point"
+   ]
+  },
+  {
+   "page": "94",
+   "plain_words": 45,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "95",
+   "plain_words": 67,
+   "missing": 3,
+   "missing_ratio": 0.045,
+   "sample": [
+    "another",
+    "beyond",
+    "peek"
+   ]
+  },
+  {
+   "page": "96",
+   "plain_words": 67,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  }
+ ],
+ "flagged_pages": [
+  "79"
+ ]
+}
