@@ -1,0 +1,19 @@
+# Extra book files listed on ncert.nic.in (e.g. SST glossaries). Written by ingest/download_pdfs.py.
+- file: pdfs/6/sst/fees1gl.pdf
+  class: 6
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  kind: glossary
+- file: pdfs/7/sst/gees1gl.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  kind: glossary
+- file: pdfs/7/sst/gees2gl.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 2
+  kind: glossary

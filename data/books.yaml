@@ -1,0 +1,750 @@
+# One entry per chapter PDF. Written by ingest/download_pdfs.py from ncert.nic.in.
+# chapter_no runs on across Part 1 / Part 2 (the way students count). 'part' is metadata only.
+# Titles were read from each chapter's first page. Fix any title by hand here if needed.
+- file: pdfs/6/sci/fecu101.pdf
+  class: 6
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 1
+  chapter_in_part: 1
+  title: The Wonderful World of Science
+  book_page_start: 1
+- file: pdfs/6/sci/fecu102.pdf
+  class: 6
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 2
+  chapter_in_part: 2
+  title: Diversity in the Living World
+  book_page_start: 9
+- file: pdfs/6/sci/fecu103.pdf
+  class: 6
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 3
+  chapter_in_part: 3
+  title: 'Mindful Eating: A Path to a Healthy Body'
+  book_page_start: 35
+- file: pdfs/6/sci/fecu104.pdf
+  class: 6
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 4
+  chapter_in_part: 4
+  title: Exploring Magnets
+  book_page_start: 61
+- file: pdfs/6/sci/fecu105.pdf
+  class: 6
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 5
+  chapter_in_part: 5
+  title: Measurement of Length and Motion
+  book_page_start: 79
+- file: pdfs/6/sci/fecu106.pdf
+  class: 6
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 6
+  chapter_in_part: 6
+  title: Materials Around Us
+  book_page_start: 101
+- file: pdfs/6/sci/fecu107.pdf
+  class: 6
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 7
+  chapter_in_part: 7
+  title: Temperature and its Measurement
+  book_page_start: 123
+- file: pdfs/6/sci/fecu108.pdf
+  class: 6
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 8
+  chapter_in_part: 8
+  title: A Journey through States of Water
+  book_page_start: 143
+- file: pdfs/6/sci/fecu109.pdf
+  class: 6
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 9
+  chapter_in_part: 9
+  title: Methods of Separation in Everyday Life
+  book_page_start: 163
+- file: pdfs/6/sci/fecu110.pdf
+  class: 6
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 10
+  chapter_in_part: 10
+  title: 'Living Creatures: Exploring their Characteristics'
+  book_page_start: 183
+- file: pdfs/6/sci/fecu111.pdf
+  class: 6
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 11
+  chapter_in_part: 11
+  title: Nature’s Treasures
+  book_page_start: 207
+- file: pdfs/6/sci/fecu112.pdf
+  class: 6
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 12
+  chapter_in_part: 12
+  title: Beyond Earth
+  book_page_start: 231
+- file: pdfs/6/math/fegp101.pdf
+  class: 6
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 1
+  chapter_in_part: 1
+  title: Patterns in Mathematics
+  book_page_start: 1
+- file: pdfs/6/math/fegp102.pdf
+  class: 6
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 2
+  chapter_in_part: 2
+  title: Lines and Angles
+  book_page_start: 13
+- file: pdfs/6/math/fegp103.pdf
+  class: 6
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 3
+  chapter_in_part: 3
+  title: Number Play
+  book_page_start: 55
+- file: pdfs/6/math/fegp104.pdf
+  class: 6
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 4
+  chapter_in_part: 4
+  title: Data Handling and Presentation
+  book_page_start: 74
+- file: pdfs/6/math/fegp105.pdf
+  class: 6
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 5
+  chapter_in_part: 5
+  title: Prime Time
+  book_page_start: 107
+- file: pdfs/6/math/fegp106.pdf
+  class: 6
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 6
+  chapter_in_part: 6
+  title: Perimeter and Area
+  book_page_start: 129
+- file: pdfs/6/math/fegp107.pdf
+  class: 6
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 7
+  chapter_in_part: 7
+  title: Fractions
+  book_page_start: 151
+- file: pdfs/6/math/fegp108.pdf
+  class: 6
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 8
+  chapter_in_part: 8
+  title: Playing with Constructions
+  book_page_start: 187
+- file: pdfs/6/math/fegp109.pdf
+  class: 6
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 9
+  chapter_in_part: 9
+  title: Symmetry
+  book_page_start: 217
+- file: pdfs/6/math/fegp110.pdf
+  class: 6
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 10
+  chapter_in_part: 10
+  title: The Other Side of Zero
+  book_page_start: 242
+- file: pdfs/6/sst/fees101.pdf
+  class: 6
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 1
+  chapter_in_part: 1
+  title: Locating Places on the Earth
+  book_page_start: 7
+- file: pdfs/6/sst/fees102.pdf
+  class: 6
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 2
+  chapter_in_part: 2
+  title: Oceans and Continents
+  book_page_start: 27
+- file: pdfs/6/sst/fees103.pdf
+  class: 6
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 3
+  chapter_in_part: 3
+  title: Landforms and Life
+  book_page_start: 41
+- file: pdfs/6/sst/fees104.pdf
+  class: 6
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 4
+  chapter_in_part: 4
+  title: Timeline and Sources of History
+  book_page_start: 59
+- file: pdfs/6/sst/fees105.pdf
+  class: 6
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 5
+  chapter_in_part: 5
+  title: India, That Is Bharat
+  book_page_start: 75
+- file: pdfs/6/sst/fees106.pdf
+  class: 6
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 6
+  chapter_in_part: 6
+  title: The Beginnings of Indian Civilisation
+  book_page_start: 85
+- file: pdfs/6/sst/fees107.pdf
+  class: 6
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 7
+  chapter_in_part: 7
+  title: India's Cultural Roots
+  book_page_start: 105
+- file: pdfs/6/sst/fees108.pdf
+  class: 6
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 8
+  chapter_in_part: 8
+  title: Unity in Diversity, or 'Many in the One'
+  book_page_start: 125
+- file: pdfs/6/sst/fees109.pdf
+  class: 6
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 9
+  chapter_in_part: 9
+  title: Family and Community
+  book_page_start: 137
+- file: pdfs/6/sst/fees110.pdf
+  class: 6
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 10
+  chapter_in_part: 10
+  title: 'Grassroots Democracy — Part 1: Governance'
+  book_page_start: 149
+- file: pdfs/6/sst/fees111.pdf
+  class: 6
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 11
+  chapter_in_part: 11
+  title: 'Grassroots Democracy — Part 2: Local Government in Rural Areas'
+  book_page_start: 163
+- file: pdfs/6/sst/fees112.pdf
+  class: 6
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 12
+  chapter_in_part: 12
+  title: 'Grassroots Democracy — Part 3: Local Government in Urban Areas'
+  book_page_start: 173
+- file: pdfs/6/sst/fees113.pdf
+  class: 6
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 13
+  chapter_in_part: 13
+  title: The Value of Work
+  book_page_start: 183
+- file: pdfs/6/sst/fees114.pdf
+  class: 6
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 14
+  chapter_in_part: 14
+  title: Economic Activities Around Us
+  book_page_start: 195
+- file: pdfs/7/sci/gecu101.pdf
+  class: 7
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 1
+  chapter_in_part: 1
+  title: The Ever-Evolving World of Science
+  book_page_start: 1
+- file: pdfs/7/sci/gecu102.pdf
+  class: 7
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 2
+  chapter_in_part: 2
+  title: 'Exploring Substances: Acidic, Basic, and Neutral'
+  book_page_start: 7
+- file: pdfs/7/sci/gecu103.pdf
+  class: 7
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 3
+  chapter_in_part: 3
+  title: 'Electricity: Circuits and their Components'
+  book_page_start: 23
+- file: pdfs/7/sci/gecu104.pdf
+  class: 7
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 4
+  chapter_in_part: 4
+  title: The World of Metals and Non-metals
+  book_page_start: 41
+- file: pdfs/7/sci/gecu105.pdf
+  class: 7
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 5
+  chapter_in_part: 5
+  title: 'Changes Around Us: Physical and Chemical'
+  book_page_start: 57
+- file: pdfs/7/sci/gecu106.pdf
+  class: 7
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 6
+  chapter_in_part: 6
+  title: 'Adolescence: A Stage of Growth and Change'
+  book_page_start: 73
+- file: pdfs/7/sci/gecu107.pdf
+  class: 7
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 7
+  chapter_in_part: 7
+  title: Heat Transfer in Nature
+  book_page_start: 89
+- file: pdfs/7/sci/gecu108.pdf
+  class: 7
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 8
+  chapter_in_part: 8
+  title: Measurement of Time and Motion
+  book_page_start: 105
+- file: pdfs/7/sci/gecu109.pdf
+  class: 7
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 9
+  chapter_in_part: 9
+  title: Life Processes in Animals
+  book_page_start: 121
+- file: pdfs/7/sci/gecu110.pdf
+  class: 7
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 10
+  chapter_in_part: 10
+  title: Life Processes in Plants
+  book_page_start: 137
+- file: pdfs/7/sci/gecu111.pdf
+  class: 7
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 11
+  chapter_in_part: 11
+  title: 'Light: Shadows and Reflections'
+  book_page_start: 153
+- file: pdfs/7/sci/gecu112.pdf
+  class: 7
+  subject: sci
+  book: Curiosity
+  part: 1
+  chapter_no: 12
+  chapter_in_part: 12
+  title: Earth, Moon, and the Sun
+  book_page_start: 169
+- file: pdfs/7/math/gegp101.pdf
+  class: 7
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 1
+  chapter_in_part: 1
+  title: Large Numbers Around Us
+  book_page_start: 1
+- file: pdfs/7/math/gegp102.pdf
+  class: 7
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 2
+  chapter_in_part: 2
+  title: Arithmetic Expressions
+  book_page_start: 24
+- file: pdfs/7/math/gegp103.pdf
+  class: 7
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 3
+  chapter_in_part: 3
+  title: A Peek Beyond the Point
+  book_page_start: 46
+- file: pdfs/7/math/gegp104.pdf
+  class: 7
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 4
+  chapter_in_part: 4
+  title: Expressions using Letter-Numbers
+  book_page_start: 81
+- file: pdfs/7/math/gegp105.pdf
+  class: 7
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 5
+  chapter_in_part: 5
+  title: Parallel and Intersecting Lines
+  book_page_start: 106
+- file: pdfs/7/math/gegp106.pdf
+  class: 7
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 6
+  chapter_in_part: 6
+  title: Number Play
+  book_page_start: 127
+- file: pdfs/7/math/gegp107.pdf
+  class: 7
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 7
+  chapter_in_part: 7
+  title: A Tale of Three Intersecting Lines
+  book_page_start: 146
+- file: pdfs/7/math/gegp108.pdf
+  class: 7
+  subject: math
+  book: Ganita Prakash
+  part: 1
+  chapter_no: 8
+  chapter_in_part: 8
+  title: Working with Fractions
+  book_page_start: 173
+- file: pdfs/7/math/gegp201.pdf
+  class: 7
+  subject: math
+  book: Ganita Prakash
+  part: 2
+  chapter_no: 9
+  chapter_in_part: 1
+  title: Geometric Twins
+  book_page_start: 1
+- file: pdfs/7/math/gegp202.pdf
+  class: 7
+  subject: math
+  book: Ganita Prakash
+  part: 2
+  chapter_no: 10
+  chapter_in_part: 2
+  title: Operations with Integers
+  book_page_start: 24
+- file: pdfs/7/math/gegp203.pdf
+  class: 7
+  subject: math
+  book: Ganita Prakash
+  part: 2
+  chapter_no: 11
+  chapter_in_part: 3
+  title: Finding Common Ground
+  book_page_start: 47
+- file: pdfs/7/math/gegp204.pdf
+  class: 7
+  subject: math
+  book: Ganita Prakash
+  part: 2
+  chapter_no: 12
+  chapter_in_part: 4
+  title: Another Peek Beyond the Point
+  book_page_start: 67
+- file: pdfs/7/math/gegp205.pdf
+  class: 7
+  subject: math
+  book: Ganita Prakash
+  part: 2
+  chapter_no: 13
+  chapter_in_part: 5
+  title: Connecting the Dots...
+  book_page_start: 97
+- file: pdfs/7/math/gegp206.pdf
+  class: 7
+  subject: math
+  book: Ganita Prakash
+  part: 2
+  chapter_no: 14
+  chapter_in_part: 6
+  title: Constructions and Tilings
+  book_page_start: 136
+- file: pdfs/7/math/gegp207.pdf
+  class: 7
+  subject: math
+  book: Ganita Prakash
+  part: 2
+  chapter_no: 15
+  chapter_in_part: 7
+  title: Finding the Unknown
+  book_page_start: 164
+- file: pdfs/7/sst/gees101.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 1
+  chapter_in_part: 1
+  title: Geographical Diversity of India
+  book_page_start: 1
+- file: pdfs/7/sst/gees102.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 2
+  chapter_in_part: 2
+  title: Understanding the Weather
+  book_page_start: 27
+- file: pdfs/7/sst/gees103.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 3
+  chapter_in_part: 3
+  title: Climates of India
+  book_page_start: 45
+- file: pdfs/7/sst/gees104.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 4
+  chapter_in_part: 4
+  title: 'New Beginnings: Cities and States'
+  book_page_start: 67
+- file: pdfs/7/sst/gees105.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 5
+  chapter_in_part: 5
+  title: The Rise of Empires
+  book_page_start: 83
+- file: pdfs/7/sst/gees106.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 6
+  chapter_in_part: 6
+  title: The Age of Reorganisation
+  book_page_start: 117
+- file: pdfs/7/sst/gees107.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 7
+  chapter_in_part: 7
+  title: 'The Gupta Era: An Age of Tireless Creativity'
+  book_page_start: 145
+- file: pdfs/7/sst/gees108.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 8
+  chapter_in_part: 8
+  title: How the Land Becomes Sacred
+  book_page_start: 167
+- file: pdfs/7/sst/gees109.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 9
+  chapter_in_part: 9
+  title: 'From the Rulers to the Ruled: Types of Governments'
+  book_page_start: 185
+- file: pdfs/7/sst/gees110.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 10
+  chapter_in_part: 10
+  title: The Constitution of India — An Introduction
+  book_page_start: 209
+- file: pdfs/7/sst/gees111.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 11
+  chapter_in_part: 11
+  title: From Barter to Money
+  book_page_start: 229
+- file: pdfs/7/sst/gees112.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 1
+  chapter_no: 12
+  chapter_in_part: 12
+  title: Understanding Markets
+  book_page_start: 247
+- file: pdfs/7/sst/gees201.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 2
+  chapter_no: 13
+  chapter_in_part: 1
+  title: The Story of Indian Farming
+  book_page_start: 1
+- file: pdfs/7/sst/gees202.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 2
+  chapter_no: 14
+  chapter_in_part: 2
+  title: India and Her Neighbours
+  book_page_start: 29
+- file: pdfs/7/sst/gees203.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 2
+  chapter_no: 15
+  chapter_in_part: 3
+  title: 'Empires and Kingdoms: 6th to 10th Centuries'
+  book_page_start: 61
+- file: pdfs/7/sst/gees204.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 2
+  chapter_no: 16
+  chapter_in_part: 4
+  title: 'Turning Tides: 11th and 12th Centuries'
+  book_page_start: 97
+- file: pdfs/7/sst/gees205.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 2
+  chapter_no: 17
+  chapter_in_part: 5
+  title: India, a Home to Many
+  book_page_start: 125
+- file: pdfs/7/sst/gees206.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 2
+  chapter_no: 18
+  chapter_in_part: 6
+  title: The State, the Government, and You
+  book_page_start: 143
+- file: pdfs/7/sst/gees207.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 2
+  chapter_no: 19
+  chapter_in_part: 7
+  title: 'Infrastructure: Engine of India’s Development'
+  book_page_start: 169
+- file: pdfs/7/sst/gees208.pdf
+  class: 7
+  subject: sst
+  book: 'Exploring Society: India and Beyond'
+  part: 2
+  chapter_no: 20
+  chapter_in_part: 8
+  title: Banks and the Magic of Finance
+  book_page_start: 193
