@@ -1,0 +1,197 @@
+{
+ "chapter_id": "7-math-09",
+ "model": "backend=claude-cli model=sonnet",
+ "pages": [
+  {
+   "page": "1",
+   "plain_words": 47,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "2",
+   "plain_words": 78,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "3",
+   "plain_words": 66,
+   "missing": 2,
+   "missing_ratio": 0.03,
+   "sample": [
+    "geometric",
+    "twins"
+   ]
+  },
+  {
+   "page": "4",
+   "plain_words": 46,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "5",
+   "plain_words": 90,
+   "missing": 2,
+   "missing_ratio": 0.022,
+   "sample": [
+    "geometric",
+    "twins"
+   ]
+  },
+  {
+   "page": "6",
+   "plain_words": 101,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "7",
+   "plain_words": 71,
+   "missing": 2,
+   "missing_ratio": 0.028,
+   "sample": [
+    "geometric",
+    "twins"
+   ]
+  },
+  {
+   "page": "8",
+   "plain_words": 64,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "9",
+   "plain_words": 59,
+   "missing": 2,
+   "missing_ratio": 0.034,
+   "sample": [
+    "geometric",
+    "twins"
+   ]
+  },
+  {
+   "page": "10",
+   "plain_words": 63,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "11",
+   "plain_words": 52,
+   "missing": 2,
+   "missing_ratio": 0.038,
+   "sample": [
+    "geometric",
+    "twins"
+   ]
+  },
+  {
+   "page": "12",
+   "plain_words": 70,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "13",
+   "plain_words": 69,
+   "missing": 2,
+   "missing_ratio": 0.029,
+   "sample": [
+    "geometric",
+    "twins"
+   ]
+  },
+  {
+   "page": "14",
+   "plain_words": 31,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "15",
+   "plain_words": 37,
+   "missing": 2,
+   "missing_ratio": 0.054,
+   "sample": [
+    "geometric",
+    "twins"
+   ]
+  },
+  {
+   "page": "16",
+   "plain_words": 78,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "17",
+   "plain_words": 106,
+   "missing": 1,
+   "missing_ratio": 0.009,
+   "sample": [
+    "twins"
+   ]
+  },
+  {
+   "page": "18",
+   "plain_words": 46,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "19",
+   "plain_words": 60,
+   "missing": 2,
+   "missing_ratio": 0.033,
+   "sample": [
+    "geometric",
+    "twins"
+   ]
+  },
+  {
+   "page": "20",
+   "plain_words": 53,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "21",
+   "plain_words": 52,
+   "missing": 2,
+   "missing_ratio": 0.038,
+   "sample": [
+    "geometric",
+    "twins"
+   ]
+  },
+  {
+   "page": "22",
+   "plain_words": 65,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "23",
+   "plain_words": 15,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  }
+ ],
+ "flagged_pages": []
+}
