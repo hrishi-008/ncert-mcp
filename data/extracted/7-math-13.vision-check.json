@@ -1,0 +1,327 @@
+{
+ "chapter_id": "7-math-13",
+ "model": "backend=claude-cli model=sonnet",
+ "pages": [
+  {
+   "page": "97",
+   "plain_words": 108,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "98",
+   "plain_words": 147,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "99",
+   "plain_words": 110,
+   "missing": 2,
+   "missing_ratio": 0.018,
+   "sample": [
+    "connecting",
+    "dots"
+   ]
+  },
+  {
+   "page": "100",
+   "plain_words": 70,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "101",
+   "plain_words": 144,
+   "missing": 2,
+   "missing_ratio": 0.014,
+   "sample": [
+    "connecting",
+    "dots"
+   ]
+  },
+  {
+   "page": "102",
+   "plain_words": 90,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "103",
+   "plain_words": 104,
+   "missing": 1,
+   "missing_ratio": 0.01,
+   "sample": [
+    "connecting"
+   ]
+  },
+  {
+   "page": "104",
+   "plain_words": 110,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "105",
+   "plain_words": 91,
+   "missing": 2,
+   "missing_ratio": 0.022,
+   "sample": [
+    "connecting",
+    "dots"
+   ]
+  },
+  {
+   "page": "106",
+   "plain_words": 72,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "107",
+   "plain_words": 83,
+   "missing": 2,
+   "missing_ratio": 0.024,
+   "sample": [
+    "connecting",
+    "dots"
+   ]
+  },
+  {
+   "page": "108",
+   "plain_words": 101,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "109",
+   "plain_words": 93,
+   "missing": 1,
+   "missing_ratio": 0.011,
+   "sample": [
+    "connecting"
+   ]
+  },
+  {
+   "page": "110",
+   "plain_words": 99,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "111",
+   "plain_words": 75,
+   "missing": 2,
+   "missing_ratio": 0.027,
+   "sample": [
+    "connecting",
+    "dots"
+   ]
+  },
+  {
+   "page": "112",
+   "plain_words": 143,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "113",
+   "plain_words": 52,
+   "missing": 1,
+   "missing_ratio": 0.019,
+   "sample": [
+    "connecting"
+   ]
+  },
+  {
+   "page": "114",
+   "plain_words": 51,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "115",
+   "plain_words": 125,
+   "missing": 1,
+   "missing_ratio": 0.008,
+   "sample": [
+    "connecting"
+   ]
+  },
+  {
+   "page": "116",
+   "plain_words": 73,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "117",
+   "plain_words": 110,
+   "missing": 2,
+   "missing_ratio": 0.018,
+   "sample": [
+    "connecting",
+    "dots"
+   ]
+  },
+  {
+   "page": "118",
+   "plain_words": 92,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "119",
+   "plain_words": 94,
+   "missing": 3,
+   "missing_ratio": 0.032,
+   "sample": [
+    "connecting",
+    "dots",
+    "mayjun"
+   ]
+  },
+  {
+   "page": "120",
+   "plain_words": 83,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "121",
+   "plain_words": 52,
+   "missing": 2,
+   "missing_ratio": 0.038,
+   "sample": [
+    "connecting",
+    "dots"
+   ]
+  },
+  {
+   "page": "122",
+   "plain_words": 100,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "123",
+   "plain_words": 38,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "124",
+   "plain_words": 80,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "125",
+   "plain_words": 123,
+   "missing": 2,
+   "missing_ratio": 0.016,
+   "sample": [
+    "connecting",
+    "dots"
+   ]
+  },
+  {
+   "page": "126",
+   "plain_words": 74,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "127",
+   "plain_words": 64,
+   "missing": 2,
+   "missing_ratio": 0.031,
+   "sample": [
+    "connecting",
+    "dots"
+   ]
+  },
+  {
+   "page": "128",
+   "plain_words": 94,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "129",
+   "plain_words": 65,
+   "missing": 1,
+   "missing_ratio": 0.015,
+   "sample": [
+    "connecting"
+   ]
+  },
+  {
+   "page": "130",
+   "plain_words": 114,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "131",
+   "plain_words": 63,
+   "missing": 2,
+   "missing_ratio": 0.032,
+   "sample": [
+    "connecting",
+    "dots"
+   ]
+  },
+  {
+   "page": "132",
+   "plain_words": 105,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "133",
+   "plain_words": 127,
+   "missing": 2,
+   "missing_ratio": 0.016,
+   "sample": [
+    "connecting",
+    "dots"
+   ]
+  },
+  {
+   "page": "134",
+   "plain_words": 79,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "135",
+   "plain_words": 23,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  }
+ ],
+ "flagged_pages": []
+}
