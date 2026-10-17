@@ -1,0 +1,285 @@
+{
+ "chapter_id": "7-math-15",
+ "model": "backend=claude-cli model=sonnet",
+ "pages": [
+  {
+   "page": "164",
+   "plain_words": 20,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "165",
+   "plain_words": 43,
+   "missing": 1,
+   "missing_ratio": 0.023,
+   "sample": [
+    "finding"
+   ]
+  },
+  {
+   "page": "166",
+   "plain_words": 47,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "167",
+   "plain_words": 89,
+   "missing": 1,
+   "missing_ratio": 0.011,
+   "sample": [
+    "nth"
+   ]
+  },
+  {
+   "page": "168",
+   "plain_words": 94,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "169",
+   "plain_words": 110,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "170",
+   "plain_words": 56,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "171",
+   "plain_words": 50,
+   "missing": 1,
+   "missing_ratio": 0.02,
+   "sample": [
+    "finding"
+   ]
+  },
+  {
+   "page": "172",
+   "plain_words": 74,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "173",
+   "plain_words": 77,
+   "missing": 2,
+   "missing_ratio": 0.026,
+   "sample": [
+    "finding",
+    "unknown"
+   ]
+  },
+  {
+   "page": "174",
+   "plain_words": 45,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "175",
+   "plain_words": 90,
+   "missing": 2,
+   "missing_ratio": 0.022,
+   "sample": [
+    "finding",
+    "unknown"
+   ]
+  },
+  {
+   "page": "176",
+   "plain_words": 76,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "177",
+   "plain_words": 42,
+   "missing": 2,
+   "missing_ratio": 0.048,
+   "sample": [
+    "finding",
+    "unknown"
+   ]
+  },
+  {
+   "page": "178",
+   "plain_words": 78,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "179",
+   "plain_words": 68,
+   "missing": 1,
+   "missing_ratio": 0.015,
+   "sample": [
+    "finding"
+   ]
+  },
+  {
+   "page": "180",
+   "plain_words": 91,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "181",
+   "plain_words": 58,
+   "missing": 1,
+   "missing_ratio": 0.017,
+   "sample": [
+    "finding"
+   ]
+  },
+  {
+   "page": "182",
+   "plain_words": 144,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "183",
+   "plain_words": 76,
+   "missing": 2,
+   "missing_ratio": 0.026,
+   "sample": [
+    "finding",
+    "jga"
+   ]
+  },
+  {
+   "page": "184",
+   "plain_words": 116,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "185",
+   "plain_words": 75,
+   "missing": 2,
+   "missing_ratio": 0.027,
+   "sample": [
+    "finding",
+    "unknown"
+   ]
+  },
+  {
+   "page": "186",
+   "plain_words": 27,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "187",
+   "plain_words": 51,
+   "missing": 2,
+   "missing_ratio": 0.039,
+   "sample": [
+    "finding",
+    "unknown"
+   ]
+  },
+  {
+   "page": "188",
+   "plain_words": 91,
+   "missing": 1,
+   "missing_ratio": 0.011,
+   "sample": [
+    "bakh"
+   ]
+  },
+  {
+   "page": "189",
+   "plain_words": 19,
+   "missing": 2,
+   "missing_ratio": 0.105,
+   "sample": [
+    "finding",
+    "unknown"
+   ]
+  },
+  {
+   "page": "190",
+   "plain_words": 67,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "191",
+   "plain_words": 9,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "192",
+   "plain_words": 0,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "193",
+   "plain_words": 0,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "194",
+   "plain_words": 0,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "195",
+   "plain_words": 0,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "196",
+   "plain_words": 0,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "197",
+   "plain_words": 0,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "198",
+   "plain_words": 0,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  }
+ ],
+ "flagged_pages": []
+}
