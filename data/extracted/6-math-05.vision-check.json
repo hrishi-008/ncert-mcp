@@ -1,0 +1,319 @@
+{
+ "chapter_id": "6-math-05",
+ "model": "backend=claude-cli model=sonnet",
+ "pages": [
+  {
+   "page": "107",
+   "plain_words": 137,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "108",
+   "plain_words": 165,
+   "missing": 3,
+   "missing_ratio": 0.018,
+   "sample": [
+    "ganita",
+    "prakash",
+    "grade"
+   ]
+  },
+  {
+   "page": "109",
+   "plain_words": 147,
+   "missing": 2,
+   "missing_ratio": 0.014,
+   "sample": [
+    "prime",
+    "time"
+   ]
+  },
+  {
+   "page": "110",
+   "plain_words": 134,
+   "missing": 3,
+   "missing_ratio": 0.022,
+   "sample": [
+    "ganita",
+    "prakash",
+    "grade"
+   ]
+  },
+  {
+   "page": "111",
+   "plain_words": 186,
+   "missing": 2,
+   "missing_ratio": 0.011,
+   "sample": [
+    "prime",
+    "time"
+   ]
+  },
+  {
+   "page": "112",
+   "plain_words": 191,
+   "missing": 3,
+   "missing_ratio": 0.016,
+   "sample": [
+    "ganita",
+    "prakash",
+    "grade"
+   ]
+  },
+  {
+   "page": "113",
+   "plain_words": 179,
+   "missing": 2,
+   "missing_ratio": 0.011,
+   "sample": [
+    "prime",
+    "time"
+   ]
+  },
+  {
+   "page": "114",
+   "plain_words": 237,
+   "missing": 3,
+   "missing_ratio": 0.013,
+   "sample": [
+    "ganita",
+    "prakash",
+    "grade"
+   ]
+  },
+  {
+   "page": "115",
+   "plain_words": 196,
+   "missing": 2,
+   "missing_ratio": 0.01,
+   "sample": [
+    "prime",
+    "time"
+   ]
+  },
+  {
+   "page": "116",
+   "plain_words": 181,
+   "missing": 3,
+   "missing_ratio": 0.017,
+   "sample": [
+    "ganita",
+    "prakash",
+    "grade"
+   ]
+  },
+  {
+   "page": "117",
+   "plain_words": 180,
+   "missing": 2,
+   "missing_ratio": 0.011,
+   "sample": [
+    "prime",
+    "time"
+   ]
+  },
+  {
+   "page": "118",
+   "plain_words": 202,
+   "missing": 3,
+   "missing_ratio": 0.015,
+   "sample": [
+    "ganita",
+    "prakash",
+    "grade"
+   ]
+  },
+  {
+   "page": "119",
+   "plain_words": 135,
+   "missing": 2,
+   "missing_ratio": 0.015,
+   "sample": [
+    "prime",
+    "time"
+   ]
+  },
+  {
+   "page": "120",
+   "plain_words": 183,
+   "missing": 3,
+   "missing_ratio": 0.016,
+   "sample": [
+    "ganita",
+    "prakash",
+    "grade"
+   ]
+  },
+  {
+   "page": "121",
+   "plain_words": 159,
+   "missing": 2,
+   "missing_ratio": 0.013,
+   "sample": [
+    "prime",
+    "time"
+   ]
+  },
+  {
+   "page": "122",
+   "plain_words": 176,
+   "missing": 3,
+   "missing_ratio": 0.017,
+   "sample": [
+    "ganita",
+    "prakash",
+    "grade"
+   ]
+  },
+  {
+   "page": "123",
+   "plain_words": 165,
+   "missing": 2,
+   "missing_ratio": 0.012,
+   "sample": [
+    "prime",
+    "time"
+   ]
+  },
+  {
+   "page": "124",
+   "plain_words": 207,
+   "missing": 3,
+   "missing_ratio": 0.014,
+   "sample": [
+    "ganita",
+    "prakash",
+    "grade"
+   ]
+  },
+  {
+   "page": "125",
+   "plain_words": 215,
+   "missing": 2,
+   "missing_ratio": 0.009,
+   "sample": [
+    "prime",
+    "time"
+   ]
+  },
+  {
+   "page": "126",
+   "plain_words": 163,
+   "missing": 3,
+   "missing_ratio": 0.018,
+   "sample": [
+    "ganita",
+    "prakash",
+    "grade"
+   ]
+  },
+  {
+   "page": "127",
+   "plain_words": 108,
+   "missing": 2,
+   "missing_ratio": 0.019,
+   "sample": [
+    "prime",
+    "time"
+   ]
+  },
+  {
+   "page": "128",
+   "plain_words": 157,
+   "missing": 8,
+   "missing_ratio": 0.051,
+   "sample": [
+    "ganita",
+    "prakash",
+    "grade",
+    "answers",
+    "chapter",
+    "questions",
+    "from",
+    "book"
+   ]
+  },
+  {
+   "page": "answers 1",
+   "plain_words": 138,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 2",
+   "plain_words": 128,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 3",
+   "plain_words": 190,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 4",
+   "plain_words": 172,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 5",
+   "plain_words": 190,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 6",
+   "plain_words": 147,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 7",
+   "plain_words": 61,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 8",
+   "plain_words": 42,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 9",
+   "plain_words": 153,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 10",
+   "plain_words": 200,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": "answers 11",
+   "plain_words": 114,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  }
+ ],
+ "flagged_pages": [
+  "128"
+ ]
+}

@@ -2,79 +2,65 @@
 
 <!-- page 107 -->
 
-## PRIME TIME 5
+# 5 PRIME TIME
 
-### 5.1 Common Multiples and Common Factors
+[Figure: QR code labelled 0674CH05]
 
-##### Idli-Vada Game
+## 5.1 Common Multiples and Common Factors
+
+[Figure: Children seated in a circle playing a number game, each with a speech bubble. Bubbles show the numbers 1, 2, 4, 6, 7, 8, 11, 13, 14, 16, 17, 19, and idli and vada pictures in other bubbles (idli in the bubbles for 3, 9, 12, 18 and so on, vada in the bubbles for 5, 10, 15 and so on); one bubble contains both an idli and a vada with an exclamation mark.]
+
+### Idli-Vada Game
 
 Children sit in a circle and play a game of numbers.
 
-One of the children starts by saying ‘1’. The second player says ‘2’, and so on. But when it is the turn of 3, 6, 9, … (multiples of 3), the player should say ‘idli’ instead of the number. When it is the turn of 5, 10, … (multiples of 5), the player should say ‘vada’ instead of the number. When a number is both a multiple of 3 and a multiple of 5, the player should say ‘idli-vada’! If a player makes any mistake, they are out.
+One of the children starts by saying '1'. The second player says '2', and so on. But when it is the turn of 3, 6, 9, … (multiples of 3), the player should say 'idli' instead of the number. When it is the turn of 5, 10, … (multiples of 5), the player should say 'vada' instead of the number. When a number is both a multiple of 3 and a multiple of 5, the player should say 'idli-vada'! If a player makes any mistake, they are out.
 
 The game continues in rounds till only one person remains.
 
-For which numbers should the players say ‘idli’ instead of saying the number? These would be 3, 6, 9, 12, 18, … and so on. For which numbers should the players say ‘vada’? These would be 5, 10, 15, 20, … and so on.
+For which numbers should the players say 'idli' instead of saying the number? These would be 3, 6, 9, 12, 18, … and so on.
 
-Which is the first number for which the players should say, ‘idli-vada’? It is 15, which is a multiple of 3, and also a multiple of 5. Find out other such numbers that are multiples of both 3 and 5. These numbers are called _____________________________.
+For which numbers should the players say 'vada'? These would be 5, 10, 15, 20, … and so on.
+
+Which is the first number for which the players should say, 'idli-vada'? It is 15, which is a multiple of 3, and also a multiple of 5. Find out other such numbers that are multiples of both 3 and 5. These numbers are called ______________________.
 
 <!-- page 108 -->
 
-Ganita Prakash | Grade 6
+### Figure it Out
 
-##### Figure it Out
+1. At what number is 'idli-vada' said for the 10th time?
+2. If the game is played for the numbers 1 to 90, find out:
+   a. How many times would the children say 'idli' (including the times they say 'idli-vada')?
+   b. How many times would the children say 'vada' (including the times they say 'idli-vada')?
+   c. How many times would the children say 'idli-vada'?
+3. What if the game was played till 900? How would your answers change?
+4. Is this figure somehow related to the 'idli-vada' game?
 
-1. At what number is ‘idli-vada’ said for the 10th time?
-2. If the game is played for the numbers 1 to 90, find out: a. How many times would the children say ‘idli’ (including the times they say ‘idli-vada’)? b. How many times would the children say ‘vada’ (including the times they say ‘idli-vada’)? c. How many times would the children say ‘idli-vada’? 3. What if the game was played till 900? How would your answers change?
-4. Is this figure somehow related to the ‘idli-vada’ game?
+   *Hint*: Imagine playing the game till 30. Draw the figure if the game is played till 60.
 
-Multiples | Multiples
+> [Figure: Fig. 5.1 — Venn diagram of two overlapping green circles. Left circle labelled "Multiples of 3" contains 3, 9, 12, 21, 18, 24, 27; right circle labelled "Multiples of 5" contains 10, 5, 20, 25; the overlap contains 30 and 15, with an arrow pointing to it labelled "Common multiples of 3 and 5".]
+>
+> *Fig. 5.1*
 
-of 3 | of 5
+Let us now play the 'idli-vada' game with different pairs of numbers:
 
-21 | 18
+a. 2 and 5,
+b. 3 and 7,
+c. 4 and 6.
 
-24 30 | 10 | 5
+We will say 'idli' for multiples of the smaller number, 'vada' for multiples of the larger number and 'idli-vada' for common multiples. Draw a figure similar to Fig. 5.1 if the game is played up to 60.
 
-3
+[Figure: Cartoon of a boy with a yellow background, thumbs up and arms out, with speech bubbles: "Yesterday, we played this game with two numbers. We ended up saying just 'idli' or 'idli-vada' and nobody said just 'vada'!" and "One of the numbers was 4."]
 
-Hint:Imagine playing the game
-
-9 | 25 12
-
-15
-
-till 30. Draw the figure if the game is played till 60. | 20
-
-27
-
-Let us now play the ‘idli-vada’ game with different pairs of numbers: | Common multiples
-
-of 3 and 5
-
-Fig. 5.1
-
-a. 2 and 5, b. 3 and 7, c. 4 and 6.
-
-We will say ‘idli’ for multiples of the smaller number, ‘vada’ for multiples of the larger number and ‘idli-vada’ for common multiples. Draw a figure similar to Fig. 5.1 if the game is played up to 60.
-
-Yesterday, we played this game with two numbers. We ended up saying just ‘idli’ or ‘idli-vada’ and nobody said just ‘vada’!
-
-Oh, what could those numbers be!?
-
-One of the numbers
-
-was 4.
+[Figure: Cartoon of a curly-haired child in a green shirt with an orange background, with speech bubble: "Oh, what could those numbers be!?"]
 
 <!-- page 109 -->
 
-Prime Time
-
-Which of the following could be the other number:
+Which of the following could be the other number:
 
 2, 3, 5, 8, 10?
 
-##### Jump Jackpot
+### Jump Jackpot
 
 Jumpy and Grumpy play a game.
 
@@ -82,9 +68,13 @@ Jumpy and Grumpy play a game.
 - Jumpy chooses a jump size. If he chooses 4, then he has to jump only on multiples of 4, starting at 0.
 - Jumpy gets the treasure if he lands on the number where Grumpy placed it.
 
-Which jump sizes will get Jumpy to land on 24? If he chooses 4: Jumpy lands on 4 → 8 → 12 → 16 → 20 → 24 → 28 → ... Other successful jump sizes are 2, 3, 6, 8 and 12.
+Which jump sizes will get Jumpy to land on 24?
 
-24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0
+If he chooses 4: Jumpy lands on $4 \to 8 \to 12 \to 16 \to 20 \to 24 \to 28 \to \ldots$
+
+Other successful jump sizes are 2, 3, 6, 8 and 12.
+
+[Figure: A number line from 0 to 24 with labelled marks 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24. Above the line, dotted arcs in different colours show jumps of sizes 2, 3 and 4 landing on 24 (jumps of 2 in purple, 3 in orange, 4 in black). Below the line, dotted arcs show jumps of sizes 6 (green), 8 (brown) and 12 (red) landing on 24.]
 
 What about the jump of sizes 1 and 24? Yes, they also will land on 24.
 
@@ -94,171 +84,180 @@ Grumpy increases the level of the game. Two treasures are kept on two different 
 
 Grumpy has kept the treasures on 14 and 36. And, Jumpy chooses a jump size of 7.
 
-Will Jumpy land on both the treasures? Starting from 0, he jumps to 7 → 14 → 21 → 28 → 35 → 42 … We see that he landed on 14 but
+Will Jumpy land on both the treasures? Starting from 0, he jumps to $7 \to 14 \to 21 \to 28 \to 35 \to 42 \ldots$ We see that he landed on 14 but
 
 <!-- page 110 -->
 
-Ganita Prakash | Grade 6
-
 did not land on 36, so he does not get the treasure. What jump size should he have chosen?
 
-The factors of 14 are: 1, 2, 7, 14. So, these jump sizes will land on 14. The factors of 36 are: 1, 2, 3, 4, 6, 9, 12, 18 and 36. These jump sizes will land on 36.
+The factors of 14 are: 1, 2, 7, 14. So, these jump sizes will land on 14.
 
-So, the jump sizes of 1 or 2 will land on both 14 and 36. Notice that 1 and 2 are the common factors of 14 and 36. The jump sizes using which both the treasures can be reached are the **common factors** of the two numbers where the treasures are placed.
+The factors of 36 are: 1, 2, 3, 4, 6, 9, 12, 18 and 36. These jump sizes will land on 36.
 
-What jump size can reach both 15 and 30? There are multiple
+So, the jump sizes of 1 or 2 will land on both 14 and 36. Notice that 1 and 2 are the common factors of 14 and 36.
 
-jump sizes possible. Try to find them all.
+The jump sizes using which both the treasures can be reached are the **common factors** of the two numbers where the treasures are placed.
 
-Look at the table below. What do you notice?
+- What jump size can reach both 15 and 30? There are multiple jump sizes possible. Try to find them all.
 
-| 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 |
-| 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 |
-| 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70 |
+- Look at the table below. What do you notice?
+
+[Figure: Table of numbers 31 to 70 in 4 rows of 10. Circled numbers: 32, 36, 40, 44, 48, 52, 56, 60, 64, 68. Shaded (green) numbers: 33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 66, 69.]
+
+| 31 | (32) | 33 | 34 | 35 | (36) | 37 | 38 | 39 | (40) |
+|---|---|---|---|---|---|---|---|---|---|
+| 41 | 42 | 43 | (44) | 45 | 46 | 47 | (48) | 49 | 50 |
+| 51 | (52) | 53 | 54 | 55 | (56) | 57 | 58 | 59 | (60) |
+| 61 | 62 | 63 | (64) | 65 | 66 | 67 | (68) | 69 | 70 |
 
 In the table,
+
+> ### Math Talk
 
 1. Is there anything common among the shaded numbers?
 2. Is there anything common among the circled numbers?
 3. Which numbers are both shaded and circled? What are these numbers called?
 
-> Math
+### Figure it Out
 
-> Talk
-
-**Figure it Out** 1. Find all multiples of 40 that lie between 310 and 410.
+1. Find all multiples of 40 that lie between 310 and 410.
 
 <!-- page 111 -->
 
-Prime Time
+2. Who am I?
+   a. I am a number less than 40. One of my factors is 7. The sum of my digits is 8.
+   b. I am a number less than 100. Two of my factors are 3 and 5. One of my digits is 1 more than the other.
 
-2. Who am I? a. I am a number less than 40. One of my factors is 7. The sum of my digits is 8. b. I am a number less than 100. Two of my factors are 3 and 5.
-
-One of my digits is 1 more than the other.
 3. A number for which the sum of all its factors is equal to twice the number is called a **perfect number**. The number 28 is a perfect number. Its factors are 1, 2, 4, 7, 14 and 28. Their sum is 56 which is twice 28. Find a perfect number between 1 and 10.
-4. Find the common factors of: a. 20 and 28 b. 35 and 50 c. 4, 8 and 12 d. 5, 15 and 25
+
+4. Find the common factors of:
+   a. 20 and 28
+   b. 35 and 50
+   c. 4, 8 and 12
+   d. 5, 15 and 25
+
 5. Find any three numbers that are multiples of 25 but not multiples of 50.
-6. Anshu and his friends play the ‘idli-vada’ game with two numbers, which are both smaller than 10. The first time anybody says ‘idli-vada’ is after the number 50. What could the two numbers be which are assigned ‘idli’ and ‘vada’?
+
+6. Anshu and his friends play the 'idli-vada' game with two numbers, which are both smaller than 10. The first time anybody says 'idli-vada' is after the number 50. What could the two numbers be which are assigned 'idli' and 'vada'?
+
 7. In the treasure hunting game, Grumpy has kept treasures on 28 and 70. What jump sizes will land on both the numbers?
+
 8. In the diagram below, Guna has erased all the numbers except the common multiples. Find out what those numbers could be and fill in the missing numbers in the empty regions.
 
-Math
+> ### Math Talk
 
-Talk
+[Figure: Venn diagram of two overlapping circles, the left (red) labelled "Multiples of ____" and the right (green) labelled "Multiples of ____". The overlapping region contains 72, 48 and 24, and an arrow points to it from the label "Common multiples".]
 
-Multiples of ____ | Multiples of ____
+9. Find the smallest number that is a multiple of all the numbers from 1 to 10, except for 7.
 
-72
+10. Find the smallest number that is a multiple of all the numbers from 1 to 10.
 
-48
-
-24
-
-Common multiples
-
-9. Find the smallest number that is a multiple of all the numbers from 1 to 10, except for 7. 10. Find the smallest number that is a multiple of all the numbers from 1 to 10.
-
-Try This
+> ### Try This
 
 <!-- page 112 -->
 
-Ganita Prakash | Grade 6
+## 5.2 Prime Numbers
 
-### 5.2 Prime Numbers
+Guna and Anshu want to pack figs (*anjeer*) that grow in their farm. Guna wants to put 12 figs in each box and Anshu wants to put 7 figs in each box.
 
-Guna and Anshu want to pack figs (anjeer) that grow in their farm. Guna wants to put 12 figs in each box and Anshu wants to put 7 figs in each box. How many arrangements are possible?
+How many arrangements are possible?
 
-Think and find out the different ways how —
+Think and find out the different ways how—
+
 1. Guna can arrange 12 figs in a rectangular manner.
 2. Anshu can arrange 7 figs in a rectangular manner.
 
-Guna has listed out these possibilities. Observe the number of rows and columns in each of the arrangements. How are they related to 12?
+Guna has listed out these possibilities.
 
-In the second arrangement, for example, 12 figs are arranged in two columns of 6 each or 12 2 6.
+Observe the number of rows and columns in each of the arrangements. How are they related to 12?
 
-Anshu could make only one arrangement: 7 1 or 1 7. There are no other rectangular arrangements possible.
+> [Figure: Guna's arrangements of 12 figs as orange grids: a single column of 12 squares (12 rows by 1 column); a grid of 6 rows by 2 columns; a grid of 4 rows by 3 columns. Anshu's arrangement of 7 figs as a single row of 7 purple squares.]
 
-In each of Guna’s arrangements, multiplying the number of rows by the number of columns gives the number 12. So, the number of rows or columns are factors of 12.
+In the second arrangement, for example, 12 figs are arranged in two columns of 6 each or $12 = 2 \times 6$.
 
-We saw that the number 12 can be arranged in a rectangle in more than one way as 12 has more than two factors. The number 7 can be arranged in only one way, as it has only two factors — 1 and 7.
+Anshu could make only one arrangement: $7 \times 1$ or $1 \times 7$. There are no other rectangular arrangements possible.
 
-Numbers that have only two factors are called **prime numbers** or primes. Here are the first few primes — 2, 3, 5, 7, 11, 13, 17, 19. Notice that the factors of a prime number are 1 and the number itself.
+In each of Guna's arrangements, multiplying the number of rows by the number of columns gives the number 12. So, the number of rows or columns are factors of 12.
 
-What about numbers that have more than two factors? They are called **composite numbers**. The first few composite numbers are — 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20.
+We saw that the number 12 can be arranged in a rectangle in more than one way as 12 has more than two factors. The number 7 can be arranged in only one way, as it has only two factors—1 and 7.
+
+Numbers that have only two factors are called **prime numbers** or *primes*. Here are the first few primes—2, 3, 5, 7, 11, 13, 17, 19. Notice that the factors of a prime number are 1 and the number itself.
+
+What about numbers that have more than two factors? They are called **composite numbers**. The first few composite numbers are—4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20.
 
 <!-- page 113 -->
 
-Prime Time
-
 What about 1, which has only one factor? The number 1 is neither a prime nor a composite number.
+
+### Try This
 
 How many prime numbers are there from 21 to 30? How many composite numbers are there from 21 to 30?
 
-**Can we list all the prime numbers from 1 to 100?** Here is an interesting way to find prime numbers. Just follow the steps given below and see what happens.
+### Can we list all the prime numbers from 1 to 100?
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
-| 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 |
-| 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 |
-| 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 |
-| 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70 |
-| 71 | 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 80 |
-| 81 | 82 | 83 | 84 | 85 | 86 | 87 | 88 | 89 | 90 |
-| 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 100 |
+Here is an interesting way to find prime numbers. Just follow the steps given below and see what happens.
 
-Step 1: Cross out 1 because it is neither prime nor composite. Step 2: Circle 2, and then cross out all multiples of 2 after that, i.e., 4, 6, 8, and so on. Step 3: You will find that the next uncrossed number is 3. Circle 3 and then cross out all the multiples of 3 after that, i.e., 6, 9, 12, and so on. Step 4: The next uncrossed number is 5. Circle 5 and then cross out all the multiples of 5 after that, i.e., 10, 15, 20, and so on. Step 5: Continue this process till all the numbers in the list are either circled or crossed out.
-91 92 93 94 95 96 97 98 99100
+**Step 1:** Cross out 1 because it is neither prime nor composite.
 
-It is definitely not some magic; there should be a
+**Step 2:** Circle 2, and then cross out all multiples of 2 after that, i.e., 4, 6, 8, and so on.
+
+**Step 3:** You will find that the next uncrossed number is 3. Circle 3 and then cross out all the multiples of 3 after that, i.e., 6, 9, 12, and so on.
+
+**Step 4:** The next uncrossed number is 5. Circle 5 and then cross out all the multiples of 5 after that, i.e., 10, 15, 20, and so on.
+
+[Figure: A 10×10 grid of the numbers 1 to 100 (rows 1–10, 11–20, ..., 91–100). The primes 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97 are circled in green; 1 and all the other numbers except these primes are crossed out with red lines.]
+
+**Step 5:** Continue this process till all the numbers in the list are either circled or crossed out.
 
 All the circled numbers are prime numbers. All the crossed out numbers, other than 1, are composite numbers. This method is called the Sieve of Eratosthenes.
 
-reason why it works.
-
 This procedure can be carried on for numbers greater than 100 also. Eratosthenes was a Greek mathematician who lived around 2200 years ago and developed this method of listing primes.
+
+> [Figure: Two children looking puzzled, with a thought bubble: "It is definitely not some magic; there should be a reason why it works."]
 
 <!-- page 114 -->
 
-Ganita Prakash | Grade 6
-
 Guna and Anshu started wondering how this simple method is able to find prime numbers! Think how this method works. Read the steps given above again and see what happens after each step is carried out.
 
-##### Figure it Out
+### Figure it Out
 
 1. We see that 2 is a prime and also an even number. Is there any other even prime?
 2. Look at the list of primes till 100. What is the smallest difference between two successive primes? What is the largest difference?
 3. Are there an equal number of primes occurring in every row in the table on the previous page? Which decades have the least number of primes? Which have the most number of primes?
 
-**Primes through the Ages** Prime numbers are the building blocks of all whole numbers. Starting from the time of the Greek civilisation (more than 2000 years ago) to this day, mathematicians are still struggling to uncover their secrets!
+### Primes through the Ages
+
+Prime numbers are the building blocks of all whole numbers. Starting from the time of the Greek civilisation (more than 2000 years ago) to this day, mathematicians are still struggling to uncover their secrets!
 
 **Food for thought:** is there a largest prime number? Or does the list of prime numbers go on without an end? A mathematician named Euclid found the answer and so will you in a later class!
 
-**Fun fact:** The largest prime number that anyone has ‘written down’ is so large that it would take around 6500 pages to write it! So they could only write it on a computer!
+**Fun fact:** The largest prime number that anyone has 'written down' is so large that it would take around 6500 pages to write it! So they could only write it on a computer!
 
 4. Which of the following numbers are prime: 23, 51, 37, 26?
 5. Write three pairs of prime numbers less than 20 whose sum is a multiple of 5.
-6. The numbers 13 and 31 are prime numbers. Both these numbers have same digits 1 and 3. Find such pairs of prime numbers up to 100. 7. Find seven consecutive composite numbers between 1 and 100.
+6. The numbers 13 and 31 are prime numbers. Both these numbers have same digits 1 and 3. Find such pairs of prime numbers up to 100.
+7. Find seven consecutive composite numbers between 1 and 100.
 8. **Twin primes** are pairs of primes having a difference of 2. For example, 3 and 5 are twin primes. So are 17 and 19. Find the other twin primes between 1 and 100.
 
 <!-- page 115 -->
 
-Prime Time
-
-9. Identify whether each statement is true or false. Explain. a. There is no prime number whose units digit is 4. b. A product of primes can also be prime. c. Prime numbers do not have any factors. d. All even numbers are composite numbers. e. 2 is a prime and so is the next number, 3. For every other prime, the next number is composite.
+9. Identify whether each statement is true or false. Explain.
+   a. There is no prime number whose units digit is 4.
+   b. A product of primes can also be prime.
+   c. Prime numbers do not have any factors.
+   d. All even numbers are composite numbers.
+   e. 2 is a prime and so is the next number, 3. For every other prime, the next number is composite.
 10. Which of the following numbers is the product of exactly three distinct prime numbers: 45, 60, 91, 105, 330?
 11. How many three-digit prime numbers can you make using each of 2, 4 and 5 once?
-12. Observe that 3 is a prime number, and 2 3 1 7 is also a prime. Are there other primes for which doubling and adding 1 gives another prime? Find at least five such examples.
+12. Observe that 3 is a prime number, and $2 \times 3 + 1 = 7$ is also a prime. Are there other primes for which doubling and adding 1 gives another prime? Find at least five such examples.
 
-### 5.3 Co-prime numbers for safekeeping treasures
+## 5.3 Co-prime Numbers for Safekeeping Treasures
 
-Which pairs are safe?
+### Which pairs are safe?
 
-Let us go back to the treasure finding game. This time, treasures are kept on two numbers. Jumpy gets the treasures only if he is able to reach both the numbers with the same jump size. There is also a new rule — a jump size of 1 is not allowed.
+Let us go back to the treasure finding game. This time, treasures are kept on two numbers. Jumpy gets the treasures only if he is able to reach both the numbers with the same jump size. There is also a new rule—a jump size of 1 is not allowed.
 
+[Figure: small blue spiral/sun icon marking a question]
 Where should Grumpy place the treasures so that Jumpy cannot reach both the treasures?
 
 Will placing the treasure on 12 and 26 work? No! If the jump size is chosen to be 2, then Jumpy will reach both 12 and 26.
@@ -267,109 +266,102 @@ What about 4 and 9? Jumpy cannot reach both using any jump size other than 1. So
 
 Check if these pairs are safe:
 
-a. 15 and 39 b. 4 and 15 c. 18 and 29 d. 20 and 55
+a. 15 and 39  
+b. 4 and 15  
+c. 18 and 29  
+d. 20 and 55
 
 <!-- page 116 -->
 
-Ganita Prakash | Grade 6
-
-What is special about safe pairs? They don’t have any common factor other than 1. Two numbers are said to be **co-prime** to each other if they have no common factor other than 1.
+What is special about safe pairs? They don't have any common factor other than 1. Two numbers are said to be **co-prime** to each other if they have no common factor other than 1.
 
 **Example:** As 15 and 39 have 3 as a common factor, they are not co-prime. But 4 and 9 are co-prime.
 
 Which of the following pairs of numbers are co-prime?
 
-a. 18 and 35 b. 15 and 37 c. 30 and 415 d. 17 and 69 e. 81 and 18
+a. 18 and 35  b. 15 and 37  c. 30 and 415
+d. 17 and 69  e. 81 and 18
 
-While playing the ‘idli-vada’ game with different number pairs, Anshu observed something interesting!
+While playing the 'idli-vada' game with different number pairs, Anshu observed something interesting!
 
-Math
-
-Talk
+> ### Math Talk
 
 1. Sometimes the first common multiple was the same as the product of the two numbers.
-2. At other times the first common multiple was less than the product of the two numbers. Find examples for each of the above. How is it related to the number pair being co-prime?
+2. At other times the first common multiple was less than the product of the two numbers.
 
-##### Co-prime art
+Find examples for each of the above. How is it related to the number pair being co-prime?
+
+### Co-prime art
 
 Observe the following thread art. The first diagram has 12 pegs and the thread is tied to every fourth peg (we say that the thread-gap is 4). The second diagram has 13 pegs and the thread-gap is 3. What about the other diagrams? Observe these pictures, share and discuss your findings in class.
 
-Math
+> ### Math Talk
 
-Talk
-
-12 11 | 12 16 1 2
-
-1 13 1 | 14 15 24123 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
-
-10 | 2 | 11 | 2
-
-13 | 3
-
-9 | 3 | 10 | 3 | 12 | 4
-
-8 | 9 | 4 | 11 | 5
-
-4
-
-5 6 7 8 | 6 7 8 9 10
-
-7 6 5
+[Figure: Four circular thread-art diagrams. First: a circle with pegs numbered 1 to 12, with a blue triangle joining pegs 12, 4 and 8. Second: a circle with pegs numbered 1 to 13, with a red star-like polygon of threads joining the pegs. Third: a circle with pegs numbered 1 to 16, with a purple star of threads joining pegs 16, 4, 8, 12 and other pegs. Fourth: a circle with pegs numbered 1 to 24, with a green square joining pegs 24, 6, 12 and 18.]
 
 In some diagrams, the thread is tied to every peg. In some, it is not. Is it related to the two numbers (the number of pegs and the thread-gap) being co-prime?
 
 <!-- page 117 -->
 
-Prime Time
+Make such pictures for the following:
 
-Make such pictures for the following: a. 15 pegs, thread-gap of 10 b. 10 pegs, thread-gap of 7 c. 14 pegs, thread-gap of 6 d. 8 pegs, thread-gap of 3
+a. 15 pegs, thread-gap of 10
 
-### 5.4 Prime Factorisation
+b. 10 pegs, thread-gap of 7
 
-##### Checking if two numbers are co-prime
+c. 14 pegs, thread-gap of 6
 
-Teacher: Are 56 and 63 co-prime? Anshu and Guna:If they have a common factor other than 1, then
+d. 8 pegs, thread-gap of 3
 
-they are not co-prime. Let us check. Anshu: I can write 56 14 4 and 63 21 3. So, 14 and 4 are factors, of 56. Further, 21 and 3 are factors of
-63. So, there are no common factors. The numbers are co-prime. Guna: Hold on. I can also write 56 7 8 and 63 9 7. We see that 7 is a factor of both numbers, so, they are not co-prime.
+## 5.4 Prime Factorisation
+
+### Checking if two numbers are co-prime
+
+**Teacher:** Are 56 and 63 co-prime?
+
+**Anshu and Guna:** If they have a common factor other than 1, then they are not co-prime. Let us check.
+
+**Anshu:** I can write $56 = 14 \times 4$ and $63 = 21 \times 3$. So, 14 and 4 are factors, of 56. Further, 21 and 3 are factors of 63. So, there are no common factors. The numbers are co-prime.
+
+**Guna:** Hold on. I can also write $56 = 7 \times 8$ and $63 = 9 \times 7$. We see that 7 is a factor of both numbers, so, they are not co-prime.
 
 Clearly Guna is right, as 7 is a common factor.
 
-But where did Anshu go wrong?
+### But where did Anshu go wrong?
 
-Writing 56 14 4 tells us that 14 and 4 are both factors of 56, but it does not tell all the factors of 56. The same holds for the factors of 63.
+Writing $56 = 14 \times 4$ tells us that 14 and 4 are both factors of 56, but it does not tell all the factors of 56. The same holds for the factors of 63.
 
 Try another example: 80 and 63. There are many ways to factorise both numbers.
 
-80 40 2 20 4 10 8 16 5 ??? 63 9 7 3 21 ??? We have written ‘???’ to say that there may be more ways to factorise these numbers. But if we take any of the given factorisations, for example, 80 16 5 and 63 9 7, then there are no common factors. Can we conclude that 80 and 63 are co-prime? As Anshu’s mistake above shows, we cannot conclude that as there may be other ways to factorise the numbers.
+$80 = 40 \times 2 = 20 \times 4 = 10 \times 8 = 16 \times 5 = ???$
+
+$63 = 9 \times 7 = 3 \times 21 = ???$
+
+We have written '???' to say that there may be more ways to factorise these numbers. But if we take any of the given factorisations, for example, $80 = 16 \times 5$ and $63 = 9 \times 7$, then there are no common factors. Can we conclude that 80 and 63 are co-prime? As Anshu's mistake above shows, we cannot conclude that as there may be other ways to factorise the numbers.
 
 What this means is that we need a more systematic approach to check if two numbers are co-prime.
 
 <!-- page 118 -->
 
-Ganita Prakash | Grade 6
+### Prime factorisation
 
-**Prime factorisation** Take a number such as 56. It is composite, as we saw that it can be written as 56 = 4 × 14 . So, both 4 and 14 are factors of 56. Now take one of these, say 14. It is also composite and can be written as 14 2 7. Therefore, 56 = 4 × 2 × 7. Now, 4 is composite and can be written as 4 2 2. Therefore, 56 = 2 × 2 × 2 × 7. All the factors appearing here, 2 and 7, are prime numbers. So, we cannot divide them further.
+Take a number such as 56. It is composite, as we saw that it can be written as $56 = 4 \times 14$. So, both 4 and 14 are factors of 56. Now take one of these, say 14. It is also composite and can be written as $14 = 2 \times 7$. Therefore, $56 = 4 \times 2 \times 7$. Now, 4 is composite and can be written as $4 = 2 \times 2$. Therefore, $56 = 2 \times 2 \times 2 \times 7$. All the factors appearing here, 2 and 7, are prime numbers. So, we cannot divide them further.
 
-In conclusion, we have written 56 as a product of prime numbers. This is called **prime factorisation** of 56. The individual factors are called prime factors. For example, the prime factors of 56 are 2 and 7.
+In conclusion, we have written 56 as a product of prime numbers. This is called **prime factorisation** of 56. The individual factors are called *prime factors*. For example, the prime factors of 56 are 2 and 7.
 
 Every number greater than 1 has a prime factorisation. The idea is the same: keep breaking the composite numbers into factors till only primes are left.
 
 The number 1 does not have any prime factorisation. It is not divisible by any prime number.
 
-What is the prime factorisation of a prime number like 7? It is just 7 (we cannot break it down any further). Let us see a few more examples. By going through different ways of breaking down the number, we wrote 63 as 3 3 7 and as 3 7 3. Are they different? Not really! The same prime numbers 3 and 7 occur in both cases. Further, 3 appears two times in both and 7 appears once.
+What is the prime factorisation of a prime number like 7? It is just 7 (we cannot break it down any further).
 
-36
+Let us see a few more examples.
+
+By going through different ways of breaking down the number, we wrote 63 as $3 \times 3 \times 7$ and as $3 \times 7 \times 3$. Are they different? Not really! The same prime numbers 3 and 7 occur in both cases. Further, 3 appears two times in both and 7 appears once.
 
 Here, you see four different ways to get prime factorisation of 36. Observe that in all four cases, we get two 2s and two 3s.
 
-2 18 3 12 4 9 6 6
-
-2 2 9 3 3 4 2 2 9 2 3 6
-
-2 2 3 3 3 3 2 2 2 2 3 3 2 3 2 3
-
-2 3 2 3 2 2 3 3
+[Figure: Factor tree diagram with 36 at the top branching into four columns. Column 1: $2\times18$ → $2\times2\times9$ → $2\times2\times3\times3$. Column 2: $3\times12$ → $3\times3\times4$ → $3\times3\times2\times2$ → $2\times2\times3\times3$. Column 3: $4\times9$ → $2\times2\times9$ → $2\times2\times3\times3$. Column 4: $6\times6$ → $2\times3\times6$ → $2\times3\times2\times3$ → $2\times3\times2\times3$.]
 
 Multiply back to see that you get 36 in all four cases.
 
@@ -377,178 +369,204 @@ For any number, it is a remarkable fact that there is only one prime factorisati
 
 <!-- page 119 -->
 
-Prime Time
-
 orders. As we explain below, the order is not important. However, as we saw in these examples, there are many ways to arrive at the prime factorisation!
 
-Does the order matter?
+### Does the order matter?
 
-Using this diagram, can you explain why 30 = 2 × 3 × 5, no matter which way you multiply 2, 3, and 5? When multiplying numbers, we can do so in any order. The end result is the same. That is why, when two 2s and two 3s are multiplied in any order, we get 36. In a later class, we shall study this under the names of **commutativity and associativity of multiplication**.
+[Figure: A 3D cuboid made of unit cubes, with a red front face of 3 columns by 2 rows, a yellow top face of 3 columns by 5 rows, and a green side face of 5 columns by 2 rows.]
 
-Thus, the order does not matter. Usually we write the prime numbers in increasing order. For example, 225 3 3 5 5 or 30 2 3 5.
+Using this diagram, can you explain why $30 = 2 \times 3 \times 5$, no matter which way you multiply 2, 3, and 5?
 
-**Prime factorisation of a product of two numbers** When we find the prime factorisation of a number, we first write it as a product of two factors. For example, 72 12 6. Then, we find the prime factorisation of each of the factors. In the above example, 12 2 2 3 and 6 2 3. Now, can you say what the prime factorisation of 72 is?
+When multiplying numbers, we can do so in any order. The end result is the same. That is why, when two 2s and two 3s are multiplied in any order, we get 36. In a later class, we shall study this under the names of **commutativity and associativity of multiplication**.
+
+Thus, the order does not matter. Usually we write the prime numbers in increasing order. For example, $225 = 3 \times 3 \times 5 \times 5$ or $30 = 2 \times 3 \times 5$.
+
+### Prime factorisation of a product of two numbers
+
+When we find the prime factorisation of a number, we first write it as a product of two factors. For example, $72 = 12 \times 6$. Then, we find the prime factorisation of each of the factors. In the above example, $12 = 2 \times 2 \times 3$ and $6 = 2 \times 3$. Now, can you say what the prime factorisation of 72 is?
 
 The prime factorisation of the original number is obtained by putting these together.
 
-72 2 2 3 2 3
+$$72 = 2 \times 2 \times 3 \times 2 \times 3$$
 
 <!-- page 120 -->
 
-Ganita Prakash | Grade 6
-
-We can also write this as 2 2 2 3 3. Multiply and check that you get 72 back!
+We can also write this as $2 \times 2 \times 2 \times 3 \times 3$. Multiply and check that you get 72 back!
 
 Observe how many times each prime factor occurs in the factorisation of 72.
 
 Compare it with how many times it occurs in the factorisations of 12 and 6 put together.
 
-##### Figure it Out
+### Figure it Out
 
 1. Find the prime factorisations of the following numbers: 64, 104, 105, 243, 320, 141, 1728, 729, 1024, 1331, 1000.
-2. The prime factorisation of a number has one 2, two 3s, and one
-11. What is the number?
+2. The prime factorisation of a number has one 2, two 3s, and one 11. What is the number?
 3. Find three prime numbers, all less than 30, whose product is 1955.
-4. Find the prime factorisation of these numbers without multiplying first a. 56 25 b. 108 75 c. 1000 81
-5. What is the smallest number whose prime factorisation has: a. three different prime numbers? b. four different prime numbers?
+4. Find the prime factorisation of these numbers without multiplying first
+
+   a. $56 \times 25$  b. $108 \times 75$  c. $1000 \times 81$
+5. What is the smallest number whose prime factorisation has:
+
+   a. three different prime numbers?
+
+   b. four different prime numbers?
 
 Prime factorisation is of fundamental importance in the study of numbers. Let us discuss two ways in which it can be useful.
 
-**Using prime factorisation to check if two numbers are co-prime** Let us again take the numbers 56 and 63. How can we check if they are co-prime? We can use the prime factorisation of both numbers —
+### Using prime factorisation to check if two numbers are co-prime
 
-56 2 2 2 7 and 63 3 3 7
+Let us again take the numbers 56 and 63. How can we check if they are co-prime? We can use the prime factorisation of both numbers —
 
-Now, we see that 7 is a prime factor of 56 as well as 63. Therefore, 56 and 63 are not co-prime. What about 80 and 63? Their prime factorisations are as follows:
+$$56 = 2 \times 2 \times 2 \times 7 \text{ and } 63 = 3 \times 3 \times 7$$
 
-80 2 2 2 2 5 and 63 3 3 7
+Now, we see that 7 is a prime factor of 56 as well as 63. Therefore, 56 and 63 are not co-prime.
+
+What about 80 and 63? Their prime factorisations are as follows:
+
+$$80 = 2 \times 2 \times 2 \times 2 \times 5 \text{ and } 63 = 3 \times 3 \times 7$$
 
 There are no common prime factors. Can we conclude that they are co-prime? Suppose they have a common factor that is composite. Would the prime factors of this composite common factor appear in the prime factorisation of 80 and 63?
 
 <!-- page 121 -->
 
-Prime Time
-
 Therefore, we can say that if there are no common prime factors, then the two numbers are co-prime.
 
 Let us see some examples.
 
-**Example: **Consider 40 and 231. Their prime factorisations are as
+**Example:** Consider 40 and 231. Their prime factorisations are as follows:
 
-follows:
-
-40 2 2 2 5 and 231 3 7 11
+$$40 = 2 \times 2 \times 2 \times 5 \text{ and } 231 = 3 \times 7 \times 11$$
 
 We see that there are no common primes that divide both 40 and 231. Indeed, the prime factors of 40 are 2 and 5 while, the prime factors of 231 are 3, 7, and 11. Therefore, 40 and 231 are co-prime!
 
-**Example:** Consider 242 and 195. Their prime factorisations are as
+**Example:** Consider 242 and 195. Their prime factorisations are as follows:
 
-follows:
-
-242 2 11 11 and 195 3 5 13
+$$242 = 2 \times 11 \times 11 \text{ and } 195 = 3 \times 5 \times 13$$
 
 The prime factors of 242 are 2 and 11. The prime factors of 195 are 3, 5, and 13. There are no common prime factors. Therefore, 242 and 195 are co-prime.
 
-**Using prime factorisation to check if one number is divisible by another** We can say that if one number is divisible by another, the prime factorisation of the second number is included in the prime factorisation of the first number.
+### Using prime factorisation to check if one number is divisible by another
+
+We can say that if one number is divisible by another, the prime factorisation of the second number is included in the prime factorisation of the first number.
 
 We say that 48 is divisible by 12 because when we divide 48 by 12, the remainder is zero. How can we check if one number is divisible by another without carrying out long division?
 
 **Example:** Is 168 divisible by 12? Find the prime factorisations of both:
 
-168 2 2 2 3 7 and 12 2 2 3
+$$168 = 2 \times 2 \times 2 \times 3 \times 7 \text{ and } 12 = 2 \times 2 \times 3$$
 
 Since we can multiply in any order, now it is clear that,
 
-168 2 2 3 2 7 12 14
+$$168 = 2 \times 2 \times 3 \times 2 \times 7 = 12 \times 14$$
 
 Therefore, 168 is divisible by 12.
 
 **Example:** Is 75 divisible by 21? Find the prime factorisations of both:
 
-75 3 5 5 and 21 3 7
+$$75 = 3 \times 5 \times 5 \text{ and } 21 = 3 \times 7$$
 
 <!-- page 122 -->
-
-Ganita Prakash | Grade 6
 
 As we saw in the discussion above, if 75 was a multiple of 21, then all prime factors of 21 would also be prime factors of 75. However, 7 is a prime factor of 21 but not a prime factor of 75. Therefore, 75 is not divisible by 21.
 
 **Example:** Is 42 divisible by 12? Find the prime factorisations of both:
 
-42 2 3 7 and 12 2 2 3
+$$42 = 2 \times 3 \times 7 \text{ and } 12 = 2 \times 2 \times 3$$
 
 All prime factors of 12 are also prime factors of 42. But the prime factorisation of 12 is not included in the prime factorisation of 42. This is because 2 occurs twice in the prime factorisation of 12 but only once in the prime factorisation of 42. This means that 42 is not divisible by 12.
 
 We can say that if one number is divisible by another, then the prime factorisation of the second number is included in the prime factorisation of the first number.
 
-##### Figure it Out
+### Figure it Out
 
-1. Are the following pairs of numbers co-prime? Guess first and then use prime factorisation to verify your answer. a. 30 and 45 b. 57 and 85 c. 121 and 1331 d. 343 and 216
-2. Is the first number divisible by the second? Use prime factorisation. a. 225 and 27 b. 96 and 24 c. 343 and 17 d. 999 and 99
+1. Are the following pairs of numbers co-prime? Guess first and then use prime factorisation to verify your answer.
+   - a. 30 and 45
+   - b. 57 and 85
+   - c. 121 and 1331
+   - d. 343 and 216
+2. Is the first number divisible by the second? Use prime factorisation.
+   - a. 225 and 27
+   - b. 96 and 24
+   - c. 343 and 17
+   - d. 999 and 99
+3. The first number has prime factorisation $2 \times 3 \times 7$ and the second number has prime factorisation $3 \times 7 \times 11$. Are they co-prime? Does one of them divide the other?
+4. Guna says, "Any two prime numbers are co-prime?". Is he right?
 
-3. The first number has prime factorisation 2 3 7 and the second number has prime factorisation 3 7 11. Are they co-prime? Does one of them divide the other?
-4. Guna says, “Any two prime numbers are co-prime?”. Is he right?
-
-### 5.5 Divisibility Tests
+## 5.5 Divisibility Tests
 
 So far, we have been finding factors of numbers in different contexts, including to determine if a number is prime or not, or if a given pair of numbers is co-prime or not.
 
 <!-- page 123 -->
 
-Prime Time
-
 It is easy to find factors of small numbers. How do we find factors of a large number?
 
-Let us take 8560. Does it have any factors from 2 to 10 (2, 3, 4, 5, ..., 9, 10)? It is easy to check if some of these numbers are factors or not without doing long division. Can you find them?
+Let us take 8560. Does it have any factors from 2 to 10 (2, 3, 4, 5, ..., 9, 10)?
 
-**Divisibility by 10** Let us take 10. Is 8560 divisible by 10? This is another way of asking if 10 is a factor of 8560.
+It is easy to check if some of these numbers are factors or not without doing long division. Can you find them?
 
-For this, we can look at the pattern in the multiples of 10. The first few multiples of 10 are: 10, 20, 30, 40, … Continue this sequence and observe the pattern.
+### Divisibility by 10
+
+Let us take 10. Is 8560 divisible by 10? This is another way of asking if 10 is a factor of 8560.
+
+For this, we can look at the pattern in the multiples of 10.
+
+The first few multiples of 10 are: 10, 20, 30, 40, ... Continue this sequence and observe the pattern.
 
 Is 125 a multiple of 10? Will this number appear in the previous sequence? Why or why not?
 
 Can you now answer if 8560 is divisible by 10?
 
+### Math Talk
+
 Consider this statement:
 
-Numbers that are divisible by 10 are those that end with ‘0’. Do you agree? | Math
+Numbers that are divisible by 10 are those that end with '0'. Do you agree?
 
-Talk
+> [Figure: Icon labelled "Math Talk" in a rounded box with speech bubbles]
 
-**Divisibility by 5** The number 5 is another number whose divisibility can easily be checked. How do we do it?
+### Divisibility by 5
+
+The number 5 is another number whose divisibility can easily be checked. How do we do it?
 
 Explore by listing down the multiples: 5, 10, 15, 20, 25, ... What do you observe about these numbers? Do you see a pattern in the last digit?
 
 What is the largest number less than 399 that is divisible by 5? Is 8560 divisible by 5?
 
+### Math Talk
+
 Consider this statement:
 
-Numbers that are divisible by 5 are those that end with either a ‘0’ or a ‘5’. Do you agree? | Math
+Numbers that are divisible by 5 are those that end with either a '0' or a '5'. Do you agree?
 
-Talk
+> [Figure: Icon labelled "Math Talk" in a rounded box with speech bubbles]
 
-**Divisibility by 2** The first few multiples of 2 are 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, ... What do you observe? Do you see a pattern in the last digit?
+### Divisibility by 2
+
+The first few multiples of 2 are 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, ... What do you observe? Do you see a pattern in the last digit?
 
 <!-- page 124 -->
-
-Ganita Prakash | Grade 6
 
 Is 682 divisible by 2? Can we answer this without doing the long division?
 
 Is 8560 divisible by 2? Why or why not?
 
+### Math Talk
+
+> [Figure: Math Talk icon, a rounded speech-bubble box with the words "Math Talk" and small orange chat bubbles]
+
 Consider this statement:
 
-Numbers that are divisible by 2 are those that end with ‘0’, ‘2’, ‘4, ‘6’ or ‘8’. Do you agree?
-
-Math
-
-Talk
+Numbers that are divisible by 2 are those that end with '0', '2', '4', '6' or '8'. Do you agree?
 
 What are all the multiples of 2 between 399 and 411?
 
-**Divisibility by 4** Checking if a number is divisible by 4 can also be done easily!
+## Divisibility by 4
 
-Look at its multiples: 4, 8, 12, 16, 20, 24, 28, 32, … Are you able to observe any patterns that can be used? The multiples of 10, 5 and 2 have a pattern in their last digits which we are able to use to check for divisibility. Similarly, can we check if a number is divisible by 4 by looking at the last digit?
+Checking if a number is divisible by 4 can also be done easily!
+
+Look at its multiples: 4, 8, 12, 16, 20, 24, 28, 32, …
+
+Are you able to observe any patterns that can be used? The multiples of 10, 5 and 2 have a pattern in their last digits which we are able to use to check for divisibility. Similarly, can we check if a number is divisible by 4 by looking at the last digit?
 
 It does not work! Look at 12 and 22. They have the same last digit, but 12 is a multiple of 4 while 22 is not. Similarly 14 and 24 have the same last digit, but 14 is not a multiple of 4 while 24 is. Similarly, 16 and 26 or 18 and 28. What this means is that by looking at the last digit, we cannot tell whether a number is a multiple of 4.
 
@@ -560,13 +578,17 @@ Is 8536 divisible by 4?
 
 Consider these statements:
 
-1. Only the last two digits matter when deciding if a given number is divisible by 4. 2.If the number formed by the last two digits is divisible by 4, then the original number is divisible by 4. 3.If the original number is divisible by 4, then the number formed by the last two digits is divisible by 4. Do you agree? Why or why not?
+1. Only the last two digits matter when deciding if a given number is divisible by 4.
+2. If the number formed by the last two digits is divisible by 4, then the original number is divisible by 4.
+3. If the original number is divisible by 4, then the number formed by the last two digits is divisible by 4.
+
+Do you agree? Why or why not?
 
 <!-- page 125 -->
 
-Prime Time
+### Divisibility by 8
 
-**Divisibility by 8** Interestingly, even checking for divisibility by 8 can be simplified. Can the last two digits be used for this?
+Interestingly, even checking for divisibility by 8 can be simplified. Can the last two digits be used for this?
 
 Find numbers between 120 and 140 that are divisible by 8. Also find numbers between 1120 and 1140, and 3120 and 3140, that are divisible by 8. What do you observe?
 
@@ -574,259 +596,186 @@ Change the last two digits of 8560 so that the resulting number is a multiple of
 
 Consider these statements:
 
+> ### Math Talk
+
 1. Only the last three digits matter when deciding if a given number is divisible by 8.
 2. If the number formed by the last three digits is divisible by 8, then the original number is divisible by 8.
-3. If the original number is divisible by 8, then the number formed by the last three digits is divisible by 8. Do you agree? Why or why not?
+3. If the original number is divisible by 8, then the number formed by the last three digits is divisible by 8.
 
-Math
-
-Talk
+Do you agree? Why or why not?
 
 We have seen that long division is not always needed to check if a number is a factor or not. We have made use of certain observations to come up with simple methods for 10, 5, 2, 4, 8. Do we have such simple methods for other numbers as well? We will discuss simple methods to test divisibility by 3, 6, 7, and 9 in later classes!
 
-##### Figure it Out
+### Figure it Out
 
 1. 2024 is a leap year (as February has 29 days). Leap years occur in the years that are multiples of 4, except for those years that are evenly divisible by 100 but not 400.
-
-a. From the year you were born till now, which years were leap
-
-years? b. From the year 2024 till 2099, how many leap years are there?
-
+   a. From the year you were born till now, which years were leap years?
+   b. From the year 2024 till 2099, how many leap years are there?
 2. Find the largest and smallest 4-digit numbers that are divisible by 4 and are also palindromes.
-
 3. Explore and find out if each statement is always true, sometimes true or never true. You can give examples to support your reasoning.
 
 <!-- page 126 -->
 
-Ganita Prakash | Grade 6
-
-a. Sum of two even numbers gives a multiple of 4. b. Sum of two odd numbers gives a multiple of 4.
+a. Sum of two even numbers gives a multiple of 4.
+    b. Sum of two odd numbers gives a multiple of 4.
 
 4. Find the remainders obtained when each of the following numbers are divided by (a) 10, (b) 5, (c) 2.
 
-78, 99, 173, 572, 980, 1111, 2345
+$$78,\ 99,\ 173,\ 572,\ 980,\ 1111,\ 2345$$
 
-5. The teacher asked if 14560 is divisible by all of 2, 4, 5, 8 and
-10. Guna checked for divisibility of 14560 by only two of these numbers and then declared that it was also divisible by all of them. What could those two numbers be?
+5. The teacher asked if 14560 is divisible by all of 2, 4, 5, 8 and 10. Guna checked for divisibility of 14560 by only two of these numbers and then declared that it was also divisible by all of them. What could those two numbers be?
 
 6. Which of the following numbers are divisible by all of 2, 4, 5, 8 and 10: 572, 2352, 5600, 6000, 77622160.
 
 7. Write two numbers whose product is 10000. The two numbers should not have 0 as the units digit.
 
-### 5.6 Fun with numbers
+## 5.6 Fun with Numbers
 
-#### Special numbers
+### Special numbers
 
 There are four numbers in this box. Which number looks special to you? Why do you say so?
 
-| 9 | 16 |
-| --- | --- |
-| 25 | 43 |
+[Figure: a 2×2 table with shaded cells containing the numbers 9, 16 (top row) and 25, 43 (bottom row)]
 
-Look at the what Guna’s classmates have to share:
+Look at the what Guna's classmates have to share:
 
-- Karnawati says, “9 is special because it is a single-digit number whereas all the other numbers are 2-digit numbers”.
-- Gurupreet says, “9 is special because it is the only number that is a multiple of 3”.
-- Murugan says, “16 is special because it is the only even number and also the only multiple of 4”.
-- Gopika says, “25 is special as it is the only multiple of 5”.
-- Yadnyikee says, “43 is special because it is the only prime number”.
-- Radha says, “43 is special because it is the only number that is not a square”.
+- Karnawati says, "9 is special because it is a single-digit number whereas all the other numbers are 2-digit numbers".
+- Gurupreet says, "9 is special because it is the only number that is a multiple of 3".
+- Murugan says, "16 is special because it is the only even number and also the only multiple of 4".
+- Gopika says, "25 is special as it is the only multiple of 5".
+- Yadnyikee says, "43 is special because it is the only prime number".
+- Radha says, "43 is special because it is the only number that is not a square".
 
 <!-- page 127 -->
 
-Prime Time
+Below are some boxes with four numbers in each box. Within each box try to say how each number is special compared to the rest. Share with your classmates and find out who else gave the same reasons as you did. Did anyone give different reasons that may not have occurred to you?
 
-Below are some boxes with four numbers in each box.
+> Math Talk
 
-Math
+[Figure: Four boxes, each a 2×2 grid of numbers. Box 1: 5, 7 (top row); 12, 35 (bottom row). Box 2: 3, 8 (top row); 11, 24 (bottom row). Box 3: 27, 3 (top row); 123, 31 (bottom row). Box 4: 17, 27 (top row); 44, 65 (bottom row).]
 
-Within each box try to say how each number is special compared to the rest. Share with your classmates and find out who else gave the same reasons as you did. Did anyone give different reasons that may not have occurred to you?
-
-Talk
-
-| 5 | 7 |
-| --- | --- |
-| 12 | 35 |
-
-| 3 | 8 |
-| --- | --- |
-| 11 | 24 |
-
-| 27 | 3 |
-| --- | --- |
-| 123 | 31 |
-
-| 17 | 27 |
-| --- | --- |
-| 44 | 65 |
-
-#### A prime puzzle
+## A prime puzzle
 
 The figure on the left shows the puzzle. The figure on the right shows the solution of the puzzle. Think what the rules can be to solve the puzzle.
 
-Math
+> Math Talk
 
-Talk
+[Figure: Left, the puzzle: an empty 3×3 grid with row products 75, 42, 102 to the right of the rows, and column products 170, 30, 63 below the columns.]
 
-|  |  |  | 75 |
-| --- | --- | --- | --- |
-|  |  |  | 42 |
-|  |  |  | 102 |
-| 170 | 30 | 63 |  |
+[Figure: Right, the solution: the 3×3 grid filled as row 1: 5, 5, 3 with 75 to its right; row 2: 2, 3, 7 with 42 to its right; row 3: 17, 2, 3 with 102 to its right; column products 170, 30, 63 below the columns.]
 
-| 5 | 5 | 3 | 75 |
-| --- | --- | --- | --- |
-| 2 | 3 | 7 | 42 |
-| 17 | 2 | 3 | 102 |
-| 170 | 30 | 63 |  |
+### Rules
 
-##### Rules
+Fill the grid with prime numbers only so that the product of each row is the number to the right of the row and the product of each column is the number below the column.
 
-Fill the grid with prime numbers only so that the product of each row is the number to the right of the row and the product of each column is the number below the column.
+[Figure: Left puzzle: an empty 3×3 grid with row products 105, 20, 30 to the right of the rows and column products 28, 125, 18 below the columns.]
 
-|  |  |  | 105 |
-| --- | --- | --- | --- |
-|  |  |  | 20 |
-|  |  |  | 30 |
-|  |  |  |  |
-| 28 | 125 | 18 |  |
-
-|  |  |  | 8 |
-| --- | --- | --- | --- |
-|  |  |  | 105 |
-|  |  |  | 70 |
-|  |  |  |  |
-| 30 | 70 | 28 |  |
+[Figure: Right puzzle: an empty 3×3 grid with row products 8, 105, 70 to the right of the rows and column products 30, 70, 28 below the columns.]
 
 <!-- page 128 -->
 
-Ganita Prakash | Grade 6
+[Figure: Left grid of 4 rows by 4 columns. The right column's top three cells contain 63, 27, 190; the bottom row's first three cells contain 45, 42, 171; the remaining 3 by 3 block of cells is empty.]
 
-|  |  |  | 63 |
-| --- | --- | --- | --- |
-|  |  |  | 27 |
-|  |  |  | 190 |
-|  |  |  |  |
-| 45 | 42 | 171 |  |
+[Figure: Right grid of 4 rows by 4 columns. The right column's top three cells contain 343, 66, 44; the bottom row's first three cells contain 28, 154, 231; the remaining 3 by 3 block of cells is empty.]
 
-|  |  |  | 343 |
-| --- | --- | --- | --- |
-|  |  |  | 66 |
-|  |  |  | 44 |
-|  |  |  |  |
-| 28 | 154 | 231 |  |
+## Summary
 
-- If a number is divisible by another, the second number is called a **factor** of the first. For example, 4 is a factor of 12 because 12 is divisible by 4 (12 4 3).
-
-- **Prime numbers** are numbers like 2, 3, 5, 7, 11, … that have only two factors, namely 1 and themselves.
-
-- **Composite numbers** are numbers like 4, 6, 8, 9, … that have more than 2 factors, i.e., at least one factor other than 1 and themselves. For example, 8 has the factor 4 and 9 has the factor 3, so 8 and 9 are both composite.
-
-- Every number greater than 1 can be written as a product of prime numbers. This is called the number’s **prime factorisation**. For example, 84 2 2 3 7.
-
+- If a number is divisible by another, the second number is called a **factor** of the first. For example, 4 is a factor of 12 because 12 is divisible by 4 ($12 \div 4 = 3$).
+- **Prime numbers** are numbers like 2, 3, 5, 7, 11, ... that have only two factors, namely 1 and themselves.
+- **Composite numbers** are numbers like 4, 6, 8, 9, ... that have more than 2 factors, i.e., at least one factor other than 1 and themselves. For example, 8 has the factor 4 and 9 has the factor 3, so 8 and 9 are both composite.
+- Every number greater than 1 can be written as a product of prime numbers. This is called the number's **prime factorisation**. For example, $84 = 2 \times 2 \times 3 \times 7$.
 - There is only one way to factorise a number into primes, except for the ordering of the factors.
-
 - Two numbers that do not have a common factor other than 1 are said to be **co-prime**.
-
 - To check if two numbers are co-prime, we can first find their prime factorisations and check if there is a common prime factor. If there is no common prime factor, they are co-prime, and otherwise they are not.
-
 - A number is a factor of another number if the prime factorisation of the first number is included in the prime factorisation of the second number.
 
 ## Answers to the chapter's questions (from the book)
 
 <!-- answers page 1 -->
 
-#### CHAPTER 5 — SOLUTIONS
+# CHAPTER 5 — SOLUTIONS
 
-##### Prime Time
+## Prime Time
 
-##### Section 5.1
+### Section 5.1
 
-##### Page no. 108
+**Page no. 108**
 
-##### Figure it out
+### Figure it out
 
-Q.1. At what number is ‘idli-vada’ said for the 10th time?
+1. At what number is 'idli-vada' said for the 10th time?
 
-Ans. 150.
+   Ans. 150.
 
-##### Q.2. If the game is played for the numbers from 1 till 90, find out:
+2. If the game is played for the numbers from 1 till 90, find out:
 
-##### a. How many times would the children say ‘idli’ (including the times they say ‘idli-
+   a. How many times would the children say 'idli' (including the times they say 'idli-vada')?
 
-vada’)?
+   Ans. 30 times.
 
-Ans. 30 times.
+   b. How many times would the children say 'vada' (including the times they say 'idli-vada')?
 
-##### b. How many times would the children say ‘vada’ (including the times they say ‘idli-
+   Ans. 18 times.
 
-vada’)?
+   c. How many times would the children say 'idli-vada'?
 
-Ans. 18 times.
+   Ans. 6 times.
 
-c. How many times would the children say ‘idli-vada’?
+3. What if the game was played till 900? How would your answers change?
 
-Ans. 6 times.
+   Ans. If the game was played till 900, idli-vada would be said 60 times by the children. 'Vada' will be said 180 time and 'idli' will be said 300 times.
 
-Q.3. What if the game was played till 900? How would your answers change?
+4. Is this figure somehow related to the 'idli-vada' game? *Hint*: Imagine playing the game till 30. Draw the figure if the game is played till 60.
 
-Ans. If the game was played till 900, idli-vada would be said 60 times by the children. ‘Vada’
+   Ans. Yes, the common numbers represent the numbers when to say 'idli-vada'.
 
-will be said 180 time and ‘idli’ will be said 300 times.
-
-##### Q.4. Is this figure somehow related to the ‘idli-vada’ game? Hint: Imagine playing the
-
-game till 30. Draw the figure if the game is played till 60.
-
-Ans. Yes, the common numbers represent the numbers when to say ‘idli-vada’.
+[Figure: Venn diagram with two overlapping circles. Left circle labelled "Multiple of 3" contains 3,6,9,12 / 18,21 / 24,27 / 33,36 / 39,42 / 48,51,54 / 57. Right circle labelled "Multiple of 5" contains 5,10 / 20,25 / 35,40 / 50,55. The overlapping region contains 15, 30, 45, 60.]
 
 <!-- answers page 2 -->
 
-##### Page no. 109
+**Page no. 109**
 
-Which of the following could be the other number: 2, 3, 5, 8, 10?
+**Which of the following could be the other number: 2, 3, 5, 8, 10?**
 
 Ans. The other number will be 8.
 
-##### Page no. 110
+**Page no. 110**
 
-Q. What jump size can reach both 15 and 30? There are multiple jump sizes possible. Try to find them all.
+### Q. What jump size can reach both 15 and 30? There are multiple jump sizes possible. Try to find them all.
 
 Ans. Jump size of 3 or 5 will take us to 15 & 30.
 
 Other possible jump sizes are 1, 15.
 
-Q.1. Is there anything common among the shaded numbers?
+### Q.1. Is there anything common among the shaded numbers?
 
 Ans. All shaded numbers are multiples of 3.
 
-Q.2. Is there anything common among the circled numbers?
+### Q.2. Is there anything common among the circled numbers?
 
 Ans. All circled numbers are multiples of 4.
 
-Q.3. Which numbers are both shaded and circled? What are these numbers called?
+### Q.3. Which numbers are both shaded and circled? What are these numbers called?
 
 Ans. 36, 48, 60. These numbers are called common multiples of 3 and 4.
 
-##### Section 5.1
+**Section 5.1**
 
-##### Page no. 110
+**Page no. 110**
 
-##### Figure it out
+### Figure it out
 
-Q.1. Find all multiples of 40 that lie between 310 and 410.
+**Q.1. Find all multiples of 40 that lie between 310 and 410.**
 
 Ans. Multiples of 40 that lie between 310 and 410 are:
 
 320, 360, 400.
 
-Q.2. Who am I?
+**Q.2. Who am I?**
 
 a. I am a number less than 40. One of my factors is 7. The sum of my digits is 8.
 
-##### b. I am a number less than 100. Two of my factors are 3 and 5.One of my digits is 1
-
-more than the other.
+b. I am a number less than 100. Two of my factors are 3 and 5.One of my digits is 1 more than the other.
 
 Ans. a. 35
 
@@ -834,28 +783,27 @@ b. 45
 
 <!-- answers page 3 -->
 
-##### Q.3. A number for which the sum of all its factors is equal to twice the number is called a
-
-perfect number. The number 28 is a perfect number. Its factors are 1, 2, 4, 7, 14 and
-28. Their sum is 56 which is twice 28. Find a perfect number between 1 and 10.
+Q.3. A number for which the sum of all its factors is equal to twice the number is called a perfect number. The number 28 is a perfect number. Its factors are 1, 2, 4, 7, 14 and 28. Their sum is 56 which is twice 28. Find a perfect number between 1 and 10.
 
 Ans. 6.
 
-##### Q.4. Find the common factors of:
+Q.4. Find the common factors of:
 
-##### a. 20 and 28 b. 35 and 50
+a. 20 and 28  b. 35 and 50
 
-##### c. 4, 8 and 12 d. 5, 15 and 25
+c. 4, 8 and 12  d. 5, 15 and 25
 
-Ans. a. Common factors of 20 and 28 = 1, 2, 4. b. Common factors of 35 and 50 = 1, 5. c. Common factors of 4, 8 and 12 = 1, 2, 4. d. Common factors of 5, 15 and 25 = 1, 5
+Ans.
+a. Common factors of 20 and 28 = 1, 2, 4.
+b. Common factors of 35 and 50 = 1, 5.
+c. Common factors of 4, 8 and 12 = 1, 2, 4.
+d. Common factors of 5, 15 and 25 = 1, 5
 
 Q.5. Find any three numbers that are multiples of 25 but not multiples of 50.
 
 Ans. Some such numbers are: 25, 75, 125, 175.
 
-##### Q.6. Anshu and his friends play the ‘idli-vada’ game with two numbers, which are both
-
-smaller than 10. The first time anybody says ‘idlivada’ is after the number 50. What could the two numbers be which are assigned ‘idli’ and ‘vada’?
+Q.6. Anshu and his friends play the 'idli-vada' game with two numbers, which are both smaller than 10. The first time anybody says 'idlivada' is after the number 50. What could the two numbers be which are assigned 'idli' and 'vada'?
 
 Ans. 7, 8
 
@@ -863,23 +811,19 @@ Ans. 7, 8
 
 (Try for other possibility)
 
-##### Q.7. In the treasure hunting game, Grumpy has kept treasures on 28 and 70. What jump
-
-sizes will land on both the numbers?
+Q.7. In the treasure hunting game, Grumpy has kept treasures on 28 and 70. What jump sizes will land on both the numbers?
 
 Ans. The jump sizes are 1, 2, 7 or 14
 
-##### Q.8. In the diagram below, Guna has erased all the numbers except the common
+Q.8. In the diagram below, Guna has erased all the numbers except the common multiples. Find out what those numbers could be and fill in the missing numbers in the empty regions.
 
-multiples. Find out what those numbers could be and fill in the missing numbers in the empty regions.
+Ans. Multiples of **3**    Multiples of **4**
 
-Ans. Multiples of 3 Multiples of 4
+[Figure: Venn diagram with two overlapping regions labelled "Multiples of 3" and "Multiples of 4"; no numbers are visible in the regions in the page image.]
 
 Think of some more.
 
-##### Q.9. Find the smallest number that is a multiple of all the numbers from 1 to 10 except
-
-for 7.
+Q.9. Find the smallest number that is a multiple of all the numbers from 1 to 10 except for 7.
 
 Ans. 360
 
@@ -889,69 +833,59 @@ Ans. 2520
 
 <!-- answers page 4 -->
 
-##### Section 5.2
+## Section 5.2
 
-##### Page No. 113
+**Page No. 113**
 
-##### Q. How many prime numbers are there from 21 to 30? How many composite numbers
-
-are there from 21 to 30?
+### Q. How many prime numbers are there from 21 to 30? How many composite numbers are there from 21 to 30?
 
 Ans. Prime numbers from 21 to 30: 2 (23,29)
 
 Composite numbers from 21 to 30: 8
 
-##### Page No. 114
+**Page No. 114**
 
-##### Figure it out
+### Figure it out
 
-Q.1. We see that 2 is a prime and also an even number. Is there any other even prime?
+1. We see that 2 is a prime and also an even number. Is there any other even prime?
 
-Ans. No.
+   Ans. No.
 
-##### Q.2. Look at the list of primes till 100. What is the smallest difference between two
+2. Look at the list of primes till 100. What is the smallest difference between two successive primes? What is the largest difference?
 
-successive primes? What is the largest difference?
+   Ans. The smallest difference between two successive primes is one (3-2=1) the largest difference is 8 (97-89).
 
-Ans. The smallest difference between two successive primes is one (3-2=1) the largest difference is 8 (97-89).
+3. Are there an equal number of primes occurring in every row in the table on the previous page? Which decades have the least number of primes? Which have the most number of primes?
 
-##### Q.3. Are there an equal number of primes occurring in every row in the table on the
+   Ans. No. The least number of primes occur in the decades 91 to 100 and most number of primes and occur in the decades 1 to 10, 11 to 20.
 
-previous page? Which decades have the least number of primes? Which have the most number of primes?
+4. Which of the following numbers are prime: 23, 51, 37, 26?
 
-Ans. No. The least number of primes occur in the decades 91 to 100 and most number of primes and occur in the decades 1 to 10, 11 to 20.
+   Ans. 23 and 37.
 
-Q.4. Which of the following numbers are prime: 23, 51, 37, 26?
+5. Write three pairs of prime numbers less than 20 whose sum is a multiple of 5.
 
-Ans. 23 and 37.
+   Ans. Pairs of prime numbers less than 20 whose sum is a multiple of 5 are
 
-Q.5. Write three pairs of prime numbers less than 20 whose sum is a multiple of 5.
+   (2,3), (3,7), (2,13)
 
-Ans. Pairs of prime numbers less than 20 whose sum is a multiple of 5 are
+   (Try for other possibilities).
 
-(2,3), (3,7), (2,13)
+6. The numbers 13 and 31 are prime numbers. Both these numbers have same digits 1 and 3. Find such pairs of prime numbers up to 100.
 
-(Try for other possibilities).
+   Ans. 17 and 71, 37 and 73, 79 and 97.
 
-##### Q.6. The numbers 13 and 31 are prime numbers. Both these numbers have same digits 1
+7. Find seven consecutive composite numbers between 1 and 100.
 
-and 3. Find such pairs of prime numbers up to 100.
-
-Ans. 17 and 71, 37 and 73, 79 and 97.
-
-Q.7. Find seven consecutive composite numbers between 1 and 100.
-
-Ans. 90, 91, 92, 93, 94, 95, 96.
+   Ans. 90, 91, 92, 93, 94, 95, 96.
 
 <!-- answers page 5 -->
 
-##### Q.8. Twin primes are pairs of primes having a difference of 2. For example, 3 and 5 are
+**Q.8.** Twin primes are pairs of primes having a difference of 2. For example, 3 and 5 are twin primes. So are 17 and 19. Find the other twin primes between 1 and 100.
 
-twin primes. So are 17 and 19. Find the other twin primes between 1 and 100.
+**Ans.** 3 and 5, 5 and 7, 11 and 13, 17 and 19, 29 and 31, 41 and 43, 59 and 61, 71 and 73.
 
-Ans. 3 and 5, 5 and 7, 11 and 13, 17 and 19, 29 and 31, 41 and 43, 59 and 61, 71 and 73.
-
-Q.9 Identify whether each statement is true or false. Explain.
+**Q.9** Identify whether each statement is true or false. Explain.
 
 a. There is no prime number whose units digit is 4.
 
@@ -961,11 +895,11 @@ c. Prime numbers do not have any factors.
 
 d. All even numbers are composite numbers.
 
-##### e. 2 is a prime and so is the next number, 3. For every other prime, the next number
+e. 2 is a prime and so is the next number, 3. For every other prime, the next number is composite.
 
-is composite.
+**Ans.**
 
-Ans. a. True, unit digit 4 means even number. We know that 2 is the only even prime number.
+a. True, unit digit 4 means even number. We know that 2 is the only even prime number.
 
 b. False, product of primes becomes a composite number.
 
@@ -973,70 +907,63 @@ c. False, prime numbers have exactly two factors: 1 and the number itself.
 
 d. False, all even numbers except 2 are composite numbers
 
-e. True, as every pair, other than (2, 3), contains an even number which is a composite
+e. True, as every pair, other than (2, 3), contains an even number which is a composite number.
 
-number.
+**Q.10.** Which of the following numbers is the product of exactly three distinct prime numbers: 45, 60, 91, 105, 330?
 
-##### Q.10. Which of the following numbers is the product of exactly three distinct prime
+**Ans.** $105 = 3 \times 5 \times 7$ is the only number which is the product of three distinct prime numbers.
 
-numbers: 45, 60, 91, 105, 330?
+**Q.11.** How many three-digit prime numbers can you make using each of 2, 4 and 5 once?
 
-Ans. 105 = 3 × 5 × 7 is the only number which is the product of three distinct prime numbers.
+**Ans.** None
 
-Q.11. How many three-digit prime numbers can you make using each of 2, 4 and 5 once?
+**Q.12.** Observe that 3 is a prime number, and $2 \times 3 + 1 = 7$ is also a prime. Are there other primes for which doubling and adding 1 gives another prime? Find at least five such examples.
 
-Ans. None
-
-##### Q.12. Observe that 3 is a prime number, and 2 × 3 + 1 = 7 is also a prime. Are there other
-
-primes for which doubling and adding 1 gives another prime? Find at least five such examples.
-
-Ans. Yes, 11 = 2 × 5 + 1, 47 = 2 × 23 + 1, 83 = 2 × 41 + 1 23 = 2 × 11 +1, 59 = 2 × 29 +1
+**Ans.** Yes, $11 = 2 \times 5 + 1$, $47 = 2 \times 23 + 1$, $83 = 2 \times 41 + 1$, $23 = 2 \times 11 + 1$, $59 = 2 \times 29 + 1$
 
 (Try other possibilities.)
 
 <!-- answers page 6 -->
 
-##### Section 5.3
+**Section 5.3**
 
-##### Page No. 115
+**Page No. 115**
 
-##### Where should Grumpy place the treasures so that Jumpy cannot reach both the
+**Where should Grumpy place the treasures so that Jumpy cannot reach both the treasures?**
 
-treasures?
+**Check if these pairs are safe:**
 
-##### Check if these pairs are safe:
-
-##### a. 15 and 39 b. 4 and 15
-
-##### c. 18 and 29 d. 20 and 55
+**a.** 15 and 39  
+**b.** 4 and 15  
+**c.** 18 and 29  
+**d.** 20 and 55
 
 Ans. Safe pairs are: 4 and 15, 18 and 29.
 
-##### Page no. 116
+**Page no. 116**
 
-Q. Which of the following pairs of numbers are co-prime?
+**Q. Which of the following pairs of numbers are co-prime?**
 
-##### a. 18 and 35 b. 15 and 37 c. 30 and 415
-
-##### d. 17 and 69 e. 81 and 18
+**a.** 18 and 35  
+**b.** 15 and 37  
+**c.** 30 and 415  
+**d.** 17 and 69  
+**e.** 81 and 18
 
 Ans. The pairs of co-prime numbers are:
 
-a.18 and 35 b.15 and 37 d.17 and 69
+a. 18 and 35  
+b. 15 and 37  
+d. 17 and 69
 
-##### Q. While playing the ‘idli-vada’ game with different number pairs, Anshu observed
+**Q. While playing the '*idli-vada*' game with different number pairs, Anshu observed something interesting!**
 
-##### something interesting!
+1. **Sometimes the first common multiple was the same as the product of the two numbers.**
+2. **At other times the first common multiple was less than the product of the two numbers.**
 
-1. Sometimes the first common multiple was the same as the product of the two numbers.
+**Find examples for each of the above. How is it related to the number pair being co-prime?**
 
-2. At other times the first common multiple was less than the product of the two numbers.
-
-Find examples for each of the above. How is it related to the number pair being co-prime?
-
-Ans.
-1. Examples when the first common multiple is the product of the two numbers:
+Ans. 1. Examples when the first common multiple is the product of the two numbers:
 
 3, 5; 3, 7 and 4, 9.
 
@@ -1048,59 +975,59 @@ Whenever the number pair is co-prime the first common multiple is the product of
 
 <!-- answers page 7 -->
 
-##### Section 5.4
+Section 5.4
 
-##### Page no. 120
+Page no. 120
 
-##### Figure it out
+### Figure it out
 
-Q.1. Find the prime factorisations of the following numbers: 64, 104, 105, 243, 320, 141,
-
-1728, 729, 1024, 1331, 1000.
-
-Ans. 64 = 2 × 2 × 2 × 2 × 2 × 2
-
-104 = 2 × 2 × 2 × 13
-
-105 = 3 × 5 × 7
-
-243 = 3 ×3 ×3 ×3 ×3
-
-320 = 2 × 2 × 2 × 2 × 2 × 2 × 5
-
-141 = 3 × 47
-
-1728 = 2 × 2 × 2 × 2 × 2 × 2 × 3 × 3 × 3
-
-729 = 3 ×3 ×3 × 3 ×3 ×3
-
-1024 = 2 × 2 × 2 × 2 × 2 ×2 × 2 × 2 × 2 × 2
-
-1331 = 11 × 11 × 11
-
-1000 = 2 × 2 × 2 × 5 × 5 × 5
-
-Q.2. The prime factorisation of a number has one 2, two 3s, and one 11. What is the number?
-
-**Ans.** 198 = 2 × 3 × 3 × 11
-
-Q.3. Find three prime numbers, all less than 30, whose product is 1955.
-
-**Ans.** 1955 = 5 × 17 × 23
-
-##### Q.4. Find the prime factorisation of these numbers without multiplying first
-
-##### a. 56 × 25 b. 108 × 75 c. 1000 × 81
+**Q.1.** Find the prime factorisations of the following numbers: 64, 104, 105, 243, 320, 141, 1728, 729, 1024, 1331, 1000.
 
 Ans.
 
-a. 56 × 25 = 2 × 2 × 2 × 7 × 5 × 5
+$64 = 2 \times 2 \times 2 \times 2 \times 2 \times 2$
 
-b. 108 × 75 = 2 × 2 ×3 × 3 × 3 ×3 × 5 × 5
+$104 = 2 \times 2 \times 2 \times 13$
 
-c. 1000 × 81 = 2 × 2 × 2 ×3 × 3 × 3 ×3 × 5 × 5 × 5
+$105 = 3 \times 5 \times 7$
 
-##### Q.5. What is the smallest number whose prime factorisation has:
+$243 = 3 \times 3 \times 3 \times 3 \times 3$
+
+$320 = 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 5$
+
+$141 = 3 \times 47$
+
+$1728 = 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 3 \times 3 \times 3$
+
+$729 = 3 \times 3 \times 3 \times 3 \times 3 \times 3$
+
+$1024 = 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2$
+
+$1331 = 11 \times 11 \times 11$
+
+$1000 = 2 \times 2 \times 2 \times 5 \times 5 \times 5$
+
+**Q.2.** The prime factorisation of a number has one 2, two 3s, and one 11. What is the number?
+
+**Ans.** $198 = 2 \times 3 \times 3 \times 11$
+
+**Q.3.** Find three prime numbers, all less than 30, whose product is 1955.
+
+**Ans.** $1955 = 5 \times 17 \times 23$
+
+**Q.4.** Find the prime factorisation of these numbers without multiplying first
+
+a. $56 \times 25$  b. $108 \times 75$  c. $1000 \times 81$
+
+Ans.
+
+a. $56 \times 25 = 2 \times 2 \times 2 \times 7 \times 5 \times 5$
+
+b. $108 \times 75 = 2 \times 2 \times 3 \times 3 \times 3 \times 3 \times 5 \times 5$
+
+c. $1000 \times 81 = 2 \times 2 \times 2 \times 3 \times 3 \times 3 \times 3 \times 5 \times 5 \times 5$
+
+**Q.5.** What is the smallest number whose prime factorisation has:
 
 a. three different prime numbers?
 
@@ -1108,116 +1035,104 @@ b. four different prime numbers?
 
 <!-- answers page 8 -->
 
-Ans. a. 2 × 3 × 5 = 30
+Ans. a. $2 \times 3 \times 5 = 30$
 
-b. 2 × 3 × 5 × 7 = 210
+b. $2 \times 3 \times 5 \times 7 = 210$
 
-##### Page no. 122
+**Page no. 122**
 
-##### Figure it out
+### Figure it out
 
-##### Q.1. Are the following pairs of numbers co-prime? Guess first and then use prime
+**Q.1.** Are the following pairs of numbers co-prime? Guess first and then use prime factorisation to verify your answer.
 
-factorisation to verify your answer.
-
-##### a. 30 and 45 b. 57 and 85
-
-##### c. 121 and 1331 d. 343 and 216
+a. 30 and 45  
+b. 57 and 85  
+c. 121 and 1331  
+d. 343 and 216
 
 Ans. a. No
 
-30 = 2 × 3 × 5
+$30 = 2 \times 3 \times 5$
 
-45 = 3 × 3 × 5
+$45 = 3 \times 3 \times 5$
 
 b. Yes
 
-57 = 19 × 3
+$57 = 19 \times 3$
 
-85 = 17 × 5
+$85 = 17 \times 5$
 
 c. No
 
-121 = 11 × 11
+$121 = 11 \times 11$
 
-1331 = 11 × 11 × 11
+$1331 = 11 \times 11 \times 11$
 
-c.Yes
+c. Yes
 
-343 = 7 × 7 × 7
+$343 = 7 \times 7 \times 7$
 
-216 = 2 × 2 × 2 × 3 × 3 × 3.
+$216 = 2 \times 2 \times 2 \times 3 \times 3 \times 3.$
 
-Q.2. Is the first number divisible by the second? Use prime factorisation.
+**Q.2.** Is the first number divisible by the second? Use prime factorisation.
 
-##### a. 225 and 27 b. 96 and 24
+a. 225 and 27  
+b. 96 and 24  
+c. 343 and 17  
+d. 999 and 99
 
-##### c. 343 and 17 d. 999 and 99
+Ans. a. No $\left(\frac{3 \times 3 \times 5 \times 5}{3 \times 3 \times 3}\right)$
 
-Ans. a. No ( | 3 × 3 × 5 × 5
+b. Yes $\left(\frac{2 \times 2 \times 2 \times 2 \times 2 \times 3}{2 \times 2 \times 2 \times 3}\right)$
 
-3 × 3 × 3)
+c. No $\left(\frac{7 \times 7 \times 7}{17}\right)$
 
-b. Yes ( | 2 × 2 × 2 × 2 × 2 × 3
-
-2 × 2 ×2 ×3 )
-
-c. No ( | 7 × 7 × 7
-
-17 )
-
-d. No ( | 3 × 3 × 3 × 3 × 37
-
-3 × 3 × 11 )
+d. No $\left(\frac{3 \times 3 \times 3 \times 3 \times 37}{3 \times 3 \times 11}\right)$
 
 <!-- answers page 9 -->
 
-##### Q.3. The first number has prime factorisation 2 × 3 × 7 and the second number has prime
-
-factorisation 3 × 7 × 11. Are they co-prime? Does one of them divide the other?
+**Q.3.** The first number has prime factorisation $2 \times 3 \times 7$ and the second number has prime factorisation $3 \times 7 \times 11$. Are they co-prime? Does one of them divide the other?
 
 Ans. No, they are not co-prime.
 
 No, one of them is not dividing the other.
 
-Q.4. Guna says, “Any two prime numbers are co-prime”. Is he right?
+**Q.4.** Guna says, "Any two prime numbers are co-prime". Is he right?
 
 Ans. Yes, for example 2, 3; 3,11 (Try other examples)
 
-##### Section 5.5
+**Section 5.5**
 
-##### Page no. 124
+**Page no. 124**
 
-Q. Is 8536 divisible by 4?
+> [Figure: small blue spiral/sun-like icon marking a question]
+
+**Q.** Is 8536 divisible by 4?
 
 Ans. Yes, as 36 is divisible by 4.
 
-##### Q. Consider these statements:
+**Q.** Consider these statements:
 
 1. Only the last two digits matter when deciding if a given number is divisible by 4.
-
 2. If the number formed by the last two digits is divisible by 4, then the original number is divisible by 4.
-
 3. If the original number is divisible by 4, then the number formed by the last two digits is divisible by 4.
 
 Do you agree? Why or why not?
 
 Ans.
 1. Yes
-
 2. Yes
-
 3. Yes
 
 Yes,we agree.
 
 Consider numbers 124,364,4028 etc. These are divisible by 4.Check for more numbers.
 
-##### Page no. 125
+**Page no. 125**
 
-##### Q. Find numbers between 120 and 140 that are divisible by 8. Also find numbers
+> [Figure: small blue spiral/sun-like icon marking a question]
 
-between 1120 and 1140, and 3120 and 3140, that are divisible by 8. What do you observe?
+**Q.** Find numbers between 120 and 140 that are divisible by 8. Also find numbers between 1120 and 1140, and 3120 and 3140, that are divisible by 8. What do you observe?
 
 Ans. The numbers between 120 & 140 divisible by 8 are = 128, 136.
 
@@ -1227,18 +1142,16 @@ The numbers between 3120 & 3140 divisible by 8 are = 3128, 3136.
 
 <!-- answers page 10 -->
 
-if the number formed by one’s, ten’s and hundred’s digit is divisible by 8, then the number is divisible by 8.
+if the number formed by one's, ten's and hundred's digit is divisible by 8, then the number is divisible by 8.
 
-Q. Change the last two digits of 8560 so that the resulting number is a multiple of 8.
+### Q. Change the last two digits of 8560 so that the resulting number is a multiple of 8.
 
 Ans. 8552 is a multiple of 8.
 
-##### Q. Consider this statement:
+### Q. Consider this statement:
 
 1. Only the last three digits matter when deciding if a given number is divisible by 8.
-
 2. If the number formed by the last three digits is divisible by 8, then the original number is divisible by 8.
-
 3. If the original number is divisible by 8, then the number formed by the last three digits is divisible by 8.
 
 Do you agree? Why or why not?
@@ -1251,73 +1164,70 @@ c. Yes
 
 Yes. Some examples are: 8576,7648,5024. Try some more.
 
-##### Figure it out
+### Figure it out
 
-##### Q.1. 2024 is a leap year (as February has 29 days). Leap years occurs in the years that are
+1. 2024 is a leap year (as February has 29 days). Leap years occurs in the years that are multiples of 4, except for those years that are evenly divisible by 100 but not 400.
 
-multiples of 4, except for those years that are evenly divisible by 100 but not 400.
+   a. From the year you were born till now, which years were leap years?
 
-a. From the year you were born till now, which years were leap years?
+   b. From the year 2024 till 2099, how many leap years are there?
 
-b. From the year 2024 till 2099, how many leap years are there?
+   Ans. b. From the year 2024 till 2099, the number of leap years is 19
 
-Ans. b. From the year 2024 till 2099, the number of leap years is 19
+2. Find the largest and smallest 4-digit numbers that are divisible by 4 and are also palindromes.
 
-##### Q.2. Find the largest and smallest 4-digit numbers that are divisible by 4 and are also
+   Ans. The largest 4-digit number divisible by 4 and also a palindrome: 9999
 
-palindromes.
+   The smallest 4-digit number divisible by 4 and also a palindrome: 1001.
 
-Ans. The largest 4-digit number divisible by 4 and also a palindrome: 9999
+3. Explore and find out if each statement is always true, sometimes true or never true. You can give examples to support your reasoning.
 
-The smallest 4-digit number divisible by 4 and also a palindrome: 1001.
+   a. Sum of two even numbers gives a multiple of 4.
 
-Q.3. Explore and find out if each statement is always true, sometimes true or never true.
-
-You can give examples to support your reasoning.
-
-a. Sum of two even numbers gives a multiple of 4.
-
-b. Sum of two odd numbers gives a multiple of 4.
+   b. Sum of two odd numbers gives a multiple of 4.
 
 <!-- answers page 11 -->
 
 Ans. a. Sometimes true
 
-Example 2+6 = 8, a multiple of 4.
+Example $2+6 = 8$, a multiple of 4.
 
-but 2+4 = 6, not a multiple of 4.
+but $2+4 = 6$, not a multiple of 4.
 
 b. Sometimes true
 
-Example 1+3 = 4, a multiple of 4.
+Example $1+3 = 4$, a multiple of 4.
 
-but 1+5 = 6, not a multiple of 4.
+but $1+5 = 6$, not a multiple of 4.
 
 Note: Think of more such examples.
 
-##### Q.4. Find the remainders obtained when each of the following numbers are divided by i)
+**Q.4. Find the remainders obtained when each of the following numbers are divided by i) 10, ii) 5, iii) 2.**
 
-| 10, ii) 5, iii) 2. Ans. | 78, 99, 173, 572, 980, 1111, 2345 |  |  |
-| --- | --- | --- | --- |
+**78, 99, 173, 572, 980, 1111, 2345**
+
+Ans.
+
 | Numbers | a) Remainder when divided by 10 | b) Remainder when divided by 5 | c) Remainder when divided by 2 |
-| 78 99 173 572 980 1111 2345 | 8 9 3 2 0 1 5 | 3 4 3 2 0 1 0 | 0 1 1 0 0 1 1 |
+|---|---|---|---|
+| 78 | 8 | 3 | 0 |
+| 99 | 9 | 4 | 1 |
+| 173 | 3 | 3 | 1 |
+| 572 | 2 | 2 | 0 |
+| 980 | 0 | 0 | 0 |
+| 1111 | 1 | 1 | 1 |
+| 2345 | 5 | 0 | 1 |
 
-##### Q.5. The teacher asked if 14560 is divisible by all of 2, 4, 5, 8 and 10. Guna checked for
-
-divisibility of 14560 by only two of these numbers and then declared that it was also divisible by all of them. What could those two numbers be?
+**Q.5. The teacher asked if 14560 is divisible by all of 2, 4, 5, 8 and 10. Guna checked for divisibility of 14560 by only two of these numbers and then declared that it was also divisible by all of them. What could those two numbers be?**
 
 Ans. The two numbers that are sufficient to declare the divisibility of 14560 by 2, 4, 5, 8 and 10 are 5 and 8.
 
-Q.6. Which of the following numbers are divisible by all of 2, 4, 5, 8 and 10: 572, 2352,
-
-5600, 6000, 77622160.
+**Q.6. Which of the following numbers are divisible by all of 2, 4, 5, 8 and 10: 572, 2352, 5600, 6000, 77622160.**
 
 Ans. The numbers divisible by 2, 4, 5, 8 and 10 are:
 
 5600, 6000 and 77622160.
 
-##### Q.7. Write two numbers whose product is 10000. The two numbers should not have 0 as
+**Q.7. Write two numbers whose product is 10000. The two numbers should not have 0 as their unit digit.**
 
-their unit digit.
-
-Ans. 10000 = 16 × 625.
+Ans. $10000 = 16 \times 625$.
