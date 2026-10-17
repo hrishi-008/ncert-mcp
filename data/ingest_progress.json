@@ -1,11 +1,13 @@
 {
- "stage": "vision",
+ "stage": "structure",
  "vision_done": 25,
  "vision_total": 25,
- "last": "7-math-15",
- "updated_at": "2026-10-17T18:57:38",
+ "last": "6-sci-05",
+ "updated_at": "2026-10-17T18:58:36",
  "usage": {
-  "five_hour": 0.34,
+  "five_hour": 0.35,
   "seven_day": 0.31
- }
+ },
+ "structure_done": 5,
+ "structure_total": 83
 }

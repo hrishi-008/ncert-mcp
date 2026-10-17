@@ -6,11 +6,11 @@
  "part": 1,
  "chapter_no": 4,
  "title": "Exploring Magnets",
- "summary": "- A magnet has two poles—the North pole and the South pole. - The poles of a magnet always exist in pairs. A single North pole or a single South pole cannot exist. - Magnetic materials are the materials that are attracted towards a magnet. - Non-magnetic materials are the materials that are not attracted towards a magnet. - A freely suspended magnet rests along the north-south direction. - The needle of a magnetic compass indicates the north-south direction. - When two magnets are brought close to each other, like poles (North-North, South-South) repel each other while unlike poles (North-South) attract each other.",
+ "summary": "This chapter introduces magnets, starting with Reshma's story of sailors finding directions. Magnets attract magnetic materials such as iron, nickel and cobalt, but not non-magnetic materials. Every magnet has a North and a South pole, where the pull is strongest, and the poles always occur in pairs. A freely suspended magnet rests in the north-south direction, which is how a magnetic compass works, and students make a simple compass. Like poles repel and unlike poles attract, and the magnetic effect passes through non-magnetic materials. The chapter ends with fun activities and tips for storing magnets safely.",
  "sections": [
   {
    "section_id": "6-sci-04-s01",
-   "heading": "Chapter 4: Exploring Magnets",
+   "heading": "Exploring Magnets (Introduction)",
    "text": "# Chapter 4: Exploring Magnets\n\n<!-- page 61 -->\n\n4\n\n## Exploring Magnets\n\nReshma lives in a coastal town of Kerala and is very fond of writing short stories. Her grandmother loves listening to her stories, so Reshma was writing a new story to share with her grandmother on her 60th birthday.\n\nThe story was based on a ship carrying spices from Kerala for trade in the olden days. Reshma was aware that in those days, the sailors used stars to find directions at night. But in her story, a situation arose wherein the sailors got caught in a storm with an overcast sky and stars were not visible. Reshma could not take her story forward as she could not think of a way for sailors to find directions.\n\nShe searched for information on the internet and her school library. She learnt that the travellers used a device,\n\nknown as a magnetic compass, for finding\n\ndirections.\n\nReshma had seen pencil boxes and purses which had magnets to keep them\n\nclosed. A writing board in her school also had a duster with a magnet. But she had never looked at those carefully. She now became curious to learn more about magnets and magnetic compasses.\n\n<!-- page 62 -->\n\nFig. 4.1: Some common items that have magnets attached to them\n\nThe magnets used by sailors in the olden days were based on naturally occurring magnets, known as lodestones which were discovered in ancient times. Later on, people found out that magnets could also be made from pieces of iron. Nowadays, we have magnets made of different materials. The magnets that you find in your school laboratory and those used in pencil boxes, stickers, toys are all artificial magnets (Fig. 4.1). The magnets can be of various shapes, some of which are shown in Fig. 4.2.\n\nDo magnets stick to objects made of certain materials only??\n\nBar magnet | U-shaped | Ring magnet\n\nmagnet\n\nFig. 4.2: Magnets of different shapes",
    "page_start": 61,
    "page_end": 62
@@ -82,74 +82,34 @@
  "key_terms": [
   {
    "term": "magnetic materials",
-   "meaning": "a magnet are called magnetic materials.",
+   "meaning": "The materials which are attracted towards a magnet are called **magnetic materials**.",
    "page": 64
   },
   {
    "term": "non-magnetic materials",
-   "meaning": "The materials which are not attracted towards a magnet are called non-magnetic materials.",
+   "meaning": "The materials which are not attracted towards a magnet are called **non-magnetic materials**.",
    "page": 64
   },
   {
+   "term": "poles of the magnet",
+   "meaning": "These ends of the magnet are called the two poles of the magnet—the North pole and the South pole.",
+   "page": 65
+  },
+  {
    "term": "North pole of the magnet",
-   "meaning": "The end of the magnet that points towards north direction is called the North-seeking pole or the North pole of the magnet.",
+   "meaning": "The end of the magnet that points towards north direction is called the North-seeking pole or the **North pole of the magnet**.",
    "page": 66
   },
   {
-   "term": "South pole of the magnet",
-   "meaning": "The other end that points towards the South direction is called the South-seeking pole or the South pole of the magnet.",
+   "term": "magnetic compass",
+   "meaning": "Based on this, a small device called a magnetic compass was",
    "page": 66
-  },
-  {
-   "term": "Caution",
-   "meaning": "| Caution Have fun,",
-   "page": 73
-  },
-  {
-   "term": "Attraction Conclude",
-   "meaning": "",
-   "page": 73
-  },
-  {
-   "term": "Bar magnet Construct",
-   "meaning": "",
-   "page": 73
-  },
-  {
-   "term": "Experiment Magnetic compass",
-   "meaning": "",
-   "page": 73
-  },
-  {
-   "term": "Observe North pole of a magnet",
-   "meaning": "",
-   "page": 73
-  },
-  {
-   "term": "Repulsion Predict",
-   "meaning": "",
-   "page": 73
-  },
-  {
-   "term": "Ring magnet Record",
-   "meaning": "",
-   "page": 73
-  },
-  {
-   "term": "South pole of a magnet",
-   "meaning": "",
-   "page": 73
-  },
-  {
-   "term": "U-shaped magnet",
-   "meaning": "",
-   "page": 73
   }
  ],
  "activities": [
   {
    "label": "Activity 4.1: Let us explore",
-   "description": "- Collect a few objects made of different materials and also a magnet. - Predict which of the objects will stick to the magnet. Write your prediction in Table 4.1. - Now hold a magnet in your hand and bring it near the objects one by one (Fig. 4.3). Observe which of the objects stick to the magnet. Fig. 4.3: Identifying the materials attracted by a magnet - Record your observations in Table 4.1.",
+   "description": "- Collect a few objects made of different materials and also a magnet. - Predict which of the objects will stick to the magnet. Write your prediction in Table 4.1. - Now hold a magnet in your hand and bring it near the objects one by one (Fig. 4.3). Observe which of the objects stick to the magnet. Fig. 4.3: Identifying the materials attracted by a magnet - Record your observations in Table 4.1. Table 4.1: Identifying the materials attracted by a magnet | | Attracted by the magnet (Yes/No) | | |",
    "page": 62
   },
   {
@@ -174,12 +134,12 @@
   },
   {
    "label": "Activity 4.6: Let us experiment",
-   "description": "- Take a magnetic compass and a bar magnet. The compass needle is also a magnet. Will - Place the magnetic compass over a horizontal surface and wait for its needle to come to rest. it show the same behaviour if a magnet is brought closer to it? - Now slowly bring North pole of the bar magnet close to the North pole of the compass needle as shown in Fig. 4.9a. Observe the compass needle carefully. What do you observe? Does the needle deflect? If yes, in which direction?",
+   "description": "- Take a magnetic compass and a bar magnet. The compass needle is also a magnet. Will - Place the magnetic compass over a horizontal surface and wait for its needle to come to rest. it show the same behaviour if a magnet is brought closer to it? - Now slowly bring North pole of the bar magnet close to the North pole of the compass needle as shown in Fig. 4.9a. Observe the compass needle carefully. What do you observe? Does the needle deflect? If yes, in which direction? - Now repeat the above st",
    "page": 69
   },
   {
    "label": "Activity 4.7: Let us investigate",
-   "description": "- Repeat the first or second part of Activity 4.6. Wood - Without disturbing the bar magnet and magnetic compass, place a piece of wood between them, perpendicular to the table as shown in Fig. 4.10. Observe the compass needle carefully. Fig. 4.10: Compass needle and a magnet with a piece of wood in between - Is there any effect on the deflection of compass needle due to the piece of wood? Record your observation in Table 4.2.",
+   "description": "- Repeat the first or second part of Activity 4.6. Wood - Without disturbing the bar magnet and magnetic compass, place a piece of wood between them, perpendicular to the table as shown in Fig. 4.10. Observe the compass needle carefully. Fig. 4.10: Compass needle and a magnet with a piece of wood in between - Is there any effect on the deflection of compass needle due to the piece of wood? Record your observation in Table 4.2. - Repeat the process by replacing the piece of wood with a cardboard ",
    "page": 70
   }
  ],
@@ -201,22 +161,27 @@
   },
   {
    "label": "Fig. 4.4",
-   "caption": "Iron filings sticking",
+   "caption": "Iron filings sticking to a bar magnet",
    "page": 64
   },
   {
    "label": "Fig. 4.5",
-   "caption": "A freely suspended",
+   "caption": "A freely suspended bar magnet",
    "page": 65
   },
   {
    "label": "Fig. 4.6",
-   "caption": "A magnetic",
+   "caption": "A magnetic compass",
    "page": 66
   },
   {
-   "label": "Fig. 4.7",
-   "caption": "(a): Making an iron",
+   "label": "Fig. 4.7(a)",
+   "caption": "Making an iron needle a magnet",
+   "page": 67
+  },
+  {
+   "label": "Fig. 4.7(b)",
+   "caption": "A compass needle in a bowl of water",
    "page": 67
   },
   {
@@ -231,7 +196,7 @@
   },
   {
    "label": "Fig. 4.10",
-   "caption": "Compass needle and a magnet",
+   "caption": "Compass needle and a magnet with a piece of wood in between",
    "page": 70
   },
   {
@@ -240,8 +205,13 @@
    "page": 71
   },
   {
+   "label": "Fig. 4.12",
+   "caption": "Steel balls in a maze",
+   "page": 72
+  },
+  {
    "label": "Fig. 4.13",
-   "caption": "Steel paperclip in water Fig. 4.12: Steel balls in a maze",
+   "caption": "Steel paperclip in water",
    "page": 72
   },
   {
@@ -251,7 +221,7 @@
   },
   {
    "label": "Fig. 4.15",
-   "caption": "Bar magnet and heap",
+   "caption": "Bar magnet and heap of steel U-clips",
    "page": 75
   },
   {
@@ -272,6 +242,153 @@
  ],
  "exercises": [
   {
+   "label": "In-chapter Q: Do magnets stick to objects made of certain materials only?",
+   "text": "Do magnets stick to objects made of certain materials only??",
+   "type_hint": "short",
+   "page": 62,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Activity 4.1 Q1",
+   "text": "Was your prediction correct for all objects? Which materials stuck to the magnet? What conclusion can you draw?",
+   "type_hint": "short",
+   "page": 64,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Section 4.1 Q: Which materials listed in Table 4.1 were found to be non-magnetic?",
+   "text": "Which materials listed in Table 4.1 were found to be non-magnetic?",
+   "type_hint": "short",
+   "page": 64,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Section 4.2 Q: Do all parts of a magnet attract magnetic materials equally?",
+   "text": "Do all parts of a magnet attract magnetic materials equally? ?",
+   "type_hint": "short",
+   "page": 64,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Activity 4.2 Q1",
+   "text": "Do you observe anything special about the way they stick to the magnet? Do the iron filings stick all over the magnet uniformly? Or do the iron filings stick more at some places?",
+   "type_hint": "short",
+   "page": 64,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Section 4.2 Q: If we repeat this activity with magnets of other shapes, do we get the same result?",
+   "text": "If we repeat this\n\nactivity with magnets of other shapes, do we get\n\nthe same result?",
+   "type_hint": "short",
+   "page": 64,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Section 4.2 Q: Can we find a magnet with a single pole?",
+   "text": "> Can we find a magnet with a single pole? ?",
+   "type_hint": "short",
+   "page": 65,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Activity 4.3 Q: What direction does this line indicate?",
+   "text": "What direction does\n\nthis line indicate along which the magnet rests? How can we find it out? | If we have noticed the direction",
+   "type_hint": "short",
+   "page": 65,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Section 4.3 Q: Repeat with iron bar - Does it always rest along north-south direction?",
+   "text": "Repeat this activity with a small iron bar in place of the bar magnet. What do you observe? Does it always rest along north-south direction? It does not. It can rest along any direction. This implies that only magnets rest along north-south direction. This activity provides us with a way to test whether a piece of metal is a magnet or not.",
+   "type_hint": "short",
+   "page": 66,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Section 4.3 Q: How can we make our own magnetic compass?",
+   "text": "How can we\n\nA magnetic compass is usually a small circular box with a transparent cover on it, as shown in Fig. 4.6. The magnet, in the shape of a needle, is mounted on a pin standing on the bottom of the box. This\n\nmake our own magnetic\n\ncompass?",
+   "type_hint": "short",
+   "page": 66,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Activity 4.4 Q: Do the ends of the needle always point in the same direction?",
+   "text": "- Rotate the cork gently and wait till it stops rotating. Repeat this a few more times. Do the ends of the needle always point in the same direction?",
+   "type_hint": "short",
+   "page": 67,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Section 4.3 Q: What happens when we bring two magnets closer to each other?",
+   "text": "> What happens when we bring\n\n> two magnets closer to each\n\nMuch before the widespread use of the modern magnetic compass (Fig. 4.6), a device similar to the compass needle made by you (Fig. 4.7b) was\n\n> other?",
+   "type_hint": "short",
+   "page": 67,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Activity 4.5 Q1",
+   "text": "- Next, bring the other end of magnet B near the same end of magnet A (Fig. 4.8b). Does the magnet A on the pencils begin to move? Does it always move in the direction of the approaching magnet? What do these observations suggest?",
+   "type_hint": "short",
+   "page": 68,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Activity 4.6 Q: Will the compass needle show the same behaviour if a magnet is brought closer to it?",
+   "text": "The compass needle is also a magnet. Will\n\n- Place the magnetic compass over a horizontal surface and wait for its needle to come to rest.\n\nit show the same behaviour if a magnet is\n\nbrought closer to it?",
+   "type_hint": "short",
+   "page": 69,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Activity 4.6 Q2",
+   "text": "- Now slowly bring North pole of the bar magnet close to the North pole of the compass needle as shown in Fig. 4.9a. Observe the compass needle carefully. What do you observe? Does the needle deflect? If yes, in which direction?\n\n- Now repeat the above step with the South pole of the bar magnet. Do you observe any difference this time?",
+   "type_hint": "short",
+   "page": 69,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Section 4.4 Q: Will placing a piece of wood affect the deflection of the compass needle?",
+   "text": "Suppose we place a piece\n\nof wood between the compass needle and the magnet. Will this affect the\n\ndeflection of the compass\n\nneedle?",
+   "type_hint": "short",
+   "page": 70,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Activity 4.7 Q1",
+   "text": "- Is there any effect on the deflection of compass needle due to the piece of wood? Record your observation in Table 4.2.",
+   "type_hint": "short",
+   "page": 70,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Section 4.5 Q: Can we make a garland?",
+   "text": "Can we make a garland? (Fig. 4.11)",
+   "type_hint": "activity",
+   "page": 71,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Section 4.5 Q: Can we take the steel balls out of the maze?",
+   "text": "Can we take the steel balls out of the maze by moving a magnet below the cardboard tray? (Fig. 4.12)",
+   "type_hint": "activity",
+   "page": 72,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Section 4.5 Q: Can we pick out a steel paper clip fallen in water?",
+   "text": "Can we pick out a steel paper clip fallen in water using a magnet, without getting our fingers or the magnet wet? (Fig. 4.13)",
+   "type_hint": "activity",
+   "page": 72,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Section 4.5 Q: Will the two cars speed towards each other or run away?",
+   "text": "Will the two cars speed towards each other or run away from each other when brought closer? (Fig. 4.14)",
+   "type_hint": "activity",
+   "page": 72,
+   "source": "in_chapter"
+  },
+  {
    "label": "Let us enhance our learning Q1",
    "text": "1. Fill in the blanks\n\n(i) Unlike poles of two magnets each other, whereas like poles each other.\n(ii) The materials that are attracted towards a magnet are\n\ncalled .\n(iii) The needle of a magnetic compass rests along the\n\ndirection.\n\n(iv) A magnet always has poles.",
    "type_hint": "fill_blank",
@@ -280,22 +397,22 @@
   },
   {
    "label": "Let us enhance our learning Q2",
-   "text": "2. State whether the following statements are True (T) or False (F).\n\n(i) A magnet can be broken into pieces to\n\nobtain a single pole. [ ]\n(ii) Similar poles of a magnet repel each other. [ ]\n(iii) Iron filings mostly stick in the middle of a bar\n\nmagnet when it is brought near them. [ ]\n(iv) A freely suspended bar magnet always\n\naligns with the north-south direction. [ ]\n\n<!-- page 75 -->",
-   "type_hint": "short",
+   "text": "2. State whether the following statements are True (T) or False (F).\n\n(i) A magnet can be broken into pieces to\n\nobtain a single pole. [ ]\n(ii) Similar poles of a magnet repel each other. [ ]\n(iii) Iron filings mostly stick in the middle of a bar\n\nmagnet when it is brought near them. [ ]\n(iv) A freely suspended bar magnet always\n\naligns with the north-south direction. [ ]",
+   "type_hint": "true_false",
    "page": 74,
    "source": "end"
   },
   {
    "label": "Let us enhance our learning Q3",
    "text": "3. Column I shows different positions in which one pole of a magnet is placed near that of the other. Column II indicates the resulting interaction between them for different situations. Fill in the blanks.\n\nColumn I Column II\n\n| N – N |  |\n| --- | --- |\n|  |  |\n| N – | Attraction |\n| S – N |  |\n| – S | Repulsion |",
-   "type_hint": "fill_blank",
+   "type_hint": "match",
    "page": 75,
    "source": "end"
   },
   {
    "label": "Let us enhance our learning Q4",
    "text": "4. Atharv performed an experiment in which he took a bar magnet and rolled it over a heap of steel U-clips (Fig. 4.15).\n\nA C B\n\nAccording to you, which of the options given in Table 4.3 is likely to be his observation?\n\nFig. 4.15: Bar magnet and heap\n\nof steel U-clips\n\n##### Table 4.3: Number of pins attracted by the magnet\n\n|  |  | at its various positions Position A Position B Position C |  |\n| --- | --- | --- | --- |\n| (i) | 10 | 2 | 10 |\n| (ii) | 10 | 10 | 2 |\n| (iii) | 2 | 10 | 10 |\n| (iv) | 10 | 10 | 10 |",
-   "type_hint": "short",
+   "type_hint": "mcq",
    "page": 75,
    "source": "end"
   },
@@ -308,7 +425,7 @@
   },
   {
    "label": "Let us enhance our learning Q6",
-   "text": "6. You are given a magnet which does not have the poles marked. How can you find its poles with the help of another magnet which has its poles marked?\n\n<!-- page 76 -->",
+   "text": "6. You are given a magnet which does not have the poles marked. How can you find its poles with the help of another magnet which has its poles marked?",
    "type_hint": "short",
    "page": 75,
    "source": "end"
@@ -329,48 +446,50 @@
   },
   {
    "label": "Let us enhance our learning Q9",
-   "text": "9. While a mechanic was repairing a gadget using a screw driver, the steel screws kept falling down. Suggest a way to solve the problem of the mechanic on the basis of what you have learnt in this chapter.\n\nX",
+   "text": "9. While a mechanic was repairing a gadget using a screw driver, the steel screws kept falling down. Suggest a way to solve the problem of the mechanic on the basis of what you have learnt in this chapter.",
    "type_hint": "short",
    "page": 76,
    "source": "end"
   },
   {
    "label": "Let us enhance our learning Q10",
-   "text": "10. Two ring magnets X and Y are arranged as shown in Fig. 4.16. It is observed that the magnet X does not move down further. What could be the possible reason? Suggest a way to bring the magnet X in contact with magnet Y, without pushing either of the magnets.\n\nY\n\nFig. 4.16: Two ring magnets\n\n2",
-   "type_hint": "short",
+   "text": "10. Two ring magnets X and Y are arranged as shown in Fig. 4.16. It is observed that the magnet X does not move down further. What could be the possible reason? Suggest a way to bring the magnet X in contact with magnet Y, without pushing either of the magnets.\n\nY\n\nFig. 4.16: Two ring magnets",
+   "type_hint": "long",
    "page": 76,
    "source": "end"
   },
   {
    "label": "Let us enhance our learning Q11",
    "text": "11. Three magnets are arranged on a table in the form of the shape shown in Fig. 4.17. What is the polarity, N or S, at the ends 1, 2, 3, 4 and 6 of the magnets? Polarity of one end (5) is given for you.\n\n1 | 3\n\n6\n\n4 5\n\nN\n\nFig. 4.17: Three bar magnets",
-   "type_hint": "short",
+   "type_hint": "diagram",
    "page": 76,
    "source": "end"
   }
  ],
  "topics": [
-  "Magnetic and Non-magnetic Materials",
-  "Poles of Magnet",
-  "Finding Directions",
-  "Attraction and Repulsion between Magnets",
-  "Fun with Magnets",
+  "magnets",
+  "lodestone",
+  "artificial magnets",
+  "magnet shapes",
   "magnetic materials",
   "non-magnetic materials",
-  "North pole of the magnet",
-  "South pole of the magnet",
-  "Caution",
-  "Attraction Conclude",
-  "Bar magnet Construct",
-  "Experiment Magnetic compass",
-  "Observe North pole of a magnet",
-  "Repulsion Predict",
-  "Ring magnet Record",
-  "South pole of a magnet",
-  "U-shaped magnet"
+  "poles of a magnet",
+  "iron filings",
+  "single pole impossible",
+  "finding directions",
+  "magnetic compass",
+  "making a compass",
+  "matsya-yantra",
+  "attraction and repulsion",
+  "like and unlike poles",
+  "magnetic effect through materials",
+  "fun with magnets",
+  "storing magnets safely",
+  "Earth as a magnet",
+  "hopping frog"
  ],
  "page_start": 61,
  "page_end": 78,
- "structured_by": "heuristic",
+ "structured_by": "llm:sonnet",
  "warnings": []
 }

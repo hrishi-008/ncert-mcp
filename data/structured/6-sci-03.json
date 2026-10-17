@@ -6,11 +6,11 @@
  "part": 1,
  "chapter_no": 3,
  "title": "Mindful Eating: A Path to a Healthy Body",
- "summary": "- People across India eat diverse types of food, containing various food components. - Choice of food may vary according to the cultivation of food crops in a region, taste preferences, culture and traditions, and so on. - Culinary practices have changed over time. There is a significant difference between traditional and modern methods of cooking food. - Food provides us energy, support growth, repairs our bodies and protects us from diseases. - The major nutrients in our food are carbohydrates, fats, proteins, vitamins, and minerals. In addition, food also contains dietary fibres and water. - Carbohydrates and fats are primary energy sources, while proteins are body-building nutrients. - Vitamins and minerals strengthen our body, protect us from infections, and keep us healthy. - A balanced diet provides all the essential nutrients in the right quantities, along with adequate roughage and water. - Deficiency of one or more nutrients in our diet for a long time can lead to deficiency diseases and disorders. - Junk foods are unhealthy as they contain high levels of sugar and fats but little protein, minerals, vitamins, and dietary fibres. - Millets are known as nutri-cereals as they provide most of the nutrients required for the normal functioning of our bodies. They can be easily cultivated in different climatic conditions. - Eating food that is locally grown and plant-based, to the extent possible, is not only healthy for our bodies but is also good for our environment and our planet. - The distance travelled by a food item, from the place of its production to the consumer, is called food miles. We must aim to minimise food miles. - We should never waste food and only take as much as we can consume.",
+ "summary": "This chapter explains why food varies across India and how it depends on local crops, climate, culture and traditions. It shows how cooking practices have changed with technology. It introduces the nutrients: carbohydrates, fats, proteins, vitamins and minerals, plus roughage and water, and the deficiency diseases such as scurvy, goitre, rickets and anaemia. Students test foods for starch, fat and protein. The chapter explains the balanced diet, junk food and fortified food, and millets as nutri-cereals. It ends with food miles, eating local food and not wasting food.",
  "sections": [
   {
    "section_id": "6-sci-03-s01",
-   "heading": "Chapter 3: Mindful Eating: A Path to a Healthy Body",
+   "heading": "Introduction",
    "text": "# Chapter 3: Mindful Eating: A Path to a Healthy Body\n\n<!-- page 35 -->\n\n### Mindful Eating: A Path to a Healthy Body 3\n\n> कोऽरुक्? कोऽरुक्? कोऽरुक्?\n\n> हितभुक् मितभुक् ऋतुभुक्\n\n(सुभाषित)\n\nWho is healthy? Who is healthy? Who is healthy? One who eats food that is wholesome, in moderate quantities,\n\nand appropriate for the season, time, and place.\n\n(Wise saying)\n\nMedu and Mishti read ‘thought of the day’ on the school noticeboard every day. Today’s thought, ‘annena jātāni jivanti’, makes them curious. Mishti tells Medu that it is a Sanskrit saying which means ‘food gives life to living beings.’\n\n> अन्‍नेन जातानि जीवन्‍त‍ि annena jātāni jivanti\n\nLet us try to understand the significance of this saying.",
    "page_start": 35,
    "page_end": 35
@@ -123,185 +123,90 @@
  ],
  "key_terms": [
   {
-   "term": "cultivation",
-   "meaning": "In various regions of India, the choice of food may vary according to the cultivation of food crops in that particular region, taste preferences, culture, and traditions.",
-   "page": 37
-  },
-  {
-   "term": "culinary practices",
-   "meaning": "Cooking practices, also called culinary practices, have changed over time.",
-   "page": 39
-  },
-  {
    "term": "Carbohydrates",
-   "meaning": "Carbohydrates are one of the primary sources of energy in our diet.",
+   "meaning": "**Carbohydrates** are one of the primary sources of energy in our diet.",
    "page": 40
   },
   {
-   "term": "fat",
-   "meaning": "Ghee and various kinds of oils are grouped under another kind of food component, which is called fat.",
-   "page": 40
-  },
-  {
-   "term": "energy-giving foods",
-   "meaning": "Therefore, they are called energy-giving foods.",
+   "term": "Energy-giving foods",
+   "meaning": "Carbohydrates and fats provide us energy for performing various activities.",
    "page": 41
   },
   {
-   "term": "Proteins",
-   "meaning": "Proteins are also an important part of our food.",
+   "term": "Body-building foods",
+   "meaning": "Protein-rich foods help in growth and repair of our body.",
    "page": 41
   },
   {
-   "term": "body-building foods",
-   "meaning": "These are, therefore, called body-building foods.",
-   "page": 41
-  },
-  {
-   "term": "More to",
-   "meaning": "Mushroom More to",
-   "page": 42
-  },
-  {
-   "term": "food components",
-   "meaning": "Let us understand the importance of some other food components by reading the following two cases—",
-   "page": 42
-  },
-  {
-   "term": "scurvy",
-   "meaning": "Bleeding and swollen gums are symptoms of a disease called scurvy.",
-   "page": 42
-  },
-  {
-   "term": "Vitamin C",
+   "term": "Scurvy",
    "meaning": "Scurvy is caused due to deficiency of Vitamin C.",
    "page": 42
   },
   {
-   "term": "iodised salt",
-   "meaning": "As per norms of the Government of India, an effort was made to supplement common salt with iodine for preparing iodised salt.",
-   "page": 42
+   "term": "Iodised salt",
+   "meaning": "Iodised salt is simply common salt mixed with required quantities of salts of iodine.",
+   "page": 43
   },
   {
-   "term": "goitre",
-   "meaning": "Swelling at the front of the neck is a symptom of a disease called goitre.",
-   "page": 42
-  },
-  {
-   "term": "vitamins",
-   "meaning": "3.5, you have learnt that vitamins (A, B1, C and D) and minerals (calcium, iodine, and iron) are two groups of food components that protect our body from various diseases.",
+   "term": "Nutrients",
+   "meaning": "Food components that provide energy, support growth, help repair and protect our body from diseases, and maintain various bodily functions are called **nutrients**.",
    "page": 45
   },
   {
-   "term": "minerals",
-   "meaning": "3.5, you have learnt that vitamins (A, B1, C and D) and minerals (calcium, iodine, and iron) are two groups of food components that protect our body from various diseases.",
+   "term": "Protective nutrients",
+   "meaning": "These nutrients protect our body from diseases and keep us healthy.",
    "page": 45
   },
   {
-   "term": "deficiency diseases",
-   "meaning": "But, how can we overcome vitamin and mineral deficiency diseases or disorders?",
-   "page": 45
-  },
-  {
-   "term": "nutrients",
-   "meaning": "Food components that provide energy, support growth, help repair and protect our body from diseases, and maintain various bodily functions are called nutrients.",
-   "page": 45
-  },
-  {
-   "term": "protective nutrients",
-   "meaning": "Vitamins and minerals are also called protective nutrients.",
-   "page": 45
-  },
-  {
-   "term": "roughage",
-   "meaning": "Dietary fibres, also known as roughage, do not provide any nutrients to our body.",
+   "term": "Roughage",
+   "meaning": "Dietary fibres, also known as **roughage**, do not provide any nutrients to our body.",
    "page": 46
   },
   {
-   "term": "Water",
-   "meaning": "Water is also an essential part of our diet.",
-   "page": 47
-  },
-  {
-   "term": "Coluthur Gopalan",
-   "meaning": "Coluthur Gopalan (1918–2019) initiated nutrition research in India.",
-   "page": 47
-  },
-  {
-   "term": "starch",
-   "meaning": "Some nutrients like starch (a type of carbohydrate), fat and protein can be detected using fairly simple tests, while others can be detected only in a well-equipped laboratory.",
-   "page": 48
-  },
-  {
-   "term": "balanced diet",
-   "meaning": "A diet that has all essential nutrients, roughage, and water in the right amount for proper growth and development of the body is known as a balanced diet.",
+   "term": "Balanced diet",
+   "meaning": "A diet that has all essential nutrients, roughage, and water in the right amount for proper growth and development of the body is known as a **balanced diet**.",
    "page": 51
   },
   {
-   "term": "millets",
-   "meaning": "These highly nutritious grains are also called millets.",
+   "term": "Junk foods",
+   "meaning": "These foods are called junk foods.",
+   "page": 52
+  },
+  {
+   "term": "Millets",
+   "meaning": "These highly nutritious grains are also called **millets**.",
    "page": 53
   },
   {
-   "term": "food miles",
-   "meaning": "The entire distance travelled by a bag of wheat or any other food item, from the producer to the consumer, is known as its food miles.",
+   "term": "Food miles",
+   "meaning": "The entire distance travelled by a bag of wheat or any other food item, from the producer to the consumer, is known as its **food miles**.",
    "page": 54
-  },
-  {
-   "term": "Carbohydrate",
-   "meaning": "",
-   "page": 55
-  },
-  {
-   "term": "Fats",
-   "meaning": "",
-   "page": 55
-  },
-  {
-   "term": "Rickets Food components",
-   "meaning": "",
-   "page": 55
-  },
-  {
-   "term": "Iodized salt",
-   "meaning": "",
-   "page": 55
-  },
-  {
-   "term": "Prediction",
-   "meaning": "",
-   "page": 55
-  },
-  {
-   "term": "Survey",
-   "meaning": "",
-   "page": 55
   }
  ],
  "activities": [
   {
    "label": "Activity 3.1: Let us record",
-   "description": "All of us eat food every day. Food is an essential component of our daily life. List the food items you have consumed over the week in Table 3.1.",
+   "description": "All of us eat food every day. Food is an essential component of our daily life. List the food items you have consumed over the week in Table 3.1. Table 3.1: Food items consumed over a week Day Food items Monday Tuesday Wednesday Thursday Friday Saturday Sunday What observations can you make about your food from the data collected in Table 3.1? Do you eat the same kind of food in every meal or do your choices vary? Compare your list with those prepared by your friends. Find similarities and diffe",
    "page": 35
   },
   {
    "label": "Activity 3.2: Let us explore",
-   "description": "- Find out the types of food traditionally consumed and the crops grown in various states of India. You may refer to books in your library, search the internet, and interact with your friends, family and neighbours to collect information. - In Table 3.2, add more states and fill the collected data. A few examples are already given.",
+   "description": "- Find out the types of food traditionally consumed and the crops grown in various states of India. You may refer to books in your library, search the internet, and interact with your friends, family and neighbours to collect information. - In Table 3.2, add more states and fill the collected data. A few examples are already given. Table 3.2: Some traditional food items in various states of India | | State Locally grown crops | Traditional food items eaten Beverages | | | --- | --- | --- | --- |",
    "page": 36
   },
   {
    "label": "Activity 3.3: Let us interact and find out",
-   "description": "- Prepare a list of questions for gathering information from elderly people about their food habits and cooking practices. Following are some of the sample questions— - What kind of food do you still eat and what is new? - What are the changes in cooking practices over time? - What has caused these changes? - Conduct interviews with some elderly people based on the questions prepared. (a) Chulha (Traditional stove)",
+   "description": "- Prepare a list of questions for gathering information from elderly people about their food habits and cooking practices. Following are some of the sample questions— - What kind of food do you still eat and what is new? - What are the changes in cooking practices over time? - What has caused these changes? - Conduct interviews with some elderly people based on the questions prepared. (a) Chulha (Traditional stove) (b) Modern gas stove (c) Sil-batta (Stone grinder) (d) Electrical grinder Fig. 3.",
    "page": 38
   },
   {
    "label": "Activity 3.4: Let us conduct a survey",
-   "description": "- Study the chart given in Fig. 3.5 to explore the functions and sources of various food components. Find out more sources of vitamins and minerals. Also, understand the symptoms of the diseases caused by the lack of these food components. - Visit your neighbourhood, interact with people and find out if any individual shows the symptoms listed on the chart (an investigatory project of this kind can be taken by the students under the guidance of a teacher).",
+   "description": "- Study the chart given in Fig. 3.5 to explore the functions and sources of various food components. Find out more sources of vitamins and minerals. Also, understand the symptoms of the diseases caused by the lack of these food components. - Visit your neighbourhood, interact with people and find out if any individual shows the symptoms listed on the chart (an investigatory project of this kind can be taken by the students under the guidance of a teacher). - Correlate these symptoms with their d",
    "page": 43
   },
   {
    "label": "Activity 3.5: Let us investigate",
-   "description": "- Take a small quantity of the food items such as a slice of potato, cucumber, bread, some boiled rice, boiled gram, crushed peanuts, oil, butter and crushed coconut. You can take other food items too for testing. Fig. 3.7: Testing for the presence of starch in various food items - Place a small piece of each item on a separate dish. - With the help of a dropper, put 2–3 drops of diluted iodine solution on each food item (Fig. 3.7).",
+   "description": "- Take a small quantity of the food items such as a slice of potato, cucumber, bread, some boiled rice, boiled gram, crushed peanuts, oil, butter and crushed coconut. You can take other food items too for testing. Fig. 3.7: Testing for the presence of starch in various food items - Place a small piece of each item on a separate dish. - With the help of a dropper, put 2–3 drops of diluted iodine solution on each food item (Fig. 3.7). - Observe if there are any changes in the colour of the food it",
    "page": 48
   },
   {
@@ -311,7 +216,7 @@
   },
   {
    "label": "Activity 3.7: Let us investigate",
-   "description": "This activity may be demonstrated by the teacher. - Take the food items tested in previous activities. - Make a paste or powder of the food item using pestle and mortar (Fig. 3.8). - Put about half teaspoon of each food item in a separate clean test tube. Precautions - These chemicals are harmful and need to be handled with care. Do not touch any of these chemicals unless asked to do so. - If any chemical gets spilled on your body, immediately wash the affected area with water.",
+   "description": "This activity may be demonstrated by the teacher. - Take the food items tested in previous activities. - Make a paste or powder of the food item using pestle and mortar (Fig. 3.8). - Put about half teaspoon of each food item in a separate clean test tube. Precautions - These chemicals are harmful and need to be handled with care. Do not touch any of these chemicals unless asked to do so. - If any chemical gets spilled on your body, immediately wash the affected area with water. - Do not put any ",
    "page": 49
   },
   {
@@ -321,7 +226,7 @@
   },
   {
    "label": "Activity 3.9: Let us compare",
-   "description": "Read the nutritional information given below for a packet of potato wafers and a packet of roasted chana shown here. (a) Potato wafers (b) Roasted chana | Nutritional Information (per 100 g) | | | --- | --- | | Energy | 536 kcal (kilocalories) | | Fats | 35.0 g | | Carbohydrates | 53.0 g | | Proteins | 7.0 g | | Dietary Fibre | 4.8 g | | Nutritional Information (per 100 g) | | | | --- | --- | --- |",
+   "description": "Read the nutritional information given below for a packet of potato wafers and a packet of roasted chana shown here. (a) Potato wafers (b) Roasted chana | Nutritional Information (per 100 g) | | | --- | --- | | Energy | 536 kcal (kilocalories) | | Fats | 35.0 g | | Carbohydrates | 53.0 g | | Proteins | 7.0 g | | Dietary Fibre | 4.8 g | | Nutritional Information (per 100 g) | | | | --- | --- | --- | | Energy | 355 kcal (kilocalories) | | | Fats | 6.26 g | | | Carbohydrates | 58.58 g | | | Protein",
    "page": 52
   }
  ],
@@ -348,7 +253,7 @@
   },
   {
    "label": "Fig. 3.5",
-   "caption": "Chart of vitamins and minerals, their functions, some sources,",
+   "caption": "Chart of vitamins and minerals, their functions, some sources, related deficiency disease(s)/disorder(s) and symptoms",
    "page": 44
   },
   {
@@ -380,8 +285,8 @@
  "exercises": [
   {
    "label": "Let us enhance our learning Q1",
-   "text": "1. Pick the odd one out and give reasons:\n\n(i) Jowar, Bajra, Ragi, Chana\n(ii) Kidney beans, Green gram, Soya bean, Rice\n\n<!-- page 57 -->",
-   "type_hint": "long",
+   "text": "1. Pick the odd one out and give reasons:\n\n(i) Jowar, Bajra, Ragi, Chana\n(ii) Kidney beans, Green gram, Soya bean, Rice",
+   "type_hint": "short",
    "page": 56,
    "source": "end"
   },
@@ -402,7 +307,7 @@
   {
    "label": "Let us enhance our learning Q4",
    "text": "4. Not all delicious foods are necessarily healthy, while not all nutritious foods are always enjoyable. Share your thoughts along with a few examples.",
-   "type_hint": "short",
+   "type_hint": "long",
    "page": 57,
    "source": "end"
   },
@@ -423,59 +328,82 @@
   {
    "label": "Let us enhance our learning Q7",
    "text": "7. You are provided the following:\n\n(i) Canned fruit juice\n\n(ii) Fresh fruit juice\n\n(iii) Fresh fruit\n\nWhich one would you prefer and why?",
-   "type_hint": "long",
+   "type_hint": "short",
    "page": 57,
    "source": "end"
   },
   {
    "label": "Let us enhance our learning Q8",
-   "text": "8. Gourav got a fracture in his leg. His doctor aligned the bones and put on a plaster. The doctor also gave him calcium tablets. On the second visit, the doctor gave him Vitamin D syrup along with calcium tablets. Refer to Fig. 3.5 and answer the following questions:\n\n(i) Why did the doctor give calcium tablets to Gourav?\n\n(ii) On the second visit, why did the doctor give Vitamin D\n\nsyrup along with calcium tablets?\n\n(iii) What question arises in your mind about the choices\n\nmade by the doctor in giving the medicines?\n\n<!-- page 58 -->",
-   "type_hint": "long",
+   "text": "8. Gourav got a fracture in his leg. His doctor aligned the bones and put on a plaster. The doctor also gave him calcium tablets. On the second visit, the doctor gave him Vitamin D syrup along with calcium tablets. Refer to Fig. 3.5 and answer the following questions:\n\n(i) Why did the doctor give calcium tablets to Gourav?\n\n(ii) On the second visit, why did the doctor give Vitamin D\n\nsyrup along with calcium tablets?\n\n(iii) What question arises in your mind about the choices\n\nmade by the doctor in giving the medicines?",
+   "type_hint": "short",
    "page": 57,
    "source": "end"
   },
   {
    "label": "Let us enhance our learning Q9",
-   "text": "9. Sugar is an example of carbohydrates. Sugar is tested with iodine solution but it does not change to blue-black colour. What can be a possible reason?\n\n10.What do you think of Raman’s statement, “All starches are carbohydrates but not all carbohydrates are starches.’’ Describe the design of an activity to test your answer.\n\n11.While using iodine in the laboratory, a few drops of iodine fell on Mishti’s socks and a few fell on her teacher’s saree. The drops of iodine on the saree turned blue-black while the colour on the socks did not change. What can be a possible reason?\n\n12.Why are millets considered a healthy choice of food? Can eating just millets suffice for the nutritional requirements of the body? Discuss.\n\n13.You are given a sample of a solution. How would you check the possibility of it being an iodine solution?",
+   "text": "9. Sugar is an example of carbohydrates. Sugar is tested with iodine solution but it does not change to blue-black colour. What can be a possible reason?",
+   "type_hint": "short",
+   "page": 58,
+   "source": "end"
+  },
+  {
+   "label": "Let us enhance our learning Q10",
+   "text": "10.What do you think of Raman’s statement, “All starches are carbohydrates but not all carbohydrates are starches.’’ Describe the design of an activity to test your answer.",
    "type_hint": "long",
+   "page": 58,
+   "source": "end"
+  },
+  {
+   "label": "Let us enhance our learning Q11",
+   "text": "11.While using iodine in the laboratory, a few drops of iodine fell on Mishti’s socks and a few fell on her teacher’s saree. The drops of iodine on the saree turned blue-black while the colour on the socks did not change. What can be a possible reason?",
+   "type_hint": "short",
+   "page": 58,
+   "source": "end"
+  },
+  {
+   "label": "Let us enhance our learning Q12",
+   "text": "12.Why are millets considered a healthy choice of food? Can eating just millets suffice for the nutritional requirements of the body? Discuss.",
+   "type_hint": "long",
+   "page": 58,
+   "source": "end"
+  },
+  {
+   "label": "Let us enhance our learning Q13",
+   "text": "13.You are given a sample of a solution. How would you check the possibility of it being an iodine solution?",
+   "type_hint": "short",
    "page": 58,
    "source": "end"
   }
  ],
  "topics": [
-  "What Do We Eat?",
-  "Food in different regions",
-  "How have cooking practices changed over time?",
-  "What are the Components of Food?",
-  "How to Test Different Components of Food?",
-  "Test for starch",
-  "Test for fats",
-  "Test for proteins",
-  "Balanced Diet",
-  "Millets: Nutrition-rich Cereals",
-  "Food Miles: From Farm to Our Plate",
-  "cultivation",
+  "food diversity in India",
+  "traditional food",
+  "crops and regional food",
   "culinary practices",
-  "Carbohydrates",
-  "fat",
-  "energy-giving foods",
-  "Proteins",
-  "body-building foods",
-  "More to",
-  "food components",
-  "scurvy",
-  "Vitamin C",
-  "iodised salt",
-  "goitre",
+  "carbohydrates",
+  "fats",
+  "proteins",
   "vitamins",
   "minerals",
+  "scurvy",
+  "goitre",
+  "iodised salt",
   "deficiency diseases",
-  "nutrients",
-  "protective nutrients",
-  "roughage"
+  "roughage",
+  "water",
+  "test for starch",
+  "test for fats",
+  "test for proteins",
+  "balanced diet",
+  "junk food",
+  "fortified food",
+  "millets",
+  "food miles",
+  "food wastage",
+  "Coluthur Gopalan"
  ],
  "page_start": 35,
  "page_end": 60,
- "structured_by": "heuristic",
+ "structured_by": "llm:sonnet",
  "warnings": []
 }
