@@ -6,11 +6,11 @@
  "part": 1,
  "chapter_no": 12,
  "title": "Earth, Moon, and the Sun",
- "summary": "- The Earth rotates on its own axis in about 24 hours. - The Earth’s rotation from West to East causes day and night as well as the apparent motion of the Sun, the Moon, and the stars. - The Earth revolves around the Sun and takes nearly 1 year to complete a revolution. - The Earth’s axis of rotation is not upright with respect to the orbit, but is tilted. - Seasons occur because of the tilt of the Earth’s axis of rotation and its spherical shape. - A solar eclipse occurs when the Moon is in the path of the Sun as seen from the Earth, and sunlight is blocked from reaching the Earth. - A lunar eclipse occurs when the Earth comes in between the Sun and the Moon, blocking sunlight from reaching the Moon.",
+ "summary": "The chapter explains that the Sun's apparent daily motion across the sky is caused by the Earth rotating on its axis from West to East once in about 24 hours. This rotation produces day and night and the apparent motion of the Moon and stars around the Pole Star. The Earth also revolves around the Sun in about 365 days and 6 hours, so the night sky changes over the year. Seasons occur because the Earth's axis is tilted and the Earth is spherical, not because of changing distance from the Sun. Solstices and equinoxes are explained, along with polar and equatorial day lengths. A solar eclipse happens when the Moon blocks the Sun, and a lunar eclipse when the Earth's shadow falls on the Moon. Safe ways to view a solar eclipse are described.",
  "sections": [
   {
    "section_id": "7-sci-12-s01",
-   "heading": "Chapter 12: Earth, Moon, and the Sun",
+   "heading": "Introduction: Earth, Moon, and the Sun",
    "text": "# Chapter 12: Earth, Moon, and the Sun\n\n<!-- page 169 -->\n\n## the Sun 12 , , the Sun 12\n\n## Earth, Moon, and\n\nOne morning in Kanniyakumari, Tamil Nadu, 12-year-old Rashmika was eagerly cycling to school. She was excited. That was the day her science teacher had dedicated a class for students to share and try to explain interesting observations.\n\nRashmika had been noticing that the coconut tree shadows were long in the morning but shorter in the afternoon on her way back. She thought about it and decided that the size of the shadows changed because the Sun moved across the sky during the day. But she also remembered learning that the Earth moved around the Sun (in chapter ‘Beyond Earth’ in the Grade 6 Science textbook Curiosity) so she was puzzled. She wondered — does the Sun move in the sky? Or does the Earth move?\n\n<!-- page 170 -->",
    "page_start": 169,
    "page_end": 170
@@ -45,7 +45,7 @@
   },
   {
    "section_id": "7-sci-12-s06",
-   "heading": "12.3 Eclipses p",
+   "heading": "12.3 Eclipses",
    "text": "#### 12.3 Eclipses p\n\nDay and night cycle, seasons, the life on the Earth... so much is dependent upon the Sun. Could the light from the Sun get blocked by the two planets which are revolving between the Earth and the Sun?\n\nThe planets Mercury and Venus appear very small compared to the Sun, and never block the entire light from the Sun reaching us. However, you may be surprised to know that the Moon can do that. Do you remember studying in Grade 6 that the Moon is a natural satellite of the Earth and it revolves around the Earth as the Earth revolves around the Sun?\n\n<!-- page 180 -->",
    "page_start": 179,
    "page_end": 180
@@ -60,47 +60,51 @@
   {
    "section_id": "7-sci-12-s08",
    "heading": "12.3.2 Lunar eclipse",
-   "text": "#### 12.3.2 Lunar eclipse\n\nAs the Moon revolves around the Earth, sometimes the Earth can block the sunlight from reaching the Moon. This is known as a **lunar eclipse**. On such days, we see the Earth’s shadow falling on the full disc of the Moon. Fig. 12.16 shows the arrangement of the Sun, the Earth, and the Moon during a lunar eclipse.\n\n<!-- page 183 -->\n\nEarth’s orbit\n\n> Partial lunar\n\n> eclipse\n\n> Moon Total lunar eclipse\n\nEarth\n\n> Partial lunar\n\n> eclipse\n\nSun Moon’s orbit\n\nFig. 12.16: Geometry of lunar eclipse (The sizes and distances are not to scale in the figure)\n\nWhen the Moon is completely in the Earth’s shadow, it is called a **total lunar eclipse**. The bright disc of the Moon starts to appear dark red in colour and stays that way until the Moon moves out of the shadow of the Earth. When part of the Moon is in the Earth’s shadow and the rest of the Moon is visible, it is called a **partial lunar eclipse**. Unlike the Sun, we can safely watch the eclipsed full Moon with our naked eye.\n\n#### SCIENCE AND SOCIETY\n\nUsing the computer version of Stellarium app, which is free, you may get information about the upcoming solar and lunar eclipses (if any) which may be visible from your location.\n\n> y\n\n> )\n\n#### FASCINATING FACTS\n\nThe Kodaikanal Solar Observatory is located in the beautiful Palani range of hills in southern India. It was established in 1899 and has provided data about the Sun for over 100 years. It is operated by the Indian Institute of Astrophysics (IIA), Bengaluru.\n\nh e p o b A\n\n<!-- page 184 -->\n\n#### KNOW A SCIENTIST\n\nM.K. Vainu Bappu is known as the father of modern Indian astronomy. He led efforts in setting up many instruments and telescopes in India, such as the telescopes at Manora Peak near Nainital (Uttarakhand) and Kavalur (Tamil Nadu). The observatory at Kavalur has been named after him. He mainly studied stars and even discovered a comet. He also travelled to different parts of the world to study solar eclipses.",
+   "text": "#### 12.3.2 Lunar eclipse\n\nAs the Moon revolves around the Earth, sometimes the Earth can block the sunlight from reaching the Moon. This is known as a **lunar eclipse**. On such days, we see the Earth’s shadow falling on the full disc of the Moon. Fig. 12.16 shows the arrangement of the Sun, the Earth, and the Moon during a lunar eclipse.\n\n<!-- page 183 -->\n\nEarth’s orbit\n\n> Partial lunar\n\n> eclipse\n\n> Moon Total lunar eclipse\n\nEarth\n\n> Partial lunar\n\n> eclipse\n\nSun Moon’s orbit\n\nFig. 12.16: Geometry of lunar eclipse (The sizes and distances are not to scale in the figure)\n\nWhen the Moon is completely in the Earth’s shadow, it is called a **total lunar eclipse**. The bright disc of the Moon starts to appear dark red in colour and stays that way until the Moon moves out of the shadow of the Earth. When part of the Moon is in the Earth’s shadow and the rest of the Moon is visible, it is called a **partial lunar eclipse**. Unlike the Sun, we can safely watch the eclipsed full Moon with our naked eye.\n\n#### SCIENCE AND SOCIETY\n\nUsing the computer version of Stellarium app, which is free, you may get information about the upcoming solar and lunar eclipses (if any) which may be visible from your location.\n\n> y\n\n> )\n\n#### FASCINATING FACTS\n\nThe Kodaikanal Solar Observatory is located in the beautiful Palani range of hills in southern India. It was established in 1899 and has provided data about the Sun for over 100 years. It is operated by the Indian Institute of Astrophysics (IIA), Bengaluru.\n\nh e p o b A\n\n<!-- page 184 -->",
    "page_start": 182,
    "page_end": 184
   },
   {
    "section_id": "7-sci-12-s09",
+   "heading": "Know a Scientist",
+   "text": "#### KNOW A SCIENTIST\n\nM.K. Vainu Bappu is known as the father of modern Indian astronomy. He led efforts in setting up many instruments and telescopes in India, such as the telescopes at Manora Peak near Nainital (Uttarakhand) and Kavalur (Tamil Nadu). The observatory at Kavalur has been named after him. He mainly studied stars and even discovered a comet. He also travelled to different parts of the world to study solar eclipses.",
+   "page_start": 184,
+   "page_end": 184
+  },
+  {
+   "section_id": "7-sci-12-s10",
    "heading": "In a Nutshell",
    "text": "#### In a Nutshell\n\n- The Earth rotates on its own axis in about 24 hours.\n- The Earth’s rotation from West to East causes day and night\n\nas well as the apparent motion of the Sun, the Moon, and the stars.\n- The Earth revolves around the Sun and takes nearly 1 year\n\nto complete a revolution.\n- The Earth’s axis of rotation is not upright with respect to the\n\norbit, but is tilted.\n- Seasons occur because of the tilt of the Earth’s axis of rotation\n\nand its spherical shape.\n- A solar eclipse occurs when the Moon is in the path of the\n\nSun as seen from the Earth, and sunlight is blocked from reaching the Earth.\n- A lunar eclipse occurs when the Earth comes in between\n\nthe Sun and the Moon, blocking sunlight from reaching the Moon.",
    "page_start": 184,
    "page_end": 184
   },
   {
-   "section_id": "7-sci-12-s10",
+   "section_id": "7-sci-12-s11",
    "heading": "Let Us Enhance Our Learning",
    "text": "#### Let Us Enhance Our Learning\n\n> NP\n\n1. In Fig. 12.17, how many hours of sunlight do the North Pole and the South Pole receive during one rotation of the Earth?\n\n2. Fill in the blanks\n\n(i) Stars rise in the _________ and set in the ___________.\n\n(ii) Day and night are caused by the Earth’s __________________.\n\n> SP Fig. 12.17\n\n(iii) When the Moon fully covers the Sun from our view, it is\n\ncalled a _____________ solar eclipse.\n\n<!-- page 185 -->\n\n3. State whether True or False\n\n(i) Lunar eclipse occurs when the Sun comes between the\n\nEarth and the Moon.\n(ii) Sunrise happens earlier in Gujarat than in Jharkhand.\n(iii) In Chennai, the longest day occurs on the summer solstice.\n\n> ENQUIRY\n\n> ?\n\n(iv) We should watch the solar eclipse directly with our naked\n\neye.\n(v) Seasons occur due to the tilt of Earth’s axis of rotation\n\n> WHY\n\n> WHAT IF\n\nand its spherical shape.\n(vi) The Earth’s revolution around the Sun causes day and\n\n> W\n\n> WHERE\n\n> H E N\n\nnight.\n4. Padmashree saw the Orion constellation nearly overhead at 8 pm yesterday. When will she see Orion overhead today?\n\n> H O W\n\n> WHAT COULD CAN\n\n> L O N G\n\n> IT ?\n\n5. Nandhini saw a group of stars rising at midnight on 21 June. When will she see the same group of stars rising at midnight next year?\n\n> W\n\n> H\n\n> I C H\n\n> WHOSE\n\n> ELSE\n\n> W HAT\n\n6. Abhay noticed that when it was daytime in India, his uncle who was in the USA was generally sleeping as it was night-time there. What is the reason behind this difference?\n\n> WHAT WILL\n\n> HAPPEN\n\n> WHAT SHOULD\n\n> WHY\n\n> NOT\n\n7. Four friends used the following ways to see the solar eclipse. Who among them was being careless?\n\n(i) Ravikiran used a solar eclipse goggle.\n\n(ii) Jyothi used a mirror to project the Sun’s image.\n\n(iii) Adithya saw the Sun directly with his eyes.\n\n> INNOVATION\n\n(iv) Aruna attended a programme arranged by a planetarium.\n\n8. Fill in the circles in Fig. 12.18 appropriately with one of the following: Sun, Moon, Earth.\n\n> DISCOVERY\n\nSolar eclipse\n\n> ENQUIRY\n\n> EXPLORATION\n\nSun\n\n> CURIOSITY\n\nLunar eclipse\n\nMoon\n\nFig. 12.18\n\n<!-- page 186 -->\n\n9. The Moon is much smaller than the Sun, yet it can block the Sun completely from our view during a total solar eclipse. Why is it possible?\n\n10. The Indian cricket team matches in Australia are often held in December. Should they pack winter or summer clothes for their trip?\n\n11. Why do you think lunar eclipses can be seen from a large part of the Earth when they happen, but total solar eclipse can be seen by only a small part of the Earth?\n\n12. If the Earth’s axis were not tilted with respect to the axis of revolution, explain what would be the effect on seasons?\n\n> Disciplinary Inter",
    "page_start": 184,
    "page_end": 186
   },
   {
-   "section_id": "7-sci-12-s11",
+   "section_id": "7-sci-12-s12",
    "heading": "Exploratory Projects",
-   "text": "#### Exploratory Projects\n\n- Repeat Activity 12.2 but replace the torch with an electric\n\nlamp. Then place the globe at different positions on a circle around the lamp while maintaining the tilt of the globe.\n\n> History\n\n> Art\n\n(i) Note down your observations regarding how much of\n\nthe Northern and Southern hemispheres of the globe are illuminated at different positions.\n(ii) Rotate the globe and take a note of the length of the day\n\n> Geography\n\n> ty Societ\n\nand night on different parts of the globe.\n(iii) Repeat (ii) for different positions of globe on the circle.\n\n- The Earth goes around the Sun in an oval-shaped path.\n\n> Technology\n\n> omy Econo\n\nDraw two circles with the same centre, one with a radius of 14.7 cm, and another one with a radius of 15.2 cm. If 1 cm corresponds to 10 million km, the two circles represent the closest and farthest distances from the Sun. Note how small is the difference between these two distances.\n\n- Suppose the tilt of the Earth’s axis of rotation increases. Will\n\nit cause more extreme seasons? Find out if the tilt of Uranus is more than the Earth and about the seasons there. Write an interesting article for a newspaper or your school magazine about it.\n\n> DIVE EEPER DIVE EEPER\n\nIn reality, the planets move around a special point in the solar system, which is very close to the Sun but not exactly at its centre! The Sun also moves around the same point a little instead of staying perfectly still. Scientists use such tiny wobbles in the movement of other stars to discover exoplanets around them!\n\n<!-- page 187 -->\n\n#### It's Still Not the End, My Friend! y\n\nAnd once again, we’ve reached the last page of this book, and as we said earlier, it is certainly not the end of our curiosity — our jigyasa. We hope you’ve enjoyed the activities and experiments as you journeyed through the chapters. More importantly, we hope you asked a lot of questions! Now it is our time to ask you one.\n\nHave you looked closely at the front and back covers of this science textbook? At first, they may just look like regular scenes from a playground or a running track, but if you observe carefully, you’ll find tiny hidden science clues connected to different chapters in the book! Take a closer look — maybe you will spot something related to what we discussed about motion or light, or maybe even about plants and animals?\n\nChallenge yourself to find as many science links with the chapters as you can (we think there are more than 25!). And who knows — you might find connections that the authors and illustrators hadn’t even thought about! That is exactly how discoveries in science were made — by someone just observing something new, something unusual in the world around them.\n\nThis textbook is just a small guide, a map to find our way around the different paths of science. Never stop asking questions, and remember, your curiosity is the spark that lights the flame of exploration that will take you to incredible heights. And we’ll join you again, next year, for more adventures in science.\n\n<!-- page 188 -->\n\n### Notes",
+   "text": "#### Exploratory Projects\n\n- Repeat Activity 12.2 but replace the torch with an electric\n\nlamp. Then place the globe at different positions on a circle around the lamp while maintaining the tilt of the globe.\n\n> History\n\n> Art\n\n(i) Note down your observations regarding how much of\n\nthe Northern and Southern hemispheres of the globe are illuminated at different positions.\n(ii) Rotate the globe and take a note of the length of the day\n\n> Geography\n\n> ty Societ\n\nand night on different parts of the globe.\n(iii) Repeat (ii) for different positions of globe on the circle.\n\n- The Earth goes around the Sun in an oval-shaped path.\n\n> Technology\n\n> omy Econo\n\nDraw two circles with the same centre, one with a radius of 14.7 cm, and another one with a radius of 15.2 cm. If 1 cm corresponds to 10 million km, the two circles represent the closest and farthest distances from the Sun. Note how small is the difference between these two distances.\n\n- Suppose the tilt of the Earth’s axis of rotation increases. Will\n\nit cause more extreme seasons? Find out if the tilt of Uranus is more than the Earth and about the seasons there. Write an interesting article for a newspaper or your school magazine about it.\n\n> DIVE EEPER DIVE EEPER\n\nIn reality, the planets move around a special point in the solar system, which is very close to the Sun but not exactly at its centre! The Sun also moves around the same point a little instead of staying perfectly still. Scientists use such tiny wobbles in the movement of other stars to discover exoplanets around them!\n\n<!-- page 187 -->",
    "page_start": 186,
+   "page_end": 187
+  },
+  {
+   "section_id": "7-sci-12-s13",
+   "heading": "It's Still Not the End, My Friend!",
+   "text": "#### It's Still Not the End, My Friend! y\n\nAnd once again, we’ve reached the last page of this book, and as we said earlier, it is certainly not the end of our curiosity — our jigyasa. We hope you’ve enjoyed the activities and experiments as you journeyed through the chapters. More importantly, we hope you asked a lot of questions! Now it is our time to ask you one.\n\nHave you looked closely at the front and back covers of this science textbook? At first, they may just look like regular scenes from a playground or a running track, but if you observe carefully, you’ll find tiny hidden science clues connected to different chapters in the book! Take a closer look — maybe you will spot something related to what we discussed about motion or light, or maybe even about plants and animals?\n\nChallenge yourself to find as many science links with the chapters as you can (we think there are more than 25!). And who knows — you might find connections that the authors and illustrators hadn’t even thought about! That is exactly how discoveries in science were made — by someone just observing something new, something unusual in the world around them.\n\nThis textbook is just a small guide, a map to find our way around the different paths of science. Never stop asking questions, and remember, your curiosity is the spark that lights the flame of exploration that will take you to incredible heights. And we’ll join you again, next year, for more adventures in science.\n\n<!-- page 188 -->\n\n### Notes",
+   "page_start": 187,
    "page_end": 188
   }
  ],
  "key_terms": [
   {
-   "term": "rotates",
-   "meaning": "In a similar manner, the Earth also spins (or rotates) on its own axis in space as shown in Fig.",
+   "term": "Rotation",
+   "meaning": "Rotation is the motion of an object in which all its parts move in circles around an imaginary line that passes through it.",
    "page": 171
-  },
-  {
-   "term": "one rotation",
-   "meaning": "The Earth completes one rotation in about 24 hours.",
-   "page": 171
-  },
-  {
-   "term": "notice",
-   "meaning": "Do you notice how half of the globe receives the light from the torch, while the other half stays dark?",
-   "page": 172
   },
   {
    "term": "Revolution",
@@ -108,65 +112,40 @@
    "page": 175
   },
   {
-   "term": "orbit",
-   "meaning": "The path an object takes while revolving around another object is called its orbit.",
+   "term": "Orbit",
+   "meaning": "The path an object takes while revolving around another object is called its **orbit**.",
    "page": 176
   },
   {
-   "term": "one revolution",
-   "meaning": "The Earth completes one revolution around the Sun in about 365 days and 6 hours.",
-   "page": 176
-  },
-  {
-   "term": "solar eclipse",
-   "meaning": "This is known as a solar eclipse.",
+   "term": "Solar eclipse",
+   "meaning": "At certain times, the Moon can come in between the Sun and the Earth in a way that obstructs the light from the Sun from reaching us.",
    "page": 180
   },
   {
-   "term": "apparent size",
-   "meaning": "The size of any object as seen by your eye — also known as apparent size — depends upon both its actual physical size and its distance from you.",
+   "term": "Apparent size",
+   "meaning": "The size of any object as seen by your eye — also known as **apparent size** — depends upon both its actual physical size and its distance from you.",
    "page": 180
   },
   {
-   "term": "total solar eclipse",
-   "meaning": "The observers in this area witness a total solar eclipse (Fig.",
-   "page": 180
-  },
-  {
-   "term": "partial solar eclipse",
-   "meaning": "In areas where the Moon partially blocks out only some regions of the Sun, the observers see a partial solar eclipse (Fig.",
-   "page": 181
-  },
-  {
-   "term": "Caution",
-   "meaning": "Caution— During a solar eclipse, one might be tempted to look at the Sun, thinking that it wouldn’t be strong enough to cause harm to our eyes.",
-   "page": 181
-  },
-  {
-   "term": "Participating",
-   "meaning": "Participating in such events is the best way to observe a solar eclipse since the organisers not only provide specialised eye protection for solar viewing, but also off er scientific explanations.",
-   "page": 181
-  },
-  {
-   "term": "lunar eclipse",
-   "meaning": "This is known as a lunar eclipse.",
+   "term": "Lunar eclipse",
+   "meaning": "As the Moon revolves around the Earth, sometimes the Earth can block the sunlight from reaching the Moon.",
    "page": 182
   },
   {
-   "term": "total lunar eclipse",
-   "meaning": "When the Moon is completely in the Earth’s shadow, it is called a total lunar eclipse.",
+   "term": "Total lunar eclipse",
+   "meaning": "When the Moon is completely in the Earth’s shadow, it is called a **total lunar eclipse**.",
    "page": 183
   },
   {
-   "term": "partial lunar eclipse",
-   "meaning": "When part of the Moon is in the Earth’s shadow and the rest of the Moon is visible, it is called a partial lunar eclipse.",
-   "page": 183
+   "term": "Summer solstice",
+   "meaning": "In the Northern Hemisphere, the longest day occurs around 21 June—this is known as summer solstice.",
+   "page": 179
   }
  ],
  "activities": [
   {
    "label": "Activity 12.1: Let us explore",
-   "description": "- Sit on a merry-go-round facing towards the outer side as shown in Fig. 12.1. - Ask someone to turn the merry-go- round slowly in the anti-clockwise direction as shown in Fig. 12.1. While you are sitting on the moving merry-go-round, look around you. Do the objects around you appear to be moving? In which direction do they appear to be moving? While you turn in the anti-clockwise direction, the objects appear to turn around you in the opposite direction, that is, in the clockwise direction.",
+   "description": "- Sit on a merry-go-round facing towards the outer side as shown in Fig. 12.1. - Ask someone to turn the merry-go- round slowly in the anti-clockwise direction as shown in Fig. 12.1. While you are sitting on the moving merry-go-round, look around you. Do the objects around you appear to be moving? In which direction do they appear to be moving? While you turn in the anti-clockwise direction, the objects appear to turn around you in the opposite direction, that is, in the clockwise direction. - N",
    "page": 170
   },
   {
@@ -188,7 +167,7 @@
  "figures": [
   {
    "label": "Fig. 12.1",
-   "caption": "A girl observing objects around",
+   "caption": "A girl observing objects around her while riding a merry-go-round",
    "page": 170
   },
   {
@@ -202,8 +181,13 @@
    "page": 171
   },
   {
-   "label": "Fig. 12.4",
-   "caption": "(b): Using a globe and a torchlight to",
+   "label": "Fig. 12.4(a)",
+   "caption": "Using a globe to understand rotation of the Earth",
+   "page": 171
+  },
+  {
+   "label": "Fig. 12.4(b)",
+   "caption": "Using a globe and a torchlight to understand day and night",
    "page": 172
   },
   {
@@ -218,27 +202,27 @@
   },
   {
    "label": "Fig. 12.7",
-   "caption": "Illustrative sketch of Big Dipper (for activity 12.3)",
+   "caption": "Illustrative sketch of Big Dipper (for activity 12.3) by a student located in Pune on the night of 1–2 April",
    "page": 174
   },
   {
    "label": "Fig. 12.8",
-   "caption": "Revolution of the Earth around the Sun leads to",
+   "caption": "Revolution of the Earth around the Sun leads to changing view of the night sky throughout the year",
    "page": 176
   },
   {
    "label": "Fig. 12.9",
-   "caption": "Different positions of the Earth while revolving around the Sun (The Earth’s orbit appears elongated because this is a side view and not the",
+   "caption": "Different positions of the Earth while revolving around the Sun",
    "page": 177
   },
   {
    "label": "Fig. 12.10",
-   "caption": "(a) More intense sunlight in the Northern Hemisphere and less intense sunlight",
+   "caption": "(a) More intense sunlight in the Northern Hemisphere and less intense sunlight in the Southern Hemisphere in June (b) The opposite situation happens in December.",
    "page": 178
   },
   {
    "label": "Fig. 12.11",
-   "caption": "In the Northern Hemisphere (a) Longer daytime in June",
+   "caption": "In the Northern Hemisphere (a) Longer daytime in June (b) Shorter daytime in December",
    "page": 178
   },
   {
@@ -247,18 +231,13 @@
    "page": 180
   },
   {
-   "label": "Fig. 12",
-   "caption": "12: Trying to cover a",
-   "page": 180
-  },
-  {
    "label": "Fig. 12.13",
-   "caption": "shows the arrangement of the Sun, the Moon, and the Earth during a solar eclipse. The shadow of the Moon falls on a small area on the surface of the Earth as seen in Fig. 12.13. This area is in total darkness, and no part of the Sun can be seen from there. The observers in this area witness a total ",
-   "page": 180
+   "caption": "Geometry of solar eclipse (The sizes and distances are not to scale)",
+   "page": 181
   },
   {
    "label": "Fig. 12.14",
-   "caption": "Solar eclipse",
+   "caption": "Solar eclipse: (a) Total (b) Partial (c) A 'diamond ring'",
    "page": 181
   },
   {
@@ -272,123 +251,128 @@
    "page": 183
   },
   {
+   "label": "Fig. 12.17",
+   "caption": "Earth with North Pole and South Pole for Q1",
+   "page": 184
+  },
+  {
    "label": "Fig. 12.18",
-   "caption": "",
+   "caption": "Fill in Sun, Moon, Earth for solar and lunar eclipse",
    "page": 185
   }
  ],
  "exercises": [
   {
-   "label": "Let Us Enhance Our Learning Q1",
-   "text": "> NP\n1. In Fig. 12.17, how many hours of sunlight do the North Pole and the South Pole receive during one rotation of the Earth?",
-   "type_hint": "numerical",
+   "label": "Let us enhance our learning Q1",
+   "text": "1. In Fig. 12.17, how many hours of sunlight do the North Pole and the South Pole receive during one rotation of the Earth?",
+   "type_hint": "short",
    "page": 184,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q2",
-   "text": "2. Fill in the blanks\n\n(i) Stars rise in the _________ and set in the ___________.\n\n(ii) Day and night are caused by the Earth’s __________________.\n\n> SP Fig. 12.17\n\n(iii) When the Moon fully covers the Sun from our view, it is\n\ncalled a _____________ solar eclipse.\n\n<!-- page 185 -->",
+   "label": "Let us enhance our learning Q2",
+   "text": "2. Fill in the blanks\n\n(i) Stars rise in the _________ and set in the ___________.\n\n(ii) Day and night are caused by the Earth’s __________________.\n\n> SP Fig. 12.17\n\n(iii) When the Moon fully covers the Sun from our view, it is\n\ncalled a _____________ solar eclipse.",
    "type_hint": "fill_blank",
    "page": 184,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q3",
+   "label": "Let us enhance our learning Q3",
    "text": "3. State whether True or False\n\n(i) Lunar eclipse occurs when the Sun comes between the\n\nEarth and the Moon.\n(ii) Sunrise happens earlier in Gujarat than in Jharkhand.\n(iii) In Chennai, the longest day occurs on the summer solstice.\n\n> ENQUIRY\n\n> ?\n\n(iv) We should watch the solar eclipse directly with our naked\n\neye.\n(v) Seasons occur due to the tilt of Earth’s axis of rotation\n\n> WHY\n\n> WHAT IF\n\nand its spherical shape.\n(vi) The Earth’s revolution around the Sun causes day and\n\n> W\n\n> WHERE\n\n> H E N\n\nnight.",
    "type_hint": "true_false",
    "page": 185,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q4",
-   "text": "4. Padmashree saw the Orion constellation nearly overhead at 8 pm yesterday. When will she see Orion overhead today?\n\n> H O W\n\n> WHAT COULD CAN\n\n> L O N G\n\n> IT ?",
+   "label": "Let us enhance our learning Q4",
+   "text": "4. Padmashree saw the Orion constellation nearly overhead at 8 pm yesterday. When will she see Orion overhead today?",
    "type_hint": "short",
    "page": 185,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q5",
-   "text": "5. Nandhini saw a group of stars rising at midnight on 21 June. When will she see the same group of stars rising at midnight next year?\n\n> W\n\n> H\n\n> I C H\n\n> WHOSE\n\n> ELSE\n\n> W HAT",
+   "label": "Let us enhance our learning Q5",
+   "text": "5. Nandhini saw a group of stars rising at midnight on 21 June. When will she see the same group of stars rising at midnight next year?",
    "type_hint": "short",
    "page": 185,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q6",
-   "text": "6. Abhay noticed that when it was daytime in India, his uncle who was in the USA was generally sleeping as it was night-time there. What is the reason behind this difference?\n\n> WHAT WILL\n\n> HAPPEN\n\n> WHAT SHOULD\n\n> WHY\n\n> NOT",
-   "type_hint": "long",
+   "label": "Let us enhance our learning Q6",
+   "text": "6. Abhay noticed that when it was daytime in India, his uncle who was in the USA was generally sleeping as it was night-time there. What is the reason behind this difference?",
+   "type_hint": "short",
    "page": 185,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q7",
+   "label": "Let us enhance our learning Q7",
    "text": "7. Four friends used the following ways to see the solar eclipse. Who among them was being careless?\n\n(i) Ravikiran used a solar eclipse goggle.\n\n(ii) Jyothi used a mirror to project the Sun’s image.\n\n(iii) Adithya saw the Sun directly with his eyes.\n\n> INNOVATION\n\n(iv) Aruna attended a programme arranged by a planetarium.",
    "type_hint": "short",
    "page": 185,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q8",
-   "text": "8. Fill in the circles in Fig. 12.18 appropriately with one of the following: Sun, Moon, Earth.\n\n> DISCOVERY\n\nSolar eclipse\n\n> ENQUIRY\n\n> EXPLORATION\n\nSun\n\n> CURIOSITY\n\nLunar eclipse\n\nMoon\n\nFig. 12.18\n\n<!-- page 186 -->",
-   "type_hint": "fill_blank",
+   "label": "Let us enhance our learning Q8",
+   "text": "8. Fill in the circles in Fig. 12.18 appropriately with one of the following: Sun, Moon, Earth.\n\n> DISCOVERY\n\nSolar eclipse\n\n> ENQUIRY\n\n> EXPLORATION\n\nSun\n\n> CURIOSITY\n\nLunar eclipse\n\nMoon\n\nFig. 12.18",
+   "type_hint": "diagram",
    "page": 185,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q9",
+   "label": "Let us enhance our learning Q9",
    "text": "9. The Moon is much smaller than the Sun, yet it can block the Sun completely from our view during a total solar eclipse. Why is it possible?",
-   "type_hint": "long",
+   "type_hint": "short",
    "page": 186,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q10",
+   "label": "Let us enhance our learning Q10",
    "text": "10. The Indian cricket team matches in Australia are often held in December. Should they pack winter or summer clothes for their trip?",
    "type_hint": "short",
    "page": 186,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q11",
+   "label": "Let us enhance our learning Q11",
    "text": "11. Why do you think lunar eclipses can be seen from a large part of the Earth when they happen, but total solar eclipse can be seen by only a small part of the Earth?",
-   "type_hint": "long",
+   "type_hint": "short",
    "page": 186,
    "source": "end"
   },
   {
-   "label": "Let Us Enhance Our Learning Q12",
-   "text": "12. If the Earth’s axis were not tilted with respect to the axis of revolution, explain what would be the effect on seasons?\n\n> Disciplinary Inter",
-   "type_hint": "long",
+   "label": "Let us enhance our learning Q12",
+   "text": "12. If the Earth’s axis were not tilted with respect to the axis of revolution, explain what would be the effect on seasons?",
+   "type_hint": "short",
    "page": 186,
    "source": "end"
   }
  ],
  "topics": [
-  "Rotation of the Earth",
-  "Revolution of the Earth",
-  "Changing view of night sky from the Earth",
-  "Seasons on the Earth",
-  "Eclipses",
-  "Solar eclipse",
-  "Lunar eclipse",
-  "rotates",
-  "one rotation",
-  "notice",
-  "Revolution",
+  "rotation of the Earth",
+  "axis of rotation",
+  "day and night",
+  "apparent motion of the Sun",
+  "Pole Star",
+  "Big Dipper",
+  "star trails",
+  "Foucault pendulum",
+  "Aryabhata",
+  "revolution",
   "orbit",
-  "one revolution",
+  "changing night sky",
+  "seasons",
+  "tilt of Earth's axis",
+  "solstice",
+  "equinox",
+  "polar day and night",
   "solar eclipse",
   "apparent size",
-  "total solar eclipse",
-  "partial solar eclipse",
-  "Caution",
-  "Participating",
+  "safe viewing of eclipse",
   "lunar eclipse",
-  "total lunar eclipse",
-  "partial lunar eclipse"
+  "Vainu Bappu"
  ],
  "page_start": 169,
  "page_end": 188,
- "structured_by": "heuristic",
+ "structured_by": "llm:sonnet",
  "warnings": []
 }

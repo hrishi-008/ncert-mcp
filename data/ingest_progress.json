@@ -2,12 +2,12 @@
  "stage": "structure",
  "vision_done": 25,
  "vision_total": 25,
- "last": "7-sci-09",
- "updated_at": "2026-10-17T19:09:29",
+ "last": "7-math-02",
+ "updated_at": "2026-10-17T19:11:00",
  "usage": {
-  "five_hour": 0.48,
+  "five_hour": 0.5,
   "seven_day": 0.33
  },
- "structure_done": 45,
+ "structure_done": 50,
  "structure_total": 83
 }
