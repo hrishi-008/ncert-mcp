@@ -1,11 +1,11 @@
 {
  "stage": "vision",
- "vision_done": 12,
+ "vision_done": 13,
  "vision_total": 25,
- "last": "7-math-02",
- "updated_at": "2026-10-17T16:30:19",
+ "last": "7-math-03",
+ "updated_at": "2026-10-17T16:33:16",
  "usage": {
-  "five_hour": 0.69,
-  "seven_day": 0.23
+  "five_hour": 0.75,
+  "seven_day": 0.24
  }
 }

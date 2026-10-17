@@ -1,0 +1,467 @@
+{
+ "chapter_id": "7-math-03",
+ "model": "backend=claude-cli model=sonnet",
+ "pages": [
+  {
+   "page": 46,
+   "plain_words": 134,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 47,
+   "plain_words": 124,
+   "missing": 3,
+   "missing_ratio": 0.024,
+   "sample": [
+    "peek",
+    "beyond",
+    "point"
+   ]
+  },
+  {
+   "page": 48,
+   "plain_words": 50,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 49,
+   "plain_words": 87,
+   "missing": 3,
+   "missing_ratio": 0.034,
+   "sample": [
+    "peek",
+    "beyond",
+    "point"
+   ]
+  },
+  {
+   "page": 50,
+   "plain_words": 103,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 51,
+   "plain_words": 86,
+   "missing": 4,
+   "missing_ratio": 0.047,
+   "sample": [
+    "peek",
+    "beyond",
+    "point",
+    "headthorax"
+   ]
+  },
+  {
+   "page": 52,
+   "plain_words": 104,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 53,
+   "plain_words": 124,
+   "missing": 3,
+   "missing_ratio": 0.024,
+   "sample": [
+    "peek",
+    "beyond",
+    "point"
+   ]
+  },
+  {
+   "page": 54,
+   "plain_words": 73,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 55,
+   "plain_words": 18,
+   "missing": 3,
+   "missing_ratio": 0.167,
+   "sample": [
+    "peek",
+    "beyond",
+    "point"
+   ]
+  },
+  {
+   "page": 56,
+   "plain_words": 20,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 57,
+   "plain_words": 53,
+   "missing": 4,
+   "missing_ratio": 0.075,
+   "sample": [
+    "peek",
+    "beyond",
+    "the",
+    "point"
+   ]
+  },
+  {
+   "page": 58,
+   "plain_words": 79,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 59,
+   "plain_words": 173,
+   "missing": 3,
+   "missing_ratio": 0.017,
+   "sample": [
+    "peek",
+    "beyond",
+    "point"
+   ]
+  },
+  {
+   "page": 60,
+   "plain_words": 41,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 61,
+   "plain_words": 173,
+   "missing": 3,
+   "missing_ratio": 0.017,
+   "sample": [
+    "peek",
+    "beyond",
+    "point"
+   ]
+  },
+  {
+   "page": 62,
+   "plain_words": 75,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 63,
+   "plain_words": 147,
+   "missing": 3,
+   "missing_ratio": 0.02,
+   "sample": [
+    "peek",
+    "beyond",
+    "point"
+   ]
+  },
+  {
+   "page": 64,
+   "plain_words": 46,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 65,
+   "plain_words": 101,
+   "missing": 3,
+   "missing_ratio": 0.03,
+   "sample": [
+    "peek",
+    "beyond",
+    "point"
+   ]
+  },
+  {
+   "page": 66,
+   "plain_words": 30,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 67,
+   "plain_words": 103,
+   "missing": 4,
+   "missing_ratio": 0.039,
+   "sample": [
+    "peek",
+    "beyond",
+    "the",
+    "point"
+   ]
+  },
+  {
+   "page": 68,
+   "plain_words": 104,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 69,
+   "plain_words": 80,
+   "missing": 4,
+   "missing_ratio": 0.05,
+   "sample": [
+    "peek",
+    "beyond",
+    "the",
+    "point"
+   ]
+  },
+  {
+   "page": 70,
+   "plain_words": 114,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 71,
+   "plain_words": 102,
+   "missing": 2,
+   "missing_ratio": 0.02,
+   "sample": [
+    "peek",
+    "beyond"
+   ]
+  },
+  {
+   "page": 72,
+   "plain_words": 84,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 73,
+   "plain_words": 142,
+   "missing": 3,
+   "missing_ratio": 0.021,
+   "sample": [
+    "peek",
+    "beyond",
+    "the"
+   ]
+  },
+  {
+   "page": 74,
+   "plain_words": 107,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 75,
+   "plain_words": 57,
+   "missing": 3,
+   "missing_ratio": 0.053,
+   "sample": [
+    "peek",
+    "beyond",
+    "point"
+   ]
+  },
+  {
+   "page": 76,
+   "plain_words": 202,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 77,
+   "plain_words": 204,
+   "missing": 3,
+   "missing_ratio": 0.015,
+   "sample": [
+    "peek",
+    "beyond",
+    "point"
+   ]
+  },
+  {
+   "page": 78,
+   "plain_words": 222,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 79,
+   "plain_words": 152,
+   "missing": 2,
+   "missing_ratio": 0.013,
+   "sample": [
+    "peek",
+    "beyond"
+   ]
+  },
+  {
+   "page": 80,
+   "plain_words": 126,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 81,
+   "plain_words": 25,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 82,
+   "plain_words": 61,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 83,
+   "plain_words": 44,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 84,
+   "plain_words": 52,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 85,
+   "plain_words": 28,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 86,
+   "plain_words": 8,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 87,
+   "plain_words": 7,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 88,
+   "plain_words": 37,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 89,
+   "plain_words": 68,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 90,
+   "plain_words": 41,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 91,
+   "plain_words": 24,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 92,
+   "plain_words": 62,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 93,
+   "plain_words": 34,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 94,
+   "plain_words": 27,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 95,
+   "plain_words": 55,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 96,
+   "plain_words": 38,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 97,
+   "plain_words": 38,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 98,
+   "plain_words": 110,
+   "missing": 4,
+   "missing_ratio": 0.036,
+   "sample": [
+    "using",
+    "digits",
+    "make",
+    "can"
+   ]
+  },
+  {
+   "page": 99,
+   "plain_words": 111,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  },
+  {
+   "page": 100,
+   "plain_words": 23,
+   "missing": 0,
+   "missing_ratio": 0.0,
+   "sample": []
+  }
+ ],
+ "flagged_pages": []
+}
