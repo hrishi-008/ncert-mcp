@@ -2,13 +2,17 @@
 
 <!-- page 1 -->
 
-## PATTERNS IN MATHEMATICS 1
+# 1 PATTERNS IN MATHEMATICS
 
-#### 1.1 What is Mathematics?
+[Figure: A row of orange matchstick patterns showing a growing sequence: a single vertical stick, then a figure made of sticks forming an "I" shape, then a larger figure with a square-like frame around the "I", then a still larger figure with more sticks, then the largest figure in the sequence.]
+
+[Figure: QR code with the label 0674CH01]
+
+## 1.1 What is Mathematics?
 
 Mathematics is, in large part, the search for patterns, and for the explanations as to why those patterns exist.
 
-Such patterns indeed exist all around us — in nature, in our homes and schools, and in the motion of the sun, moon, and stars. They occur in everything that we do and see, from shopping and cooking, to throwing a ball and playing games, to understanding weather patterns and using technology.
+Such patterns indeed exist all around us—in nature, in our homes and schools, and in the motion of the sun, moon, and stars. They occur in everything that we do and see, from shopping and cooking, to throwing a ball and playing games, to understanding weather patterns and using technology.
 
 The search for patterns and their explanations can be a fun and creative endeavour. It is for this reason that mathematicians think of mathematics both as an art and as a science. This year, we hope that you will get a chance to see the creativity and artistry involved in discovering and understanding mathematical patterns.
 
@@ -16,33 +20,20 @@ It is important to keep in mind that mathematics aims to not just find out what 
 
 <!-- page 2 -->
 
-Ganita Prakash | Grade 6
+For example, the understanding of patterns in the motion of stars, planets, and their satellites led humankind to develop the theory of gravitation, allowing us to launch our own satellites and send rockets to the Moon and to Mars; similarly, understanding patterns in genomes has helped in diagnosing and curing diseases—among thousands of other such examples.
 
-For example, the understanding of patterns in the motion of stars, planets, and their satellites led humankind to develop the theory of gravitation, allowing us to launch our own satellites and send rockets to the Moon and to Mars; similarly, understanding patterns in genomes has helped in diagnosing and curing diseases — among thousands of other such examples.
+### Figure it Out
 
-##### Figure it Out
+> Math Talk
 
-1. Can you think of other examples where mathematics helps
+1. Can you think of other examples where mathematics helps us in our everyday lives?
+2. How has mathematics helped propel humanity forward? (You might think of examples involving: carrying out scientific experiments; running our economy and democracy; building bridges, houses or other complex structures; making TVs, mobile phones, computers, bicycles, trains, cars, planes, calendars, clocks, etc.)
 
-us in our everyday lives? | Math
-
-2. How has mathematics helped propel humanity forward? (You | Talk
-
-might think of examples involving: carrying out scientific
-
-experiments; running our economy and democracy; building
-
-bridges, houses or other complex structures; making TVs,
-
-mobile phones, computers, bicycles, trains, cars, planes,
-
-calendars, clocks, etc.)
-
-#### 1.2 Patterns in Numbers
+## 1.2 Patterns in Numbers
 
 Among the most basic patterns that occur in mathematics are patterns of numbers, particularly patterns of whole numbers:
 
-0, 1, 2, 3, 4, ...
+$$0, 1, 2, 3, 4, \ldots$$
 
 The branch of Mathematics that studies patterns in whole numbers is called **number theory**.
 
@@ -52,23 +43,29 @@ Table 1 shows some key number sequences that are studied in Mathematics.
 
 <!-- page 3 -->
 
-Patterns in Mathematics
+**Table 1: Examples of number sequences**
 
-##### Table 1: Examples of number sequences
+| Sequence | Name |
+|---|---|
+| 1, 1, 1, 1, 1, 1, 1, ... | (All 1's) |
+| 1, 2, 3, 4, 5, 6, 7, ... | (Counting numbers) |
+| 1, 3, 5, 7, 9, 11, 13, ... | (Odd numbers) |
+| 2, 4, 6, 8, 10, 12, 14, ... | (Even numbers) |
+| 1, 3, 6, 10, 15, 21, 28, ... | (Triangular numbers) |
+| 1, 4, 9, 16, 25, 36, 49, ... | (Squares) |
+| 1, 8, 27, 64, 125, 216, ... | (Cubes) |
+| 1, 2, 3, 5, 8, 13, 21, ... | (Virahāṅka numbers) |
+| 1, 2, 4, 8, 16, 32, 64, ... | (Powers of 2) |
+| 1, 3, 9, 27, 81, 243, 729, ... | (Powers of 3) |
 
-1, 1, 1, 1, 1, 1, 1, ... (All 1’s) 1, 2, 3, 4, 5, 6, 7, ... (Counting numbers) 1, 3, 5, 7, 9, 11, 13, ... (Odd numbers) 2, 4, 6, 8, 10, 12, 14, ... (Even numbers) 1, 3, 6, 10, 15, 21, 28, ... (Triangular numbers) 1, 4, 9, 16, 25, 36, 49, ... (Squares) 1, 8, 27, 64, 125, 216, ... (Cubes) 1, 2, 3, 5, 8, 13, 21, ... (Virahānka numbers) 1, 2, 4, 8, 16, 32, 64, ... (Powers of 2) 1, 3, 9, 27, 81, 243, 729, ... (Powers of 3)
-
-##### Figure it Out
+### Figure it Out
 
 1. Can you recognise the pattern in each of the sequences in Table 1?
-
-> Math
-
 2. Rewrite each sequence of Table 1 in your notebook, along with the next three numbers in each sequence! After each sequence, write in your own words what is the rule for forming the numbers in the sequence.
 
-> Talk
+> Math Talk
 
-#### 1.3 Visualising Number Sequences
+## 1.3 Visualising Number Sequences
 
 Many number sequences can be visualised using pictures. Visualising mathematical objects through pictures or diagrams can be a very fruitful way to understand mathematical patterns and concepts.
 
@@ -76,119 +73,85 @@ Let us represent the first seven sequences in Table 1 using the following pictur
 
 <!-- page 4 -->
 
-Ganita Prakash | Grade 6
+## Table 2: Pictorial representation of some number sequences
 
-##### Table 2: Pictorial representation of some number sequences
-
-All 1’s 1 1 1 1 1 
-
-Counting
-
-1 2 3 4 5 numbers
-
-Odd
-
-1 3 5 7 9 numbers
-
-Even
-
-2 4 6 8 10 numbers
-
-Triangular numbers
-
-6 3 1 10 15
-
-Squares
-
-1 4 9 16 25
-
-Cubes
-
-27 8 1 64 125
+| Sequence | Pictorial representation | Numbers |
+|---|---|---|
+| All 1's | [Figure: five single green dots, one under each number] | 1, 1, 1, 1, 1 |
+| Counting numbers | [Figure: red dots arranged in a row, 1 dot, 2 dots, 3 dots, 4 dots, 5 dots] | 1, 2, 3, 4, 5 |
+| Odd numbers | [Figure: blue dots arranged in two rows, with 1, 3, 5, 7, 9 dots respectively] | 1, 3, 5, 7, 9 |
+| Even numbers | [Figure: green dots arranged in two rows, with 2, 4, 6, 8, 10 dots respectively] | 2, 4, 6, 8, 10 |
+| Triangular numbers | [Figure: red dots arranged in triangles with 1, 3, 6, 10, 15 dots respectively] | 1, 3, 6, 10, 15 |
+| Squares | [Figure: blue dots arranged in squares of 1×1, 2×2, 3×3, 4×4, 5×5] | 1, 4, 9, 16, 25 |
+| Cubes | [Figure: cubes built from unit cubes, orange 1×1×1, yellow 2×2×2, green 3×3×3, blue 4×4×4, red 5×5×5] | 1, 8, 27, 64, 125 |
 
 <!-- page 5 -->
 
-Patterns in Mathematics
+### Figure it Out
 
-##### Figure it Out
+1. Copy the pictorial representations of the number sequences in Table 2 in your notebook, and draw the next picture for each sequence!
 
-1. Copy the pictorial representations of the number sequences
+> [Math Talk icon]
 
-in Table 2 in your notebook, and draw the next picture for | Math
+2. Why are 1, 3, 6, 10, 15, … called **triangular numbers**? Why are 1, 4, 9, 16, 25, … called **square numbers** or **squares**? Why are 1, 8, 27, 64, 125, … called **cubes**?
 
-Talk
+3. You will have noticed that 36 is both a triangular number and a square number! That is, 36 dots can be arranged perfectly both in a triangle and in a square. Make pictures in your notebook illustrating this!
 
-each sequence!
-
-2. Why are 1, 3, 6, 10, 15, … called **triangular numbers**? Why
-
-are 1, 4, 9, 16, 25, … called **square numbers** or **squares**?
-
-Why are 1, 8, 27, 64, 125, … called **cubes**?
-
-3. You will have noticed that 36 is both a triangular number and a
-
-square number! That is, 36 dots can be arranged perfectly both
-
-in a triangle and in a square. Make pictures in your notebook
-
-illustrating this!
-
-This shows that the same number can be represented differently,
-
-and play different roles, depending on the context. Try
-
-representing some other numbers pictorially in different ways!
+   This shows that the same number can be represented differently, and play different roles, depending on the context. Try representing some other numbers pictorially in different ways!
 
 4. What would you call the following sequence of numbers?
 
-1 7 19 37
+[Figure: Four hexagonal arrangements of red dots, labelled 1, 7, 19 and 37 respectively. The first is a single dot, the second is a hexagon of 7 dots, the third is a hexagon of 19 dots, and the fourth is a hexagon of 37 dots.]
 
-That’s right, they are called **hexagonal numbers**! Draw these in your notebook. What is the next number in the sequence?
+   That's right, they are called **hexagonal numbers**! Draw these in your notebook. What is the next number in the sequence?
 
 5. Can you think of pictorial ways to visualise the sequence of Powers of 2? Powers of 3?
 
 <!-- page 6 -->
 
-Ganita Prakash | Grade 6
-
 Here is one possible way of thinking about Powers of 2:
 
-1 16 8 4 2
+[Figure: Five diagrams of dots and edges showing powers of 2. Labelled 1: a single black dot. Labelled 2: a black dot joined by a line to a blue dot. Labelled 4: a square with two black dots on top and two blue dots at the bottom. Labelled 8: a cube made of a black square of dots and a blue square of dots, joined by lines. Labelled 16: a four-dimensional cube made of a black cube and a blue cube of dots, joined by lines.]
 
-#### 1.4 Relations among Number Sequences
+## 1.4 Relations among Number Sequences
 
-Sometimes, number sequences can be related to each other in surprising ways.
+Sometimes, number sequences can be related to each other in surprising ways.
 
 **Example**: What happens when we start adding up odd numbers?
 
-1 = 1 1 + 3 = 4 1 + 3 + 5 = 9 1 + 3 + 5 + 7 = 16 1 + 3 + 5 + 7 + 9 = 25 1 + 3 + 5 + 7 + 9 + 11 = 36
+$$1 = 1$$
+$$1 + 3 = 4$$
+$$1 + 3 + 5 = 9$$
+$$1 + 3 + 5 + 7 = 16$$
+$$1 + 3 + 5 + 7 + 9 = 25$$
+$$1 + 3 + 5 + 7 + 9 + 11 = 36$$
+$$\vdots$$
 
-... This is a really beautiful pattern!
+This is a really beautiful pattern!
 
 Why does this happen? Do you think it will happen forever?
 
 The answer is that the pattern does happen forever. But why? As mentioned earlier, the reason why the pattern happens is just as important and exciting as the pattern itself.
 
-##### A picture can explain it
+### A picture can explain it
 
 Visualising with a picture can help explain the phenomenon. Recall that square numbers are made by counting the number of dots in a square grid.
 
-How can we partition the dots in a square grid into odd numbers of dots: 1, 3, 5, 7,... ? | Math
+> ### Math Talk
 
-Talk
+How can we partition the dots in a square grid into odd numbers of dots: 1, 3, 5, 7,... ?
 
 Think about it for a moment before reading further!
 
 <!-- page 7 -->
 
-Patterns in Mathematics
-
 Here is how it can be done:
+
+[Figure: A 6×6 grid of black dots, with red L-shaped lines dividing it into nested layers. The layers contain 1, 3, 5, 7, 9 and 11 dots, starting from the bottom-left dot and growing out to the top row and right column.]
 
 This picture now makes it evident that
 
-1 + 3 + 5 + 7 + 9 + 11 = 36.
+$$1 + 3 + 5 + 7 + 9 + 11 = 36.$$
 
 Because such a picture can be made for a square of any size, this explains why adding up odd numbers gives square numbers.
 
@@ -196,347 +159,339 @@ By drawing a similar picture, can you say what is the sum of the first 10 odd nu
 
 Now by imagining a similar picture, or by drawing it partially, as needed, can you say what is the sum of the first 100 odd numbers?
 
-##### Another example of such a relation between sequences: Adding up and down
+**Another example of such a relation between sequences: Adding up and down**
 
 Let us look at the following pattern:
 
-1 = 1 1 + 2 + 1 = 4 1 + 2 + 3 + 2 + 1 = 9 1 + 2 + 3 + 4 + 3 + 2 + 1 = 16 1 + 2 + 3 + 4 + 5 + 4 + 3 + 2 + 1 = 25 1 + 2 + 3 + 4 + 5 + 6 + 5 + 4 + 3 + 2 + 1 = 36
+$$1 = 1$$
+$$1 + 2 + 1 = 4$$
+$$1 + 2 + 3 + 2 + 1 = 9$$
+$$1 + 2 + 3 + 4 + 3 + 2 + 1 = 16$$
+$$1 + 2 + 3 + 4 + 5 + 4 + 3 + 2 + 1 = 25$$
+$$1 + 2 + 3 + 4 + 5 + 6 + 5 + 4 + 3 + 2 + 1 = 36$$
+$$\vdots$$
 
-...
-
-This seems to be giving yet another way of getting the square numbers— by adding the counting numbers up and then down!
+This seems to be giving yet another way of getting the square numbers—by adding the counting numbers up and then down!
 
 <!-- page 8 -->
 
-Ganita Prakash | Grade 6
-
 Can you find a similar pictorial explanation?
 
-##### Figure it Out
+[Figure: A 6 × 6 grid of black dots, arranged in 6 rows and 6 columns.]
+
+### Figure it Out
 
 1. Can you find a similar pictorial explanation for why adding counting numbers up and down, i.e., 1, 1 + 2 + 1, 1 + 2 + 3 + 2 + 1, …, gives square numbers?
 
-Try This
+> [Try This]
 
-2. By imagining a large version of your picture, or drawing it partially, as needed, can you see what will be the value of 1 + 2 + 3 + ... + 99 + 100 + 99 + ... + 3 + 2 + 1?
+2. By imagining a large version of your picture, or drawing it partially, as needed, can you see what will be the value of $1 + 2 + 3 + \cdots + 99 + 100 + 99 + \cdots + 3 + 2 + 1$?
 
-3. Which sequence do you get when you start to add the All 1’s sequence up? What sequence do you get when you add the All 1’s sequence up and down?
+3. Which sequence do you get when you start to add the All 1's sequence up? What sequence do you get when you add the All 1's sequence up and down?
 
 4. Which sequence do you get when you start to add the counting numbers up? Can you give a smaller pictorial explanation?
 
-5. What happens when you add up pairs of consecutive triangular numbers? That is, take 1 + 3, 3 + 6, 6 + 10, 10 + 15, … Which sequence do you get? Why? Can you explain it with a picture?
+5. What happens when you add up pairs of consecutive triangular numbers? That is, take $1 + 3$, $3 + 6$, $6 + 10$, $10 + 15$, … Which sequence do you get? Why? Can you explain it with a picture?
 
-6. What happens when you start to add up powers of 2 starting with 1, i.e., take 1, 1 + 2, 1 + 2 + 4, 1 + 2 + 4 + 8, … ? Now add 1 to each of these numbers — what numbers do you get? Why does this happen?
+6. What happens when you start to add up powers of 2 starting with 1, i.e., take $1$, $1 + 2$, $1 + 2 + 4$, $1 + 2 + 4 + 8$, … ? Now add 1 to each of these numbers—what numbers do you get? Why does this happen?
 
 <!-- page 9 -->
 
-Patterns in Mathematics
-
 7. What happens when you multiply the triangular numbers by 6 and add 1? Which sequence do you get? Can you explain it with a picture?
+8. What happens when you start to add up hexagonal numbers, i.e., take 1, $1 + 7$, $1 + 7 + 19$, $1 + 7 + 19 + 37$, ... ? Which sequence do you get? Can you explain it using a picture of a cube?
 
-8. What happens when you start to add up hexagonal numbers, i.e., take 1, 1 + 7, 1 + 7 + 19, 1 + 7 + 19 + 37, … ? Which sequence do you get? Can you explain it using a picture of a cube?
+[Figure: A cube built of small cubes seen from a corner, with a yellow cube at the centre corner, red cubes forming three strips meeting at it, and the remaining cubes blue. Beside it, a hexagonal arrangement of dots with a yellow dot at the centre, red dots along three lines from the centre, and the remaining dots blue.]
 
-9. Find your own patterns or relations in and among the sequences in Table 1. Can you explain why they happen with a picture or otherwise?
+9. Find your own patterns or relations in and among the sequences in Table 1. Can you explain why they happen with a picture or otherwise?
 
-#### 1.5 Patterns in Shapes
+## 1.5 Patterns in Shapes
 
-Other important and basic patterns that occur in Mathematics are patterns of shapes. These shapes may be in one, two, or three dimensions (1D, 2D, or 3D) — or in even more dimensions. The branch of Mathematics that studies patterns in shapes is called geometry.
+Other important and basic patterns that occur in Mathematics are patterns of shapes. These shapes may be in one, two, or three dimensions (1D, 2D, or 3D)—or in even more dimensions. The branch of Mathematics that studies patterns in shapes is called geometry.
 
 **Shape sequences** are one important type of shape pattern that mathematicians study. Table 3 shows a few key shape sequences that are studied in Mathematics.
 
 <!-- page 10 -->
 
-Ganita Prakash | Grade 6
+## Table 3: Examples of shape sequences
 
-##### Table 3: Examples of shape sequences
+**Regular Polygons**
 
-Triangle | Quadrilateral Regular Polygons
+[Figure: Row of regular polygons: a red Triangle, an orange Quadrilateral (square), a yellow Pentagon, a green Hexagon; second row: a teal Heptagon, a blue Octagon, a purple Nonagon, a pink Decagon. Each is labelled below it.]
 
-Pentagon | Hexagon
+Triangle, Quadrilateral, Pentagon, Hexagon, Heptagon, Octagon, Nonagon, Decagon
 
-Heptagon | Nonagon Octagon | Decagon
+> Regular Polygons
 
-Complete
+**Complete Graphs**
 
-Graphs
+[Figure: Complete graphs with red dots as vertices: K2 (a line segment with two points), K3 (a triangle), K4 (a square with both diagonals), K5 (a pentagon with all diagonals), K6 (a hexagon with all diagonals).]
 
-K2 K3 K4 K6 K5
+K2, K3, K4, K5, K6
 
-Stacked Squares
+> Complete Graphs
 
-Stacked Triangles
+**Stacked Squares**
 
-Koch Snowflake
+[Figure: Sequence of square grids of increasing size: 1×1, 2×2, 3×3, 4×4, 5×5.]
+
+> Stacked Squares
+
+**Stacked Triangles**
+
+[Figure: Sequence of triangles made of small stacked triangles, increasing in size, with 1, 2, 3, 4 and 5 rows of small triangles.]
+
+> Stacked Triangles
+
+**Koch Snowflake**
+
+[Figure: Sequence of five shapes: a triangle, a six-pointed star, and then progressively more detailed snowflake shapes with increasingly fine jagged edges.]
+
+> Koch Snowflake
 
 <!-- page 11 -->
 
-Patterns in Mathematics
-
-##### Figure it Out 
+### Figure it Out
 
 1. Can you recognise the pattern in each of the sequences in Table 3?
-
-> Math
-
-> Talk
-
 2. Try and redraw each sequence in Table 3 in your notebook. Can you draw the next shape in each sequence? Why or why not? After each sequence, describe in your own words what is the rule or pattern for forming the shapes in the sequence.
 
-#### 1.6 Relation to Number Sequences
+> Math Talk
 
-Often, shape sequences are related to number sequences in surprising ways. Such relationships can be helpful in studying and understanding both the shape sequence and the related number sequence. **Example:** The number of sides in the shape sequence of Regular Polygons is given by the counting numbers starting at 3, i.e., 3, 4, 5, 6, 7, 8, 9, 10, .... That is why these shapes are called, respectively, **regular triangle**, **quadrilateral** (i.e., **square**), **pentagon**, **hexagon**, **heptagon**, **octagon**, **nonagon**, **decagon**, etc., respectively.
+## 1.6 Relation to Number Sequences
 
-The word ‘regular’ refers to the fact that these shapes have equal-length sides and also equal ‘angles’ (i.e., the sides look the same and the corners also look the same). We will discuss angles in more depth in the next chapter.
+Often, shape sequences are related to number sequences in surprising ways. Such relationships can be helpful in studying and understanding both the shape sequence and the related number sequence.
+
+**Example:** The number of sides in the shape sequence of Regular Polygons is given by the counting numbers starting at 3, i.e., 3, 4, 5, 6, 7, 8, 9, 10, …. That is why these shapes are called, respectively, **regular triangle**, **quadrilateral** (i.e., **square**), **pentagon**, **hexagon**, **heptagon**, **octagon**, **nonagon**, **decagon**, etc., respectively.
+
+The word 'regular' refers to the fact that these shapes have equal-length sides and also equal 'angles' (i.e., the sides look the same and the corners also look the same). We will discuss angles in more depth in the next chapter.
 
 The other shape sequences in Table 3 also have beautiful relationships with number sequences.
 
-##### Figure it Out
-
-1. Count the number of sides in each shape in the sequence of Regular Polygons. Which number sequence do you get? What about the number of corners in each shape in the sequence of Regular Polygons? Do you get the same number sequence? Can you explain why this happens?
+### Figure it Out
 
 > Try This
 
+1. Count the number of sides in each shape in the sequence of Regular Polygons. Which number sequence do you get? What about the number of corners in each shape in the sequence of Regular Polygons? Do you get the same number sequence? Can you explain why this happens?
 2. Count the number of lines in each shape in the sequence of Complete Graphs. Which number sequence do you get? Can you explain why?
 
 <!-- page 12 -->
 
-Ganita Prakash | Grade 6
-
 3. How many little squares are there in each shape of the sequence of Stacked Squares? Which number sequence does this give? Can you explain why?
 
-4. How many little triangles are there in each shape of the sequence of Stacked Triangles? Which number sequence does this give? Can you explain why? (Hint: In each shape in the sequence, how many triangles are there in each row?)
+4. How many little triangles are there in each shape of the sequence of Stacked Triangles? Which number sequence does this give? Can you explain why? (*Hint*: In each shape in the sequence, how many triangles are there in each row?)
 
-Try This
+5. To get from one shape to the next shape in the Koch Snowflake sequence, one replaces each line segment '—' by a 'speed bump' [Figure: a short horizontal line with a small triangular peak in the middle]. As one does this more and more times, the changes become tinier and tinier with very very small line segments. How many total line segments are there in each shape of the Koch Snowflake? What is the corresponding number sequence? (The answer is 3, 12, 48, ..., i.e., 3 times Powers of 4; this sequence is not shown in Table 1.)
 
-5. To get from one shape to the next shape in the Koch Snowflake sequence, one replaces each line segment ‘—’ by a ‘speed bump’ . As one does this more and more times, the changes become tinier and tinier with very very small line segments. How many total line segments are there in each shape of the Koch Snowflake? What is the corresponding number sequence? (The answer is 3, 12, 48, ..., i.e., 3 times Powers of 4; this sequence is not shown in Table 1.)
+> ### Try This
 
-### S u m m a r y
+## SUMMARY
 
 - Mathematics may be viewed as the search for patterns and for the explanations as to why those patterns exist.
-
 - Among the most basic patterns that occur in mathematics are **number sequences.**
-
-- Some important examples of number sequences include the counting numbers, odd numbers, even numbers, square numbers, triangular numbers, cube numbers, Virahānka numbers, and powers of 2.
-
+- Some important examples of number sequences include the counting numbers, odd numbers, even numbers, square numbers, triangular numbers, cube numbers, Virahāṅka numbers, and powers of 2.
 - Sometimes number sequences can be related to each other in beautiful and remarkable ways. For example, adding up the sequence of odd numbers starting with 1 gives square numbers.
-
 - Visualising number sequences using pictures can help to understand sequences and the relationships between them.
-
 - **Shape sequences** are another basic type of pattern in mathematics. Some important examples of shape sequences include regular polygons, complete graphs, stacked triangles and squares, and Koch snowflake iterations. Shape sequences also exhibit many interesting relationships with number sequences.
 
 ## Answers to the chapter's questions (from the book)
 
 <!-- answers page 1 -->
 
-#### CHAPTER 1 — SOLUTIONS
+# CHAPTER 1 — SOLUTIONS
 
-##### Patterns in Mathematics
+## Patterns in Mathematics
 
-Page No. 2.
+**Page No. 2.**
 
-##### Section 1.1
+**Section 1.1**
 
-##### Figure it Out
+### Figure it Out
 
-##### Q1. Can you think of other examples where mathematics helps us in our
+1. **Q1. Can you think of other examples where mathematics helps us in our everyday lives?**
 
-**everyday lives? Ans.** Some examples arepaying for fruits, vegetables, groceries etc. calculation of
+   **Ans.** Some examples are paying for fruits, vegetables, groceries etc. calculation of speed of vehicles, designs or patterns in different buildings, finding area of any plot or out own home. There could be many more such contexts in our everyday lives. Discuss for other examples also.
 
-speed of vehicles, designs or patterns in different buildings, finding area of any plot or out own home. There could be many more such contexts in our everyday lives. Discuss for other examples also.
+2. **Q2. How has mathematics helped propel humanity forward? (You might think of examples involving: carrying out scientific experiments; running our economy and democracy; building bridges, houses or other complex structures; making TVs, mobile phones, computers, bicycles, trains, cars, planes, calendars, clocks, etc.)**
 
-##### Q2. How has mathematics helped propel humanity forward? (You might think of
+   **Ans.** Teacher student discussion is required.
 
-examples involving: carrying out scientific experiments; running our economy and democracy; building bridges, houses or other complex structures; making TVs, mobile phones, computers, bicycles, trains, cars, planes, calendars, clocks, etc.) Ans. Teacher student discussion is required. Page No. 3. Section 1.2
+**Page No. 3.**
 
-##### Figure it Out
+**Section 1.2**
 
-Q.1. Can you recognize the pattern in each of the sequences in Table 1?
+### Figure it Out
 
-**Ans. Yes,** There is a pattern in each case. Powers of 2- 1,2,4 = 2 x 2, 8 = 2 x 2 x2 ,16 = 2 x 2 x2 x 2 x 2… Powers of 3 - 1, 3, 9 = 3 x 3 = 27 =3 x 3 x3,… Virahanka numbers- 1,2, 3, 5 = 2 + 3, 8 = 3 + 5, 13 = 5 + 8,…. Rest of the patterns have been shown on page 4 ,Table 2
+**Q.1. Can you recognize the pattern in each of the sequences in Table 1?**
 
-##### Page no. 5 Section 1.3
+**Ans.** **Yes,** There is a pattern in each case.
 
-##### Figure it out
+Powers of 2- 1,2,4 = 2 x 2, 8 = 2 x 2 x2 ,16 = 2 x 2 x2 x 2 x 2…
 
-##### Q.2. Why are 1, 3, 6, 10, 15, … called triangular numbers? Why are 1, 4, 9, 16, 25, …
+Powers of 3 - 1, 3, 9 = 3 x 3 = 27 =3 x 3 x3,…
 
-called square numbers or squares? Why are 1, 8, 27, 64, 125, … called cubes? Ans. Refer Table 2, page 4, and check for yourself. Q.3. You will have noticed that 36 is both a triangular number and a square number!
+Virahanka numbers- 1,2, 3, 5 = 2 + 3, 8 = 3 + 5, 13 = 5 + 8,….
 
-That is, 36 dots can be arranged perfectly both in a triangle and in a square. Make pictures in your notebook illustrating this!
+Rest of the patterns have been shown on page 4 ,Table 2
+
+**Page no. 5**
+
+**Section 1.3**
+
+### Figure it out
+
+**Q.2. Why are 1, 3, 6, 10, 15, … called triangular numbers? Why are 1, 4, 9, 16, 25, … called square numbers or squares? Why are 1, 8, 27, 64, 125, … called cubes?**
+
+**Ans.** Refer Table 2, page 4, and check for yourself.
+
+**Q.3. You will have noticed that 36 is both a triangular number and a square number! That is, 36 dots can be arranged perfectly both in a triangle and in a square. Make pictures in your notebook illustrating this!**
 
 **Ans.** Refer Table 2, page 4, and draw.
 
-[1]
-
 <!-- answers page 2 -->
 
-Q.4. What would you call the following sequence of numbers?
+**Q.4. What would you call the following sequence of numbers?**
 
 **Ans.** 61.
 
-##### Q.5. Can you think of pictorial ways to visualise the sequence of powers of 2? powers of
-
-3?
+**Q.5. Can you think of pictorial ways to visualise the sequence of powers of 2? powers of 3?**
 
 **Ans.** Sequence of powers of 2—given on page 6
 
 Sequence of powers of 3- One of the ways could be –
 
-3 9
+[Figure: Sequence of diagrams for powers of 3: a single dot labelled 1; a triangle with three dots at its vertices labelled 3; a figure made of three joined triangle-like units of dots and lines labelled 9.]
 
-2 1
+[Figure: A larger three-dimensional arrangement of dots and connecting lines made of three copies of the 9-figure, labelled 27.]
 
-##### Page No. 7
+[Figure: Sequence of diagrams for powers of 2: a single dot labelled 1; two dots joined by a line labelled 2; a square with four dots at its corners labelled 4; a cube with dots at its vertices labelled 8; two cubes joined by parallel lines at corresponding vertices labelled 16.]
 
-##### Section 1.4
+[Figure: Four cubes joined by parallel lines at corresponding vertices, labelled 32.]
 
-##### By drawing a similar picture, can you say what is the sum of the first 10 odd
+**Page No. 7**
 
-##### numbers? Ans. 100
+**Section 1.4**
 
-[2]
+- **By drawing a similar picture, can you say what is the sum of the first 10 odd numbers?**
+  **Ans.** 100
 
 <!-- answers page 3 -->
 
-##### Now by imagining a similar picture, or by drawing it partially, as needed, can
+Now by imagining a similar picture, or by drawing it partially, as needed, can you say what is the sum of the first 100 odd numbers?
 
-##### you say what is the sum of the first 100 odd numbers? Ans.10000 Figure it out
+**Ans.** 10000
 
-##### Q.1. Can you find a similar pictorial explanation for why adding counting numbers up
+### Figure it out
 
-and down, i.e., 1, 1 + 2 + 1, 1 + 2 + 3 + 2 + 1, …, gives square numbers?
+1. Can you find a similar pictorial explanation for why adding counting numbers up and down, i.e., $1$, $1 + 2 + 1$, $1 + 2 + 3 + 2 + 1$, …, gives square numbers?
 
 **Ans.** One of the ways is-
 
-1, 1 + 2 + 1, 1 + 2 + 3 + 2 + 1, …,
+[Figure: Sequence of diamond-shaped dot-and-line grids. A single dot labelled "1"; a diamond with 2×2 dot arrangement (4 small squares count shown as one diamond with 4 dots) labelled "1+2+1 = 4"; a larger diamond grid of 3×3 small squares labelled "1+2+3+2+1 = 9"; and a still larger diamond grid of 4×4 small squares with no label.]
 
-##### Q.2. By imagining a large version of your picture, or drawing it partially, as needed, can
+$1$, $1 + 2 + 1$, $1 + 2 + 3 + 2 + 1$, …,
 
-you see what will be the value of 1 + 2 + 3 + ... + 99 + 100 + 99 + ... + 3 + 2 + 1?
+2. By imagining a large version of your picture, or drawing it partially, as needed, can you see what will be the value of $1 + 2 + 3 + ... + 99 + 100 + 99 + ... + 3 + 2 + 1$?
 
 **Ans.** 10,000
 
-##### Q.3. Which sequence do you get when you start to add the All 1’s sequence up? What
+3. Which sequence do you get when you start to add the All 1's sequence up? What sequence do you get when you add the All 1's sequence up and down?
 
-sequence do you get when you add the All 1’s sequence up and down?
+**Ans.**
 
-> Ans.
+- $1 + (1 + 1) + (1 + 1 + 1) + (1 + 1 + 1 + 1) \ldots$
+- $1$, $1+(1+1) + 1$, $1+(1+1) +(1+1+1) + (1+1) +1$, $1+(1+1) +(1+1+1) + (1+1+1+1) + (1+1+1) + (1+1) +1$, ……….
 
-- 1 + (1 +1) + (1 +1 +1) + (1 + 1+1+1) …
-- 1, 1+(1+1) + 1, 1+(1+1) +(1+1+1) + (1+1) +1, 1+(1+1) +(1+1+1) + (1+1+1+1) + (1+1+1) + (1+1) +1, ……….
+4. Which sequence do you get when you start to add the Counting numbers up? Can you give a smaller pictorial explanation?
 
-##### Q.4. Which sequence do you get when you start to add the Counting numbers up? Can
-
-you give a smaller pictorial explanation?
-
-**Ans.** 1, 1+2, 1+2+3, 1+2+3+4, ………
+**Ans.** $1$, $1+2$, $1+2+3$, $1+2+3+4$, ………
 
 Which is triangular number sequence. For pictorial representation refer Table 2 on page 4
 
 (Try it for isosceles right triangle also.)
 
-[3]
-
 <!-- answers page 4 -->
 
-Q.5. What happens when you add up pairs of consecutive triangular numbers? That is,
-
-take 1 + 3, 3 + 6, 6 + 10, 10 + 15, … ? Which sequence do you get? Why? Can you explain it with a picture?
+**Q.5.** What happens when you add up pairs of consecutive triangular numbers? That is, take $1 + 3$, $3 + 6$, $6 + 10$, $10 + 15$, … ? Which sequence do you get? Why? Can you explain it with a picture?
 
 **Ans.** We get: 4, 9, 16, 25, ……… (Square numbers).
 
 For the pictorial representation refer Table 2 on page 4
 
-##### Q.6. What happens when you start to add up powers of 2 starting with 1, i.e., take 1, 1 +
+**Q.6.** What happens when you start to add up powers of 2 starting with 1, i.e., take 1, $1 + 2$, $1 + 2 + 4$, $1 + 2 + 4 + 8$, …? Now add 1 to each of these numbers — what numbers do you get? Why does this happen?
 
-2, 1 + 2 + 4, 1 + 2 + 4 + 8, …? Now add 1 to each of these numbers — what numbers do you get? Why does this happen?
-
-Ans.
+**Ans.**
 
 - We get, 1, 3, 7, 15, 31, …………
-- After adding 1 to each number, we get:2, 4, 8, 16, 32, …… Refer the picture on page 6.
+- After adding 1 to each number, we get: 2, 4, 8, 16, 32, ……
 
-##### Q.7. What happens when you multiply the triangular numbers by 6 and add 1? Which
+Refer the picture on page 6.
 
-sequence do you get? Can you explain it with a picture?
+**Q.7.** What happens when you multiply the triangular numbers by 6 and add 1? Which sequence do you get? Can you explain it with a picture?
 
-Ans. (1×6) +1, (3×6) +1, (6×6) +1, (10×6) +1, (15×6) +1, …
+Ans. $(1\times6) +1$, $(3\times6) +1$, $(6\times6) +1$, $(10\times6) +1$, $(15\times6) +1$, …
 
-= 7, 19, 37, 61, 91, ….
+$= 7, 19, 37, 61, 91, \ldots.$
 
 For picture refer picture in Q.4 page 5.
 
-Q.8. What happens when you start to add up hexagonal numbers, i.e., take 1, 1 + 7,
-
-1 + 7 + 19, 1 + 7 + 19 + 37, … ? Which sequence do you get? Can you explain it using a picture of a cube?
+**Q.8.** What happens when you start to add up hexagonal numbers, i.e., take 1, $1 + 7$, $1 + 7 + 19$, $1 + 7 + 19 + 37$, … ? Which sequence do you get? Can you explain it using a picture of a cube?
 
 **Ans.** 1, 8, 27, 64, ………We get cube numbers.
 
 For picture, refer Table 2, page 4
 
-##### Page no. 10
+**Page no. 10**
 
-##### Section 1.5
+**Section 1.5**
 
-##### Figure it out
+### Figure it out
 
-Q.1. Can you recognise the pattern in each of the sequences in Table 3?
+**Q.1.** Can you recognise the pattern in each of the sequences in Table 3?
 
 **Ans.** Yes.
 
 - 3, 4, 5, 6, 7, 8, 9, 10
 
-One of the ways to interpret this is that we get a sequence of number of sides
-
-of the pictures of the shapes
+  One of the ways to interpret this is that we get a sequence of number of sides of the pictures of the shapes
 - 1, 3, 6, 10, 15
 - 1, 4, 9, 16, 25
 - 1, 4, 9, 16, 25
-- 3, 3×4, 3×4×4, 3×4×4×4, 3×4×4×4×4
-
-[4]
+- 3, $3\times4$, $3\times4\times4$, $3\times4\times4\times4$, $3\times4\times4\times4\times4$
 
 <!-- answers page 5 -->
 
-##### Page no. 11
+Page no. 11
 
-##### Section 1.6
+Section 1.6
 
-##### Figure it out
+### Figure it out
 
-##### Q.1. Count the number of sides in each shape in the sequence of Regular Polygons. Which
+1. Count the number of sides in each shape in the sequence of Regular Polygons. Which number sequence do you get? What about the number of corners in each shape in the sequence of Regular Polygons? Do you get the same number sequence? Can you explain why this happens?
 
-number sequence do you get? What about the number of corners in each shape in the sequence of Regular Polygons? Do you get the same number sequence? Can you explain why this happens?
+   **Ans.**
+   - Number of sides = 3,4,5,6,7,8,9,10… We get counting number sequence, starting with 3.
+   - Number of Corners = 3,4,5,6,7,8,9,10… Yes, we get the same number sequence
+   - in any closed figure, number of sides = number of corners (vertices).
 
-Ans.
+2. Count the number of lines in each shape in the sequence of Complete Graphs. Which number sequence do you get? Can you explain why?
 
-- Number of sides = 3,4,5,6,7,8,9,10… We get counting number sequence, starting with 3.
-- Number of Corners = 3,4,5,6,7,8,9,10… Yes, we get the same number sequence
-- in any closed figure, number of sides = number of corners (vertices).
+   **Ans.**
+   - 1, 3, 6, 10, 15. This is a Triangle number sequence
 
-Q.2. Count the number of lines in each shape in the sequence of Complete Graphs.
+3. How many little squares are there in each shape of the sequence of Stacked Squares? Which number sequence does this give? Can you explain why?
 
-Which number sequence do you get? Can you explain why?
+   **Ans.**
+   - 1, 4, 9, 16, 25. This is a Square number sequence.
+   - Squares can be drawn using these number of dots.
 
-Ans.
+4. How many little triangles are there in each shape of the sequence of Stacked Triangles? Which number sequence does this give? Can you explain why? (Hint: In each shape in the sequence, how many triangles are there in each row?)
 
-- 1, 3, 6, 10, 15. This is a Triangle number sequence Q.3. How many little squares are there in each shape of the sequence of Stacked
+   **Ans.** 1, 4, 9, 16, 25
+   = 1, 1+2+1, 1+2+3+2+1, ……….
+   Square number sequence (As adding up and down) gives us square number sequence.
 
-Squares? Which number sequence does this give? Can you explain why? Ans.
-- 1, 4, 9, 16, 25. This is a Square number sequence.
-- Squares can be drawn using these number of dots. Q.4. How many little triangles are there in each shape of the sequence of Stacked
+5. To get from one shape to the next shape in the Koch Snowflake sequence, one replaces each line segment '—' by a 'speed bump' . As one does this more and more times, the changes become tinier and tinier with very very small line segments. How many total line segments are there in each shape of the Koch Snowflake? What is the corresponding number sequence? (The answer is 3, 12, 48, ..., i.e. 3 times Powers of 4; this sequence is not shown in Table 1)
 
-Triangles? Which number sequence does this give? Can you explain why? (Hint: In each shape in the sequence, how many triangles are there in each row?)
-
-**Ans.** 1, 4, 9, 16, 25
-
-= 1, 1+2+1, 1+2+3+2+1, ………. Square number sequence (As adding up and down) gives us square number sequence. **Q.5. To get from one shape to the next shape in the Koch Snowflake sequence, one**
-
-replaces each line segment‘—’ by a ‘speed bump’ . As one does this more and more times, the changes become tinier and tinier with very very small line segments. How many total line segments are there in each shape of the Koch Snowflake? What is the corresponding number sequence? (The answer is 3, 12, 48, ..., i.e. 3 times Powers of 4; this sequence is not shown in Table 1)
-
-Ans.
-
-- Total line segments in each shape: 3, 12, 48, 192, 768
-- Corresponding sequence: 3, 3×4, 3×4×4, 3×4×4×4×, 3×4×4×4×4,…
-
-[5]
+   **Ans.**
+   - Total line segments in each shape: 3, 12, 48, 192, 768
+   - Corresponding sequence: 3, 3×4, 3×4×4, 3×4×4×4×, 3×4×4×4×4,…
