@@ -11,3 +11,4 @@ state.db
 *.db-shm
 build/
 *.egg-info/
+data/ingest_log.txt

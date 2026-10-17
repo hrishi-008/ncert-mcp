@@ -6,8 +6,8 @@ check then confirms it. Only labels, the summary and topic tags are written by t
 
 Modes:
   --mode heuristic   no API needed: rules + data/book_config.yaml (headings, exercises, bold terms)
-  --mode llm         Claude reads the numbered lines and returns line numbers + labels (needs ANTHROPIC_API_KEY)
-  default: llm if an API key is set, else heuristic
+  --mode llm         Claude reads the numbered lines and returns line numbers + labels (Claude Code login or API key)
+  default: heuristic (pass --mode llm to use Claude)
 
 Usage:
     python -m ingest.structure 7-sci-05
@@ -413,18 +413,11 @@ line numbers, and code cuts the text out. Return:
 def llm_mode(entry: dict, doc: Doc, cfg: dict) -> Chapter:
     from ingest import llm
 
-    c = llm.client()
     names = cfg.get("end_exercises", []) + cfg.get("in_chapter_exercises", [])
-    resp = llm.create(
-        c,
-        model=llm.MODEL,
-        max_tokens=32000,
-        system=LLM_SYSTEM.replace("{exercise_names}", ", ".join(f"'{n}'" for n in names) or "(see the chapter)"),
-        output_config={"effort": "high", "format": {"type": "json_schema", "schema": LLM_SCHEMA}},
-        messages=[{"role": "user", "content": f"Chapter {entry['chapter_no']}: {entry['title']} "
-                   f"(Class {entry['class']}, {entry['book']})\n\n{doc.numbered()}"}],
-    )
-    data = json.loads(llm.text_of(resp))
+    system = LLM_SYSTEM.replace("{exercise_names}", ", ".join(f"'{n}'" for n in names) or "(see the chapter)")
+    prompt = (f"Chapter {entry['chapter_no']}: {entry['title']} (Class {entry['class']}, {entry['book']})\n\n"
+              f"{doc.numbered()}")
+    data = llm.complete(system, [llm.text_block(prompt)], max_tokens=32000, effort="high", schema=LLM_SCHEMA)
     n = len(doc.lines)
     clamp = lambda i: max(0, min(int(i), n - 1))  # noqa: E731
     cid = entry["chapter_id"]
@@ -448,7 +441,7 @@ def llm_mode(entry: dict, doc: Doc, cfg: dict) -> Chapter:
     a, b = doc.page_range(0, n)
     ch = Chapter(**chapter_shell(entry), summary=data["summary"], sections=sections, key_terms=kts, activities=acts,
                  figures=figs, exercises=exercises, topics=data["topics"], page_start=a, page_end=b,
-                 structured_by=f"llm:{llm.MODEL}")
+                 structured_by=f"llm:{llm.MODEL}")  # "llm:sonnet" via Claude Code, or the API model id
     warnings = verify(ch, doc)
     whole = squash(doc.markdown)
     for k in kts:
@@ -467,7 +460,7 @@ def main() -> int:
     args = ap.parse_args()
     if not args.chapter_ids and not args.all:
         ap.error("give chapter ids or --all")
-    mode = args.mode or ("llm" if os.environ.get("ANTHROPIC_API_KEY") else "heuristic")
+    mode = args.mode or "heuristic"
     cfg_all = load_book_config()
     STRUCTURED.mkdir(parents=True, exist_ok=True)
     entries = select(load_manifest(), args.chapter_ids or None)

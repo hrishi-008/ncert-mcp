@@ -7,7 +7,7 @@ Output: data/old_to_new_map.draft.json. Review it, fix it, then save it as data/
 
 One old chapter may map to several new ones (any class/subject), or to none ("not in new syllabus").
 
-Usage (needs ANTHROPIC_API_KEY):
+Usage (Claude Code login or ANTHROPIC_API_KEY):
     python -m ingest.draft_old_map
 """
 
@@ -55,14 +55,9 @@ def main() -> int:
     if not new:
         print("No structured chapters yet: run ingest.structure first.")
         return 1
-    c = llm.client()
-    resp = llm.create(
-        c, model=llm.MODEL, max_tokens=32000, system=SYSTEM,
-        output_config={"effort": "high", "format": {"type": "json_schema", "schema": SCHEMA}},
-        messages=[{"role": "user", "content": "OLD chapters:\n" + yaml.safe_dump(old, allow_unicode=True)
-                   + "\n\nNEW chapters:\n" + json.dumps(new, ensure_ascii=False, indent=0)}],
-    )
-    data = json.loads(llm.text_of(resp))
+    prompt = ("OLD chapters:\n" + yaml.safe_dump(old, allow_unicode=True)
+              + "\n\nNEW chapters:\n" + json.dumps(new, ensure_ascii=False, indent=0))
+    data = llm.complete(SYSTEM, [llm.text_block(prompt)], max_tokens=32000, effort="high", schema=SCHEMA)
     valid = {n["chapter_id"] for n in new}
     for e in data["entries"]:
         bad = [i for i in e["new_chapter_ids"] if i not in valid]
