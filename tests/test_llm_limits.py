@@ -61,3 +61,16 @@ def test_complete_sleeps_then_retries(monkeypatch):
     monkeypatch.setattr(llm, "_wait_for_window", lambda: None)
     assert llm.complete("sys", [llm.text_block("hi")]) == "page text"
     assert calls["n"] == 2
+
+
+def test_exit_mode_saves_resume_time_and_exits(monkeypatch, tmp_path):
+    import json as _json
+    exits = []
+    monkeypatch.setattr(llm, "ON_LIMIT", "exit")
+    monkeypatch.setattr(llm, "RESUME_FILE", str(tmp_path / "resume.json"))
+    monkeypatch.setattr(llm.os, "_exit", lambda code: exits.append(code) or (_ for _ in ()).throw(SystemExit(code)))
+    llm._resume_at = time.time() + 3600
+    with pytest.raises(SystemExit):
+        llm._wait_for_window()
+    assert exits == [llm.EXIT_LIMIT]
+    assert _json.loads((tmp_path / "resume.json").read_text())["resume_at"] == pytest.approx(llm._resume_at)

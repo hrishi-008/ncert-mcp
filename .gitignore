@@ -12,3 +12,4 @@ state.db
 build/
 *.egg-info/
 data/ingest_log.txt
+data/ingest_resume.json

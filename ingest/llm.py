@@ -14,6 +14,11 @@ Settings (env):
   INGEST_BACKEND          claude-cli | api
   INGEST_MODEL            model id or alias (default: sonnet for claude-cli, claude-opus-5-5 for api)
   INGEST_MAX_UTILIZATION  pause when a window is this full, 0-1 (default 0.97)
+  INGEST_ON_LIMIT         sleep (default): wait in-process until the reset, then continue.
+                          exit: save the reset time to data/ingest_resume.json and exit with code 75,
+                          for machines that can't stay awake that long (a cloud session that is
+                          restarted when idle); whoever runs the job restarts it at that time and it
+                          continues from the saved pages.
 """
 
 from __future__ import annotations
@@ -34,6 +39,9 @@ MODEL = os.environ.get("INGEST_MODEL") or ("sonnet" if BACKEND == "claude-cli" e
 MAX_UTILIZATION = float(os.environ.get("INGEST_MAX_UTILIZATION", "0.97"))
 CLI_TIMEOUT = 900  # seconds for one call
 LIMIT_MARGIN = 120  # sleep this long past the reset time, to be safe
+ON_LIMIT = os.environ.get("INGEST_ON_LIMIT", "sleep")
+RESUME_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "ingest_resume.json")
+EXIT_LIMIT = 75  # exit code meaning "stopped for a usage limit; restart after resume_at"
 
 _gate = threading.Lock()  # one sleeper at a time; other workers wait on it
 _resume_at = 0.0  # epoch seconds: no calls before this
@@ -78,6 +86,13 @@ def _wait_for_window() -> None:
         wait = _resume_at - time.time()
         if wait <= 0:
             return
+        if ON_LIMIT == "exit" and wait > 90:
+            with open(RESUME_FILE, "w") as f:
+                json.dump({"resume_at": _resume_at, "resume_at_utc": datetime.utcfromtimestamp(_resume_at).isoformat(),
+                           "usage": last_usage}, f)
+            log(f"stopping for the usage limit; restart after {datetime.fromtimestamp(_resume_at):%Y-%m-%d %H:%M}")
+            sys.stderr.flush()
+            os._exit(EXIT_LIMIT)  # finished pages are already saved; the restart picks up from there
         time.sleep(min(wait, 60))
 
 

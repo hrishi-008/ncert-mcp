@@ -14,6 +14,7 @@ and pushed, so if this machine goes away the next run continues where this one s
 from __future__ import annotations
 
 import json
+import os
 import subprocess
 import sys
 import time
@@ -54,6 +55,11 @@ def save(message: str) -> None:
 def main() -> int:
     global BRANCH
     BRANCH = git("rev-parse", "--abbrev-ref", "HEAD").stdout.strip()
+    save("Maths vision pass: pages saved by an earlier run")  # pages left over from a stopped run
+    try:
+        os.remove(llm.RESUME_FILE)
+    except FileNotFoundError:
+        pass
     entries = load_manifest()
     maths = [e for e in entries if e["subject"] == "math"]
     cfg = load_book_config()
