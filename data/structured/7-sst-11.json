@@ -6,11 +6,11 @@
  "part": 1,
  "chapter_no": 11,
  "title": "From Barter to Money",
- "summary": "- The barter system existed before money came into existence. A variety of commodities were used to facilitate exchange. - The limitations of the barter system led to the development of money as a medium of exchange. - Forms of money evolved through time, such as shells, coins, and paper currency. This evolution continues as we create new and easier ways to make and receive payments, including the QR code that you saw in the illustration above.",
+ "summary": "The chapter explains how people exchanged goods before money, through the barter system, using commodities like cowrie shells, salt, cattle and cloth. Barter had problems: double coincidence of wants, no common measure of value, and trouble with divisibility, portability and durability. Money solved these as a medium of exchange, a store of value, a common measure of value and a standard of deferred payment. Money changed over time from commodities to metal coins (punched kārṣhāpaṇas), then paper currency, and now digital money like UPI, cards and QR codes. Coins helped trade, including Indian maritime trade with Rome. Today the RBI alone issues currency in India. Some barter still survives, as at the Junbeel Mela in Assam.",
  "sections": [
   {
    "section_id": "7-sst-11-s01",
-   "heading": "CHAPTER",
+   "heading": "From Barter to Money (Introduction, Barter system)",
    "text": "# Chapter 11: From Barter to Money\n\n<!-- page 229 -->\n\n### 11 From Barter to Money\n\n#### CHAPTER\n\n| between the present and the future. – John Maynard Keynes 20th century economist Fig. 11. |  | 1 |\n| --- | --- | --- |\n| Big The Questions | 1. How did exchange take place before money? 2. Why did money come into existence? 3. How has money transformed into various forms over time? |  |\n| In the theme “Tapestry of the Past”, you read about the crops that people grew, such as food grains or goods they made like |  |  |\n\nThe importance of money flows from it being a link between the present and the future.\n\nIn the theme “Tapestry of the Past”, you read about the crops that people grew, such as food grains or goods they made like carnelian beads. How do you think they exchanged these goods for things that they needed?\n\n<!-- page 230 -->\n\nPeople exchanged goods or services for other goods and services. This system is called the **barter system**. How did this work? Suppose you need a pencil and have an extra eraser. Meanwhile, your classmate forgot to bring their eraser but has an extra pencil. You could exchange your extra eraser for the extra pencil that your classmate has. Wouldn’t this satisfy your and the classmate’s needs? This is how the barter system works.\n\n> Barter System: a way of exchanging\n\n> goods and\n\n> services without using\n\n> money.\n\n> Money: the common\n\n> tool that everybody accepts and uses in order\n\nToday, we use coins and notes to buy and sell things. People also use their mobile phones and computers for such **transactions**.\n\n> to make or receive payments in exchange for\n\nThe barter system was the earliest form of exchange. There is a lot of evidence of it from around the world. People used **commodities** such as cowrie shells, salt, tea, tobacco, cloth, cattle (cows, goats, horses, sheep), seeds, etc. **Transaction:**\n\n> goods and\n\n> services.\n\n> a piece of\n\n> business that is done\n\n> between\n\nFig. 11.2.1. Stone Money: Giant discs of rock – called Rai stones\n\n> people, especially an act of buying\n\n– were used as money on the Yap Island, in the Pacific Ocean\n\n> or selling.\n\ncountry of Micronesia.\n\n> Commodities:\n\n> Products or goods\n\n> that can be traded,\n\nFig.11.2.2. The Aztec copper Tajadero (Spanish word for chopping knife) was a form of money used in Central Mexico and parts of Central America.\n\n> bought and sold.\n\nFig. 11.2.3.Tevau (Red feather coil made from birds’\n\nfeathers) used as money on\n\nthe Solomon Islands.\n\n<!-- page 231 -->",
    "page_start": 229,
    "page_end": 231
@@ -81,99 +81,49 @@
  ],
  "key_terms": [
   {
-   "term": "barter system",
-   "meaning": "This system is called the barter system.",
+   "term": "Barter system",
+   "meaning": "People exchanged goods or services for other goods and services. This system is called the **barter system**.",
    "page": 230
   },
   {
-   "term": "transactions",
-   "meaning": "People also use their mobile phones and computers for such transactions.",
-   "page": 230
-  },
-  {
-   "term": "commodities",
-   "meaning": "People used commodities such as cowrie shells, salt, tea, tobacco, cloth, cattle (cows, goats, horses, sheep), seeds, etc.",
-   "page": 230
-  },
-  {
-   "term": "Transaction",
-   "meaning": "Transaction:",
-   "page": 230
-  },
-  {
-   "term": "double coincidence of wants",
-   "meaning": "This scenario is called double coincidence of wants.",
+   "term": "Double coincidence of wants",
+   "meaning": "Double coincidence of wants: an economic concept that describes a situation where two people each have something the other wants and can exchange them directly.",
    "page": 233
   },
   {
-   "term": "common standard measure of value",
-   "meaning": "This is because there is no common standard measure of value.",
+   "term": "Common standard measure of value",
+   "meaning": "Common standard measure of value: an agreed-upon worth for a transaction that helps in determining the value of goods and services in the economy.",
    "page": 233
   },
   {
-   "term": "divisibility",
-   "meaning": "Similarly, you cannot exchange only a part of the ox for a sweater; this is the problem of divisibility.",
+   "term": "Divisibility",
+   "meaning": "Divisibility: The capacity of an object or material to be split into pieces or portions.",
    "page": 233
   },
   {
-   "term": "portability",
-   "meaning": "Taking the ox everywhere is a problem and leads to the problem of portability.",
+   "term": "Portability",
+   "meaning": "Portability: The ability of an object or material to be carried or moved from one place to another.",
    "page": 233
   },
   {
-   "term": "durability",
-   "meaning": "Thus arises the problem of durability.",
-   "page": 234
-  },
-  {
-   "term": "Book exchange",
-   "meaning": "- Book exchange: Think of a fun club where you can trade your old books with friends!",
-   "page": 235
-  },
-  {
-   "term": "exchange of old clothes",
-   "meaning": "- One common example is the exchange of old clothes for new utensils, a practice that has persisted over the years.",
-   "page": 235
-  },
-  {
-   "term": "store of value",
-   "meaning": "So, money acts as a store of value that can be used later.",
-   "page": 237
-  },
-  {
-   "term": "standard of deferred payment",
-   "meaning": "The fact that money is accepted as a way of making deferred payments makes money a standard of deferred payment.",
-   "page": 237
-  },
-  {
-   "term": "minting",
-   "meaning": "The minting and issue of coins was controlled entirely by the rulers.",
+   "term": "Minting",
+   "meaning": "Minting: The process of producing coins.",
    "page": 238
   },
   {
-   "term": "alloys",
-   "meaning": "The coins were made from precious metals like gold, silver, and copper or their alloys.",
-   "page": 238
-  },
-  {
-   "term": "obverse",
-   "meaning": "In ancient times, the two sides of the coins — the head (obverse) and the tail (reverse) — had different kinds of symbols and motifs engraved on them.",
+   "term": "Obverse",
+   "meaning": "Obverse: the side of a coin or medal bearing the head or principal design.",
    "page": 239
   },
   {
-   "term": "currency",
-   "meaning": "Paper money or currency was first used in China and was introduced in India in the late 18th century.",
-   "page": 242
-  },
-  {
-   "term": "denominations",
-   "meaning": "While coins are used for smaller denominations, paper currency is used for higher denominations.",
-   "page": 242
-  },
-  {
-   "term": "QR code",
-   "meaning": "Alongside the colourful fruit that he arranges neatly on his cart is a little card with a QR code.",
+   "term": "QR Code",
+   "meaning": "QR Code: Stands for “quick-response” codes, these are collections of black and white squares, which are readable by devices like smartphones and QR scanners.",
    "page": 243
+  },
+  {
+   "term": "Standard of deferred payment",
+   "meaning": "The fact that money is accepted as a way of making deferred payments makes money a **standard of deferred payment.**",
+   "page": 237
   },
   {
    "term": "Authority",
@@ -246,52 +196,58 @@
    "page": null
   }
  ],
- "activities": [],
+ "activities": [
+  {
+   "label": "Let's Explore: Farmer and the ox",
+   "description": "Imagine that you are a farmer and that people use a barter system where you live. You need a whole variety of things — a pair of new shoes, a sweater, and medicines for your grandmother. But you only have an ox that you can spare. How would you be able to exchange the ox for all the different things you need from different people or places? What difficulties are you likely to face? For one, you would have to find someone who needed an ox. Now, swapping your ox for a pair of shoes would hardly be",
+   "page": 231
+  },
+  {
+   "label": "Let's Explore: Barter practices today",
+   "description": "The illustrations above show you some of the ways in which people practise barter today. Have you observed similar practices in your locality? What are the types of experiences people have in this process?",
+   "page": 236
+  },
+  {
+   "label": "Let's Explore: Timeline of money",
+   "description": "Look at the timeline given below. What are the changes in money that you observe?",
+   "page": 238
+  },
+  {
+   "label": "Let's Explore: Roman coins at Pudukkottai",
+   "description": "The coins shown in Fig. 11.12 were found during excavations in Pudukkottai in Tamil Nadu. Their heads embossed are those of Roman kings. What conclusions can we draw from such a finding?",
+   "page": 239
+  },
+  {
+   "label": "Let's Explore: Old coins group project",
+   "description": "Organise yourselves into groups of five students each. Take up a group project to collect old coins from family members, neighbours, shopkeepers, and so on. Document their various features — what are they made of, what is the year inscribed on the coins, what do you observe on the obverse and reverse sides of the coins. What can you guess from your observations? How would you know if your guesses are true?",
+   "page": 241
+  },
+  {
+   "label": "Let's Explore: Problems with coins",
+   "description": "What do you think happened as coins began to be used for all types of exchanges, whether to buy vegetables or to buy some land? What problems could have come up?",
+   "page": 241
+  },
+  {
+   "label": "Let's Explore: Motifs on notes",
+   "description": "Look at a 50 and a 100-rupee note. Can you identify the motifs depicting India’s cultural heritage on the reverse side of the notes? Find out more about them. - Feel the surface of the notes. What special features of currency notes help visually impaired persons to identify the notes’ denominations?",
+   "page": 242
+  }
+ ],
  "figures": [
   {
    "label": "Fig. 11.2.1",
-   "caption": "Stone Money: Giant discs of rock – called Rai stones",
+   "caption": "Stone Money: Giant discs of rock – called Rai stones – were used as money on the Yap Island",
    "page": 230
   },
   {
    "label": "Fig. 11.2.2",
-   "caption": "The Aztec copper Tajadero (Spanish word for chopping knife) was a form of money used in Central Mexico and parts of Central America.",
+   "caption": "The Aztec copper Tajadero was a form of money used in Central Mexico",
    "page": 230
   },
   {
    "label": "Fig. 11.2.3",
-   "caption": "Tevau (Red feather coil made from birds’",
+   "caption": "Tevau (Red feather coil) used as money on the Solomon Islands",
    "page": 230
-  },
-  {
-   "label": "Fig. 11.4",
-   "caption": "",
-   "page": 234
-  },
-  {
-   "label": "Fig. 11.5",
-   "caption": "",
-   "page": 235
-  },
-  {
-   "label": "Fig. 11.6",
-   "caption": "",
-   "page": 235
-  },
-  {
-   "label": "Fig. 11.7",
-   "caption": "",
-   "page": 236
-  },
-  {
-   "label": "Fig. 11.8",
-   "caption": "",
-   "page": 236
-  },
-  {
-   "label": "Fig. 11.9",
-   "caption": "",
-   "page": 237
   },
   {
    "label": "Fig. 11.10",
@@ -299,107 +255,103 @@
    "page": 238
   },
   {
-   "label": "Fig. 11.11",
-   "caption": "",
-   "page": 239
-  },
-  {
    "label": "Fig. 11.12",
    "caption": "Roman gold coins excavated in Pudukottai India",
    "page": 240
   },
   {
-   "label": "Fig. 11.13",
-   "caption": "",
-   "page": 240
-  },
-  {
-   "label": "Fig. 11.14",
-   "caption": "",
-   "page": 241
-  },
-  {
    "label": "Fig. 11.15",
-   "caption": "Uniface notes of Bank of Bengal (Left) and",
+   "caption": "Uniface notes of Bank of Bengal and Ten rupee note from Bank of Bombay",
    "page": 242
   },
   {
    "label": "Fig. 11.16",
    "caption": "Paper currency today",
    "page": 242
-  },
-  {
-   "label": "Fig. 11.17",
-   "caption": "",
-   "page": 242
-  },
-  {
-   "label": "Fig. 11.18",
-   "caption": "",
-   "page": 243
   }
  ],
  "exercises": [
   {
-   "label": "LET’S EXPLORE (p. 231)",
-   "text": "Imagine that you are a farmer and that people use a barter system where you live. You need a whole variety of things — a pair of new shoes, a sweater, and medicines for your grandmother. But you only have an ox that you can\n\nspare. How would you be able to exchange the ox for all the different things you need from different people or places? What difficulties are you likely to face?\n\nFor one, you would have to find someone who needed an ox. Now, swapping your ox for a pair of shoes would hardly be a fair exchange! You may have\n\nhad to go through a series of exchanges — for example, find\n\nsomeone to exchange your ox for several bags of wheat. You would then have to transport all that wheat to several places; first, find someone willing to exchange a part of the wheat for shoes, another person for the sweater, and yet another for the medicines.\n\n<!-- page 232 -->\n\n|  | In each of these cases, a discussion would take place to arrive at the fair amount of wheat that you could exchange for shoes or for the sweater. |  |\n| --- | --- | --- |\n|  |  |  |\n| ring Society: India and Beyond / Grade 7 Part 1 |  |  |\n|  | You would have to take the leftover bags of wheat and find a place to store them safely. The next time you needed something, you would have to carry the bags of wheat with you again! |  |\n|  |  |  |\n|  | THINK ABOUT IT |  |\n|  | What are the different types of difficulties you encountered in the situation above? |  |\n|  |  |  |\n\nIn the farmer’s story, imagine he finds someone who is willing to trade a pair of new shoes, a sweater, and\n\n<!-- page 233 -->\n\n> Double coincidence of wants: an economic concept that describes a situation where two people each have something the other wants and can exchange them directly.\n\nmedicines — all in exchange for his ox. Do you think it would be easy to come across such a situation?\n\nJust like the farmer, people who depended on the barter system would face many problems in making an exchange in their everyday lives. They would have to find someone who wants the exact item that they want to give, and in return are also able to offer exactly what the other party wants. This scenario is called **double coincidence of wants**.\n\nEven if there are two people who want each other’s goods and are also willing to make an exchange, other issues could arise — in what proportion should the two goods be exchanged? In such cases, it becomes difficult to compare the value of one good against another. If one of the people feels that the exchange is disadvantageous, they would not be interested in the exchange. This is because there is no **common standard measure of value**.\n\n> Common standard measure of value: an agreed-upon worth for a transaction that helps in determining the value of goods and services in the economy.",
+   "label": "Think about it Q1",
+   "text": "|  | THINK ABOUT IT |  |\n|  | What are the different types of difficulties you encountered in the situation above? |  |",
    "type_hint": "short",
-   "page": 231,
+   "page": 232,
    "source": "in_chapter"
   },
   {
-   "label": "THINK ABOUT IT (p. 233)",
-   "text": "What are the instances of double coincidence of wants in the above example?\n\n> Divisibility: The capacity of an object or material to be split into pieces or portions.\n\nEven if there are two people who want each other’s goods and are also willing to make an exchange, other issues could arise — in what proportion should the two goods be exchanged? In such cases, it becomes difficult to compare the value of one good against another. If one of the people feels that the exchange is disadvantageous, they would not be interested in the exchange. This is because there is no common standard measure of value.\n\n> Portability: The ability of an object or material to be carried or moved from one place to another.\n\nIn the situation given above, what are the cases where you could\n\nencounter the lack of a common standard measure of value?\n\nSimilarly, you cannot exchange only a part of the ox for a sweater; this is the problem of **divisibility**. Taking the ox everywhere is a problem and leads to the problem of **portability**. You solved part of the problem by exchanging\n\n<!-- page 234 -->\n\nthe ox for bags of wheat, but you cannot store the wheat for long; it would rot or get eaten by rats! Thus arises the problem of **durability**.",
+   "label": "Think about it Q2",
+   "text": "##### THINK ABOUT IT\n\nWhat are the instances of double coincidence of wants in the above example?",
    "type_hint": "short",
    "page": 233,
    "source": "in_chapter"
   },
   {
-   "label": "THINK ABOUT IT (p. 234)",
-   "text": "What are the different ways in which money would make the above situation easier for the farmer?",
+   "label": "Think about it Q3",
+   "text": "In the situation given above, what are the cases where you could\n\nencounter the lack of a common standard measure of value?",
+   "type_hint": "short",
+   "page": 233,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Think about it Q4",
+   "text": "##### THINK ABOUT IT\n\nWhat are the different ways in which money would make the above situation easier for the farmer?",
    "type_hint": "short",
    "page": 234,
    "source": "in_chapter"
   },
   {
-   "label": "THINK ABOUT IT (p. 237)",
-   "text": "Suppose you need to buy a book. You have ₹50 in your\n\npocket. You visit the bookshop in your neighbourhood where the shopkeeper tells you that the book is worth ₹100. What options do you have to buy the book today? Will you request the shopkeeper to allow you to make the rest of the payment later?\n\nThe fact that money is accepted as a way of making deferred payments makes money a **standard of deferred payment.**\n\n<!-- page 238 -->",
+   "label": "Think about it Q5",
+   "text": "##### THINK ABOUT IT\n\nSuppose you need to buy a book. You have ₹50 in your\n\npocket. You visit the bookshop in your neighbourhood where the shopkeeper tells you that the book is worth ₹100. What options do you have to buy the book today? Will you request the shopkeeper to allow you to make the rest of the payment later?",
    "type_hint": "short",
    "page": 237,
    "source": "in_chapter"
   },
   {
-   "label": "LET’S EXPLORE (p. 238)",
-   "text": "Look at the timeline given below. What are the changes in money that you observe?",
+   "label": "Let's explore Q1",
+   "text": "##### LET’S EXPLORE\n\nImagine that you are a farmer and that people use a barter system where you live. You need a whole variety of things — a pair of new shoes, a sweater, and medicines for your grandmother. But you only have an ox that you can\n\nspare. How would you be able to exchange the ox for all the different things you need from different people or places? What difficulties are you likely to face?",
+   "type_hint": "short",
+   "page": 231,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Let's explore Q2",
+   "text": "> LET’S EXPLORE\n\nThe illustrations above show you some of the ways in which people practise barter today. Have you observed similar practices in your locality? What are the types of experiences people have in this process?",
+   "type_hint": "short",
+   "page": 236,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Let's explore Q3",
+   "text": "##### LET’S EXPLORE\n\nLook at the timeline given below. What are the changes in money that you observe?",
    "type_hint": "short",
    "page": 238,
    "source": "in_chapter"
   },
   {
-   "label": "LET’S EXPLORE (p. 239)",
-   "text": "The coins shown in Fig. 11.12 were found during excavations in Pudukkottai in Tamil Nadu. Their heads embossed are those of Roman kings. What conclusions can we draw from such a finding?\n\n<!-- page 240 -->\n\nFig. 11.12. Roman gold coins excavated in Pudukottai India\n\nThe use of coinage helped boost India’s maritime trade with the world. For example, they were found in parts of Kerala and Tamil Nadu. This throws light on the trading activities of southern India with the rest of the world. Based on this finding, scholars conclude that the trade was in favour of India.",
-   "type_hint": "diagram",
+   "label": "Let's explore Q4",
+   "text": "##### LET’S EXPLORE\n\nThe coins shown in Fig. 11.12 were found during excavations in Pudukkottai in Tamil Nadu. Their heads embossed are those of Roman kings. What conclusions can we draw from such a finding?",
+   "type_hint": "short",
    "page": 239,
    "source": "in_chapter"
   },
   {
-   "label": "LET’S EXPLORE (p. 241)",
-   "text": "Organise yourselves into groups of five students each. Take up a group project to collect old coins from family members, neighbours, shopkeepers, and so on. Document their various features — what are they made of, what is the year inscribed on the coins, what do you observe on the obverse and reverse sides of the coins. What can you guess from your observations? How would you know if your guesses are true?\n\nWhile the barter system used non-metallic money as discussed above, coinage, that is metallic money, gave way to other forms of money!",
+   "label": "Let's explore Q5",
+   "text": "##### LET’S EXPLORE\n\nOrganise yourselves into groups of five students each. Take up a group project to collect old coins from family members, neighbours, shopkeepers, and so on. Document their various features — what are they made of, what is the year inscribed on the coins, what do you observe on the obverse and reverse sides of the coins. What can you guess from your observations? How would you know if your guesses are true?",
+   "type_hint": "activity",
+   "page": 241,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Let's explore Q6",
+   "text": "##### LET’S EXPLORE\n\nWhat do you think happened as coins began to be used for all types of exchanges, whether to buy vegetables or to buy some land? What problems could have come up?",
    "type_hint": "short",
    "page": 241,
    "source": "in_chapter"
   },
   {
-   "label": "LET’S EXPLORE (p. 241)",
-   "text": "What do you think happened as coins began to be used for all types of exchanges, whether to buy vegetables or to buy some land? What problems could have come up?\n\nAs you may have imagined, it became difficult to carry a large number of coins. Storing the coins also became a problem. The search for a more suitable alternative ended\n\n<!-- page 242 -->\n\nwith the use of paper money. Paper money or **currency** was first used in China and was introduced in India in the late 18th century.\n\n> Currency:\n\n> System of money that\n\n> is used in a\n\n> particular country. For example, coins\n\n> and paper notes that are used in India in\n\n> terms of rupee\n\n> is the Indian\n\n> currency.\n\n> Denominations:\n\nFig. 11.15. Uniface notes of Bank of Bengal (Left) and\n\n> Units in which\n\nTen rupee note from Bank of Bombay (Source:RBI)\n\n> coins and paper notes are classified.\n\nWhile coins are used for smaller **denominations**, paper currency is used for higher denominations.\n\n> For example, denominations of\n\nToday, most of the currency notes you see look like this …\n\n> Indian currency include 50 paisa,\n\n> ₹1, ₹2, ₹5, ₹10,\n\n> ₹20 coins and paper notes of\n\n> ₹10, ₹20, ₹50, ₹100, ₹200, ₹500\n\n> and ₹1000.\n\nFig. 11.16. Paper currency today",
+   "label": "Let's explore Q7",
+   "text": "##### LET’S EXPLORE\n\nLook at a 50 and a 100-rupee note. Can you identify the motifs depicting India’s cultural heritage on the reverse side of the notes? Find out more about them.\n\n- Feel the surface of the notes. What special features of currency notes help visually impaired persons to identify the notes’ denominations?",
    "type_hint": "short",
-   "page": 241,
-   "source": "in_chapter"
-  },
-  {
-   "label": "LET’S EXPLORE (p. 242)",
-   "text": "Look at a 50 and a 100-rupee note. Can you identify the motifs depicting India’s cultural heritage on the reverse side of the notes? Find out more about them.\n\n- Feel the surface of the notes. What special features of currency notes help visually impaired persons to identify the notes’ denominations?\n\nFig. 11.17\n\n<!-- page 243 -->\n\nEarlier in this chapter, we read that in ancient times coins were issued by rulers. Today, in India, we have a central authority called the Reserve Bank of India (RBI) that controls the issue of currency. It is not legal for anybody other than the RBI to issue currency.",
-   "type_hint": "numerical",
    "page": 242,
    "source": "in_chapter"
   },
@@ -434,63 +386,66 @@
   {
    "label": "Questions and activities Q5",
    "text": "5. What steps might have been taken in ancient times so that Indian coins could become the medium of exchange across countries?",
-   "type_hint": "short",
+   "type_hint": "long",
    "page": 244,
    "source": "end"
   },
   {
    "label": "Questions and activities Q6",
    "text": "6. Read the following lines from the Arthaśhāstra. “An annual salary of 60 paṇas could be substituted by an āḍhaka of grain per day, enough for four meals…” (One āḍhaka is equal to about 3 kg) What does this indicate about the value of one paṇa? The fine for failing to help a neighbour was 100 paṇas. Compare this with the annual salary. What conclusion can you draw about the human values being encouraged through this?",
-   "type_hint": "diagram",
+   "type_hint": "long",
    "page": 244,
    "source": "end"
   },
   {
    "label": "Questions and activities Q7",
-   "text": "7. Write and enact a skit to show how people may have persuaded each other to use cowrie shells (or other such items) as the medium of exchange.\n\n<!-- page 245 -->",
-   "type_hint": "short",
+   "text": "7. Write and enact a skit to show how people may have persuaded each other to use cowrie shells (or other such items) as the medium of exchange.",
+   "type_hint": "activity",
    "page": 244,
    "source": "end"
   },
   {
    "label": "Questions and activities Q8",
    "text": "8. The RBI is the only legal source that prints and distributes paper currency in India. To prevent illegal printing of notes and their misuse, the RBI has introduced many security features. Find out what some of these measures are and discuss them in class.",
-   "type_hint": "long",
+   "type_hint": "activity",
    "page": 245,
    "source": "end"
   },
   {
    "label": "Questions and activities Q9",
-   "text": "9. Interview a few of your family members and local shopkeepers, and ask them their preferences in making and receiving payments — do they prefer cash or UPI? Why?\n\n<!-- page 246 -->",
-   "type_hint": "long",
+   "text": "9. Interview a few of your family members and local shopkeepers, and ask them their preferences in making and receiving payments — do they prefer cash or UPI? Why?",
+   "type_hint": "activity",
    "page": 245,
    "source": "end"
   }
  ],
  "topics": [
   "barter system",
-  "transactions",
+  "money",
   "commodities",
-  "Transaction",
   "double coincidence of wants",
-  "common standard measure of value",
+  "common measure of value",
   "divisibility",
   "portability",
   "durability",
-  "Book exchange",
-  "exchange of old clothes",
+  "functions of money",
   "store of value",
-  "standard of deferred payment",
-  "minting",
-  "alloys",
-  "obverse",
-  "currency",
-  "denominations",
-  "QR code"
+  "deferred payment",
+  "coinage",
+  "kārṣhāpaṇas",
+  "punched coins",
+  "Roman coins Pudukkottai",
+  "paper currency",
+  "Reserve Bank of India",
+  "digital money",
+  "UPI",
+  "QR code",
+  "Junbeel Mela",
+  "rupee symbol"
  ],
  "page_start": 229,
  "page_end": 246,
- "structured_by": "heuristic",
+ "structured_by": "llm:sonnet",
  "warnings": [
   "very short section 7-sst-11-s10 'Noodles'"
  ]
