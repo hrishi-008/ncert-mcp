@@ -88,13 +88,14 @@ def run_chapter(entry: dict, workers: int) -> dict:
         if answers and not any(m[0] for m in markers[: len(checks)]):
             out += [ANSWERS_HEADING, ""]
         out += [page_marker(int(no), bool(answers)), "", md, ""]
-        # Words (not maths) the plain text has but the transcription lacks.
-        want = Counter(w for w in words(plain) if w.isalpha() and len(w) > 2)
-        got = Counter(w for w in words(md) if w.isalpha())
-        missing = want - got
-        ratio = sum(missing.values()) / max(1, sum(want.values()))
-        checks.append({"page": f"{answers}{no}".strip(), "plain_words": sum(want.values()), "missing": sum(missing.values()),
-                       "missing_ratio": round(ratio, 3), "sample": [w for w, _ in missing.most_common(12)]})
+        # Words (not maths) the plain text has but the transcription lacks entirely. Distinct words, not
+        # counts: the plain text can repeat words in boxed layouts, and the page markers sit between pages.
+        want = {w for w in words(plain.replace(ANSWERS_HEADING, "")) if w.isalpha() and len(w) > 2}
+        got = {w for w in words(md) if w.isalpha()}
+        missing = sorted(want - got)
+        ratio = len(missing) / max(1, len(want))
+        checks.append({"page": f"{answers}{no}".strip(), "plain_words": len(want), "missing": len(missing),
+                       "missing_ratio": round(ratio, 3), "sample": missing[:12]})
     (EXTRACTED / f"{entry['chapter_id']}.md").write_text("\n".join(out).strip() + "\n", encoding="utf-8")
     report = {"chapter_id": entry["chapter_id"], "model": llm.describe(), "pages": checks,
               "flagged_pages": [ch["page"] for ch in checks if ch["missing_ratio"] > 0.05 and ch["missing"] >= 5]}
