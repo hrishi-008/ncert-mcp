@@ -6,441 +6,465 @@
  "part": 2,
  "chapter_no": 15,
  "title": "Finding the Unknown",
- "summary": "- An algebraic equation is a mathematical statement that indicates the equality of two algebraic expressions. - When the same operation is performed on both sides of an equation, equality is maintained. - Finding a solution to an equation means finding the values of the unknowns in the expressions such that the LHS is equal to the RHS. - Equations can often be solved by performing the same operation on both sides so that the value of the unknown becomes evident. A Magic Trick Think of any number. Now multiply it by 2. Add 10. Divide by 2. Now subtract the original number you thought of. Finally, add 3. I predict that you now have 8. Am I correct? Try the trick on your friends and family! Can you explain why the trick works? [Hint: Denote the first number thought of by x.] Can you make your own such tricks? tANGRAM Note: Cut each shape along the white border. B E A D C F G",
+ "summary": "This chapter introduces equations as statements that two algebraic expressions are equal. It begins with weighing-scale puzzles and a matchstick pattern to show why we need to find unknowns. Students learn to frame equations with letter-numbers and to solve them by trial and error. The main method is doing the same operation on both sides, which keeps the equation balanced. Worked examples cover word problems, number tricks, and equations with unknowns on both sides. Students also practise spotting mistakes in solutions. A history section describes Brahmagupta, Al-Khwarizmi, bījagaṇita, and Brahmagupta's formula for Ax + B = Cx + D.",
  "sections": [
   {
    "section_id": "7-math-15-s01",
    "heading": "7.1 Find the Unknowns",
-   "text": "# Chapter 15: Finding the Unknown\n\n<!-- page 164 -->\n\n## FINDING THE UNKNOWN 7\n\n#### 7.1 Find the Unknowns\n\n#### Unknown Weights\n\nWe have a weighing scale that behaves as follows. The numbers represent same units of weight:\n\nFind the unknown weights in the following cases:\n\nFig. 7.1 Fig. 7.2 Fig. 7.3\n\n<!-- page 165 -->\n\nFinding the Unknown\n\nFig. 7.5 Fig. 7.4\n\nFig. 7.6 Fig. 7.7 Fig. 7.8\n\nDiscuss the answers with your classmates. Give reasons why you think your answer is right. | Math\n\nTalk\n\nFind the unknown weight of the sack in the following cases. In Fig. 7.10, all the sacks have the same weight.\n\nFig. 7.9 Fig. 7.10\n\n**[Hint:** If we remove equal weights from both the plates, will the weighing scale still be balanced? Remove one sack from each plate for Fig. 7.10.]\n\n<!-- page 166 -->\n\nFig. 7.11\n\n[**Hint:** Can you remove objects so that the sacks are only on one plate?]\n\nFig. 7.12\n\n**Note to the Teacher:** Encourage your students to find solutions to these problems using different strategies and methods, and ask them to compare and contrast their methods.\n\nLet us find an unknown value in a different setting.\n\n#### Matchstick Pattern\n\nConsider this sequence of matchstick arrangements.\n\n1 2 3 4\n\nRecall that we have studied this sequence in an earlier chapter.\n\n<!-- page 167 -->\n\nFinding the Unknown\n\nThe figure shows the first 4 matchstick arrangements along with their position numbers in the sequence.\n\nJasmine decides to make a matchstick arrangement that appears in this sequence, using exactly 99 sticks. What will be the position number of this arrangement in the sequence?\n\nTo answer this question, it is useful to know the number of matchsticks in each position. We see that\n\nthe arrangement at position 1 has 2 × (1) + 1 = 3 matchsticks, the arrangement at position 2 has 2 × (2) + 1 = 5 matchsticks, the arrangement at position 3 has 2 × (3) + 1 = 7 matchsticks, and so on. So, the nth position will have 2n+1 matchsticks. To answer Jasmine’s question, we have to find the value of n such that 2n + 1 has the value 99, or, 2n + 1 = 99.\n\nCan you find ways to get the value of n, such that 2n + 1 = 99? | Math\n\nTalk\n\nIs it possible to make a matchstick arrangement that appears in this sequence using exactly 200 sticks?\n\nA statement of equality between two algebraic expressions is called an **equation**. Nowadays, when using symbols, we write an equation as two algebraic expressions with an equal sign ‘=’ between them.\n\nHere are some more examples of equations:\n\n3x + 4 = 7,\n\n20 = y – 3,\n\na 3 = 50,\n\n2z + 4 = 5z – 14 etc.\n\nThe process of finding the value(s) of the letter−numbers for which the equality holds, or for which the value of the Left Hand Side (LHS) of the equation becomes equal to the Right Hand Side (RHS) of the equation, is called **solving** the equation.\n\nAs we saw in the matchstick problem, framing an equation using an unknown quantity as a letter−number can help us find its value. | Left Hand Side | Right Hand Side\n\n(LHS) | (RHS)\n\n2n + 1 = 99\n\n<!-- page 168 -->\n\nFor the weighing scale problems in figures 7.6, 7.7, 7.8, 7.9, 7.10, and 7.11, frame equations by using letter-numbers to denote the unknown weight.\n\nFor the problem in Fig. 7.6, let us denote the weight of one fried egg as e.\n\nSince each slice of bread is 2, we have 2 + 2 + 2 = 6 on one side and e + e on the other side. Since they are equal, we have\n\n6 = e + e, or\n\n2e = 6.\n\nFor the problem in Fig. 7.7, = 4, and we can denote the weight of one as y. So, we have 16 on one side, and 4 + 2y on the other side. Thus, we have the equation\n\n4 + 2y = 16.\n\nSolve the equations that you frame and check if you get the same value for the unknown weight as you got previously.\n\nMath\n\nFrame 5 equations. Find methods to solve them. | Talk",
+   "text": "# Chapter 15: Finding the Unknown\n\n<!-- page 164 -->\n\n# 7 FINDING THE UNKNOWN\n\n[Figure: QR code labelled 0789CH07]\n\n## 7.1 Find the Unknowns\n\n### Unknown Weights\n\nWe have a weighing scale that behaves as follows. The numbers represent same units of weight:\n\n[Figure: Two weighing-scale illustrations. Left: a bar with a circle labelled 4 above it, with two characters hanging from it, each labelled 2. Right: a tilted bar with a circle labelled 7 above it, with two characters hanging from it, one labelled 4 and the other labelled 3.]\n\nFind the unknown weights in the following cases:\n\n[Figure: Fig. 7.1 – A hanging mobile with total 16. On the left hang a green leaf, a dark blue turtle and another green leaf, one below the other; on the right hangs a pink flower. Below: green leaf = 3, turtle = blank box, flower = blank box.]\n\n*Fig. 7.1*\n\n[Figure: Fig. 7.2 – A hanging mobile with total 24. On the left hang a red starfish, a blue fish and another red starfish; on the right hang a blue striped fish and a grey submarine-like object. Below: red starfish = 2, blue fish = blank box, grey object = blank box.]\n\n*Fig. 7.2*\n\n[Figure: Fig. 7.3 – A hanging mobile with total 8. On the left hangs an orange book; on the right hangs a smaller balance holding two green pencil boxes. Below: book = blank box, pencil box = blank box.]\n\n*Fig. 7.3*\n\n<!-- page 165 -->\n\n[Figure: Fig. 7.4 – a mobile hanging from a circle labelled 18; left side has a sun above four clouds, right side has three lightning bolts; at the bottom: cloud = [blank box], sun = 5, lightning bolt = [blank box]]\n\n[Figure: Fig. 7.5 – a mobile hanging from a circle labelled 40; left side has five blue gems in a column with a crown at the top, right side has five crowns in a column; at the bottom: crown = [blank box], gem = [blank box]]\n\nFig. 7.4\n\nFig. 7.5\n\n[Figure: Fig. 7.6 – a balanced mobile held by a hand; left side has three slices of bread, right side has two fried eggs; at the bottom: bread = 2, egg = [blank box]]\n\n[Figure: Fig. 7.7 – a balanced mobile held by a hand; left side has four cross-shaped pieces, right side has a doughnut, a cross-shaped piece and a doughnut; at the bottom: cross = 4, doughnut = [blank box]]\n\n[Figure: Fig. 7.8 – a balanced mobile held by a hand; left side has a watermelon slice, right side has a banana, an orange and a banana; at the bottom: watermelon = 10, orange = 4, banana = [blank box]]\n\nFig. 7.6\n\nFig. 7.7\n\nFig. 7.8\n\n### Math Talk\n\n1. Discuss the answers with your classmates. Give reasons why you think your answer is right.\n\n2. Find the unknown weight of the sack in the following cases. In Fig. 7.10, all the sacks have the same weight.\n\n[Figure: Fig. 7.9 – a weighing scale; left plate has one sack and a 2 Kg weight, right plate has a 10 Kg weight and a 2 Kg weight]\n\n[Figure: Fig. 7.10 – a weighing scale; left plate has two sacks, right plate has a 10 Kg weight, a 4 Kg weight and one sack]\n\nFig. 7.9\n\nFig. 7.10\n\n[**Hint:** If we remove equal weights from both the plates, will the weighing scale still be balanced? Remove one sack from each plate for Fig. 7.10.]\n\n<!-- page 166 -->\n\n[Figure: Balance scale in equilibrium (Fig. 7.11). The left plate holds 5 sacks. The right plate holds 2 sacks, two blocks labelled \"10 kg\" and \"10 kg\", and a \"1 kg\" weight. The \"=\" sign is shown on the pivot.]\n\n*Fig. 7.11*\n\n[**Hint:** Can you remove objects so that the sacks are only on one plate?]\n\n[Figure: Balance scale in equilibrium (Fig. 7.12). The left plate holds a bundle of sacks tagged \"90 Sacks\" and a block labelled \"50 Kg\". The right plate holds a bundle of sacks tagged \"60 Sacks\" and a large block labelled \"500 Kg\". The \"=\" sign is shown on the pivot.]\n\n*Fig. 7.12*\n\n> **Note to the Teacher:** Encourage your students to find solutions to these problems using different strategies and methods, and ask them to compare and contrast their methods.\n\nLet us find an unknown value in a different setting.\n\n### Matchstick Pattern\n\nConsider this sequence of matchstick arrangements.\n\n[Figure: Four matchstick arrangements of triangles in a row, labelled 1, 2, 3 and 4. Arrangement 1 is a single triangle, 2 is two triangles, 3 is three triangles, and 4 is four triangles, joined side by side.]\n\nRecall that we have studied this sequence in an earlier chapter.\n\n<!-- page 167 -->\n\nThe figure shows the first 4 matchstick arrangements along with their position numbers in the sequence.\n\n> ?\n\nJasmine decides to make a matchstick arrangement that appears in this sequence, using exactly 99 sticks. What will be the position number of this arrangement in the sequence?\n\nTo answer this question, it is useful to know the number of matchsticks in each position.\nWe see that\n\nthe arrangement at position 1 has $2 \\times (1) + 1 = 3$ matchsticks,\nthe arrangement at position 2 has $2 \\times (2) + 1 = 5$ matchsticks,\nthe arrangement at position 3 has $2 \\times (3) + 1 = 7$ matchsticks,\nand so on.\n\nSo, the $n^{\\text{th}}$ position will have $2n+1$ matchsticks.\n\nTo answer Jasmine's question, we have to find the value of $n$ such that $2n + 1$ has the value 99, or,\n\n$$2n + 1 = 99.$$\n\n> Math Talk\n\n? Can you find ways to get the value of $n$, such that $2n + 1 = 99$?\n\n? Is it possible to make a matchstick arrangement that appears in this sequence using exactly 200 sticks?\n\nA statement of equality between two algebraic expressions is called an **equation**. Nowadays, when using symbols, we write an equation as two algebraic expressions with an equal sign '=' between them.\n\nHere are some more examples of equations:\n\n$$3x + 4 = 7,$$\n\n$$20 = y - 3,$$\n\n$$\\frac{a}{3} = 50,$$\n\n$$2z + 4 = 5z - 14 \\text{ etc.}$$\n\nThe process of finding the value(s) of the letter-numbers for which the equality holds, or for which the value of the Left Hand Side (LHS) of the equation becomes equal to the Right Hand Side (RHS) of the equation, is called **solving** the equation.\n\nAs we saw in the matchstick problem, framing an equation using an unknown quantity as a letter-number can help us find its value.\n\n[Figure: The equation $2n + 1 = 99$ with a callout labelled \"Left Hand Side (LHS)\" pointing to the left of the equal sign and a callout labelled \"Right Hand Side (RHS)\" pointing to the right of the equal sign.]\n\n<!-- page 168 -->\n\nFor the weighing scale problems in figures 7.6, 7.7, 7.8, 7.9, 7.10, and 7.11, frame equations by using letter-numbers to denote the unknown weight.\n\nFor the problem in Fig. 7.6, let us denote the weight of one fried egg as $e$.\n\nSince each slice of bread is 2, we have $2 + 2 + 2 = 6$ on one side and $e + e$ on the other side. Since they are equal, we have\n\n$$6 = e + e, \\text{ or}$$\n\n$$2e = 6.$$\n\nFor the problem in Fig. 7.7, [Figure: small yellow object] $= 4$, and we can denote the weight of one [Figure: red doughnut-like object] as $y$. So, we have 16 on one side, and $4 + 2y$ on the other side. Thus, we have the equation\n\n$$4 + 2y = 16.$$\n\nSolve the equations that you frame and check if you get the same value for the unknown weight as you got previously.\n\n> [Figure: \"Math Talk\" icon]\n\nFrame 5 equations. Find methods to solve them.",
    "page_start": 164,
    "page_end": 168
   },
   {
    "section_id": "7-math-15-s02",
    "heading": "7.2 Solving Equations Systematically",
-   "text": "#### 7.2 Solving Equations Systematically\n\nHow did you solve the various equations framed in the previous section? One way to solve an equation is to substitute different values in place of the letter−number and to check which value makes LHS = RHS. For example, consider the equation 2n + 1 = 99.\n\nIf we substitute n = 5, we get LHS = 2 × (5) + 1 = 11. It is far away from 99, the RHS. We can try n = 10. The LHS is 21. It is still not equal to 99. Can we try n = 30? The LHS is now 61, still much lower than 99. Let us try n = 40. The LHS is 81. We are getting closer to 99. When n = 50, the LHS is 101. This is just a bit too high. When n = 49, the LHS is 99! Therefore, the solution to the equation 2n + 1 = 99 is n = 49.\n\nCan this equation have any other solution?\n\nThis method is called the **trial and error** method.\n\nThe trial and error method can be inefficient.\n\nTry solving 5x – 4 = 7 using trial and error.\n\n<!-- page 169 -->\n\nFinding the Unknown\n\nRecall that in the case of the weighing scale, we didn’t use the trial and error method! For some problems, finding the solution was straightforward. For others, we used the fact that when we remove equal weights from both the plates of a balanced weighing scale, it remains balanced. Do equations have a similar property?\n\nConsider an equation 15 + 8 = 23. If we add, subtract, multiply or divide the same number on both sides, will it still preserve the equality of LHS and RHS?\n\nFor example, you can check by adding 10 to both sides.\n\nSince the LHS and the RHS of an equation have the same value, performing the same operation on both sides will clearly not change their equality.\n\nIn the weighing scale problems, we removed equal weights so that all the unknown weights were on only one plate of the scale. This made the problem easier to solve. We can use this same strategy to solve an equation as well! Let us first solve some arithmetic problems.\n\n**Example 1:** It is known that 14593 – 1459 + 145 – 14 + 88 = 13353. What is the value of 14593 – 1459 + 145 – 14?\n\nTo find the value, do we need to evaluate 14593 – 1459 + 145 – 14? No, we can get it by subtracting 88 from 13353.\n\nWhy can we do this?\n\nWe can do this because addition and subtraction are inverse operations. So, the value of the required expression can be found by subtracting 88 from both sides (LHS and RHS), which removes the term 88 and leaves only the expression to be evaluated on the LHS.\n\n14593 – 1459 + 145 – 14 + 88 – 88 = 13353 – 88\n\n**Example 2:** It is known that 23 × 41 × 11 × 8 × 7 = 5,80,888. What is the value of the expression 23 × 41 × 11 × 8?\n\nUsing the fact that multiplication and division are inverse operations, we can simply divide 5,80,888 by 7 to get the value of the expression.\n\nIs this the same as dividing both sides by 7, which removes the factor 7 and leaves only the expression to be evaluated on the LHS? | Math\n\nTalk\n\n**Example 3:** It is known that 12345 – 5432 + 135 – 24 – (–67) = 7091. What is the value of the expression 12345 – 5432 + 135 – 24?\n\n<!-- page 170 -->\n\nThis problem also can be solved using the fact that addition and subtraction are inverse operations. However, we can use the following method that is perhaps easier to visualise.\n\nTo retain only the expression to be evaluated on the LHS, we need to remove the term –(–67). We can remove this term by adding (–67) to both sides of the equation.\n\n12345 – 5432 + 132 – 24 – (–67) + (–67) = 7091 + (–67) 12345 – 5432 + 132 – 24 – (–67) + (–67) = 7091 + (–67) Thus, 12345 – 5432 + 132 – 24 = 7024.\n\n**Example 4:** It is known that ( | 35 113) × 24 × 14 × ( 8 9) = 94080 1017 . What is the\n\nvalue of the expression ( | 35 113) × 24 × 14?\n\n**Solution:** To retain only the expression to be evaluated on the LHS we\n\nneed to remove the factor ( | 8 9). We can do that by dividing both sides by ( 8 9).\n\n[( | 35 113) × 24 × 14 × ( 8 9)] ÷ ( 8 9) = 94080 1017 ÷ ( 8 9)\n\n( | 35 113) × 24 × 14 × ( 8 9) × ( 9 8) = 94080 1017 × ( 9 8)\n\nThus,\n\n( | 35 113) × 24 × 14 = 11760 113.\n\nLet us use these ideas to solve the equation 5x – 4 = 7.\n\nWhat can we do so that 5x is on one side and the equality between the LHS and the RHS still holds?\n\nTo retain only 5x on the LHS, we need to remove the term – 4. This can be done by adding 4 to both sides.\n\nThus, 5x – 4 + 4 = 7 + 4.\n\nHence, 5x = 11.\n\nTo retain only the unknown x on the LHS, we need to remove the factor 5. This can be done by dividing both sides by 5.\n\nThus, 5x\n\n5 = 11 5 .\n\nSo, x = 11\n\n5 .\n\n<!-- page 171 -->\n\nFinding the Unknown\n\nCan we check that x = 11\n\n5 is the correct solution to the equation?\n\nWe can check this by substituting x with the value 11\n\n5 in the equation\n\n5x – 4 = 7, and checking if the LHS = RHS.\n\nSubstituting x with 11\n\n5 in the LHS we get,\n\nLHS = 5 ( | 11 5 ) – 4\n\n= 5 ( | 11 5 ) – 4\n\n= 11 – 4\n\n= 7\n\nThis is the same as the RHS.\n\nSo, 11\n\n5 is indeed the correct solution to the equation.\n\n**Example 5:** Solve the equation 11y + (–5) = 61.\n\nTo retain only the unknown term 11y on one side, we need to remove the term –5. This can be done by subtracting (–5) from both sides.\n\n11y + (–5) – (–5) = 61 – (–5).\n\nThat is,\n\n11y = 66.\n\nWe can directly find the value of y, seeing that 11 × 6 = 66.\n\nWe can also divide both sides by 11 to find y.\n\n11y ÷11 = 66 ÷ 11.\n\nSo y = 6 is the solution to the equation 11y + (–5) = 61.\n\nCan you check that this solution is correct?\n\n**Example 6:** Solve 6y + 7 = 4y + 21.\n\nIn this equation, expressions with an unknown are on both sides.\n\nWe have seen how to solve equations when the unknown term is on one side. What can be done to bring the unknown terms to the same side?\n\nSubtracting 4y from both sides, we get\n\n6y + 7 – 4y = 4y + 21 – 4y.\n\nSo,\n\n2y + 7 = 21.\n\n<!-- page 172 -->\n\nSubtracting 7 from both sides we get\n\n2y + 7 – 7 = 21 – 7, which gives\n\n2y = 14.\n\nWe can directly find the value of y, seeing that 2 × (7) = 14.\n\nWe can also divide both sides by 2 to find y.\n\n2y ÷ 2 = 14 ÷ 2, which gives\n\ny = 7.\n\nRemember, it is always good to check your solution.\n\n#### Figure it Out\n\n1. Solve these equations and check the solutions.\n\n(a) 3x – 10 = 35\n\n(b) 5s = 3s\n\n(c) 3u – 7 = 2u + 3\n\n(d) 4 (m + 6) – 8 = 2m – 4\n\n(e) u 15 = 6\n\nMath\n\n2. Frame an equation that has no solution. | Talk\n\n[**Hint:** 4 more than a number, and 5 more than a number can never be equal!]\n\nThe procedure to systematically solve an equation can be made efficient if we make an observation. Consider the equation 11y + (–5) = 61, which we solved. As the first step, we subtracted – 5 from both sides to remove the term –5.\n\n11y + (– 5) – (–5) = 61 – (– 5).\n\nSince this action removes the term – 5 from the LHS, we could have written this step as:\n\n11y = 61 – (–5).\n\nNote that we could also have arrived at this step by seeing addition and subtraction as inverse operations, as in the case of Example 1.\n\nSimilarly, when we had 11y = 66, we divided both sides by 11 to remove the factor 11 from the LHS.\n\n11y ÷ 11 = 66 ÷ 11.\n\n<!-- page 173 -->\n\nFinding the Unknown\n\nSince this action removes the factor 11 in the LHS, we can write this step as:\n\n| Let us write down both these ways of solving an equation. | y = 66 ÷ 11. |\n| --- | --- |\n| 11y + (– 5) = 61 | 11y + (– 5) = 61 |\n| 11y + (– 5) – (– 5) = 61 – (– 5). 11y = 66 11y ÷ 11 = 66 ÷ 11 y = 6 | 11y = 61 – (– 5) 11y = 66 y = 66 ÷ 11 y = 6 |\n\nAgain, we could have arrived at this by seeing multiplication and division as inverse operations, as in the case of Example 2.\n\nLet us consider another equation that we solved earlier.\n\n6y + 7 = 4y + 21 6y + 7 – 4y = 4y + 21 – 4y 2y + 7 = 21 2y + 7 – 7 = 21 – 7 2y = 14. 2y ÷ 2 = 14 ÷ 2 y = 7 | 6y + 7 = 4y + 21 6y + 7 – 4y = 21 2y + 7 = 21 2y = 21 – 7 2y = 14. y = 14 ÷ 2 y = 7\n\nWhat happens in cases like u\n\n15 = 6?\n\nMultiplying both sides by 15 leaves only u in the LHS —\n\nu = 6 × 15\n\nu = 90.\n\nThus, we can make the following observations —\n\n(a) When a term that is added or subtracted on one side of an equation\n\nis removed from that side, its additive inverse should appear as a term on the other side for the equality to hold. For example, 2y + 7 = 21 becomes 2y = 21 – 7.\n\n(b) If one side of an equation is the product of two or more numbers\n\nor expressions, and we remove one of the factors, then the other side should be divided by this factor for the equality to hold. For example, 2y = 14 becomes y = 14 ÷ 2.\n\n(c) If one side of an equation is the quotient of two numbers or\n\nexpressions, and we remove the divisor, then the other side should be multiplied by this divisor for the equality to hold. For example,\n\nu 15 = 6 becomes u = 6 × 15.\n\n<!-- page 174 -->\n\n#### Solving Problems\n\nForming and solving equations gives us the ability to find solutions to many problems in our lives. Let us see a few such examples.\n\n**Example 7:** Ranjana creates a sequence of arrangements with square tiles as shown below. Can she extend the sequence and make an arrangement using 100 tiles? If yes, which step in the sequence will it be?\n\nStep 1 Step 2 Step 3\n\nShe can look at the pattern in different ways. They are shown below.\n\nMethod 1\n\nStep 1 | Step 3 Step 4 Step k Step 2\n\n111 2 1 2 4 1 4 3 1 3\n\n1 2 3 4\n\n3 + 3 + 3 + 1 = 10 1 + 1 + 1 + 1 = 4 | 4 + 4 + 4 + 1 = 13\n\n2 + 2 + 2 + 1 = 7 | k+k+k+ 1 = 3k + 1\n\nMethod 2\n\nStep 1 | Step 3 Step 4 Step k Step 2\n\n3 5 9 = (4 × 2 + 1) 7\n\n1 2 3 4\n\n1 + 3 = 4 | 2 +5 = 7 | 3 +7 = 10 | 4 + 9 = 4 + (4 × 2 + 1) = 13 | k+ (2k+ 1) = 3k + 1\n\n<!-- page 175 -->\n\nFinding the Unknown\n\nWe have the expression 3k + 1 which gives the number of tiles needed to make an arrangement in Step k.\n\nTo check whether an arrangement is possible using 100 tiles at some Step k, we can solve the equation: 3k + 1 = 100. Find the value of k.\n\n**Example 8:** Madhubanti wants to organise a party. She decides to buy snacks for the party from the chaat shop in town. Each plate of snacks costs ₹25. The shop charges an additional fixed amount of ₹50 to deliver the snacks to Madhubanti’s house.\n\nThere are 5 members in Madhubanti’s family, including herself. Her parents tell her she can spend ₹500 on this party. How many friends can she invite to the party if she wants to give a plate of snacks to each person, including her family and friends?\n\nFatima’s method of solving this problem is shown below.\n\nShe represented the situation using a rough diagram.\n\nSnack | Delivery\n\ncost | cost\n\n25 × + 50\n\nOut of ₹500, if we subtract the fixed delivery charge, then Madhubanti is left with ₹450.\n\nSo the question becomes “How many plates of snacks, each costing ₹25, can be bought for ₹450?”. The answer to this is 450 ÷ 25 = 18.\n\n18 plates of snacks can be bought for ₹450. Considering her 5 family members, she can invite 18 – 5 = 13 friends to her party.\n\n<!-- page 176 -->\n\nMahesh represented the unknown quantity of the total number of people who can attend the party, including Madhubanthi and her family members, as p. | Srikanth decided to represent the unknown quantity of the total number of friends Madhubanthi can invite as f.\n\nWhat will be the cost in this case?\n\nCost incurred = 25 (f + 5). Since Madhubanthi has ₹450 for snacks, we have the equation\n\nCost incurred = 25p + 50. Since this cost should be 500, we have the equation\n\n> 25 (f + 5) = 450.\n\n25p + 50 = 500.\n\n> Dividing both sides by 25,\n\nSubtracting 50 from both sides, we get\n\nf + 5 = 18. Subtracting 5 from both sides,\n\n25p = 500 – 50.\n\n> f = 13.\n\n25p = 450.\n\nDividing both sides by 25, we get\n\np = 450 ÷ 25 = 18. 18 people can be at her party, including her 5 family members. That means 13 friends can be invited.\n\n**Example 9:** Two friends want to save money. Jahnavi starts with an initial amount of ₹4000, and in addition, saves ₹650 per month. Sunita starts with ₹5050 and saves ₹500 per month. After how many months will they have the same amount of money?\n\nLet m denote the number of months after which their savings are equal.\n\nWhat are Jahnavi’s savings after m months? Jahnavi’s savings = 4000 + 650 m.\n\n> Jahnavi\n\n> 4000\n\n> +\n\n> 650 × m\n\n> Equal\n\nWhat are Sunita’s savings after m months? Sunita’s savings = 5050 + 500 m.\n\n> Sunita\n\n> 5050\n\n> +\n\n> 500 × m\n\nAs these amounts are equal after m months, we get the following equation:\n\n4000 + 650 m = 5050 + 500 m\n\n4000 + 650 m – 500 m = 5050 (subtracting 500 m from both sides)\n\n4000 + 150 m = 5050\n\n150 m = 5050 – 4000 (subtracting 4000 from both sides)\n\n<!-- page 177 -->\n\n> Finding the Unknown\n\n150 m = 1050\n\nm = 1050 ÷150 (dividing both sides by 150)\n\nm = 7.\n\nSo, after 7 months, both will have the same amount of money.\n\n> Check the answer.\n\nLet us solve a few equations.\n\n**Example 10:** Solve 28 (x + 4) + 300 = 1000.\n\nHere are some ways to solve this equation.\n\n> 28 (x + 4) + 300 = 1000\n\n> Subtracting 300 from both sides, we get\n\n28 (x + 4) + 300 = 1000\n\n> Simplifying the LHS,\n\nSince 28, 300, and 1000 are divisible by 4, we get a simpler equation if we divide both sides by 4.\n\n> 28 (x + 4) = 1000 – 300\n\n> 28x + 112 + 300 = 1000\n\n> 28 (x + 4) = 700.\n\n> 28x + 412 = 1000\n\n> Dividing both sides by 28, we get\n\n> Subtracting 412 from both sides, we get\n\n28 (x + 4) + 300\n\n4 = 1000\n\n4\n\n> x + 4 = 700 ÷ 28\n\n> 28x = 1000 – 412\n\nUsing the rules of fraction addition, we get\n\n> x + 4 = 25.\n\n> 28x = 588\n\n> So x = 25 – 4, which gives\n\n28 (x + 4)\n\n4 + 300\n\n4 = 1000 4\n\n> Dividing both sides by 28,\n\n> x = 21.\n\n> x = 588 ÷ 28\n\n7 (x + 4) + 75 = 250\n\n> x = 21.\n\nSubtracting 75 from both sides,\n\n7 (x + 4) = 175\n\n7x + 28 = 175\n\nSubtracting 28 from both sides,\n\n7x = 147\n\nx = 147\n\n7 = 21.\n\n<!-- page 178 -->\n\n**Example 11:** Riyaz created a math trick, which he tries out on his friend Akash.\n\nRiyaz asked Akash to perform the following steps without revealing the answer to any of the intermediate steps.\n\n1. Think of a number.\n\n2. Subtract 3 from the number.\n\n3. Multiply the result by 4.\n\n4. Add 8 to the product.\n\n5. Reveal the final answer.\n\nThe final answer revealed by Akash was\n24. Using this, Riyaz correctly figured out the starting number that Akash had thought of. Find this number.\n\nTry the steps using different numbers as the starting number. Do you see any relation between the starting number and final answer?\n\nThe answer can be found by algebraically modeling this scenario. In other words, we can form an equation using an unknown. Let the unknown starting number be x.\n\nWhat are the expressions we get after each step?\n\n| Steps | Expression |\n| --- | --- |\n| Think of a number. | x |\n| Subtract 3 from the number. | x – 3 |\n| Multiply the result by 4. | 4 (x – 3) = 4x – 12 |\n| Add 8 to the product. | 4x – 12 + 8 = 4x – 4 |\n\nSince Akash’s final answer was 24, we have the equation:\n\n4x – 4 = 24\n\n4 (x – 1) = 24\n\nx – 1 = 6 (Dividing both sides by 4)\n\nThus, Akash thought of the number 7.\n\nCan you think of a simple rule that you can use to get the starting number from the final answer?\n\n<!-- page 179 -->\n\nFinding the Unknown\n\n**Example 12:** Ramesh and Suresh have 60 marbles between them. Ramesh has 30 more marbles than Suresh. How many marbles does each boy have?\n\nIn this problem, we have two unknowns. If we denote the number of marbles with Ramesh as x and the number of marbles with Suresh as y, then what are the different equations that we have?\n\n1. The total number of marbles is 60. x + y = 60.\n\n2. Ramesh has 30 marbles more than Suresh. x = y + 30.\n\n1 2 3 30\n\nSuresh | Ramesh\n\nHow do we find the unknowns using these equations? So far, we have only developed a strategy to solve an equation with one unknown! To get such an equation, we can do the following.\n\nDenote the number of marbles with Suresh as y, and the number of marbles with Ramesh as y + 30.\n\nSince the total number of marbles is 60, we have the equation:\n\ny + (y + 30) = 60\n\n2y + 30 = 60.\n\nUse this to find both the unknowns.\n\n##### Generating Equations\n\nSo far, we have solved a given equation to find the value of the letter−number. Can we do the reverse — write equations using a given value of the letter−number?\n\nWrite equations whose solution is y = 5. Share the equations you made with each other and discuss the methods used. | Math\n\nTalk\n\n<!-- page 180 -->\n\nTwo such equations are y + 1 = 6 and 3y = 15.\n\nConsider the following chains of equations, where one is obtained from the previous one by performing the same operation on both sides.\n\ny + 1 = 6 | 3y = 15\n\nMultiplying by – 1 | Adding 6\n\n– y – 1 = – 6 | 3y + 6 = 21\n\nAdding y | Dividing by 3\n\n–1 = – 6 + y | y + 2 = 7\n\nAdding 6 | Subtracting 2\n\n5 = y | y = 5\n\nCan you form a chain going from the bottom equation to the top? Compare the operations used when going from the top to the bottom and from the bottom to the top.\n\nMath\n\nTalk\n\nWithout calculating, can you find the value of the unknown in each equation in the chains above?\n\n[**Hint:** We have seen that the value that satisfies an equation also satisfies the new equation obtained by performing the same operation on both sides of the original equation.]\n\n**Example 13:** Can you give a real-life situation that can be modelled as the equation, 100x + 75 = 250?\n\n**Solution:** If we think of these numbers as representing money, we can see that the total money is ₹250.\n\nThere are two terms that are adding to ₹250. The second term in the LHS, ₹75, is fixed and does not change. The value of the first term would change based on ‘x’. So we can think of 100 as the number of units and ‘x’ as the cost per unit. For instance, x could represent the cost of a plate of snacks and 75 could be the delivery charge.\n\n<!-- page 181 -->\n\nFinding the Unknown\n\n#### Figure it Out\n\n1. Write 5 equations whose solution is x = – 2.\n\n2. Find the value of each unknown:\n\n(a) 2y = 60\n(b) – 8 = 5x – 3\n\n(c) – 53w = –15\n(d) 13 – z = 8\n\n(e) k + 8 = 12 – k\n(f) 7m = m – 3\n\n(g) 3n = 10 + n\n\n3. I am a 3-digit number. My hundred’s digit is 3 less than my ten’s digit. My ten’s digit is 3 less than my unit’s digit. The sum of all the three digits is 15. Who am I?\n\n4. The weight of a brick is 1 kg more than half its weight. What is the weight of the brick?\n\n5. One quarter of a number increased by 9 gives the same number. What is the number?\n\n6. Given 4k + 1 = 13, find the values of:\n\n(a) 8k + 2\n(b) 4k\n(c) k\n(d) 4k – 1\n(e) – k – 2",
+   "text": "## 7.2 Solving Equations Systematically\n\nHow did you solve the various equations framed in the previous section? One way to solve an equation is to substitute different values in place of the letter-number and to check which value makes LHS = RHS. For example, consider the equation $2n + 1 = 99$.\n\nIf we substitute $n = 5$, we get LHS $= 2 \\times (5) + 1 = 11$. It is far away from 99, the RHS.\n\nWe can try $n = 10$. The LHS is 21. It is still not equal to 99.\n\nCan we try $n = 30$? The LHS is now 61, still much lower than 99.\n\nLet us try $n = 40$. The LHS is 81. We are getting closer to 99.\n\nWhen $n = 50$, the LHS is 101. This is just a bit too high.\n\nWhen $n = 49$, the LHS is 99!\n\nTherefore, the solution to the equation $2n + 1 = 99$ is $n = 49$.\n\nCan this equation have any other solution?\n\nThis method is called the **trial and error** method.\n\nThe trial and error method can be inefficient.\n\nTry solving $5x - 4 = 7$ using trial and error.\n\n<!-- page 169 -->\n\nRecall that in the case of the weighing scale, we didn't use the trial and error method! For some problems, finding the solution was straightforward. For others, we used the fact that when we remove equal weights from both the plates of a balanced weighing scale, it remains balanced. Do equations have a similar property?\n\n> [Figure: question-mark icon]\n\nConsider an equation $15 + 8 = 23$. If we add, subtract, multiply or divide the same number on both sides, will it still preserve the equality of LHS and RHS?\n\nFor example, you can check by adding 10 to both sides.\n\nSince the LHS and the RHS of an equation have the same value, performing the same operation on both sides will clearly not change their equality.\n\nIn the weighing scale problems, we removed equal weights so that all the unknown weights were on only one plate of the scale. This made the problem easier to solve. We can use this same strategy to solve an equation as well! Let us first solve some arithmetic problems.\n\n> [Figure: question-mark icon]\n\n**Example 1:** It is known that $14593 - 1459 + 145 - 14 + 88 = 13353$. What is the value of $14593 - 1459 + 145 - 14$?\n\nTo find the value, do we need to evaluate $14593 - 1459 + 145 - 14$? No, we can get it by subtracting 88 from 13353.\n\n> [Figure: question-mark icon]\n\nWhy can we do this?\n\nWe can do this because addition and subtraction are inverse operations. So, the value of the required expression can be found by subtracting 88 from both sides (LHS and RHS), which removes the term 88 and leaves only the expression to be evaluated on the LHS.\n\n$$14593 - 1459 + 145 - 14 + 88 - 88 = 13353 - 88$$\n\n[Figure: the two 88 terms on the LHS are struck through with slashes]\n\n> [Figure: question-mark icon]\n\n**Example 2:** It is known that $23 \\times 41 \\times 11 \\times 8 \\times 7 = 5{,}80{,}888$. What is the value of the expression $23 \\times 41 \\times 11 \\times 8$?\n\nUsing the fact that multiplication and division are inverse operations, we can simply divide 5,80,888 by 7 to get the value of the expression.\n\n> [Figure: question-mark icon]\n\n### Math Talk\n\nIs this the same as dividing both sides by 7, which removes the factor 7 and leaves only the expression to be evaluated on the LHS?\n\n> [Figure: \"Math Talk\" icon with speech bubbles]\n\n> [Figure: question-mark icon]\n\n**Example 3:** It is known that $12345 - 5432 + 135 - 24 - (-67) = 7091$. What is the value of the expression $12345 - 5432 + 135 - 24$?\n\n<!-- page 170 -->\n\nThis problem also can be solved using the fact that addition and subtraction are inverse operations. However, we can use the following method that is perhaps easier to visualise.\n\nTo retain only the expression to be evaluated on the LHS, we need to remove the term –(–67). We can remove this term by adding (–67) to both sides of the equation.\n\n$12345 - 5432 + 132 - 24 - (-67) + (-67) = 7091 + (-67)$\n\n$12345 - 5432 + 132 - 24 - (-67) + (-67) = 7091 + (-67)$ [Figure: the terms –(–67) and +(–67) on the LHS are each struck through with a slanted line, showing they cancel]\n\nThus, $12345 - 5432 + 132 - 24 = 7024$.\n\n> ?\n\n**Example 4:** It is known that $\\left(\\frac{35}{113}\\right) \\times 24 \\times 14 \\times \\left(\\frac{8}{9}\\right) = \\frac{94080}{1017}$. What is the value of the expression $\\left(\\frac{35}{113}\\right) \\times 24 \\times 14$?\n\n**Solution:** To retain only the expression to be evaluated on the LHS we need to remove the factor $\\left(\\frac{8}{9}\\right)$. We can do that by dividing both sides by $\\left(\\frac{8}{9}\\right)$.\n\n$$\\left[\\left(\\frac{35}{113}\\right) \\times 24 \\times 14 \\times \\left(\\frac{8}{9}\\right)\\right] \\div \\left(\\frac{8}{9}\\right) = \\frac{94080}{1017} \\div \\left(\\frac{8}{9}\\right)$$\n\n$$\\left(\\frac{35}{113}\\right) \\times 24 \\times 14 \\times \\left(\\frac{8}{9}\\right) \\times \\left(\\frac{9}{8}\\right) = \\frac{94080}{1017} \\times \\left(\\frac{9}{8}\\right)$$\n\n[Figure: in the second line, the factors $\\frac{8}{9}$ and $\\frac{9}{8}$ on the LHS are each struck through with a slanted line, showing they cancel]\n\nThus,\n\n$$\\left(\\frac{35}{113}\\right) \\times 24 \\times 14 = \\frac{11760}{113}.$$\n\n> ?\n\nLet us use these ideas to solve the equation $5x - 4 = 7$.\n\nWhat can we do so that $5x$ is on one side and the equality between the LHS and the RHS still holds?\n\nTo retain only $5x$ on the LHS, we need to remove the term $-4$. This can be done by adding 4 to both sides.\n\nThus, $5x - 4 + 4 = 7 + 4$.\n\nHence, $5x = 11$.\n\nTo retain only the unknown $x$ on the LHS, we need to remove the factor 5. This can be done by dividing both sides by 5.\n\nThus, $\\frac{5x}{5} = \\frac{11}{5}$.\n\nSo, $x = \\frac{11}{5}$.\n\n<!-- page 171 -->\n\n> ?\n\nCan we check that $x = \\frac{11}{5}$ is the correct solution to the equation?\n\nWe can check this by substituting $x$ with the value $\\frac{11}{5}$ in the equation $5x - 4 = 7$, and checking if the LHS = RHS.\n\nSubstituting $x$ with $\\frac{11}{5}$ in the LHS we get,\n\n$$\\text{LHS} = 5\\left(\\frac{11}{5}\\right) - 4$$\n\n$$= \\cancel{5}\\left(\\frac{11}{\\cancel{5}}\\right) - 4$$\n\n$$= 11 - 4$$\n\n$$= 7$$\n\nThis is the same as the RHS.\n\nSo, $\\frac{11}{5}$ is indeed the correct solution to the equation.\n\n> ?\n\n**Example 5:** Solve the equation $11y + (-5) = 61$.\n\nTo retain only the unknown term $11y$ on one side, we need to remove the term $-5$. This can be done by subtracting $(-5)$ from both sides.\n\n$$11y + (-5) - (-5) = 61 - (-5).$$\n\nThat is,\n\n$$11y = 66.$$\n\nWe can directly find the value of $y$, seeing that $11 \\times 6 = 66$.\n\nWe can also divide both sides by 11 to find $y$.\n\n$$11y \\div 11 = 66 \\div 11$$\n\nSo $y = 6$ is the solution to the equation $11y + (-5) = 61$.\n\nCan you check that this solution is correct?\n\n> ?\n\n**Example 6:** Solve $6y + 7 = 4y + 21$.\n\nIn this equation, expressions with an unknown are on both sides.\n\n> ?\n\nWe have seen how to solve equations when the unknown term is on one side. What can be done to bring the unknown terms to the same side?\n\nSubtracting $4y$ from both sides, we get\n\n$$6y + 7 - 4y = 4y + 21 - 4y.$$\n\nSo,\n\n$$2y + 7 = 21.$$\n\n<!-- page 172 -->\n\nSubtracting 7 from both sides we get\n\n$$2y + 7 - 7 = 21 - 7, \\text{ which gives}$$\n\n$$2y = 14.$$\n\nWe can directly find the value of $y$, seeing that $2 \\times (7) = 14$.\n\nWe can also divide both sides by 2 to find $y$.\n\n$$2y \\div 2 = 14 \\div 2, \\text{ which gives}$$\n\n$$y = 7.$$\n\n> [Figure: An owl wearing a graduation cap and glasses, pointing a finger upward, beside the note:] Remember, it is always good to check your solution.\n\n### Figure it Out\n\n1. Solve these equations and check the solutions.\n   - (a) $3x - 10 = 35$\n   - (b) $5s = 3s$\n   - (c) $3u - 7 = 2u + 3$\n   - (d) $4\\,(m + 6) - 8 = 2m - 4$\n   - (e) $\\frac{u}{15} = 6$\n\n2. Frame an equation that has no solution.\n\n> [Figure: Icon labelled \"Math Talk\" with speech bubbles]\n\n[**Hint:** 4 more than a number, and 5 more than a number can never be equal!]\n\nThe procedure to systematically solve an equation can be made efficient if we make an observation. Consider the equation $11y + (-5) = 61$, which we solved.\n\nAs the first step, we subtracted $-5$ from both sides to remove the term $-5$.\n\n$$11y + (-5) - (-5) = 61 - (-5).$$\n\nSince this action removes the term $-5$ from the LHS, we could have written this step as:\n\n$$11y = 61 - (-5).$$\n\nNote that we could also have arrived at this step by seeing addition and subtraction as inverse operations, as in the case of Example 1.\n\nSimilarly, when we had $11y = 66$, we divided both sides by 11 to remove the factor 11 from the LHS.\n\n$$11y \\div 11 = 66 \\div 11.$$\n\n<!-- page 173 -->\n\nSince this action removes the factor 11 in the LHS, we can write this step as:\n\n$$y = 66 \\div 11.$$\n\nAgain, we could have arrived at this by seeing multiplication and division as inverse operations, as in the case of Example 2.\n\nLet us write down both these ways of solving an equation.\n\n| | |\n|---|---|\n| $11y + (-5) = 61$ <br> $11y + (-5) - (-5) = 61 - (-5).$ <br> $11y = 66$ <br> $11y \\div 11 = 66 \\div 11$ <br> $y = 6$ | $11y + (-5) = 61$ <br> $11y = 61 - (-5)$ <br> $11y = 66$ <br> $y = 66 \\div 11$ <br> $y = 6$ |\n\nLet us consider another equation that we solved earlier.\n\n| | |\n|---|---|\n| $6y + 7 = 4y + 21$ <br> $6y + 7 - 4y = 4y + 21 - 4y$ <br> $2y + 7 = 21$ <br> $2y + 7 - 7 = 21 - 7$ <br> $2y = 14.$ <br> $2y \\div 2 = 14 \\div 2$ <br> $y = 7$ | $6y + 7 = 4y + 21$ <br> $6y + 7 - 4y = 21$ <br> $2y + 7 = 21$ <br> $2y = 21 - 7$ <br> $2y = 14.$ <br> $y = 14 \\div 2$ <br> $y = 7$ |\n\n### ?\nWhat happens in cases like $\\frac{u}{15} = 6$?\n\nMultiplying both sides by 15 leaves only $u$ in the LHS—\n\n$$u = 6 \\times 15$$\n\n$$u = 90.$$\n\nThus, we can make the following observations—\n\n(a) When a term that is added or subtracted on one side of an equation is removed from that side, its additive inverse should appear as a term on the other side for the equality to hold. For example, $2y + 7 = 21$ becomes $2y = 21 - 7$.\n\n(b) If one side of an equation is the product of two or more numbers or expressions, and we remove one of the factors, then the other side should be divided by this factor for the equality to hold. For example, $2y = 14$ becomes $y = 14 \\div 2$.\n\n(c) If one side of an equation is the quotient of two numbers or expressions, and we remove the divisor, then the other side should be multiplied by this divisor for the equality to hold. For example, $\\frac{u}{15} = 6$ becomes $u = 6 \\times 15$.\n\n<!-- page 174 -->",
    "page_start": 168,
-   "page_end": 181
+   "page_end": 174
   },
   {
    "section_id": "7-math-15-s03",
+   "heading": "Solving Problems",
+   "text": "## Solving Problems\n\nForming and solving equations gives us the ability to find solutions to many problems in our lives. Let us see a few such examples.\n\n### Example 7\n\nRanjana creates a sequence of arrangements with square tiles as shown below. Can she extend the sequence and make an arrangement using 100 tiles? If yes, which step in the sequence will it be?\n\n[Figure: Three T-shaped arrangements of square tiles. Step 1: top row of 3 tiles with 1 tile below the middle. Step 2: top row of 5 tiles with 2 tiles below the middle. Step 3: top row of 7 tiles with 3 tiles below the middle.]\n\nShe can look at the pattern in different ways. They are shown below.\n\n### Method 1\n\n[Figure: Step 1 to Step 4 and Step k of the T-shaped arrangements, each split into a left arm, a central tile (marked with a dot), a right arm and a vertical stem, with the counts marked. Step 1: 1, 1 (central), 1 on top row and 1 on stem. Step 2: 2, 1, 2 on top row and 2 on stem. Step 3: 3, 1, 3 on top row and 3 on stem. Step 4: 4, 1, 4 on top row and 4 on stem. Step k: no figure.]\n\n| Step 1 | Step 2 | Step 3 | Step 4 | Step $k$ |\n|---|---|---|---|---|\n| $1 + 1 + 1 + 1$ $= 4$ | $2 + 2 + 2 + 1$ $= 7$ | $3 + 3 + 3 + 1$ $= 10$ | $4 + 4 + 4 + 1$ $= 13$ | $k + k + k + 1$ $= 3k + 1$ |\n\n### Method 2\n\n[Figure: Step 1 to Step 4 and Step k of the T-shaped arrangements, each with the whole top row marked by one line and the stem marked separately. Step 1: top row 3, stem 1. Step 2: top row 5, stem 2. Step 3: top row 7, stem 3. Step 4: top row $9 = (4 \\times 2 + 1)$, stem 4. Step k: no figure.]\n\n| Step 1 | Step 2 | Step 3 | Step 4 | Step $k$ |\n|---|---|---|---|---|\n| $1 + 3$ $= 4$ | $2 + 5$ $= 7$ | $3 + 7$ $= 10$ | $4 + 9$ $= 4 + (4 \\times 2 + 1)$ $= 13$ | $k + (2k + 1)$ $= 3k + 1$ |\n\n<!-- page 175 -->\n\nWe have the expression $3k + 1$ which gives the number of tiles needed to make an arrangement in Step $k$.\n\nTo check whether an arrangement is possible using 100 tiles at some Step $k$, we can solve the equation: $3k + 1 = 100$. Find the value of $k$.\n\n### Example 8\n\n**Example 8:** Madhubanti wants to organise a party. She decides to buy snacks for the party from the *chaat* shop in town. Each plate of snacks costs ₹25. The shop charges an additional fixed amount of ₹50 to deliver the snacks to Madhubanti's house.\n\nThere are 5 members in Madhubanti's family, including herself. Her parents tell her she can spend ₹500 on this party. How many friends can she invite to the party if she wants to give a plate of snacks to each person, including her family and friends?\n\nFatima's method of solving this problem is shown below.\n\nShe represented the situation using a rough diagram.\n\n[Figure: Two yellow ovals labelled \"Snack cost\" and \"Delivery cost\" with arrows pointing to a box containing \"25 × □ + 50\". The \"Snack cost\" arrow points to the \"25 × □\" part and the \"Delivery cost\" arrow points to the \"+ 50\" part. A curly brace is drawn beneath the expression.]\n\nOut of ₹500, if we subtract the fixed delivery charge, then Madhubanti is left with ₹450.\n\nSo the question becomes \"How many plates of snacks, each costing ₹25, can be bought for ₹450?\".\n\nThe answer to this is $450 \\div 25 = 18$.\n\n18 plates of snacks can be bought for ₹450. Considering her 5 family members, she can invite $18 - 5 = 13$ friends to her party.\n\n<!-- page 176 -->\n\n| Mahesh | Srikanth |\n|---|---|\n| Mahesh represented the unknown quantity of the total number of people who can attend the party, including Madhubanthi and her family members, as $p$. <br><br> Cost incurred = $25p + 50$. <br><br> Since this cost should be 500, we have the equation <br><br> $25p + 50 = 500$. <br><br> Subtracting 50 from both sides, we get <br><br> $25p = 500 - 50$. <br><br> $25p = 450$. <br><br> Dividing both sides by 25, we get <br><br> $p = 450 \\div 25 = 18$. <br><br> 18 people can be at her party, including her 5 family members. That means 13 friends can be invited. | Srikanth decided to represent the unknown quantity of the total number of friends Madhubanthi can invite as $f$. <br><br> What will be the cost in this case? <br><br> Cost incurred = $25\\,(f + 5)$. <br><br> Since Madhubanthi has ₹450 for snacks, we have the equation <br><br> $25\\,(f + 5) = 450$. <br><br> Dividing both sides by 25, <br><br> $f + 5 = 18$. <br><br> Subtracting 5 from both sides, <br><br> $f = 13$. |\n\n### Example 9\n\n**Example 9:** Two friends want to save money. Jahnavi starts with an initial amount of ₹4000, and in addition, saves ₹650 per month. Sunita starts with ₹5050 and saves ₹500 per month. After how many months will they have the same amount of money?\n\nLet $m$ denote the number of months after which their savings are equal.\n\nWhat are Jahnavi's savings after $m$ months?\n\nJahnavi's savings = $4000 + 650\\,m$.\n\n> [Figure: Diagram with two rows. Row 1: \"Jahnavi\" followed by oval \"4000\", \"+\", oval \"650 × m\". Row 2: \"Sunita\" followed by oval \"5050\", \"+\", oval \"500 × m\". Arrows from the \"650 × m\" and \"500 × m\" ovals point to the word \"Equal\".]\n\nWhat are Sunita's savings after $m$ months?\n\nSunita's savings = $5050 + 500\\,m$.\n\nAs these amounts are equal after m months, we get the following equation:\n\n$$4000 + 650\\,m = 5050 + 500\\,m$$\n\n$$4000 + 650\\,m - 500\\,m = 5050 \\text{ (subtracting } 500\\,m \\text{ from both sides)}$$\n\n$$4000 + 150\\,m = 5050$$\n\n$$150\\,m = 5050 - 4000 \\text{ (subtracting 4000 from both sides)}$$\n\n<!-- page 177 -->\n\n$$150\\,m = 1050$$\n\n$$m = 1050 \\div 150 \\text{ (dividing both sides by 150)}$$\n\n$$m = 7.$$\n\nSo, after 7 months, both will have the same amount of money.\n\nCheck the answer.\n\nLet us solve a few equations.\n\n### Example 10: Solve $28(x + 4) + 300 = 1000$.\n\nHere are some ways to solve this equation.\n\n| | | |\n|---|---|---|\n| Subtracting 300 from both sides, we get<br><br>$28\\,(x + 4) = 1000 - 300$<br><br>$28\\,(x + 4) = 700.$<br><br>Dividing both sides by 28, we get<br><br>$x + 4 = 700 \\div 28$<br><br>$x + 4 = 25.$<br><br>So $x = 25 - 4$, which gives<br><br>$x = 21.$ | $28\\,(x + 4) + 300 = 1000$<br><br>Since 28, 300, and 1000 are divisible by 4, we get a simpler equation if we divide both sides by 4.<br><br>$\\frac{28\\,(x + 4) + 300}{4} = \\frac{1000}{4}$<br><br>Using the rules of fraction addition, we get<br><br>$\\frac{28\\,(x + 4)}{4} + \\frac{300}{4} = \\frac{1000}{4}$<br><br>$7\\,(x + 4) + 75 = 250$<br><br>Subtracting 75 from both sides,<br><br>$7\\,(x + 4) = 175$<br><br>$7x + 28 = 175$<br><br>Subtracting 28 from both sides,<br><br>$7x = 147$<br><br>$x = \\frac{147}{7} = 21.$ | $28\\,(x + 4) + 300 = 1000$<br><br>Simplifying the LHS,<br><br>$28x + 112 + 300 = 1000$<br><br>$28x + 412 = 1000$<br><br>Subtracting 412 from both sides, we get<br><br>$28x = 1000 - 412$<br><br>$28x = 588$<br><br>Dividing both sides by 28,<br><br>$x = 588 \\div 28$<br><br>$x = 21.$ |\n\n<!-- page 178 -->\n\n> ?\n\n**Example 11:** Riyaz created a math trick, which he tries out on his friend Akash.\n\nRiyaz asked Akash to perform the following steps without revealing the answer to any of the intermediate steps.\n\n1. Think of a number.\n2. Subtract 3 from the number.\n3. Multiply the result by 4.\n4. Add 8 to the product.\n5. Reveal the final answer.\n\n> [Figure: Two cartoon boys standing side by side; the one on the left wears big round glasses, a yellow T-shirt and blue shorts and scratches his head, the one on the right wears a red shirt and looks upward.]\n\nThe final answer revealed by Akash was 24. Using this, Riyaz correctly figured out the starting number that Akash had thought of. Find this number.\n\nTry the steps using different numbers as the starting number. Do you see any relation between the starting number and final answer?\n\nThe answer can be found by algebraically modeling this scenario. In other words, we can form an equation using an unknown. Let the unknown starting number be $x$.\n\n> ?\n\nWhat are the expressions we get after each step?\n\n| Steps | Expression |\n|---|---|\n| Think of a number. | $x$ |\n| Subtract 3 from the number. | $x - 3$ |\n| Multiply the result by 4. | $4(x - 3) = 4x - 12$ |\n| Add 8 to the product. | $4x - 12 + 8 = 4x - 4$ |\n\nSince Akash's final answer was 24, we have the equation:\n\n$$4x - 4 = 24$$\n\n$$4(x - 1) = 24$$\n\n$$x - 1 = 6 \\text{ (Dividing both sides by 4)}$$\n\nThus, Akash thought of the number 7.\n\n> ?\n\nCan you think of a simple rule that you can use to get the starting number from the final answer?\n\n<!-- page 179 -->\n\nExample 12: Ramesh and Suresh have 60 marbles between them. Ramesh has 30 more marbles than Suresh. How many marbles does each boy have?\n\n> [Figure: Two boys in light blue shirts and blue trousers crouching on the ground, playing with marbles scattered in front of them.]\n\nIn this problem, we have two unknowns. If we denote the number of marbles with Ramesh as $x$ and the number of marbles with Suresh as $y$, then what are the different equations that we have?\n\n1. The total number of marbles is 60.\n$$x + y = 60.$$\n\n2. Ramesh has 30 marbles more than Suresh.\n$$x = y + 30.$$\n\n[Figure: Two boxes of red dots. The box labelled \"Suresh\" has two rows of red dots, each row shown as three dots, then \". . . . . . .\", then a final dot. The box labelled \"Ramesh\" has the same two rows of red dots, with a dashed outline around it that also encloses a row of circled numbers ① ② ③ . . . . . . . ㉚ below the dots, showing 30 extra marbles.]\n\nHow do we find the unknowns using these equations? So far, we have only developed a strategy to solve an equation with one unknown!\nTo get such an equation, we can do the following.\n\nDenote the number of marbles with Suresh as $y$, and the number of marbles with Ramesh as $y + 30$.\nSince the total number of marbles is 60, we have the equation:\n$$y + (y + 30) = 60$$\n$$2y + 30 = 60.$$\n\nUse this to find both the unknowns.",
+   "page_start": 174,
+   "page_end": 179
+  },
+  {
+   "section_id": "7-math-15-s04",
+   "heading": "Generating Equations",
+   "text": "### Generating Equations\n\nSo far, we have solved a given equation to find the value of the letter-number. Can we do the reverse—write equations using a given value of the letter-number?\n\n### Math Talk\n\nWrite equations whose solution is $y = 5$. Share the equations you made with each other and discuss the methods used.\n\n<!-- page 180 -->\n\nTwo such equations are $y + 1 = 6$ and $3y = 15$.\n\nConsider the following chains of equations, where one is obtained from the previous one by performing the same operation on both sides.\n\n[Figure: A boxed diagram with two chains of equations connected by downward arrows. Left chain: $y + 1 = 6$, arrow \"Multiplying by $-1$\", $-y - 1 = -6$, arrow \"Adding $y$\", $-1 = -6 + y$, arrow \"Adding 6\", $5 = y$. Right chain: $3y = 15$, arrow \"Adding 6\", $3y + 6 = 21$, arrow \"Dividing by 3\", $y + 2 = 7$, arrow \"Subtracting 2\", $y = 5$.]\n\n### Math Talk\n\n1. Can you form a chain going from the bottom equation to the top? Compare the operations used when going from the top to the bottom and from the bottom to the top.\n\n2. Without calculating, can you find the value of the unknown in each equation in the chains above?\n\n   [**Hint:** We have seen that the value that satisfies an equation also satisfies the new equation obtained by performing the same operation on both sides of the original equation.]\n\n3. **Example 13:** Can you give a real-life situation that can be modelled as the equation, $100x + 75 = 250$?\n\n   **Solution:** If we think of these numbers as representing money, we can see that the total money is ₹250.\n\n   There are two terms that are adding to ₹250. The second term in the LHS, ₹75, is fixed and does not change. The value of the first term would change based on '$x$'. So we can think of 100 as the number of units and '$x$' as the cost per unit. For instance, $x$ could represent the cost of a plate of snacks and 75 could be the delivery charge.\n\n<!-- page 181 -->\n\n### Figure it Out\n\n1. Write 5 equations whose solution is $x = -2$.\n2. Find the value of each unknown:\n   - (a) $2y = 60$\n   - (b) $-8 = 5x - 3$\n   - (c) $-53w = -15$\n   - (d) $13 - z = 8$\n   - (e) $k + 8 = 12 - k$\n   - (f) $7m = m - 3$\n   - (g) $3n = 10 + n$\n3. I am a 3-digit number. My hundred's digit is 3 less than my ten's digit. My ten's digit is 3 less than my unit's digit. The sum of all the three digits is 15. Who am I?\n4. The weight of a brick is 1 kg more than half its weight. What is the weight of the brick?\n5. One quarter of a number increased by 9 gives the same number. What is the number?\n6. Given $4k + 1 = 13$, find the values of:\n   - (a) $8k + 2$\n   - (b) $4k$\n   - (c) $k$\n   - (d) $4k - 1$\n   - (e) $-k - 2$",
+   "page_start": 179,
+   "page_end": 181
+  },
+  {
+   "section_id": "7-math-15-s05",
    "heading": "7.3 Mind the Mistake, Mend the Mistake",
-   "text": "#### 7.3 Mind the Mistake, Mend the Mistake\n\nThe following are some equations along with the steps used to solve them to find the value of the letter−number. Go through each solution and decide whether the steps are correct. If there is a mistake, describe the mistake, correct it and solve the equation.\n\n1 7 – 8z = 5 8z = 7 – 5 8z = 2 z = 4\n\n2 2v – 4 = 6 v – 4 = 6 – 2 v – 4 = 4 v = 8\n\n3\n\n4x + 6 = 10 4x = 10 + 6 4x = 16 x = 4\n\n4 15w – 4w = 26 15w = 26 + 4w 15w = 30 w = 2 | 6\n\n5 3x + 1 = – 12\n\n5z + 2 = 3z – 4 5z + 3z = – 4 + 2 8z = – 2\n\nx + 1 = – 12\n\n3\n\nz = – 2 | x + 1 = – 4 x = – 5\n\n8\n\n<!-- page 182 -->\n\n7 8 9\n\n4 (4q + 2) = 50 4 (4q) = 50 – 2 16q = 48 q = 3 | – 2 (3 – 4x) = 14 –6v – 8x = 14 – 8x = 14 + 6 – 8x = 20 | 3 (7y + 4) = 9 + 5y\n\n7y + 4 = 9 3 + 5y\n\n7y + 4 = 3 + 5y 7y – 5y + 4 = 3 2y = 4 – 3\n\nx = – 20\n\n8\n\ny = 1\n\n2",
+   "text": "## 7.3 Mind the Mistake, Mend the Mistake\n\nThe following are some equations along with the steps used to solve them to find the value of the letter-number. Go through each solution and decide whether the steps are correct. If there is a mistake, describe the mistake, correct it and solve the equation.\n\n[Figure: Six boxes numbered 1 to 6, each showing the steps of a solution.]\n\n**Box 1:**\n$4x + 6 = 10$\n$4x = 10 + 6$\n$4x = 16$\n$x = 4$\n\n**Box 2:**\n$7 - 8z = 5$\n$8z = 7 - 5$\n$8z = 2$\n$z = 4$\n\n**Box 3:**\n$2v - 4 = 6$\n$v - 4 = 6 - 2$\n$v - 4 = 4$\n$v = 8$\n\n**Box 4:**\n$5z + 2 = 3z - 4$\n$5z + 3z = -4 + 2$\n$8z = -2$\n$z = -\\frac{2}{8}$\n\n**Box 5:**\n$15w - 4w = 26$\n$15w = 26 + 4w$\n$15w = 30$\n$w = 2$\n\n**Box 6:**\n$3x + 1 = -12$\n$x + 1 = -\\frac{12}{3}$\n$x + 1 = -4$\n$x = -5$\n\n<!-- page 182 -->\n\n[Figure: Three rounded boxes, numbered 7, 8 and 9, each showing the steps of a worked solution.]\n\n**Box 7**\n\n$4\\,(4q + 2) = 50$\n\n$4\\,(4q) = 50 - 2$\n\n$16q = 48$\n\n$q = 3$\n\n**Box 8**\n\n$-\\,2\\,(3 - 4x) = 14$\n\n$-6v - 8x = 14$\n\n$-\\,8x = 14 + 6$\n\n$-\\,8x = 20$\n\n$x = -\\frac{20}{8}$\n\n**Box 9**\n\n$3\\,(7y + 4) = 9 + 5y$\n\n$7y + 4 = \\frac{9}{3} + 5y$\n\n$7y + 4 = 3 + 5y$\n\n$7y - 5y + 4 = 3$\n\n$2y = 4 - 3$\n\n$y = \\frac{1}{2}$",
    "page_start": 181,
    "page_end": 182
   },
   {
-   "section_id": "7-math-15-s04",
+   "section_id": "7-math-15-s06",
    "heading": "7.4 A Pinch of History",
-   "text": "#### 7.4 A Pinch of History\n\nForming expressions using symbols and solving equations with such expressions was an important component of mathematical explorations in ancient India. This area of mathematics was termed bījagaṇita, also now known as algebra. The word bīja means seed. Just as a tree is hidden inside a seed, the answer to a problem is hidden inside an unknown number. Solving the problem is like helping the tree grow — step by step, we discover what is hidden.\n\nWe have seen **Brahmagupta’s** contributions to different areas of mathematics like integers and fractions. In Chapter 18 of his book Brāhmasphuṭasiddhānta (628 CE), he also explained how to add, subtract, and multiply unknown numbers using letters — similar to how we use x or y today. This chapter was one of the earliest known works in algebra in history. As renowned mathematician and Fields Medalist David Mumford remarked, ‘Brahmagupta is the key person in the creation of algebra as we know it’.\n\nIn the 8th century, Indian mathematical ideas were translated into Arabic. They influenced a well-known mathematician named **Al-Khwarizmi**, who lived in present-day Iraq. Around 825 CE, he wrote a book called Hisab al-jabr wal-muqabala, which means ‘calculation by restoring and balancing’.\n\nThese ideas spread even further. By the 12th century, Al-Khwarizmi’s book was translated into Latin and brought to **Europe**, where it became very popular. The word al-jabr from his book gave us the word **algebra**, which we also still use today.\n\nSimilar to how we use letters from the alphabet today to represent unknowns, ancient Indian mathematicians from the time of Brahmagupta used distinct symbols like **yā, kā, nī, pī, lo**, etc., for different unknowns. The symbol yā was short for yāvat-tāvat (meaning ‘as much as needed’). Others like kā and nī referred to as the first letters\n\n<!-- page 183 -->\n\nFinding the Unknown\n\nof the names of colours — kālaka (black), nīlaka (blue), and so on. In contrast to these unknowns, the known quantities in an expression had a specific form (rūpa) and were denoted by rū.\n\nHere are some examples of how algebraic expressions in modern notation were written in ancient Indian notation:\n\n| Modern Notation | Ancient Indian Notation |\n| --- | --- |\n|  |  |\n| 2x + 1 | yā 2 rū 1 (in each term the indication of unknown/known came first) |\n| 2x – 8 | . yā 2 rū 8 (a dot over the number indicated that it was negative) |\n| 3x + 4 = 2x + 8 | yā 3 rū 4 yā 2 rū 8 (the two sides of an equation were presented one below the other) |\n\n**Example 16:**Bījgaṇita by Bhāskarāchārya (1150 CE) mentions this problem.\n\nOne man has ₹300 rupees and 6 horses. Another man has 10 horses and a debt of ₹100. If they are equally rich and the price of each horse is the same, tell me the price of one horse.\n\n##### Solution:\n\nLet price of one horse = ₹ x\n\nAccording to the problem\n\n300 + 6x = 10x – 100\n\n300 + 6x + (100) = 10x\n\n400 + 6x = 10x\n\n400 = 10x – 6x\n\n400 = 4x\n\n400 ÷ 4 = x\n\n100 = x\n\nTherefore, the price of one horse = ₹ 100.\n\n<!-- page 184 -->\n\nSuch problems and solutions were well understood in ancient India. In fact, a very systematic way to solve problems with single unknowns was first proposed by Aryabhata (499 CE) and Brahmagupta has outlined it in his Brāhmasphuṭasiddhānta (628 CE). Let us understand his method. Let us look at a few equations of the following form:\n\n5x + 4 = 3x + 8, or 3x – 6 = 2x + 4.\n\nCan we come up with a formula to solve these equations? That is, for the first equation, can we perform some operations using 5, 4, 3, and 8 that will directly give us the solution? Using a similar method, can you solve the second equation using the numbers 3, – 6, 2 and 4?\n\nTo get a formula, we can generalise equations of this form by taking the four numbers as A, B, C, and D. That is,\n\nAx + B = Cx + D.\n\nBrahmagupta gives the solution to equations of this form with this formula:\n\nx = D – B\n\nA – C.\n\nUsing this approach, we can find the solution to the equation:\n\n650m + 4000 = 500m + 5050\n\nsimply by calculating,\n\nm = 5050 – 4000\n\n650 – 500 .\n\nUsing this formula can you solve this equation 2x + 3 = 4x + 5?\n\nAncient Indian mathematicians were excellent at converting complex mathematical ideas into simple procedures so that everyone could use these procedures to solve problems!\n\nBījagaṇita or algebra is the branch of mathematics that uses letter symbols to solve mathematical problems. We have seen some examples in previous pages. By studying algebra, we learn to **generalise patterns** — in numbers, shapes, and situations. We express these generalisations using the language of algebra, which is both precise and powerful.\n\nBījagaṇita also gives us a way to justify mathematical claims (like why the sum of two odd numbers is always even) and to solve problems of many kinds.\n\n<!-- page 185 -->\n\nFinding the Unknown\n\nThe power of algebra was well recognised by ancient Indian mathematicians. We hope you recognise it too — and enjoy using it!\n\n#### Figure it Out\n\n1. Fill in the blanks with integers.\n\n(a) 5 × ___ – 8 = 37\n(b) 37 – (33 – ____ ) = 35\n\n(c) – 3 × (– 11 + ____ ) = 45\n\n2. Ranju is a daily wage labourer. She earns ₹ 750 a day. Her employer pays her in 50 and 100 rupee notes. If Ranju gets an equal number of 50 and 100 rupee notes, how many notes of each does she have?\n\n25 dots\n\n3. In the given picture, each black blob hides an equal number of blue dots. If there are 25 dots in total, how many dots are covered by one blob? Write an equation to describe this problem.\n\n4. Here are machines that take an input, perform an operation on it and send out the result as an output.\n\n(a)\n\nFind the inputs in the following cases:\n\n<!-- page 186 -->\n\n(b)\n\nFind the inputs in the following cases:\n\n5. What are the inputs to these machines?\n\n6. A taxi driver charges a fixed fee of ₹800 per day plus ₹20 for each kilometer traveled. If the total cost for a taxi ride is ₹2200, determine the number of kilometres traveled.\n\n<!-- page 187 -->\n\nFinding the Unknown\n\n7. The sum of two numbers is 76. One number is three times the other number. What are the numbers?\n\n8. The figure shows the diagram for a window with a grill. What is the gap between two rods in the grill?\n\n3 cm\n\n2 cm 34 cm\n\n9. In a restaurant, a fruit juice costs ₹15 less than a chocolate milkshake. If 4 fruit juices and 7 chocolate milkshakes cost ₹600, find the cost of the fruit juice and milkshake.\n\n10. Given 28p – 36 = 98, find the value of 14p – 19 and 28p – 38.\n\n11. The steps to solve three equations are shown below. Identify and correct any mistakes.\n\n11\n\n(a) 6x + 9 = 66 x + 9 = 11 x = 11 – 9 x = 2 | (b)14y + 24 = 36 | (c) 4x – 5 = 9x + 8 4x = 9x + 8 – 5 4x = 9x + 3 4x – 9x = 3 –5x = 3\n\n7y + 12 = 18 7y = 6\n\ny = 6\n\n7\n\nx = – 5\n\n3\n\n12. Find the measures of the angles of these triangles.\n\ny | x\n\ny + 15 | x + 10 x – 10\n\n<!-- page 188 -->\n\n13. Write 4 equations whose solution is u = 6.\n\n14. The Bakhśhāli Manuscript (300 CE) mentions the following problem. The amount given to the first person is not known. The second person is given twice as much as the first. The third person is given thrice as much as the second; and the fourth person four times as much as the third. The total amount distributed is 132. What is the amount given to the first person?\n\n15. The height of a giraffe is two and a half metres more than half its height. How tall is the giraffe?\n\n16. Two separate figures are given below. Each figure shows the first few positions in a sequence of arrangements made with sticks. Identify the pattern and answer the following questions for each figure:\n\n(a) How many squares are in position number 11 of the sequence?\n\n(b) How many sticks are needed to make the arrangement in\n\nposition number 11 of the sequence?\n\n(c) Can an arrangement in this sequence be made using exactly\n\n85 sticks? If yes, which position number will it correspond to?\n\n(d) Can an arrangement in this sequence be made using exactly\n\n150 sticks? If yes, which position number will it correspond to?\n\n17. A number increased by 36 is equal to ten times itself. What is the number?\n\n18. Solve these equations:\n\n(a) 5(r + 2) = 10\n(b) – 3(u + 2) = 2(u – 1)\n\n(c) 2(7 – 2n) = – 6\n(d) 2(x – 4) = – 16\n\n(e) 6(x – 1) = 2(x – 1) – 4\n(f) 3 – 7s = 7 – 3s\n\n(g) 2x + 1 = 6 – (2x – 3)\n(h) 10 – 5x = 3(x – 4) – 2(x – 7)\n\n19. Solve the equations to find a path from Start to the End. Show your work in the given boxes provided and colour your path as you proceed.\n\n<!-- page 189 -->\n\nFinding the Unknown\n\n8x = 20 + 3x 8x – 3x = 20 5x = 20 | – 7 = 11 – 3x | 15 = 19 – 4x\n\n– 4\n– 1\n\nx = 20\n\n5\n\nx = 4\n\n5 4 | 21 1 – 44\n\n2x – 9 = – 3 | – 2x = – 42 | 2x + 3 = x + 5\n\n3 | –2\n\n6 8 5\n– 8 2\n\n8m + 8 = – 72 | 2 (x + 1) – 10 = 18 2x + 5 = 3 (x – 1)\n\n13 8\n\n–10 –10 | – 5 – 4\n\n– 4 = 16 – 5k 2x – 9 = 3 – x 30 = 4 – 50n\n\n+ 4 4\n\n> Try This\n\n20. There are some children and donkeys on a beach. Together they have 28 heads and 80 feet. How many donkeys are there? How many children are there?\n\n<!-- page 190 -->",
+   "text": "## 7.4 A Pinch of History\n\nForming expressions using symbols and solving equations with such expressions was an important component of mathematical explorations in ancient India. This area of mathematics was termed *bījagaṇita*, also now known as algebra. The word *bīja* means seed. Just as a tree is hidden inside a seed, the answer to a problem is hidden inside an unknown number. Solving the problem is like helping the tree grow— step by step, we discover what is hidden.\n\nWe have seen **Brahmagupta's** contributions to different areas of mathematics like integers and fractions. In Chapter 18 of his book *Brāhmasphuṭasiddhānta* (628 CE), he also explained how to add, subtract, and multiply unknown numbers using letters — similar to how we use $x$ or $y$ today. This chapter was one of the earliest known works in algebra in history. As renowned mathematician and Fields Medalist David Mumford remarked, 'Brahmagupta is the key person in the creation of algebra as we know it'.\n\nIn the 8th century, Indian mathematical ideas were translated into Arabic. They influenced a well-known mathematician named **Al-Khwarizmi**, who lived in present-day Iraq. Around 825 CE, he wrote a book called *Hisab al-jabr wal-muqabala*, which means 'calculation by restoring and balancing'.\n\nThese ideas spread even further. By the 12th century, Al-Khwarizmi's book was translated into Latin and brought to **Europe**, where it became very popular. The word *al-jabr* from his book gave us the word **algebra**, which we also still use today.\n\nSimilar to how we use letters from the alphabet today to represent unknowns, ancient Indian mathematicians from the time of Brahmagupta used distinct symbols like **yā, kā, nī, pī, lo**, etc., for different unknowns. The symbol *yā* was short for *yāvat-tāvat* (meaning 'as much as needed'). Others like *kā* and *nī* referred to as the first letters\n\n<!-- page 183 -->\n\nof the names of colours— *kālaka* (black), *nīlaka* (blue), and so on. In contrast to these unknowns, the known quantities in an expression had a specific form (*rūpa*) and were denoted by *rū*.\n\nHere are some examples of how algebraic expressions in modern notation were written in ancient Indian notation:\n\n| Modern Notation | Ancient Indian Notation |\n|---|---|\n| $2x + 1$ | *yā 2 rū 1* (in each term the indication of unknown/known came first) |\n| $2x - 8$ | *yā 2 rū* $\\dot{8}$ (a dot over the number indicated that it was negative) |\n| $3x + 4 = 2x + 8$ | *yā 3 rū 4* <br> *yā 2 rū 8* (the two sides of an equation were presented one below the other) |\n\n### Example 16\n\n**Example 16:** *Bījagaṇita* by Bhāskarāchārya (1150 CE) mentions this problem.\n\nOne man has ₹300 rupees and 6 horses. Another man has 10 horses and a debt of ₹100. If they are equally rich and the price of each horse is the same, tell me the price of one horse.\n\n**Solution:**\n\nLet price of one horse = ₹ $x$\n\nAccording to the problem\n\n$$300 + 6x = 10x - 100$$\n\n$$300 + 6x + (100) = 10x$$\n\n$$400 + 6x = 10x$$\n\n$$400 = 10x - 6x$$\n\n$$400 = 4x$$\n\n$$400 \\div 4 = x$$\n\n$$100 = x$$\n\nTherefore, the price of one horse = ₹ 100.\n\n<!-- page 184 -->\n\nSuch problems and solutions were well understood in ancient India. In fact, a very systematic way to solve problems with single unknowns was first proposed by Aryabhata (499 CE) and Brahmagupta has outlined it in his *Brāhmasphuṭasiddhānta* (628 CE). Let us understand his method. Let us look at a few equations of the following form:\n\n$$5x + 4 = 3x + 8, \\text{ or } 3x - 6 = 2x + 4.$$\n\n> [Figure: circular orange icon with a question mark \"?\"]\n\nCan we come up with a formula to solve these equations? That is, for the first equation, can we perform some operations using 5, 4, 3, and 8 that will directly give us the solution? Using a similar method, can you solve the second equation using the numbers 3, – 6, 2 and 4?\n\nTo get a formula, we can generalise equations of this form by taking the four numbers as A, B, C, and D. That is,\n\n$$Ax + B = Cx + D.$$\n\nBrahmagupta gives the solution to equations of this form with this formula:\n\n$$x = \\frac{D - B}{A - C}.$$\n\nUsing this approach, we can find the solution to the equation:\n\n$$650m + 4000 = 500m + 5050$$\n\nsimply by calculating,\n\n$$m = \\frac{5050 - 4000}{650 - 500}.$$\n\n> [Figure: circular orange icon with a question mark \"?\"]\n\nUsing this formula can you solve this equation $2x + 3 = 4x + 5$?\n\nAncient Indian mathematicians were excellent at converting complex mathematical ideas into simple procedures so that everyone could use these procedures to solve problems!\n\n*Bījagaṇita* or algebra is the branch of mathematics that uses letter symbols to solve mathematical problems. We have seen some examples in previous pages. By studying algebra, we learn to **generalise patterns**—in numbers, shapes, and situations. We express these generalisations using the language of algebra, which is both precise and powerful.\n\n*Bījagaṇita* also gives us a way to justify mathematical claims (like why the sum of two odd numbers is always even) and to solve problems of many kinds.\n\n<!-- page 185 -->\n\nThe power of algebra was well recognised by ancient Indian mathematicians. We hope you recognise it too — and enjoy using it!",
    "page_start": 182,
+   "page_end": 185
+  },
+  {
+   "section_id": "7-math-15-s07",
+   "heading": "Figure it Out (end exercises)",
+   "text": "### Figure it Out\n\n1. Fill in the blanks with integers.\n\n   (a) $5 \\times \\_\\_\\_ - 8 = 37$\n\n   (b) $37 - (33 - \\_\\_\\_\\_) = 35$\n\n   (c) $-3 \\times (-11 + \\_\\_\\_\\_) = 45$\n\n2. Ranju is a daily wage labourer. She earns ₹750 a day. Her employer pays her in 50 and 100 rupee notes. If Ranju gets an equal number of 50 and 100 rupee notes, how many notes of each does she have?\n\n3. In the given picture, each black blob hides an equal number of blue dots. If there are 25 dots in total, how many dots are covered by one blob? Write an equation to describe this problem.\n\n   [Figure: Three black blobs hiding blue dots, with four visible blue dots scattered among them; label \"25 dots\" above the picture.]\n\n4. Here are machines that take an input, perform an operation on it and send out the result as an output.\n\n   (a) [Figure: Machine diagram: input 12 → \"+3\" → 15 → \"×4\" → 60 → \"−5\" = 55]\n\n   Find the inputs in the following cases:\n\n   [Figure: Machine diagram: input \"?\" → \"+3\" → \"×4\" → \"−5\" = 43]\n\n   [Figure: Machine diagram: input \"?\" → \"+3\" → \"×4\" → \"−5\" = 75]\n\n<!-- page 186 -->\n\n(b)\n\n[Figure: A machine diagram. Input 12 enters; one branch goes through \"×3\" giving 36, the other through \"+3\" giving 15; both arrive at a \"−\" box (36 minus 15), with \"= 21\" as output.]\n\nFind the inputs in the following cases:\n\n[Figure: Machine diagram with input \"?\", one branch \"×3\", the other branch \"+3\", combined at a \"−\" box, \"= 63\".]\n\n[Figure: Machine diagram with input \"?\", one branch \"×3\", the other branch \"+3\", combined at a \"−\" box, \"= 227\".]\n\n5. What are the inputs to these machines?\n\n[Figure: Machine with input \"?\" going through \"÷3\", then an arrow to another \"÷3\", giving \"= +5\".]\n\n[Figure: Machine with input \"?\" going through \"−4\", then an arrow to another \"−4\", giving \"= −11\".]\n\n6. A taxi driver charges a fixed fee of ₹800 per day plus ₹20 for each kilometer traveled. If the total cost for a taxi ride is ₹2200, determine the number of kilometres traveled.\n\n<!-- page 187 -->\n\n7. The sum of two numbers is 76. One number is three times the other number. What are the numbers?\n\n8. The figure shows the diagram for a window with a grill. What is the gap between two rods in the grill?\n\n[Figure: A window with open shutters and a flower box on top. A vertical arrow on the left marks the total height of the grill as 34 cm. Red dashed lines on the right mark a rod thickness of 3 cm at the top, a gap of 2 cm below it, and further unlabelled rod and gap markings lower down.]\n\n9. In a restaurant, a fruit juice costs ₹15 less than a chocolate milkshake. If 4 fruit juices and 7 chocolate milkshakes cost ₹600, find the cost of the fruit juice and milkshake.\n\n10. Given $28p - 36 = 98$, find the value of $14p - 19$ and $28p - 38$.\n\n11. The steps to solve three equations are shown below. Identify and correct any mistakes.\n\n(a)\n$6x + 9 = 66$ [the 6 in \"6x\" and the second 6 in \"66\" are struck through in red, with 11 written above the 66]\n$x + 9 = 11$\n$x = 11 - 9$\n$x = 2$\n\n(b)\n$14y + 24 = 36$\n$7y + 12 = 18$\n$7y = 6$\n$y = \\frac{6}{7}$\n\n(c)\n$4x - 5 = 9x + 8$\n$4x = 9x + 8 - 5$\n$4x = 9x + 3$\n$4x - 9x = 3$\n$-5x = 3$\n$x = \\frac{-5}{3}$\n\n12. Find the measures of the angles of these triangles.\n\n[Figure: Left triangle, isosceles, with the two equal sides marked by tick marks; the apex angle is labelled $y$ and the base angle on the right is labelled $y + 15$.]\n\n[Figure: Right triangle with apex angle labelled $x$, left base angle labelled $x - 10$ and right base angle labelled $x + 10$.]\n\n<!-- page 188 -->\n\n13. Write 4 equations whose solution is $u = 6$.\n\n14. The Bakhshāli Manuscript (300 CE) mentions the following problem. The amount given to the first person is not known. The second person is given twice as much as the first. The third person is given thrice as much as the second; and the fourth person four times as much as the third. The total amount distributed is 132. What is the amount given to the first person?\n\n15. The height of a giraffe is two and a half metres more than half its height. How tall is the giraffe?\n\n16. Two separate figures are given below. Each figure shows the first few positions in a sequence of arrangements made with sticks. Identify the pattern and answer the following questions for each figure:\n\n    (a) How many squares are in position number 11 of the sequence?\n\n    (b) How many sticks are needed to make the arrangement in position number 11 of the sequence?\n\n    (c) Can an arrangement in this sequence be made using exactly 85 sticks? If yes, which position number will it correspond to?\n\n    (d) Can an arrangement in this sequence be made using exactly 150 sticks? If yes, which position number will it correspond to?\n\n[Figure: Two separate sequences of stick arrangements. Top: three arrangements of squares in a row, each ending with a triangle (arrow-head shape) at the right end, with 1, 2 and 4 squares respectively. Bottom: four staircase-like arrangements of squares going diagonally down to the right, growing in size from left to right.]\n\n17. A number increased by 36 is equal to ten times itself. What is the number?\n\n18. Solve these equations:\n\n    (a) $5(r + 2) = 10$\n\n    (b) $-3(u + 2) = 2(u - 1)$\n\n    (c) $2(7 - 2n) = -6$\n\n    (d) $2(x - 4) = -16$\n\n    (e) $6(x - 1) = 2(x - 1) - 4$\n\n    (f) $3 - 7s = 7 - 3s$\n\n    (g) $2x + 1 = 6 - (2x - 3)$\n\n    (h) $10 - 5x = 3(x - 4) - 2(x - 7)$\n\n19. Solve the equations to find a path from Start to the End. Show your work in the given boxes provided and colour your path as you proceed.\n\n<!-- page 189 -->\n\n[Figure: A maze-style puzzle board with a brown background, labelled \"START\" at the top left and \"END\" at the bottom right. It is a grid of 4 rows by 3 columns of equation cells, joined by white arrows carrying numbers. The first cell (top left) is shaded green and shows its worked solution.]\n\nRow 1 cells:\n- Top left (green, START): $8x = 20 + 3x$, $8x - 3x = 20$, $5x = 20$, $x = \\frac{20}{5}$, $x = 4$\n- Top middle: $-7 = 11 - 3x$\n- Top right: $15 = 19 - 4x$\n\nArrows between row 1 cells:\n- Right-pointing arrow from the top left cell to the top middle cell: $-4$\n- Right-pointing arrow from the top middle cell to the top right cell: $-1$\n\nArrows from row 1 to row 2:\n- Green double-headed down arrow below the top left cell: $4$\n- Diagonal arrow from the top left cell towards the middle cell of row 2: $5$\n- Arrow between the top middle and middle cells of row 2: $-44$\n- Diagonal arrow from the right of row 2 towards the top middle cell: $21$\n- Arrow below the top right cell: $1$\n\nRow 2 cells:\n- Left: $2x - 9 = -3$\n- Middle: $-2x = -42$\n- Right: $2x + 3 = x + 5$\n\nArrows between row 2 cells:\n- Between left and middle: $3$\n- Between middle and right: $-2$\n\nArrows from row 2 to row 3:\n- Below left cell: $6$\n- Diagonal from left cell towards the middle cell of row 3: $8$\n- Below middle cell: $5$\n- Diagonal from the right cell of row 3 towards the middle cell of row 2: $-8$\n- Below right cell: $2$\n\nRow 3 cells:\n- Left: $8m + 8 = -72$\n- Middle: $2(x + 1) - 10 = 18$\n- Right: $2x + 5 = 3(x - 1)$\n\nArrows between row 3 cells:\n- Between left and middle: $13$\n- Between middle and right: $8$\n\nArrows from row 3 to row 4:\n- Below left cell: $-10$\n- Diagonal arrow from the middle cell of row 4 towards the left: $-10$\n- Below middle cell: $-5$\n- Diagonal arrow from the middle cell towards the right of row 4: $-4$\n- Below right cell: (blank)\n\nRow 4 cells:\n- Left: $-4 = 16 - 5k$\n- Middle: $2x - 9 = 3 - x$\n- Right (END): $30 = 4 - 50n$\n\nArrows between row 4 cells:\n- Between left and middle: $+4$\n- Between middle and right: $4$\n\n### Try This\n\n20. There are some children and donkeys on a beach. Together they have 28 heads and 80 feet. How many donkeys are there? How many children are there?\n\n<!-- page 190 -->",
+   "page_start": 185,
    "page_end": 190
   },
   {
-   "section_id": "7-math-15-s05",
-   "heading": "SUMMARY",
-   "text": "#### SUMMARY\n\n- An algebraic equation is a mathematical statement that indicates the equality of two algebraic expressions.\n- When the same operation is performed on both sides of an equation, equality is maintained.\n- Finding a solution to an equation means finding the values of the unknowns in the expressions such that the LHS is equal to the RHS.\n- Equations can often be solved by performing the same operation on both sides so that the value of the unknown becomes evident.\n\n##### A Magic Trick\n\nThink of any number. Now multiply it by 2. Add 10. Divide by 2. Now subtract the original number you thought of. Finally, add 3.\n\nI predict that you now have 8. Am I correct?\n\nTry the trick on your friends and family!\n\nCan you explain why the trick works?\n\n[**Hint:** Denote the first number thought of by x.]\n\nCan you make your own such tricks?\n\n<!-- page 191 -->\n\n## tANGRAM\n\n#### Note: Cut each shape along the white border.\n\n### B\n\n### E\n\n### A\n\n### D\n\n### C\n\n### F G\n\n<!-- page 192 -->\n\n<!-- page 193 -->\n\n<!-- page 194 -->\n\n<!-- page 195 -->\n\n<!-- page 196 -->\n\n<!-- page 197 -->\n\n<!-- page 198 -->",
+   "section_id": "7-math-15-s08",
+   "heading": "Summary",
+   "text": "## SUMMARY\n\n- An algebraic equation is a mathematical statement that indicates the equality of two algebraic expressions.\n- When the same operation is performed on both sides of an equation, equality is maintained.\n- Finding a solution to an equation means finding the values of the unknowns in the expressions such that the LHS is equal to the RHS.\n- Equations can often be solved by performing the same operation on both sides so that the value of the unknown becomes evident.",
    "page_start": 190,
+   "page_end": 190
+  },
+  {
+   "section_id": "7-math-15-s09",
+   "heading": "It's Puzzle Time! — A Magic Trick",
+   "text": "## It's Puzzle Time! — A Magic Trick\n\n[Figure: An owl wearing a graduation cap beside the \"It's Puzzle Time!\" banner titled \"A Magic Trick\"]\n\n*Think of any number.*\n*Now multiply it by 2.*\n*Add 10.*\n*Divide by 2.*\n*Now subtract the original number you thought of.*\n*Finally, add 3.*\n\nI predict that you now have 8. Am I correct?\n\nTry the trick on your friends and family!\n\nCan you explain why the trick works?\n\n[**Hint:** Denote the first number thought of by $x$.]\n\nCan you make your own such tricks?\n\n[Figure: A group of children of various appearances, some holding notebooks and pencils, looking thoughtful and curious]\n\n<!-- page 191 -->",
+   "page_start": 190,
+   "page_end": 191
+  },
+  {
+   "section_id": "7-math-15-s10",
+   "heading": "Tangram",
+   "text": "## TANGRAM\n\n**Note:** Cut each shape along the white border.\n\n[Figure: A square tangram puzzle divided into seven coloured pieces labelled A to G. A is a large magenta triangle on the left; B is a large blue triangle at the top; E is a small orange-red triangle at the top right; D is a green square (tilted) in the middle right; C is a small light-blue triangle in the centre bottom; F is a purple triangle at the bottom right; G is an orange parallelogram at the bottom left. A dashed cutting line with scissors icons runs down the left side of the page.]\n\n<!-- page 192 -->\n\nThis page has no printed textbook content. It is a blank pink page with a dashed cut line and scissors icons along the right edge, plus a \"© NCERT not to be republished\" watermark. The running header and footer are skipped, so there is nothing to transcribe.\n\n<!-- page 193 -->\n\n[Figure: A full-page dot grid (dot paper) with evenly spaced grey dots, 17 dots per row and 23 rows, with a dashed cut line with scissors icons at the top and bottom of the left edge.]\n\n<!-- page 194 -->\n\nThis page has no textbook content. It is blank apart from a scissors icon and a dashed cut-line down the right edge, plus the \"© NCERT not to be republished\" watermark. There is no running header, footer, or text to transcribe.\n\n[Figure: Vertical dashed cut line along the right edge of the page with scissors icons at the top and bottom]\n\n<!-- page 195 -->\n\n[Figure: A full page of evenly spaced grey dots arranged in a grid (17 columns by 23 rows), with a dashed vertical cut line along the left edge marked with scissors at the top and bottom. A faint watermark reads \"© NCERT not to be republished\".]\n\n<!-- page 196 -->\n\nThis page has no printed textbook content. It is blank apart from a scissors-and-dashed cut line along the right edge and the diagonal \"© NCERT not to be republished\" watermark.\n\n[Figure: Vertical dashed cut line along the right edge with scissors icons at the top and bottom]\n\n<!-- page 197 -->\n\n[Figure: A full-page dot grid (dot paper) with evenly spaced grey dots, 17 dots per row and 23 rows, with a dashed cut line with scissors icons at the top and bottom of the left edge.]\n\n<!-- page 198 -->\n\nThis page has no textbook content. It is blank apart from a scissors icon and a dashed cut-line down the right edge, plus the \"© NCERT not to be republished\" watermark. There is no running header, footer, or text to transcribe.\n\n[Figure: Vertical dashed cut line along the right edge of the page with scissors icons at the top and bottom]",
+   "page_start": 191,
    "page_end": 198
   }
  ],
  "key_terms": [
   {
-   "term": "[Hint",
-   "meaning": "[Hint: If we remove equal weights from both the plates, will the weighing scale still be balanced?",
-   "page": 165
-  },
-  {
-   "term": "Hint",
-   "meaning": "[Hint: Can you remove objects so that the sacks are only on one plate?]",
-   "page": 166
-  },
-  {
-   "term": "Note to the Teacher",
-   "meaning": "Note to the Teacher: Encourage your students to find solutions to these problems using different strategies and methods, and ask them to compare and contrast their methods.",
-   "page": 166
-  },
-  {
    "term": "equation",
-   "meaning": "A statement of equality between two algebraic expressions is called an equation.",
+   "meaning": "A statement of equality between two algebraic expressions is called an **equation**.",
    "page": 167
   },
   {
    "term": "solving",
-   "meaning": "The process of finding the value(s) of the letter−numbers for which the equality holds, or for which the value of the Left Hand Side (LHS) of the equation becomes equal to the Right Hand Side (RHS) of the equation, is called solving the equation.",
+   "meaning": "The process of finding the value(s) of the letter-numbers for which the equality holds, or for which the value of the Left Hand Side (LHS) of the equation becomes equal to the Right Hand Side (RHS) of the equation, is called **solving** the equation.",
    "page": 167
   },
   {
    "term": "trial and error",
-   "meaning": "This method is called the trial and error method.",
+   "meaning": "This method is called the **trial and error** method.",
    "page": 168
-  },
-  {
-   "term": "Example 1",
-   "meaning": "Example 1: It is known that 14593 – 1459 + 145 – 14 + 88 = 13353.",
-   "page": 169
-  },
-  {
-   "term": "Example 2",
-   "meaning": "Example 2: It is known that 23 × 41 × 11 × 8 × 7 = 5,80,888.",
-   "page": 169
-  },
-  {
-   "term": "Example 3",
-   "meaning": "Example 3: It is known that 12345 – 5432 + 135 – 24 – (–67) = 7091.",
-   "page": 169
-  },
-  {
-   "term": "Example 4",
-   "meaning": "Example 4: It is known that ( | 35 113) × 24 × 14 × ( 8 9) = 94080 1017 .",
-   "page": 170
-  },
-  {
-   "term": "Solution",
-   "meaning": "Solution: To retain only the expression to be evaluated on the LHS we",
-   "page": 170
-  },
-  {
-   "term": "Example 5",
-   "meaning": "Example 5: Solve the equation 11y + (–5) = 61.",
-   "page": 171
-  },
-  {
-   "term": "Example 6",
-   "meaning": "Example 6: Solve 6y + 7 = 4y + 21.",
-   "page": 171
-  },
-  {
-   "term": "Example 7",
-   "meaning": "Example 7: Ranjana creates a sequence of arrangements with square tiles as shown below.",
-   "page": 174
-  },
-  {
-   "term": "Example 8",
-   "meaning": "Example 8: Madhubanti wants to organise a party.",
-   "page": 175
-  },
-  {
-   "term": "Example 9",
-   "meaning": "Example 9: Two friends want to save money.",
-   "page": 176
-  },
-  {
-   "term": "Example 10",
-   "meaning": "Example 10: Solve 28 (x + 4) + 300 = 1000.",
-   "page": 177
-  },
-  {
-   "term": "Example 11",
-   "meaning": "Example 11: Riyaz created a math trick, which he tries out on his friend Akash.",
-   "page": 178
-  },
-  {
-   "term": "Example 12",
-   "meaning": "Example 12: Ramesh and Suresh have 60 marbles between them.",
-   "page": 179
-  },
-  {
-   "term": "Example 13",
-   "meaning": "Example 13: Can you give a real-life situation that can be modelled as the equation, 100x + 75 = 250?",
-   "page": 180
-  },
-  {
-   "term": "Brahmagupta’s",
-   "meaning": "We have seen Brahmagupta’s contributions to different areas of mathematics like integers and fractions.",
-   "page": 182
-  },
-  {
-   "term": "Al-Khwarizmi",
-   "meaning": "They influenced a well-known mathematician named Al-Khwarizmi, who lived in present-day Iraq.",
-   "page": 182
-  },
-  {
-   "term": "Europe",
-   "meaning": "By the 12th century, Al-Khwarizmi’s book was translated into Latin and brought to Europe, where it became very popular.",
-   "page": 182
-  },
-  {
-   "term": "algebra",
-   "meaning": "The word al-jabr from his book gave us the word algebra, which we also still use today.",
-   "page": 182
-  },
-  {
-   "term": "Example 16",
-   "meaning": "Example 16:Bījgaṇita by Bhāskarāchārya (1150 CE) mentions this problem.",
-   "page": 183
-  },
-  {
-   "term": "generalise patterns",
-   "meaning": "By studying algebra, we learn to generalise patterns — in numbers, shapes, and situations.",
-   "page": 184
   }
  ],
  "activities": [],
  "figures": [
   {
    "label": "Fig. 7.1",
-   "caption": "Fig. 7.2 Fig. 7.3",
+   "caption": "Mobile with total 16; leaf = 3, turtle and flower unknown",
    "page": 164
   },
   {
+   "label": "Fig. 7.2",
+   "caption": "Mobile with total 24; starfish = 2",
+   "page": 164
+  },
+  {
+   "label": "Fig. 7.3",
+   "caption": "Mobile with total 8; book and pencil boxes",
+   "page": 164
+  },
+  {
+   "label": "Fig. 7.4",
+   "caption": "Mobile with total 18; suns, clouds, lightning bolts",
+   "page": 165
+  },
+  {
    "label": "Fig. 7.5",
-   "caption": "Fig. 7.4",
+   "caption": "Mobile with total 40; crowns and gems",
    "page": 165
   },
   {
    "label": "Fig. 7.6",
-   "caption": "Fig. 7.7 Fig. 7.8",
+   "caption": "Balanced mobile: three bread slices and two eggs",
+   "page": 165
+  },
+  {
+   "label": "Fig. 7.7",
+   "caption": "Balanced mobile: crosses and doughnuts",
+   "page": 165
+  },
+  {
+   "label": "Fig. 7.8",
+   "caption": "Balanced mobile: watermelon, bananas, orange",
    "page": 165
   },
   {
    "label": "Fig. 7.9",
-   "caption": "Fig. 7.10",
+   "caption": "Weighing scale with a sack and 2 Kg vs 10 Kg and 2 Kg",
+   "page": 165
+  },
+  {
+   "label": "Fig. 7.10",
+   "caption": "Weighing scale with two sacks vs 10 Kg, 4 Kg and a sack",
    "page": 165
   },
   {
    "label": "Fig. 7.11",
-   "caption": "",
+   "caption": "Balance with 5 sacks vs 2 sacks and 21 kg",
    "page": 166
   },
   {
    "label": "Fig. 7.12",
-   "caption": "",
+   "caption": "Balance with 90 sacks and 50 Kg vs 60 sacks and 500 Kg",
    "page": 166
   }
  ],
  "exercises": [
   {
-   "label": "Figure it Out (p. 172) Q1",
-   "text": "1. Solve these equations and check the solutions.\n\n(a) 3x – 10 = 35\n\n(b) 5s = 3s\n\n(c) 3u – 7 = 2u + 3\n\n(d) 4 (m + 6) – 8 = 2m – 4\n\n(e) u 15 = 6\n\nMath",
-   "type_hint": "mcq",
-   "page": 172,
+   "label": "Math Talk (7.1) Q1",
+   "text": "1. Discuss the answers with your classmates. Give reasons why you think your answer is right.",
+   "type_hint": "short",
+   "page": 165,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 172) Q2",
-   "text": "2. Frame an equation that has no solution. | Talk\n\n[**Hint:** 4 more than a number, and 5 more than a number can never be equal!]\n\nThe procedure to systematically solve an equation can be made efficient if we make an observation. Consider the equation 11y + (–5) = 61, which we solved. As the first step, we subtracted – 5 from both sides to remove the term –5.\n\n11y + (– 5) – (–5) = 61 – (– 5).\n\nSince this action removes the term – 5 from the LHS, we could have written this step as:\n\n11y = 61 – (–5).\n\nNote that we could also have arrived at this step by seeing addition and subtraction as inverse operations, as in the case of Example 1.\n\nSimilarly, when we had 11y = 66, we divided both sides by 11 to remove the factor 11 from the LHS.\n\n11y ÷ 11 = 66 ÷ 11.\n\n<!-- page 173 -->\n\nFinding the Unknown\n\nSince this action removes the factor 11 in the LHS, we can write this step as:\n\n| Let us write down both these ways of solving an equation. | y = 66 ÷ 11. |\n| --- | --- |\n| 11y + (– 5) = 61 | 11y + (– 5) = 61 |\n| 11y + (– 5) – (– 5) = 61 – (– 5). 11y = 66 11y ÷ 11 = 66 ÷ 11 y = 6 | 11y = 61 – (– 5) 11y = 66 y = 66 ÷ 11 y = 6 |\n\nAgain, we could have arrived at this by seeing multiplication and division as inverse operations, as in the case of Example 2.\n\nLet us consider another equation that we solved earlier.\n\n6y + 7 = 4y + 21 6y + 7 – 4y = 4y + 21 – 4y 2y + 7 = 21 2y + 7 – 7 = 21 – 7 2y = 14. 2y ÷ 2 = 14 ÷ 2 y = 7 | 6y + 7 = 4y + 21 6y + 7 – 4y = 21 2y + 7 = 21 2y = 21 – 7 2y = 14. y = 14 ÷ 2 y = 7\n\nWhat happens in cases like u\n\n15 = 6?\n\nMultiplying both sides by 15 leaves only u in the LHS —\n\nu = 6 × 15\n\nu = 90.\n\nThus, we can make the following observations —\n\n(a) When a term that is added or subtracted on one side of an equation\n\nis removed from that side, its additive inverse should appear as a term on the other side for the equality to hold. For example, 2y + 7 = 21 becomes 2y = 21 – 7.\n\n(b) If one side of an equation is the product of two or more numbers\n\nor expressions, and we remove one of the factors, then the other side should be divided by this factor for the equality to hold. For example, 2y = 14 becomes y = 14 ÷ 2.\n\n(c) If one side of an equation is the quotient of two numbers or\n\nexpressions, and we remove the divisor, then the other side should be multiplied by this divisor for the equality to hold. For example,\n\nu 15 = 6 becomes u = 6 × 15.\n\n<!-- page 174 -->",
+   "label": "Math Talk (7.1) Q2",
+   "text": "2. Find the unknown weight of the sack in the following cases. In Fig. 7.10, all the sacks have the same weight.\n\n[Figure: Fig. 7.9 – a weighing scale; left plate has one sack and a 2 Kg weight, right plate has a 10 Kg weight and a 2 Kg weight]\n\n[Figure: Fig. 7.10 – a weighing scale; left plate has two sacks, right plate has a 10 Kg weight, a 4 Kg weight and one sack]\n\nFig. 7.9\n\nFig. 7.10\n\n[**Hint:** If we remove equal weights from both the plates, will the weighing scale still be balanced? Remove one sack from each plate for Fig. 7.10.]",
+   "type_hint": "numerical",
+   "page": 165,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (matchstick) Q1",
+   "text": "? Can you find ways to get the value of $n$, such that $2n + 1 = 99$?",
+   "type_hint": "short",
+   "page": 167,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (matchstick) Q2",
+   "text": "? Is it possible to make a matchstick arrangement that appears in this sequence using exactly 200 sticks?",
+   "type_hint": "short",
+   "page": 167,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (frame equations) Q1",
+   "text": "Frame 5 equations. Find methods to solve them.",
+   "type_hint": "activity",
+   "page": 168,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (7.2) Q1",
+   "text": "Is this the same as dividing both sides by 7, which removes the factor 7 and leaves only the expression to be evaluated on the LHS?",
+   "type_hint": "short",
+   "page": 169,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (7.2) Q1",
+   "text": "1. Solve these equations and check the solutions.\n   - (a) $3x - 10 = 35$\n   - (b) $5s = 3s$\n   - (c) $3u - 7 = 2u + 3$\n   - (d) $4\\,(m + 6) - 8 = 2m - 4$\n   - (e) $\\frac{u}{15} = 6$",
    "type_hint": "numerical",
    "page": 172,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 181) Q1",
-   "text": "1. Write 5 equations whose solution is x = – 2.",
+   "label": "Figure it Out (7.2) Q2",
+   "text": "2. Frame an equation that has no solution.\n\n> [Figure: Icon labelled \"Math Talk\" with speech bubbles]\n\n[**Hint:** 4 more than a number, and 5 more than a number can never be equal!]",
+   "type_hint": "short",
+   "page": 172,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (Generating Equations) Q1",
+   "text": "Write equations whose solution is $y = 5$. Share the equations you made with each other and discuss the methods used.",
+   "type_hint": "short",
+   "page": 179,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (chains) Q1",
+   "text": "1. Can you form a chain going from the bottom equation to the top? Compare the operations used when going from the top to the bottom and from the bottom to the top.",
+   "type_hint": "short",
+   "page": 180,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (chains) Q2",
+   "text": "2. Without calculating, can you find the value of the unknown in each equation in the chains above?\n\n   [**Hint:** We have seen that the value that satisfies an equation also satisfies the new equation obtained by performing the same operation on both sides of the original equation.]",
+   "type_hint": "short",
+   "page": 180,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Math Talk (chains) Q3",
+   "text": "3. **Example 13:** Can you give a real-life situation that can be modelled as the equation, $100x + 75 = 250$?\n\n   **Solution:** If we think of these numbers as representing money, we can see that the total money is ₹250.\n\n   There are two terms that are adding to ₹250. The second term in the LHS, ₹75, is fixed and does not change. The value of the first term would change based on '$x$'. So we can think of 100 as the number of units and '$x$' as the cost per unit. For instance, $x$ could represent the cost of a plate of snacks and 75 could be the delivery charge.",
+   "type_hint": "short",
+   "page": 180,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out (7.2b) Q1",
+   "text": "1. Write 5 equations whose solution is $x = -2$.",
    "type_hint": "short",
    "page": 181,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 181) Q2",
-   "text": "2. Find the value of each unknown:\n\n(a) 2y = 60\n(b) – 8 = 5x – 3\n\n(c) – 53w = –15\n(d) 13 – z = 8\n\n(e) k + 8 = 12 – k\n(f) 7m = m – 3\n\n(g) 3n = 10 + n",
-   "type_hint": "mcq",
+   "label": "Figure it Out (7.2b) Q2",
+   "text": "2. Find the value of each unknown:\n   - (a) $2y = 60$\n   - (b) $-8 = 5x - 3$\n   - (c) $-53w = -15$\n   - (d) $13 - z = 8$\n   - (e) $k + 8 = 12 - k$\n   - (f) $7m = m - 3$\n   - (g) $3n = 10 + n$",
+   "type_hint": "numerical",
    "page": 181,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 181) Q3",
-   "text": "3. I am a 3-digit number. My hundred’s digit is 3 less than my ten’s digit. My ten’s digit is 3 less than my unit’s digit. The sum of all the three digits is 15. Who am I?",
+   "label": "Figure it Out (7.2b) Q3",
+   "text": "3. I am a 3-digit number. My hundred's digit is 3 less than my ten's digit. My ten's digit is 3 less than my unit's digit. The sum of all the three digits is 15. Who am I?",
    "type_hint": "short",
    "page": 181,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 181) Q4",
+   "label": "Figure it Out (7.2b) Q4",
    "text": "4. The weight of a brick is 1 kg more than half its weight. What is the weight of the brick?",
    "type_hint": "short",
    "page": 181,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 181) Q5",
+   "label": "Figure it Out (7.2b) Q5",
    "text": "5. One quarter of a number increased by 9 gives the same number. What is the number?",
    "type_hint": "short",
    "page": 181,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 181) Q6",
-   "text": "6. Given 4k + 1 = 13, find the values of:\n\n(a) 8k + 2\n(b) 4k\n(c) k\n(d) 4k – 1\n(e) – k – 2",
-   "type_hint": "mcq",
+   "label": "Figure it Out (7.2b) Q6",
+   "text": "6. Given $4k + 1 = 13$, find the values of:\n   - (a) $8k + 2$\n   - (b) $4k$\n   - (c) $k$\n   - (d) $4k - 1$\n   - (e) $-k - 2$",
+   "type_hint": "numerical",
    "page": 181,
    "source": "in_chapter"
   },
   {
-   "label": "Figure it Out (p. 185) Q1",
-   "text": "1. Fill in the blanks with integers.\n\n(a) 5 × ___ – 8 = 37\n(b) 37 – (33 – ____ ) = 35\n\n(c) – 3 × (– 11 + ____ ) = 45",
+   "label": "Mind the Mistake Q1",
+   "text": "The following are some equations along with the steps used to solve them to find the value of the letter-number. Go through each solution and decide whether the steps are correct. If there is a mistake, describe the mistake, correct it and solve the equation.\n\n[Figure: Six boxes numbered 1 to 6, each showing the steps of a solution.]\n\n**Box 1:**\n$4x + 6 = 10$\n$4x = 10 + 6$\n$4x = 16$\n$x = 4$\n\n**Box 2:**\n$7 - 8z = 5$\n$8z = 7 - 5$\n$8z = 2$\n$z = 4$\n\n**Box 3:**\n$2v - 4 = 6$\n$v - 4 = 6 - 2$\n$v - 4 = 4$\n$v = 8$\n\n**Box 4:**\n$5z + 2 = 3z - 4$\n$5z + 3z = -4 + 2$\n$8z = -2$\n$z = -\\frac{2}{8}$\n\n**Box 5:**\n$15w - 4w = 26$\n$15w = 26 + 4w$\n$15w = 30$\n$w = 2$\n\n**Box 6:**\n$3x + 1 = -12$\n$x + 1 = -\\frac{12}{3}$\n$x + 1 = -4$\n$x = -5$\n\n<!-- page 182 -->\n\n[Figure: Three rounded boxes, numbered 7, 8 and 9, each showing the steps of a worked solution.]\n\n**Box 7**\n\n$4\\,(4q + 2) = 50$\n\n$4\\,(4q) = 50 - 2$\n\n$16q = 48$\n\n$q = 3$\n\n**Box 8**\n\n$-\\,2\\,(3 - 4x) = 14$\n\n$-6v - 8x = 14$\n\n$-\\,8x = 14 + 6$\n\n$-\\,8x = 20$\n\n$x = -\\frac{20}{8}$\n\n**Box 9**\n\n$3\\,(7y + 4) = 9 + 5y$\n\n$7y + 4 = \\frac{9}{3} + 5y$\n\n$7y + 4 = 3 + 5y$\n\n$7y - 5y + 4 = 3$\n\n$2y = 4 - 3$\n\n$y = \\frac{1}{2}$",
+   "type_hint": "long",
+   "page": 181,
+   "source": "in_chapter"
+  },
+  {
+   "label": "Figure it Out Q1",
+   "text": "1. Fill in the blanks with integers.\n\n   (a) $5 \\times \\_\\_\\_ - 8 = 37$\n\n   (b) $37 - (33 - \\_\\_\\_\\_) = 35$\n\n   (c) $-3 \\times (-11 + \\_\\_\\_\\_) = 45$",
    "type_hint": "fill_blank",
    "page": 185,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 185) Q2",
-   "text": "2. Ranju is a daily wage labourer. She earns ₹ 750 a day. Her employer pays her in 50 and 100 rupee notes. If Ranju gets an equal number of 50 and 100 rupee notes, how many notes of each does she have?\n\n25 dots",
+   "label": "Figure it Out Q2",
+   "text": "2. Ranju is a daily wage labourer. She earns ₹750 a day. Her employer pays her in 50 and 100 rupee notes. If Ranju gets an equal number of 50 and 100 rupee notes, how many notes of each does she have?",
+   "type_hint": "short",
+   "page": 185,
+   "source": "end"
+  },
+  {
+   "label": "Figure it Out Q3",
+   "text": "3. In the given picture, each black blob hides an equal number of blue dots. If there are 25 dots in total, how many dots are covered by one blob? Write an equation to describe this problem.\n\n   [Figure: Three black blobs hiding blue dots, with four visible blue dots scattered among them; label \"25 dots\" above the picture.]",
+   "type_hint": "short",
+   "page": 185,
+   "source": "end"
+  },
+  {
+   "label": "Figure it Out Q4",
+   "text": "4. Here are machines that take an input, perform an operation on it and send out the result as an output.\n\n   (a) [Figure: Machine diagram: input 12 → \"+3\" → 15 → \"×4\" → 60 → \"−5\" = 55]\n\n   Find the inputs in the following cases:\n\n   [Figure: Machine diagram: input \"?\" → \"+3\" → \"×4\" → \"−5\" = 43]\n\n   [Figure: Machine diagram: input \"?\" → \"+3\" → \"×4\" → \"−5\" = 75]\n\n<!-- page 186 -->\n\n(b)\n\n[Figure: A machine diagram. Input 12 enters; one branch goes through \"×3\" giving 36, the other through \"+3\" giving 15; both arrive at a \"−\" box (36 minus 15), with \"= 21\" as output.]\n\nFind the inputs in the following cases:\n\n[Figure: Machine diagram with input \"?\", one branch \"×3\", the other branch \"+3\", combined at a \"−\" box, \"= 63\".]\n\n[Figure: Machine diagram with input \"?\", one branch \"×3\", the other branch \"+3\", combined at a \"−\" box, \"= 227\".]",
+   "type_hint": "diagram",
+   "page": 185,
+   "source": "end"
+  },
+  {
+   "label": "Figure it Out Q5",
+   "text": "5. What are the inputs to these machines?\n\n[Figure: Machine with input \"?\" going through \"÷3\", then an arrow to another \"÷3\", giving \"= +5\".]\n\n[Figure: Machine with input \"?\" going through \"−4\", then an arrow to another \"−4\", giving \"= −11\".]",
+   "type_hint": "diagram",
+   "page": 186,
+   "source": "end"
+  },
+  {
+   "label": "Figure it Out Q6",
+   "text": "6. A taxi driver charges a fixed fee of ₹800 per day plus ₹20 for each kilometer traveled. If the total cost for a taxi ride is ₹2200, determine the number of kilometres traveled.",
    "type_hint": "numerical",
-   "page": 185,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 185) Q3",
-   "text": "3. In the given picture, each black blob hides an equal number of blue dots. If there are 25 dots in total, how many dots are covered by one blob? Write an equation to describe this problem.",
-   "type_hint": "long",
-   "page": 185,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 185) Q4",
-   "text": "4. Here are machines that take an input, perform an operation on it and send out the result as an output.\n\n(a)\n\nFind the inputs in the following cases:\n\n<!-- page 186 -->\n\n(b)\n\nFind the inputs in the following cases:",
-   "type_hint": "short",
-   "page": 185,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 185) Q5",
-   "text": "5. What are the inputs to these machines?",
-   "type_hint": "short",
    "page": 186,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 185) Q6",
-   "text": "6. A taxi driver charges a fixed fee of ₹800 per day plus ₹20 for each kilometer traveled. If the total cost for a taxi ride is ₹2200, determine the number of kilometres traveled.\n\n<!-- page 187 -->\n\nFinding the Unknown",
-   "type_hint": "short",
-   "page": 186,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 185) Q7",
+   "label": "Figure it Out Q7",
    "text": "7. The sum of two numbers is 76. One number is three times the other number. What are the numbers?",
    "type_hint": "short",
    "page": 187,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 185) Q8",
-   "text": "8. The figure shows the diagram for a window with a grill. What is the gap between two rods in the grill?\n\n3 cm\n\n2 cm 34 cm",
+   "label": "Figure it Out Q8",
+   "text": "8. The figure shows the diagram for a window with a grill. What is the gap between two rods in the grill?\n\n[Figure: A window with open shutters and a flower box on top. A vertical arrow on the left marks the total height of the grill as 34 cm. Red dashed lines on the right mark a rod thickness of 3 cm at the top, a gap of 2 cm below it, and further unlabelled rod and gap markings lower down.]",
    "type_hint": "diagram",
    "page": 187,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 185) Q9",
+   "label": "Figure it Out Q9",
    "text": "9. In a restaurant, a fruit juice costs ₹15 less than a chocolate milkshake. If 4 fruit juices and 7 chocolate milkshakes cost ₹600, find the cost of the fruit juice and milkshake.",
+   "type_hint": "short",
+   "page": 187,
+   "source": "end"
+  },
+  {
+   "label": "Figure it Out Q10",
+   "text": "10. Given $28p - 36 = 98$, find the value of $14p - 19$ and $28p - 38$.",
    "type_hint": "numerical",
    "page": 187,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 185) Q10",
-   "text": "10. Given 28p – 36 = 98, find the value of 14p – 19 and 28p – 38.",
-   "type_hint": "numerical",
+   "label": "Figure it Out Q11",
+   "text": "11. The steps to solve three equations are shown below. Identify and correct any mistakes.\n\n(a)\n$6x + 9 = 66$ [the 6 in \"6x\" and the second 6 in \"66\" are struck through in red, with 11 written above the 66]\n$x + 9 = 11$\n$x = 11 - 9$\n$x = 2$\n\n(b)\n$14y + 24 = 36$\n$7y + 12 = 18$\n$7y = 6$\n$y = \\frac{6}{7}$\n\n(c)\n$4x - 5 = 9x + 8$\n$4x = 9x + 8 - 5$\n$4x = 9x + 3$\n$4x - 9x = 3$\n$-5x = 3$\n$x = \\frac{-5}{3}$",
+   "type_hint": "long",
    "page": 187,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 185) Q11",
-   "text": "11. The steps to solve three equations are shown below. Identify and correct any mistakes.\n\n11\n\n(a) 6x + 9 = 66 x + 9 = 11 x = 11 – 9 x = 2 | (b)14y + 24 = 36 | (c) 4x – 5 = 9x + 8 4x = 9x + 8 – 5 4x = 9x + 3 4x – 9x = 3 –5x = 3\n\n7y + 12 = 18 7y = 6\n\ny = 6\n\n7\n\nx = – 5\n\n3",
-   "type_hint": "mcq",
+   "label": "Figure it Out Q12",
+   "text": "12. Find the measures of the angles of these triangles.\n\n[Figure: Left triangle, isosceles, with the two equal sides marked by tick marks; the apex angle is labelled $y$ and the base angle on the right is labelled $y + 15$.]\n\n[Figure: Right triangle with apex angle labelled $x$, left base angle labelled $x - 10$ and right base angle labelled $x + 10$.]",
+   "type_hint": "diagram",
    "page": 187,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 185) Q12",
-   "text": "12. Find the measures of the angles of these triangles.\n\ny | x\n\ny + 15 | x + 10 x – 10\n\n<!-- page 188 -->",
-   "type_hint": "short",
-   "page": 187,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 185) Q13",
-   "text": "13. Write 4 equations whose solution is u = 6.",
+   "label": "Figure it Out Q13",
+   "text": "13. Write 4 equations whose solution is $u = 6$.",
    "type_hint": "short",
    "page": 188,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 185) Q14",
-   "text": "14. The Bakhśhāli Manuscript (300 CE) mentions the following problem. The amount given to the first person is not known. The second person is given twice as much as the first. The third person is given thrice as much as the second; and the fourth person four times as much as the third. The total amount distributed is 132. What is the amount given to the first person?",
+   "label": "Figure it Out Q14",
+   "text": "14. The Bakhshāli Manuscript (300 CE) mentions the following problem. The amount given to the first person is not known. The second person is given twice as much as the first. The third person is given thrice as much as the second; and the fourth person four times as much as the third. The total amount distributed is 132. What is the amount given to the first person?",
    "type_hint": "short",
    "page": 188,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 185) Q15",
+   "label": "Figure it Out Q15",
    "text": "15. The height of a giraffe is two and a half metres more than half its height. How tall is the giraffe?",
    "type_hint": "short",
    "page": 188,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 185) Q16",
-   "text": "16. Two separate figures are given below. Each figure shows the first few positions in a sequence of arrangements made with sticks. Identify the pattern and answer the following questions for each figure:\n\n(a) How many squares are in position number 11 of the sequence?\n\n(b) How many sticks are needed to make the arrangement in\n\nposition number 11 of the sequence?\n\n(c) Can an arrangement in this sequence be made using exactly\n\n85 sticks? If yes, which position number will it correspond to?\n\n(d) Can an arrangement in this sequence be made using exactly\n\n150 sticks? If yes, which position number will it correspond to?",
-   "type_hint": "mcq",
+   "label": "Figure it Out Q16",
+   "text": "16. Two separate figures are given below. Each figure shows the first few positions in a sequence of arrangements made with sticks. Identify the pattern and answer the following questions for each figure:\n\n    (a) How many squares are in position number 11 of the sequence?\n\n    (b) How many sticks are needed to make the arrangement in position number 11 of the sequence?\n\n    (c) Can an arrangement in this sequence be made using exactly 85 sticks? If yes, which position number will it correspond to?\n\n    (d) Can an arrangement in this sequence be made using exactly 150 sticks? If yes, which position number will it correspond to?\n\n[Figure: Two separate sequences of stick arrangements. Top: three arrangements of squares in a row, each ending with a triangle (arrow-head shape) at the right end, with 1, 2 and 4 squares respectively. Bottom: four staircase-like arrangements of squares going diagonally down to the right, growing in size from left to right.]",
+   "type_hint": "long",
    "page": 188,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 185) Q17",
+   "label": "Figure it Out Q17",
    "text": "17. A number increased by 36 is equal to ten times itself. What is the number?",
    "type_hint": "short",
    "page": 188,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 185) Q18",
-   "text": "18. Solve these equations:\n\n(a) 5(r + 2) = 10\n(b) – 3(u + 2) = 2(u – 1)\n\n(c) 2(7 – 2n) = – 6\n(d) 2(x – 4) = – 16\n\n(e) 6(x – 1) = 2(x – 1) – 4\n(f) 3 – 7s = 7 – 3s\n\n(g) 2x + 1 = 6 – (2x – 3)\n(h) 10 – 5x = 3(x – 4) – 2(x – 7)",
-   "type_hint": "mcq",
-   "page": 188,
-   "source": "in_chapter"
-  },
-  {
-   "label": "Figure it Out (p. 185) Q19",
-   "text": "19. Solve the equations to find a path from Start to the End. Show your work in the given boxes provided and colour your path as you proceed.\n\n<!-- page 189 -->\n\nFinding the Unknown\n\n8x = 20 + 3x 8x – 3x = 20 5x = 20 | – 7 = 11 – 3x | 15 = 19 – 4x\n\n– 4\n– 1\n\nx = 20\n\n5\n\nx = 4\n\n5 4 | 21 1 – 44\n\n2x – 9 = – 3 | – 2x = – 42 | 2x + 3 = x + 5\n\n3 | –2\n\n6 8 5\n– 8 2\n\n8m + 8 = – 72 | 2 (x + 1) – 10 = 18 2x + 5 = 3 (x – 1)\n\n13 8\n\n–10 –10 | – 5 – 4\n\n– 4 = 16 – 5k 2x – 9 = 3 – x 30 = 4 – 50n\n\n+ 4 4\n\n> Try This",
+   "label": "Figure it Out Q18",
+   "text": "18. Solve these equations:\n\n    (a) $5(r + 2) = 10$\n\n    (b) $-3(u + 2) = 2(u - 1)$\n\n    (c) $2(7 - 2n) = -6$\n\n    (d) $2(x - 4) = -16$\n\n    (e) $6(x - 1) = 2(x - 1) - 4$\n\n    (f) $3 - 7s = 7 - 3s$\n\n    (g) $2x + 1 = 6 - (2x - 3)$\n\n    (h) $10 - 5x = 3(x - 4) - 2(x - 7)$",
    "type_hint": "numerical",
    "page": 188,
-   "source": "in_chapter"
+   "source": "end"
   },
   {
-   "label": "Figure it Out (p. 185) Q20",
-   "text": "20. There are some children and donkeys on a beach. Together they have 28 heads and 80 feet. How many donkeys are there? How many children are there?\n\n<!-- page 190 -->",
+   "label": "Figure it Out Q19",
+   "text": "19. Solve the equations to find a path from Start to the End. Show your work in the given boxes provided and colour your path as you proceed.\n\n<!-- page 189 -->\n\n[Figure: A maze-style puzzle board with a brown background, labelled \"START\" at the top left and \"END\" at the bottom right. It is a grid of 4 rows by 3 columns of equation cells, joined by white arrows carrying numbers. The first cell (top left) is shaded green and shows its worked solution.]\n\nRow 1 cells:\n- Top left (green, START): $8x = 20 + 3x$, $8x - 3x = 20$, $5x = 20$, $x = \\frac{20}{5}$, $x = 4$\n- Top middle: $-7 = 11 - 3x$\n- Top right: $15 = 19 - 4x$\n\nArrows between row 1 cells:\n- Right-pointing arrow from the top left cell to the top middle cell: $-4$\n- Right-pointing arrow from the top middle cell to the top right cell: $-1$\n\nArrows from row 1 to row 2:\n- Green double-headed down arrow below the top left cell: $4$\n- Diagonal arrow from the top left cell towards the middle cell of row 2: $5$\n- Arrow between the top middle and middle cells of row 2: $-44$\n- Diagonal arrow from the right of row 2 towards the top middle cell: $21$\n- Arrow below the top right cell: $1$\n\nRow 2 cells:\n- Left: $2x - 9 = -3$\n- Middle: $-2x = -42$\n- Right: $2x + 3 = x + 5$\n\nArrows between row 2 cells:\n- Between left and middle: $3$\n- Between middle and right: $-2$\n\nArrows from row 2 to row 3:\n- Below left cell: $6$\n- Diagonal from left cell towards the middle cell of row 3: $8$\n- Below middle cell: $5$\n- Diagonal from the right cell of row 3 towards the middle cell of row 2: $-8$\n- Below right cell: $2$\n\nRow 3 cells:\n- Left: $8m + 8 = -72$\n- Middle: $2(x + 1) - 10 = 18$\n- Right: $2x + 5 = 3(x - 1)$\n\nArrows between row 3 cells:\n- Between left and middle: $13$\n- Between middle and right: $8$\n\nArrows from row 3 to row 4:\n- Below left cell: $-10$\n- Diagonal arrow from the middle cell of row 4 towards the left: $-10$\n- Below middle cell: $-5$\n- Diagonal arrow from the middle cell towards the right of row 4: $-4$\n- Below right cell: (blank)\n\nRow 4 cells:\n- Left: $-4 = 16 - 5k$\n- Middle: $2x - 9 = 3 - x$\n- Right (END): $30 = 4 - 50n$\n\nArrows between row 4 cells:\n- Between left and middle: $+4$\n- Between middle and right: $4$",
+   "type_hint": "activity",
+   "page": 188,
+   "source": "end"
+  },
+  {
+   "label": "Try This Q20",
+   "text": "20. There are some children and donkeys on a beach. Together they have 28 heads and 80 feet. How many donkeys are there? How many children are there?",
    "type_hint": "short",
    "page": 189,
-   "source": "in_chapter"
+   "source": "end"
+  },
+  {
+   "label": "Magic Trick Q1",
+   "text": "Can you explain why the trick works?\n\n[**Hint:** Denote the first number thought of by $x$.]\n\nCan you make your own such tricks?",
+   "type_hint": "short",
+   "page": 190,
+   "source": "end"
   }
  ],
  "topics": [
-  "Find the Unknowns",
-  "Solving Equations Systematically",
-  "Mind the Mistake, Mend the Mistake",
-  "A Pinch of History",
-  "[Hint",
-  "Hint",
-  "Note to the Teacher",
-  "equation",
-  "solving",
+  "equations",
+  "unknown weights",
+  "weighing scale",
+  "matchstick pattern",
+  "letter-numbers",
+  "LHS and RHS",
   "trial and error",
-  "Example 1",
-  "Example 2",
-  "Example 3",
-  "Example 4",
-  "Solution",
-  "Example 5",
-  "Example 6",
-  "Example 7",
-  "Example 8",
-  "Example 9",
-  "Example 10",
-  "Example 11",
-  "Example 12",
-  "Example 13",
-  "Brahmagupta’s",
-  "Al-Khwarizmi",
-  "Europe",
-  "algebra",
-  "Example 16",
-  "generalise patterns"
+  "solving equations",
+  "inverse operations",
+  "same operation on both sides",
+  "unknowns on both sides",
+  "framing equations",
+  "word problems",
+  "generating equations",
+  "number tricks",
+  "finding mistakes in solutions",
+  "history of algebra",
+  "Brahmagupta formula",
+  "bījagaṇita",
+  "Al-Khwarizmi"
  ],
  "page_start": 164,
  "page_end": 198,
- "structured_by": "heuristic",
+ "structured_by": "llm:sonnet",
  "warnings": []
 }
