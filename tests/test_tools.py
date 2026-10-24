@@ -61,6 +61,7 @@ def test_search(books):
     assert res["results"] and res["results"][0]["chapter_id"] == "7-sci-10"
     assert res["results"][0]["page"]
     assert books.search("xylophonist quasar")["results"] == []
+    assert all("****" not in r["snippet"] for r in res["results"])  # book bold + highlight bold
 
 
 def test_unknown_chapter_is_helpful(books):
