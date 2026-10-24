@@ -37,12 +37,13 @@ def test_pack_has_exercises_for_most_chapters(books):
 
 
 def test_sections_reassemble_the_whole_chapter(books):
-    """No text is lost between extraction and the database."""
+    """No text is lost between extraction and the database (only the print artefacts cleanup removes)."""
     from pathlib import Path
+    from ingest.cleanup import clean_text
     from ingest.common import squash
     root = Path(__file__).resolve().parent.parent / "data" / "extracted"
     for cid in all_ids(books):
-        md = (root / f"{cid}.md").read_text(encoding="utf-8")
+        md = clean_text((root / f"{cid}.md").read_text(encoding="utf-8"))
         secs = books.db.execute("SELECT text FROM sections WHERE chapter_id=? ORDER BY ord", (cid,)).fetchall()
         assert squash("\n".join(s["text"] for s in secs)) == squash(md), cid
 

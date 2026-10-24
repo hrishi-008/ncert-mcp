@@ -1,5 +1,7 @@
 """Stage 4: data/structured/*.json + data/old_to_new_map.json -> data/books.db (with FTS5 search).
 
+Print artefacts (margin icons, heading debris) are removed on the way in: see ingest/cleanup.py.
+
 Usage:
     python -m ingest.build_db
 """
@@ -15,6 +17,7 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+from ingest.cleanup import clean_chapter
 from ingest.common import BOOKS_DB, OLD_MAP, STRUCTURED
 from ingest.schema import Chapter
 
@@ -51,7 +54,7 @@ CREATE VIRTUAL TABLE fts_extras USING fts5(
 def load_chapters(folder: Path) -> list[Chapter]:
     chapters = []
     for path in sorted(folder.glob("*.json")):
-        chapters.append(Chapter.model_validate_json(path.read_text(encoding="utf-8")))
+        chapters.append(clean_chapter(Chapter.model_validate_json(path.read_text(encoding="utf-8"))))
     return chapters
 
 

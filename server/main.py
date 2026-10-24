@@ -24,6 +24,7 @@ from starlette.responses import JSONResponse, PlainTextResponse
 from starlette.types import ASGIApp, Receive, Scope, Send
 
 from mcp.server.mcpserver import MCPServer
+from mcp.server.transport_security import TransportSecuritySettings
 from server import tools
 from server.books import Books
 from server.state import State
@@ -55,6 +56,7 @@ class Settings:
     rate_limit_per_min: int = 60
     host: str = "0.0.0.0"
     port: int = 8000
+    public_host: str = ""
 
     @classmethod
     def from_env(cls) -> "Settings":
@@ -71,6 +73,7 @@ class Settings:
             rate_limit_per_min=int(os.environ.get("RATE_LIMIT_PER_MIN", "60")),
             host=os.environ.get("HOST", "0.0.0.0"),
             port=int(os.environ.get("PORT", "8000")),
+            public_host=os.environ.get("PUBLIC_HOST", "").strip(),
         )
 
 
@@ -90,6 +93,13 @@ class Guard:
         path = scope.get("path", "")
         if not (path == self.prefix or path.startswith(self.prefix + "/")):
             await PlainTextResponse("Not Found", status_code=404)(scope, receive, send)
+            return
+        if scope.get("method") == "GET" and path == self.prefix + "/mcp":
+            # Stateless server: no server-initiated stream. Per the MCP spec, answer 405 instead of
+            # holding an empty SSE stream open until the client times out.
+            await PlainTextResponse("Method Not Allowed", status_code=405, headers={"Allow": "POST"})(
+                scope, receive, send
+            )
             return
         now = time.monotonic()
         while self.hits and now - self.hits[0] > 60:
@@ -133,10 +143,19 @@ def create_app(settings: Settings) -> ASGIApp:
             body["status"], body["books"] = "degraded", "books.db missing"
         return JSONResponse(body)
 
+    # Behind a reverse proxy on 127.0.0.1, the SDK's localhost-only Host check would reject the
+    # public domain, so allow it explicitly (DNS rebinding protection stays on).
+    security = None
+    if settings.public_host:
+        security = TransportSecuritySettings(
+            allowed_hosts=[settings.public_host, "127.0.0.1:*", "localhost:*"],
+            allowed_origins=[f"https://{settings.public_host}", "https://claude.ai"],
+        )
     app = mcp.streamable_http_app(
         streamable_http_path=f"{prefix}/mcp",
         stateless_http=True,  # no session state: restarts and redeploys never break her chat
         json_response=True,
+        transport_security=security,
         host=settings.host,  # not localhost, so the SDK's localhost-only Host check stays off
     )
     return Guard(app, prefix, settings.rate_limit_per_min)

@@ -74,12 +74,15 @@ the text, then checks it.
    Caddy gets the HTTPS certificate by itself on first start.
 3. **Check:** `curl https://ncert.hrishk.com/<SECRET_TOKEN>/health` shows `"status": "ok"` and the
    chapter counts. `curl https://ncert.hrishk.com/` returns 404, as it should.
-4. **Backups:** `crontab -e` and add
+4. **Firewall:** `sudo BLOCK_NET= deploy/harden_network.sh` opens 443 only to Anthropic's outbound
+   range (the only client), keeps 80 open for certificate renewal, and hardens against SYN floods.
+   After this, check health from the VPS itself: `curl http://127.0.0.1:8000/<SECRET_TOKEN>/health`.
+5. **Backups:** `crontab -e` and add
    `15 2 * * * /opt/ncert-mcp/deploy/backup_state.sh >> /var/log/ncert-backup.log 2>&1`.
    For an off-box copy, put `BACKUP_REMOTE=user@host:path/` in `deploy/backup.env`.
-5. **Connect claude.ai:** Settings → Connectors → Add custom connector →
+6. **Connect claude.ai:** Settings → Connectors → Add custom connector →
    URL `https://ncert.hrishk.com/<SECRET_TOKEN>/mcp`. Then enable it in the Project.
-6. **Update later:** `cd /opt/ncert-mcp && git pull && docker compose up -d --build`.
+7. **Update later:** `cd /opt/ncert-mcp && git pull && docker compose up -d --build`.
    Notes are in `./state/` on the VPS disk, so redeploys never touch them.
 
 Admin (on the VPS): `docker compose exec app python -m admin.notes_cli history`.
